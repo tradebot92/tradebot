@@ -122,24 +122,75 @@ def fourchette(m):
 
 # ---------- 1b. Découverte de petites entreprises ----------
 def decouvrir(config, deja):
-    """Cherche des petites entreprises qui remplissent des critères chiffrés (config.json)."""
+    """Cherche des petites entreprises avec 3 filtres différents (croissance, volume, hausse).
+    Renvoie une liste de {"symbole", "raisons"}, avec les raisons qui l'ont fait remonter."""
     d = config.get("decouverte", {})
     if not d.get("actif"):
         return []
     from yfinance import EquityQuery as EQ
-    try:
-        q = EQ("and", [
-            EQ("is-in", ["exchange"] + d.get("places", ["NMS", "NYQ", "PAR"])),
-            EQ("btwn", ["intradaymarketcap", d.get("cap_min", 3e8), d.get("cap_max", 3e9)]),
-            EQ("btwn", ["quarterlyrevenuegrowth.quarterly", d.get("croissance_min", 20), d.get("croissance_max", 200)]),
-        ])
-        res = yf.screen(q, size=d.get("nombre", 10) + len(deja),
-                        sortField="quarterlyrevenuegrowth.quarterly", sortAsc=False)
-        symboles = [x["symbol"] for x in res["quotes"] if x["symbol"] not in deja]
-        return symboles[: d.get("nombre", 10)]
-    except Exception as e:
-        print(f"  ! découverte impossible ({e})")
-        return []
+    base = [EQ("is-in", ["exchange"] + d.get("places", ["NMS", "NYQ", "PAR"])),
+            EQ("btwn", ["intradaymarketcap", d.get("cap_min", 3e8), d.get("cap_max", 3e9)])]
+    filtres = {
+        "croissance": (base + [EQ("btwn", ["quarterlyrevenuegrowth.quarterly", d.get("croissance_min", 20), d.get("croissance_max", 200)])],
+                       "quarterlyrevenuegrowth.quarterly"),
+        "volume": (base, "dayvolume"),
+        "hausse": (base, "percentchange"),
+    }
+    taille = d.get("vivier_par_filtre", 15)
+    candidats = {}
+    for nom, (criteres, tri) in filtres.items():
+        try:
+            res = yf.screen(EQ("and", criteres), size=taille, sortField=tri, sortAsc=False)
+        except Exception as e:
+            print(f"  ! filtre {nom} impossible ({e})")
+            continue
+        for x in res.get("quotes", []):
+            sym = x["symbol"]
+            if sym in deja:
+                continue
+            c = candidats.setdefault(sym, {"symbole": sym, "raisons": [], "points": 0.0})
+            vol, moy = x.get("regularMarketVolume"), x.get("averageDailyVolume3Month")
+            ratio = vol / moy if vol and moy else 0
+            var = x.get("regularMarketChangePercent") or 0
+            c.setdefault("filtres", set()).add(nom)
+            if nom == "croissance":
+                c["raisons"].append("Forte croissance du chiffre d'affaires (+20 % ou plus sur le dernier trimestre)")
+                c["points"] += 1
+            elif nom == "volume" and ratio >= d.get("volume_ratio_min", 2):
+                c["raisons"].append(f"Volume d'échanges {ratio:.1f} fois supérieur à la normale")
+                c["points"] += 1 + min(ratio, 10) / 10
+            elif nom == "hausse" and var >= d.get("hausse_min", 8):
+                c["raisons"].append(f"En hausse de {var:.1f} % aujourd'hui")
+                c["points"] += 1 + min(var, 30) / 100
+    classes = sorted((c for c in candidats.values() if c["raisons"]), key=lambda c: c["points"], reverse=True)
+    # on réserve des places pour chaque filtre, sinon celui du jour écrase les autres
+    nombre = d.get("nombre", 10)
+    choisis = []
+    quota = {"croissance": max(1, nombre // 3), "volume": max(1, nombre // 3), "hausse": max(1, nombre // 3)}
+    for nom_filtre, n in quota.items():
+        for c in classes:
+            if n <= 0:
+                break
+            if nom_filtre in c["filtres"] and c["raisons"] and c not in choisis:
+                choisis.append(c)
+                n -= 1
+    for c in classes:
+        if len(choisis) >= nombre:
+            break
+        if c not in choisis:
+            choisis.append(c)
+    return sorted(choisis, key=lambda c: c["points"], reverse=True)[:nombre]
+
+
+def raisons_en_plus(m, f_ecart):
+    """Raisons ajoutées une fois les données de marché récupérées."""
+    r = []
+    s = m.get("serie") or []
+    if len(s) >= 11 and s[-11] > 0 and (s[-1] / s[-11] - 1) * 100 >= 15:
+        r.append(f"Forte progression sur ~1 mois ({(s[-1] / s[-11] - 1) * 100:+.0f} %)")
+    if f_ecart is not None and f_ecart >= 25 and (m.get("nb_analystes") or 0) >= 3:
+        r.append(f"Cours {f_ecart:.0f} % sous l'objectif moyen des analystes")
+    return r
 
 
 # ---------- 2. Actualités ----------
@@ -185,7 +236,10 @@ def analyser(symbole, m, arts, config, cache):
     vide = {"sentiment": "inconnu", "importance": 0, "confiance": "", "points_forts": [], "risques": [],
             "catalyseurs": [], "a_surveiller": "",
             "resume": "Analyse IA non activée (clé API manquante)."}
-    if not os.environ.get("ANTHROPIC_API_KEY") or not arts:
+    if not os.environ.get("ANTHROPIC_API_KEY"):
+        return vide
+    if not arts:
+        vide["resume"] = "Aucun article récent trouvé : rien à analyser pour l'instant."
         return vide
     sig = signature(*[a["lien"] for a in arts], m.get("objectif_moyen"), m.get("prochains_resultats"))
     if cache.get(symbole, {}).get("sig") == sig:
@@ -267,7 +321,8 @@ def dessiner_dashboard(fiches, journal, resume_jour, config):
     modele = (DOSSIER / "dashboard_modele.html").read_text(encoding="utf-8")
     donnees = {"maj": maintenant().strftime("%d/%m/%Y %H:%M"), "fiches": fiches,
                "journal": journal[-100:][::-1], "avertissement": AVERTISSEMENT,
-               "synthese": resume_jour, "depot": config.get("depot", "")}
+               "synthese": resume_jour, "depot": config.get("depot", ""),
+               "sorties": lire_json(DONNEES / "decouvertes.json", {}).get("sorties", [])[::-1]}
     html = modele.replace("/*DONNEES*/null", json.dumps(donnees, ensure_ascii=False).replace("</", "<\\/"))
     (DOSSIER / "dashboard.html").write_text(html, encoding="utf-8")
 
@@ -291,8 +346,19 @@ def main():
     fiches = []
 
     favoris = lire_favoris()
-    decouverts = decouvrir(config, favoris)
+    decouverts_info = {c["symbole"]: c for c in decouvrir(config, favoris)}
+    decouverts = list(decouverts_info)
     print(f"{len(favoris)} favoris, {len(decouverts)} entreprises découvertes")
+
+    # historique des découvertes : nouveautés et sorties
+    histo = lire_json(DONNEES / "decouvertes.json", {"actuel": {}, "sorties": []})
+    maintenant_iso = maintenant().isoformat(timespec="minutes")
+    for sym in list(histo["actuel"]):
+        if sym not in decouverts_info:
+            histo["sorties"].append({"symbole": sym, "date": maintenant().strftime("%d/%m/%Y"),
+                                     "nom": histo["actuel"][sym].get("nom", "")})
+            del histo["actuel"][sym]
+    histo["sorties"] = histo["sorties"][-30:]
 
     for symbole in favoris + decouverts:
         print(f"→ {symbole}")
@@ -305,6 +371,15 @@ def main():
         analyse = analyser(symbole, m, arts, config, cache)
         f = {"symbole": symbole, "decouverte": symbole in decouverts, **m, "fourchette": fourchette(m), "articles": arts, "analyse": analyse}
         f["score"] = score_potentiel(f)
+        if f["decouverte"]:
+            f["raisons"] = decouverts_info[symbole]["raisons"] + raisons_en_plus(m, f["fourchette"]["ecart_objectif"])
+            fiche_histo = histo["actuel"].setdefault(symbole, {"premiere": maintenant_iso})
+            fiche_histo["nom"] = m["nom"]
+            try:
+                age = maintenant() - datetime.fromisoformat(fiche_histo["premiere"])
+                f["nouveau"] = age.total_seconds() < 48 * 3600
+            except Exception:
+                f["nouveau"] = False
         fiches.append(f)
 
         # Alerte seulement pour une actu importante et nouvelle
@@ -323,6 +398,7 @@ def main():
     etat["init"] = True
     ecrire_json(DONNEES / "etat.json", etat)
     ecrire_json(DONNEES / "journal.json", journal)
+    ecrire_json(DONNEES / "decouvertes.json", histo)
     resume_jour = synthese(fiches, config, cache)
     ecrire_json(DONNEES / "analyses.json", cache)
     # le journal garde le cours du signal : le tableau compare avec le cours actuel

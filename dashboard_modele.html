@@ -52,6 +52,7 @@ ul{margin:4px 0;padding-left:20px}li{margin:2px 0}
 .rng b{position:absolute;top:-3px;width:14px;height:14px;margin-left:-7px;border-radius:50%;background:var(--acc);border:2px solid var(--card)}
 .rngl{display:flex;justify-content:space-between;font-size:12px;color:var(--sub)}
 a{color:var(--acc)}
+a.act{display:inline-block;text-decoration:none;border:1px solid var(--acc);border-radius:10px;padding:8px 12px;font-size:14px;margin-top:10px;color:var(--acc)}
 button.act{border:1px solid var(--acc);background:transparent;color:var(--acc);border-radius:10px;padding:8px 12px;font:inherit;font-size:14px;cursor:pointer;margin-top:10px}
 button.del{border:none;background:none;color:var(--sub);cursor:pointer;font-size:18px}
 .avert{font-size:12px;color:var(--sub);margin-top:18px}
@@ -108,11 +109,14 @@ function fourch(f){const o=f.fourchette;return `<div class="fourch">
 <div class="sm">Estimation sur ~1 mois d'après la volatilité${o.ecart_objectif!=null?` et l'objectif moyen des analystes (${pct(o.ecart_objectif)} vs cours)`:""}. Pas une garantie : le cours peut sortir de la fourchette.</div>`}
 function liste(t,a){a=arr(a);return a.length?`<h3>${t}</h3><ul>${a.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`:""}
 function profil(f){const r=[];if(f.vol_mois>20)r.push("très volatile");if(f.capitalisation&&f.capitalisation<1e9)r.push("petite capitalisation : peu d'échanges, écarts de prix possibles");if(f.decouverte)r.push("à vérifier : disponible sur Trade Republic ?");return r.length?`<p class="sm"><span class="tag warn">⚠ Profil</span> ${r.join(" · ")}</p>`:""}
+const issue=(act,sym)=>D.depot?`https://github.com/${D.depot}/issues/new?title=${encodeURIComponent(act+" "+sym)}&body=${encodeURIComponent("Clique simplement sur « Submit new issue ». Le bot "+(act==="FAV"?"ajoutera ":"retirera ")+sym+" de ta liste de favoris dans quelques minutes.")}`:"";
+function boutonFav(f){if(!D.depot)return"";return f.decouverte?`<a class="act" href="${issue("FAV",f.symbole)}" target="_blank" rel="noopener">★ Ajouter aux favoris</a>`:`<a class="act" href="${issue("DEL",f.symbole)}" target="_blank" rel="noopener">✕ Retirer des favoris</a>`}
 function carte(f){const a=f.analyse||{};
 return `<details class="card"><summary>
-<div><div class="l1">${esc(f.symbole)} <span class="tag ${esc(a.sentiment)}">${SENT[a.sentiment]||"n/a"}</span></div><div class="l2">${esc(f.nom)}</div></div>
+<div><div class="l1">${esc(f.symbole)} <span class="tag ${esc(a.sentiment)}">${SENT[a.sentiment]||"n/a"}</span>${f.nouveau?' <span class="tag warn">Nouveau</span>':''}</div><div class="l2">${esc(f.nom)}</div></div>
 <div class="r"><div class="l1">${f.cours} ${esc(f.devise)}</div><div class="l2 ${cls(f.variation_jour)}">${pct(f.variation_jour)} · score ${f.score}</div></div></summary>
 <div class="corps">
+${f.raisons&&f.raisons.length?`<h3>Pourquoi elle est là</h3><ul>${f.raisons.map(r=>`<li>${esc(r)}</li>`).join("")}</ul>`:""}
 ${spark(f)}
 <h3>Analyse</h3><p>${esc(a.resume||"")}</p>
 ${a.confiance?`<div class="sm">Confiance de l'analyse : ${esc(a.confiance)} · importance de l'actu : ${a.importance}/5</div>`:""}
@@ -125,7 +129,7 @@ ${profil(f)}
 <h3>À propos</h3><div class="sm">${esc([f.secteur,f.industrie,f.pays].filter(Boolean).join(" · "))} · capi ${mc(f.capitalisation)} · croissance du CA ${f.croissance_ca!=null?pct(f.croissance_ca*100):"n/a"}</div>
 <p class="sm">${esc(f.activite||"")}</p>
 <h3>Articles</h3>${f.articles.slice(0,5).map(x=>`<div class="sm">• <a href="${esc(x.lien)}" target="_blank" rel="noopener">${esc(x.titre)}</a></div>`).join("")||'<div class="sm">Aucun article.</div>'}
-<button class="act" data-papier="${esc(f.symbole)}">＋ Suivre en papier</button>
+<button class="act" data-papier="${esc(f.symbole)}">＋ Suivre en papier</button> ${boutonFav(f)}
 </div></details>`}
 
 /* ---- listes avec tri / filtre ---- */
@@ -175,6 +179,7 @@ aujourdhui();
 const lienFav=D.depot?`<a class="lien" href="https://github.com/${esc(D.depot)}/edit/main/watchlist.txt" target="_blank" rel="noopener">✎ Modifier mes favoris</a>`:"";
 liste_onglet("fav",D.fiches.filter(f=>!f.decouverte),lienFav);
 liste_onglet("pot",D.fiches);
+if((D.sorties||[]).length)$("#pot").insertAdjacentHTML("beforeend",`<h3>Sorties récentes de la liste</h3><div class="box">${D.sorties.slice(0,10).map(x=>`<div style="display:flex;justify-content:space-between"><span>${esc(x.symbole)} <span class="sm">${esc(x.nom||"")}</span></span><span class="sm">${esc(x.date)}</span></div>`).join("")}</div>`);
 papier();journal();
 document.querySelectorAll("nav button").forEach(b=>b.onclick=()=>{
 document.querySelectorAll("nav button,section").forEach(e=>e.classList.remove("on"));
