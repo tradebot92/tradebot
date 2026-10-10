@@ -3,3 +3,4 @@
 # Exemple de format : MC.PA (action française), AAPL (action américaine)
 IREN
 GOOG
+VUL.F
