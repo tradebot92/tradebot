@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: tradebot
+  cancel-in-progress: false
 jobs:
   run:
     runs-on: ubuntu-latest
