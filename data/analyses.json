@@ -362,27 +362,27 @@
     }
   },
   "KLRA": {
-    "sig": "a00daf3f5adc7830",
+    "sig": "413bbf8dfab2e576",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis sont des pages de cours génériques sur d'autres sociétés (NTLA, GENB, QURE, ABSI) et ne disent rien de concret sur Kailera. Le titre reste très volatil : il a perdu environ 55 % en 6 mois et se situe près de son plus bas sur 52 semaines (9,76 USD). Les analystes restent très favorables, mais la société n'a pas encore de chiffre d'affaires.",
+      "resume": "Les titres d'actualité fournis concernent d'autres sociétés (NTLA, Generate Biomedicines, ABSI) et ne disent rien de concret sur Kailera. Le cours a pourtant nettement reculé (-55 % en 6 mois), ce qui reflète une forte volatilité, mais les données ne permettent pas d'en expliquer la cause.",
       "points_forts": [
-        "Avis analystes strong_buy (5 analystes), objectif moyen 42,4 USD très supérieur au cours",
-        "Pipeline diversifié dans l'obésité (injectable, oral peptide, petite molécule orale)",
-        "Programmes ciblant des mécanismes GLP-1/GIP, un domaine très suivi"
+        "Pipeline ciblant l'obésité avec plusieurs molécules (injectables et orales)",
+        "Consensus des analystes très favorable (strong_buy, 5 avis)",
+        "Objectifs de cours (30 à 57 USD) très au-dessus du cours actuel de 11,61 USD"
       ],
       "risques": [
-        "Forte baisse du cours sur 6 mois (-55,3 %) et volatilité élevée",
-        "Société au stade clinique, sans chiffre d'affaires communiqué",
-        "Résultats d'essais cliniques décevants ou besoins de financement possibles"
+        "Société en phase clinique, sans chiffre d'affaires communiqué",
+        "Forte baisse du cours (-55,3 % sur 6 mois) et volatilité élevée",
+        "Résultats d'essais cliniques incertains, avec un écart important entre le cours et les objectifs des analystes"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 2026-11-04",
-        "Annonces de données cliniques sur KAI-9531 ou les autres programmes"
+        "Publication des prochains résultats le 04/11/2026",
+        "Annonces éventuelles sur l'avancement des programmes KAI-9531, KAI-7535 ou KAI-4729"
       ],
-      "a_surveiller": "Surveiller les annonces officielles de la société (données cliniques, financement) plutôt que les pages de cours génériques, ainsi que l'écart entre le cours et les objectifs des analystes."
+      "a_surveiller": "Surveillez les communications officielles de Kailera sur ses essais cliniques et sa trésorerie, car les titres actuels ne la concernent pas directement."
     }
   },
   "DNA": {
@@ -407,6 +407,30 @@
         "Nouveaux partenariats ou déploiements de la plateforme (type Nebula)"
       ],
       "a_surveiller": "Surveiller si les résultats du 5 novembre 2026 confirment ou non la baisse du chiffre d'affaires, et l'écart entre le cours et les objectifs des analystes."
+    }
+  },
+  "ABSI": {
+    "sig": "fa05d55e3e76d7a9",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Les titres récents sont surtout des pages de cours et des publications de résultats, sans information concrète sur un événement précis. Un titre évoque une chute de l'action « aujourd'hui », mais la raison n'est pas détaillée. Le cours a fortement progressé en 6 mois (+233 %), ce qui rend le titre très volatil.",
+      "points_forts": [
+        "Avis des analystes : strong_buy (10 analystes), objectif moyen 14,4 USD",
+        "Forte progression du cours sur 6 mois (+233 %)",
+        "Programmes cliniques en cours (ABS-101, ABS-201)"
+      ],
+      "risques": [
+        "Chiffre d'affaires en baisse (-46,4 %)",
+        "Forte volatilité : écart important entre plus bas (2,24) et plus haut (12,055) sur 52 semaines",
+        "Cours proche de l'objectif analyste bas (10,0 USD), potentiel de hausse incertain"
+      ],
+      "catalyseurs": [
+        "Prochains résultats prévus le 16 novembre 2026",
+        "Avancées ou données des essais cliniques de phase 1 et 1/2a (ABS-101, ABS-201)"
+      ],
+      "a_surveiller": "Identifier la raison de la baisse mentionnée dans l'article d'Investing.com et suivre les annonces liées aux essais cliniques, sachant que le titre reste très volatil."
     }
   }
 }
