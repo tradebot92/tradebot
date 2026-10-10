@@ -1,1 +1,244 @@
-{}
+{
+  "IREN": {
+    "sig": "0a7b626ebd262e58",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 3,
+      "confiance": "faible",
+      "resume": "Les titres évoquent une hausse récente de l'action IREN, attribuée à un investissement de 2,1 milliards de dollars de Nvidia dans l'IA, ainsi qu'une note Jefferies à 79 $. Cela compte car l'action reste nettement sous son plus haut sur 52 semaines (76,87 $) et son chiffre d'affaires recule, ce qui crée un contraste entre l'enthousiasme et les chiffres.",
+      "points_forts": [
+        "Investissement de 2,1 Md$ de Nvidia mentionné dans l'actualité",
+        "Consensus des 18 analystes à « buy », objectif moyen 78,14 $",
+        "Activité intégrée : centres de données et calcul pour l'IA"
+      ],
+      "risques": [
+        "Chiffre d'affaires en baisse (-26,7 %)",
+        "Action très volatile : -18,3 % sur 6 mois, fourchette 28,93-76,87 $",
+        "Objectif bas des analystes (40 $) et écart très large avec l'objectif haut (139 $)"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 2026-11-05",
+        "Nouvelles révisions d'objectifs de cours par les analystes"
+      ],
+      "a_surveiller": "Voir si les détails de l'investissement de Nvidia se traduisent par une reprise du chiffre d'affaires lors des prochains résultats."
+    }
+  },
+  "GOOG": {
+    "sig": "1db2de985921c263",
+    "analyse": {
+      "sentiment": "positif",
+      "importance": 4,
+      "confiance": "moyenne",
+      "resume": "Les titres récents évoquent un bénéfice en forte hausse (+81 %), des résultats trimestriels portés par le cloud et un accord important avec Anthropic qui a fait grimper l'action d'environ 2 %. Google relève aussi ses prévisions d'investissements, ce qui montre sa volonté d'investir massivement mais pèse sur les dépenses futures.",
+      "points_forts": [
+        "Croissance du chiffre d'affaires de 24,2 %",
+        "Bénéfice en hausse de 81 % et cloud moteur des résultats",
+        "Analystes très favorables : objectif moyen 420 $ (avis strong_buy, 14 analystes)"
+      ],
+      "risques": [
+        "Hausse des prévisions d'investissements qui pèse sur les marges et la trésorerie",
+        "Cours (347,86 $) en retrait de 14 % par rapport au plus haut sur 52 semaines (404,47 $)",
+        "Valorisation très élevée (capitalisation d'environ 4 250 Md$) : peu de marge en cas de déception"
+      ],
+      "catalyseurs": [
+        "Publication des résultats trimestriels le 28 octobre 2026",
+        "Détails et retombées concrètes de l'accord avec Anthropic et de la hausse des investissements"
+      ],
+      "a_surveiller": "Surveillez si la croissance du cloud suffit à justifier l'augmentation des dépenses d'investissement lors des prochains résultats, ainsi que l'évolution du cours par rapport à l'objectif bas des analystes (340 $), proche du cours actuel."
+    }
+  },
+  "GLOO": {
+    "sig": "455b0fceee463a1e",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres d'actualité fournis sont surtout des pages de cours et de graphiques (TradingView, Yahoo) et ne donnent aucune information concrète sur Gloo. Le titre reste néanmoins nettement sous son plus haut sur 52 semaines (3,83 $ contre 9,98 $) et a perdu environ 38,5 % en 6 mois, ce qui montre une forte volatilité pour une petite capitalisation (~354 M$).",
+      "points_forts": [
+        "Croissance du chiffre d'affaires de 1,88 (à confirmer selon l'unité)",
+        "Objectif moyen des analystes (11,17 $) bien au-dessus du cours actuel",
+        "Plateforme logicielle ciblant un marché de niche (communautés de foi)"
+      ],
+      "risques": [
+        "Forte baisse du cours sur 6 mois et grande volatilité",
+        "Petite capitalisation, donc mouvements de cours amples possibles",
+        "Aucun avis d'analyste tranché (avis « none ») et peu d'informations récentes concrètes"
+      ],
+      "catalyseurs": [
+        "Publication des prochains résultats le 2026-09-09",
+        "Éventuelles mises à jour des objectifs ou avis des 6 analystes"
+      ],
+      "a_surveiller": "Les résultats du 9 septembre 2026 et la capacité de l'entreprise à maintenir sa croissance du chiffre d'affaires, dans un contexte de cours proche de son plus bas annuel (2,90 $)."
+    }
+  },
+  "INFQ": {
+    "sig": "fd0897f0f4bd33b5",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Les titres récents sont surtout des pages de cours et un article sur l'entrée en Bourse via un SPAC, valorisant Infleqtion à 1,8 milliard de dollars. Un autre titre évoque un bond de 314 %, mais sans détail concret dans les données fournies. L'action reste très volatile : elle cote à 11,04 $, loin de son plus haut à 21,28 $ mais au-dessus de son plus bas à 8,52 $.",
+      "points_forts": [
+        "Croissance du chiffre d'affaires de 156,5 %",
+        "Objectif moyen des analystes (21,83 $) bien au-dessus du cours actuel",
+        "Activité dans les technologies quantiques (calcul, capteurs, horloges)"
+      ],
+      "risques": [
+        "Forte volatilité, typique d'une société cotée récemment via un SPAC",
+        "Baisse de 12,3 % sur 6 mois et grand écart entre plus haut et plus bas sur 52 semaines",
+        "Valorisation élevée (environ 2,5 milliards de dollars) pour une petite entreprise de technologie émergente"
+      ],
+      "catalyseurs": [
+        "Publication des prochains résultats le 12 novembre 2026",
+        "Évolution des objectifs et avis des analystes (6 analystes, fourchette 19 à 25 $)"
+      ],
+      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires se confirme lors des prochains résultats et comment le cours réagit dans cette zone entre 8,52 $ et 21,28 $."
+    }
+  },
+  "EIKN": {
+    "sig": "77aa489290c6c270",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres d'actualité récents ne parlent pas directement d'Eikon Therapeutics : ce sont des pages de cours d'autres sociétés (OVID, GENB, NVAX, AUTL, MRNA). Ils n'apportent aucune information concrète sur Eikon. Le cours (7,47 USD) est proche de son plus bas sur 52 semaines (7,02) et en baisse d'environ 24 % sur 6 mois.",
+      "points_forts": [
+        "Portefeuille clinique diversifié (TLR 7/8, inhibiteurs PARP1, inhibiteur WRN)",
+        "Objectif moyen des analystes (24,6 USD) très supérieur au cours actuel",
+        "Capitalisation d'environ 405 M USD"
+      ],
+      "risques": [
+        "Société biotech en phase clinique, très volatile",
+        "Cours proche du plus bas annuel, tendance baissière sur 6 mois",
+        "Fortes divergences entre analystes (objectifs de 4,0 à 32,0 USD) et aucun chiffre d'affaires indiqué"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Éventuelles données cliniques sur les candidats EIK1001, EIK1003/1004 ou EIK1005"
+      ],
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas de 52 semaines (7,02 USD) et l'annonce de nouvelles données cliniques ou de résultats financiers."
+    }
+  },
+  "EXK": {
+    "sig": "66b7ca0a995212b8",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres d'actualité récents ne sont que des pages de cours et de données (extraETF, TradingView, Yahoo Finance) et n'annoncent aucun fait concret sur Endeavour Silver. L'action cote 8,65 USD, soit environ 10 % de moins qu'il y a 6 mois et bien en dessous du plus haut sur 52 semaines (15,15), alors que les analystes restent très positifs.",
+      "points_forts": [
+        "Croissance du chiffre d'affaires élevée (1,394)",
+        "Objectifs des analystes (14 à 17 USD) bien au-dessus du cours actuel",
+        "Avis moyen des analystes : strong_buy"
+      ],
+      "risques": [
+        "Action volatile, repli de 10 % sur 6 mois",
+        "Seulement 3 analystes, ce qui limite la portée de leur consensus",
+        "Aucune information concrète dans l'actualité récente"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 9 novembre 2026",
+        "Évolution des cours de l'argent et de l'or (non précisée dans les données fournies)"
+      ],
+      "a_surveiller": "Les résultats du 9 novembre 2026, pour voir si la croissance du chiffre d'affaires se confirme et si le cours se rapproche des objectifs des analystes."
+    }
+  },
+  "SNDA": {
+    "sig": "5933c54828885a9d",
+    "analyse": {
+      "sentiment": "positif",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Le seul titre vraiment lié à Sonida est le début de couverture par RBC, avec une note « Outperform » et un potentiel de hausse annoncé d'environ 24 %. Les autres titres concernent d'autres sociétés ou de simples pages de cours, sans information concrète sur Sonida. Une initiation de couverture peut attirer l'attention sur le titre, mais elle ne change pas à elle seule la situation de l'entreprise.",
+      "points_forts": [
+        "Initiation de couverture positive par RBC (Outperform)",
+        "Objectif moyen des analystes (49,5 $) nettement au-dessus du cours de 35,24 $",
+        "Croissance du chiffre d'affaires très élevée (1,371 selon les données fournies)"
+      ],
+      "risques": [
+        "Petite capitalisation (environ 1,7 Md$), souvent plus volatile",
+        "Cours déjà éloigné de son plus haut sur 52 semaines (44,39 $), avec une fourchette étendue (24,95 à 44,39 $)",
+        "Avis global des analystes non renseigné (« none ») malgré des objectifs élevés"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 2026-11-09",
+        "Éventuelles nouvelles révisions d'objectifs ou initiations de couverture par d'autres analystes"
+      ],
+      "a_surveiller": "Voir si les résultats du 9 novembre 2026 confirment la forte croissance du chiffre d'affaires et si le cours se rapproche des objectifs des analystes."
+    }
+  },
+  "TKO.PA": {
+    "sig": "48cc5d0de70a8a3f",
+    "analyse": {
+      "sentiment": "positif",
+      "importance": 3,
+      "confiance": "moyenne",
+      "resume": "Les titres récents évoquent un exercice 2025 jugé historique pour Tikehau Capital, avec un relèvement de ses objectifs et une proposition de dividende de 0,80 € par action. La rentabilité progresse fortement, mais la collecte ralentit, ce qui nuance le tableau. Le cours (16 €) reste pourtant en baisse d'environ 11 % sur 6 mois.",
+      "points_forts": [
+        "Exercice 2025 décrit comme historique, objectifs relevés",
+        "Dividende proposé de 0,80 € par action",
+        "Avis analystes « buy » avec objectif moyen de 21,3 €"
+      ],
+      "risques": [
+        "Ralentissement des collectes signalé",
+        "Cours en baisse de 10,8 % sur 6 mois",
+        "Objectif bas des analystes (16,5 €) proche du cours actuel"
+      ],
+      "catalyseurs": [
+        "Prochaines publications sur la collecte et les encours sous gestion",
+        "Vote et versement du dividende proposé"
+      ],
+      "a_surveiller": "Surveiller si la collecte se redresse, car c'est elle qui devra soutenir la hausse de rentabilité annoncée, alors que la date des prochains résultats n'est pas indiquée."
+    }
+  },
+  "CNOB": {
+    "sig": "0a527ba7df8ab81d",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Le seul titre d'actualité fourni concerne WU (Western Union), une autre société, et non ConnectOne Bancorp. Il n'apporte donc aucune information concrète sur CNOB. L'analyse repose uniquement sur les données de cours et l'avis des analystes.",
+      "points_forts": [
+        "Objectifs des analystes (35 à 38 USD) au-dessus du cours actuel de 29,94 USD",
+        "Avis global « buy » (4 analystes)",
+        "Croissance du chiffre d'affaires indiquée à 1,342 (unité non précisée)"
+      ],
+      "risques": [
+        "Cours à environ 12 % sous le plus haut sur 52 semaines (34,14 USD)",
+        "Actualité récente non pertinente : peu de visibilité sur les évènements propres à l'entreprise",
+        "Échantillon réduit d'analystes (4 seulement)"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 22 octobre 2026",
+        "Évolution des objectifs de cours et des avis des analystes"
+      ],
+      "a_surveiller": "Les résultats du 22 octobre 2026 et leur effet sur le cours, qui évolue entre 23,20 et 34,14 USD sur 52 semaines."
+    }
+  },
+  "_synthese": {
+    "sig": "e1e50036d0f79b3c",
+    "contenu": {
+      "points": [
+        {
+          "symbole": "GOOG",
+          "pourquoi": "Alphabet ressort grâce à un bénéfice en forte hausse (+81 %), des résultats trimestriels portés par le cloud et un accord important avec Anthropic.",
+          "a_surveiller": "La hausse des prévisions d'investissements peut peser sur les marges et la trésorerie, alors que la valorisation est déjà très élevée (environ 4 250 Md$) et que le cours reste 14 % sous son plus haut sur 52 semaines.",
+          "nom": "Alphabet Inc."
+        },
+        {
+          "symbole": "TKO.PA",
+          "pourquoi": "Tikehau Capital annonce un exercice 2025 jugé historique, avec un relèvement de ses objectifs et une proposition de dividende de 0,80 € par action.",
+          "a_surveiller": "Le ralentissement de la collecte, la baisse du cours d'environ 11 % sur 6 mois et un objectif bas des analystes (16,5 €) proche du cours actuel (16 €).",
+          "nom": "TIKEHAU CAPITAL"
+        },
+        {
+          "symbole": "SNDA",
+          "pourquoi": "Sonida Senior Living ressort après le début de couverture par RBC, avec une note « Outperform » et un potentiel de hausse annoncé d'environ 24 %.",
+          "a_surveiller": "Une initiation de couverture ne change pas à elle seule la situation de l'entreprise, et la petite capitalisation (environ 1,7 Md$) peut rendre le titre plus volatil, avec un cours éloigné de son plus haut sur 52 semaines (44,39 $).",
+          "nom": "Sonida Senior Living, Inc."
+        }
+      ],
+      "prudence": "Ces éléments sont des informations de veille et non des recommandations : tout investissement en bourse comporte un risque de perte en capital."
+    }
+  }
+}
