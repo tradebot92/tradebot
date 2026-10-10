@@ -1,3 +1,5 @@
 # Tes actions favorites, une par ligne (symbole Yahoo Finance).
 # Les lignes qui commencent par # sont ignorées.
 # Exemple de format : MC.PA (action française), AAPL (action américaine)
+IREN
+GOOG
