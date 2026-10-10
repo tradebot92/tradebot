@@ -5,6 +5,13 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#2456d6">
 <title>Bot Trade</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Bot Trade">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <style>
 :root{--bg:#f4f6f9;--card:#fff;--txt:#161b22;--sub:#667085;--ok:#13813a;--ko:#c4252c;--line:#e2e6ec;--acc:#2456d6;--accbg:#e8eefc;--warn:#9a6700;--warnbg:#fff4d6}
 :root[data-theme="dark"]{--bg:#0e1116;--card:#171b22;--txt:#e9edf2;--sub:#98a2b3;--ok:#4cc276;--ko:#ff6b6b;--line:#262c36;--acc:#7a9cff;--accbg:#1c2640;--warn:#e3b341;--warnbg:#3a2f12}
@@ -68,6 +75,7 @@ button.del{border:none;background:none;color:var(--sub);cursor:pointer;font-size
 <section id="jou"></section>
 <div class="avert" id="avert"></div>
 <script>
+if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 const D=/*DONNEES*/null;
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));

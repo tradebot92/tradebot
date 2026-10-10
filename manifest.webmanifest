@@ -1,0 +1,25 @@
+{
+  "name": "Bot Trade",
+  "short_name": "Bot Trade",
+  "description": "Veille boursi\u00e8re",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e1116",
+  "theme_color": "#2456d6",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
