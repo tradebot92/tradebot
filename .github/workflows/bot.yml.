@@ -1,0 +1,33 @@
+name: Bot Trade
+
+on:
+  schedule:
+    - cron: "*/30 7-21 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Lancer le bot
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python bot.py
+      - name: Publier le tableau de bord
+        run: cp dashboard.html index.html
+      - name: Sauvegarder la mémoire du bot
+        run: |
+          git config user.name "bot-trade"
+          git config user.email "bot-trade@users.noreply.github.com"
+          git add data index.html dashboard.html
+          git diff --cached --quiet || git commit -m "Mise à jour du bot"
+          git push
