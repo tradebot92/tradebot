@@ -2,6 +2,7 @@
 estime une fourchette, envoie des alertes et dessine dashboard.html.
 Il ne passe JAMAIS d'ordre : c'est toi qui décides, dans ton appli.
 """
+import hashlib
 import json
 import math
 import os
@@ -16,6 +17,18 @@ import yfinance as yf
 DOSSIER = Path(__file__).parent
 DONNEES = DOSSIER / "data"
 DONNEES.mkdir(exist_ok=True)
+try:
+    from zoneinfo import ZoneInfo
+    FUSEAU = ZoneInfo("Europe/Paris")
+except Exception:
+    FUSEAU = None
+
+
+def maintenant():
+    """Date et heure de Paris (pour que l'heure affichée soit la tienne)."""
+    return datetime.now(FUSEAU) if FUSEAU else datetime.now()
+
+
 AVERTISSEMENT = "Estimation, pas une garantie. Ce n'est pas un conseil en investissement."
 
 
@@ -61,7 +74,23 @@ def donnees_marche(symbole):
         info = t.info or {}
     except Exception:
         info = {}
+    try:
+        cal = t.calendar or {}
+        dates = cal.get("Earnings Date") or []
+        resultats = str(dates[0]) if dates else None
+    except Exception:
+        resultats = None
+    six_mois = hist.iloc[-126:]
     return {
+        "serie": [round(float(x), 2) for x in six_mois.iloc[::2]],
+        "perf_6m": round((float(six_mois.iloc[-1]) / float(six_mois.iloc[0]) - 1) * 100, 1),
+        "plus_haut_52": info.get("fiftyTwoWeekHigh"),
+        "plus_bas_52": info.get("fiftyTwoWeekLow"),
+        "secteur": info.get("sector"),
+        "industrie": info.get("industry"),
+        "pays": info.get("country"),
+        "activite": (info.get("longBusinessSummary") or "")[:600],
+        "prochains_resultats": resultats,
         "nom": info.get("shortName") or symbole,
         "devise": info.get("currency", ""),
         "capitalisation": info.get("marketCap"),
@@ -138,30 +167,83 @@ def articles(symbole, nom, combien):
 
 
 # ---------- 3. Analyse par Claude ----------
-def analyser(symbole, m, arts, config):
-    """Demande à Claude un avis prudent. Sans clé API, renvoie une analyse vide."""
-    vide = {"sentiment": "inconnu", "importance": 0, "resume": "Analyse IA non activée (clé API manquante).", "risques": ""}
+def appeler_claude(config, consigne, max_tokens):
+    import anthropic
+    rep = anthropic.Anthropic().messages.create(
+        model=config["model"], max_tokens=max_tokens,
+        messages=[{"role": "user", "content": consigne}])
+    texte = rep.content[0].text
+    return json.loads(texte[texte.index("{"): texte.rindex("}") + 1])
+
+
+def signature(*morceaux):
+    return hashlib.sha1("|".join(str(x) for x in morceaux).encode("utf-8")).hexdigest()[:16]
+
+
+def analyser(symbole, m, arts, config, cache):
+    """Analyse détaillée par Claude. Réutilise l'ancienne analyse si rien de nouveau (économise l'API)."""
+    vide = {"sentiment": "inconnu", "importance": 0, "confiance": "", "points_forts": [], "risques": [],
+            "catalyseurs": [], "a_surveiller": "",
+            "resume": "Analyse IA non activée (clé API manquante)."}
     if not os.environ.get("ANTHROPIC_API_KEY") or not arts:
         return vide
-    import anthropic
+    sig = signature(*[a["lien"] for a in arts], m.get("objectif_moyen"), m.get("prochains_resultats"))
+    if cache.get(symbole, {}).get("sig") == sig:
+        return cache[symbole]["analyse"]
     titres = "\n".join(f"- {a['titre']} ({a['source']})" for a in arts)
-    consigne = f"""Tu aides un particulier à suivre l'action {m['nom']} ({symbole}).
-Voici les titres d'actualité récents :
+    consigne = f"""Tu aides un particulier à suivre l'action {m['nom']} ({symbole}), sans jamais lui dire d'acheter ou de vendre.
+
+ACTIVITÉ : {m.get('activite') or 'inconnue'}
+Secteur : {m.get('secteur')} / {m.get('industrie')} ({m.get('pays')}). Capitalisation : {m.get('capitalisation')}.
+COURS : {m['cours']} {m['devise']} (6 mois : {m['perf_6m']} %, plus haut 52 sem. {m.get('plus_haut_52')}, plus bas {m.get('plus_bas_52')}).
+CROISSANCE du chiffre d'affaires : {m.get('croissance_ca')}.
+ANALYSTES : objectif bas/moyen/haut {m.get('objectif_bas')} / {m.get('objectif_moyen')} / {m.get('objectif_haut')}, avis {m.get('recommandation')} ({m.get('nb_analystes')} analystes).
+PROCHAINS RÉSULTATS : {m.get('prochains_resultats')}.
+TITRES D'ACTUALITÉ RÉCENTS :
 {titres}
 
-Données : cours {m['cours']} {m['devise']}, objectif moyen des analystes {m['objectif_moyen']}, recommandation {m['recommandation']}.
-
-Réponds UNIQUEMENT par un JSON : {{"sentiment": "positif|neutre|negatif", "importance": 1 à 5, "resume": "2 phrases simples en français", "risques": "1 phrase sur ce qui pourrait mal tourner"}}.
-Sois prudent : si les titres ne disent rien de concret, mets importance 1. N'invente aucun fait absent des titres."""
+Réponds UNIQUEMENT par un JSON :
+{{"sentiment": "positif|neutre|negatif", "importance": 1 à 5, "confiance": "faible|moyenne|forte",
+"resume": "2 à 3 phrases simples en français : de quoi parle l'actu et pourquoi ça compte",
+"points_forts": ["max 3 courts"], "risques": ["max 3 courts"],
+"catalyseurs": ["max 2 événements à venir qui pourraient faire bouger le cours"],
+"a_surveiller": "1 phrase"}}
+Règles : appuie-toi uniquement sur les données ci-dessus, n'invente aucun fait. Si les titres ne disent rien de concret, mets importance 1 et confiance faible. Sois prudent sur les petites entreprises très volatiles."""
     try:
-        rep = anthropic.Anthropic().messages.create(
-            model=config["model"], max_tokens=400,
-            messages=[{"role": "user", "content": consigne}])
-        texte = rep.content[0].text
-        return json.loads(texte[texte.index("{"): texte.rindex("}") + 1])
+        analyse = appeler_claude(config, consigne, 900)
+        cache[symbole] = {"sig": sig, "analyse": analyse}
+        return analyse
     except Exception as e:
         vide["resume"] = f"Analyse IA impossible ({e})"
         return vide
+
+
+def synthese(fiches, config, cache):
+    """Résumé du jour : les 3 entreprises qui ressortent le plus."""
+    haut = sorted(fiches, key=lambda f: f["score"], reverse=True)[:3]
+    base = {"points": [{"symbole": f["symbole"], "nom": f["nom"],
+                        "pourquoi": f["analyse"].get("resume", ""),
+                        "a_surveiller": f["analyse"].get("a_surveiller", "")} for f in haut],
+            "prudence": "Ce sont des pistes à étudier, pas des recommandations."}
+    if not haut or not os.environ.get("ANTHROPIC_API_KEY") or haut[0]["analyse"]["sentiment"] == "inconnu":
+        return base
+    resume = "\n".join(f"- {f['symbole']} ({f['nom']}) : score {f['score']}, actu {f['analyse']['sentiment']}, "
+                       f"{f['analyse'].get('resume')} Risques : {f['analyse'].get('risques')}" for f in haut)
+    sig = signature(resume)
+    if cache.get("_synthese", {}).get("sig") == sig:
+        return cache["_synthese"]["contenu"]
+    consigne = f"""Voici les 3 entreprises qui ressortent aujourd'hui sur la veille d'un particulier :
+{resume}
+Écris UNIQUEMENT un JSON : {{"points": [{{"symbole": "...", "pourquoi": "1 phrase simple", "a_surveiller": "1 phrase simple"}}], "prudence": "1 phrase rappelant le risque"}}.
+Ton neutre, en français. Interdit : dire d'acheter, de vendre, ou promettre un gain. Reste fidèle au texte ci-dessus."""
+    try:
+        contenu = appeler_claude(config, consigne, 600)
+        for p in contenu.get("points", []):
+            p["nom"] = next((f["nom"] for f in haut if f["symbole"] == p.get("symbole")), "")
+        cache["_synthese"] = {"sig": sig, "contenu": contenu}
+        return contenu
+    except Exception:
+        return base
 
 
 # ---------- 4. Alertes ----------
@@ -181,10 +263,11 @@ def alerter(config, titre, message, lien=None):
 
 
 # ---------- 5. Tableau de bord ----------
-def dessiner_dashboard(fiches, journal):
+def dessiner_dashboard(fiches, journal, resume_jour, config):
     modele = (DOSSIER / "dashboard_modele.html").read_text(encoding="utf-8")
-    donnees = {"maj": datetime.now().strftime("%d/%m/%Y %H:%M"), "fiches": fiches,
-               "journal": journal[-100:][::-1], "avertissement": AVERTISSEMENT}
+    donnees = {"maj": maintenant().strftime("%d/%m/%Y %H:%M"), "fiches": fiches,
+               "journal": journal[-100:][::-1], "avertissement": AVERTISSEMENT,
+               "synthese": resume_jour, "depot": config.get("depot", "")}
     html = modele.replace("/*DONNEES*/null", json.dumps(donnees, ensure_ascii=False).replace("</", "<\\/"))
     (DOSSIER / "dashboard.html").write_text(html, encoding="utf-8")
 
@@ -203,6 +286,8 @@ def main():
     config = lire_json(DOSSIER / "config.json", {})
     etat = lire_json(DONNEES / "etat.json", {"vus": []})
     journal = lire_json(DONNEES / "journal.json", [])
+    cache = lire_json(DONNEES / "analyses.json", {})
+    premiere_fois = not etat.get("init")   # au tout premier lancement, pas d'alertes en rafale
     fiches = []
 
     favoris = lire_favoris()
@@ -217,31 +302,34 @@ def main():
             print(f"  ! données indisponibles ({e})")
             continue
         arts = articles(symbole, m["nom"], config.get("articles_par_action", 5))
-        analyse = analyser(symbole, m, arts, config)
+        analyse = analyser(symbole, m, arts, config, cache)
         f = {"symbole": symbole, "decouverte": symbole in decouverts, **m, "fourchette": fourchette(m), "articles": arts, "analyse": analyse}
         f["score"] = score_potentiel(f)
         fiches.append(f)
 
         # Alerte seulement pour une actu importante et nouvelle
         nouveaux = [a for a in arts if a["lien"] not in etat["vus"]]
-        if nouveaux and analyse.get("importance", 0) >= config.get("alerte_importance_min", 4):
+        if nouveaux and not premiere_fois and analyse.get("importance", 0) >= config.get("alerte_importance_min", 4):
             fo = f["fourchette"]
             msg = (f"{analyse['resume']}\nCours : {m['cours']} {m['devise']}\n"
                    f"Fourchette ~1 mois : gain {fo['gain'][0]} à {fo['gain'][1]} % / perte {fo['perte'][1]} à {fo['perte'][0]} %\n"
                    f"{AVERTISSEMENT}")
             alerter(config, f"{m['nom']} : actu {analyse['sentiment']}", msg, nouveaux[0]["lien"])
-            journal.append({"date": datetime.now().strftime("%d/%m/%Y %H:%M"), "symbole": symbole,
+            journal.append({"date": maintenant().strftime("%d/%m/%Y %H:%M"), "symbole": symbole,
                             "sentiment": analyse["sentiment"], "cours": m["cours"],
                             "gain": fo["gain"], "perte": fo["perte"], "resume": analyse["resume"]})
         etat["vus"] = (etat["vus"] + [a["lien"] for a in arts])[-500:]
 
+    etat["init"] = True
     ecrire_json(DONNEES / "etat.json", etat)
     ecrire_json(DONNEES / "journal.json", journal)
+    resume_jour = synthese(fiches, config, cache)
+    ecrire_json(DONNEES / "analyses.json", cache)
     # le journal garde le cours du signal : le tableau compare avec le cours actuel
     actuel = {f["symbole"]: f["cours"] for f in fiches}
     for j in journal:
         j["cours_actuel"] = actuel.get(j["symbole"])
-    dessiner_dashboard(fiches, journal)
+    dessiner_dashboard(fiches, journal, resume_jour, config)
     print("\nTerminé. Ouvre dashboard.html dans ton navigateur.")
 
 
