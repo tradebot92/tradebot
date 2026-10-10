@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bot Trade</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--txt:#1b1f24;--sub:#6a7280;--ok:#16803c;--ko:#c0262d;--line:#e3e6ea;--acc:#2456d6}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1216;--card:#181c22;--txt:#eceff3;--sub:#98a1ae;--ok:#4cc276;--ko:#ff6b6b;--line:#2a3039;--acc:#6f95ff}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--txt);font:16px/1.45 -apple-system,system-ui,sans-serif;padding:0 16px 40px;max-width:720px;margin:auto}
+h1{font-size:20px;margin:18px 0 2px}.maj{color:var(--sub);font-size:13px;margin-bottom:12px}
+nav{display:flex;gap:6px;margin-bottom:14px}
+nav button{flex:1;padding:10px;border:1px solid var(--line);background:var(--card);color:var(--txt);border-radius:10px;font:inherit;cursor:pointer}
+nav button.on{background:var(--acc);color:#fff;border-color:var(--acc)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin-bottom:10px}
+.top{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.sym{font-weight:700}.nom{color:var(--sub);font-size:14px}
+.up{color:var(--ok)}.down{color:var(--ko)}
+.fourch{display:flex;gap:8px;margin:10px 0}
+.fourch div{flex:1;border-radius:8px;padding:8px;font-size:14px;background:var(--bg)}
+.sm{font-size:14px;color:var(--sub)}
+a{color:var(--acc)}
+.avert{font-size:12px;color:var(--sub);margin-top:16px}
+.tag{display:inline-block;border-radius:6px;padding:1px 8px;font-size:12px;border:1px solid var(--line)}
+section{display:none}section.on{display:block}
+</style>
+</head>
+<body>
+<h1>Bot Trade</h1>
+<div class="maj" id="maj"></div>
+<nav>
+  <button data-t="fav" class="on">Favoris</button>
+  <button data-t="pot">Potentiel</button>
+  <button data-t="jou">Journal</button>
+</nav>
+<section id="fav" class="on"></section>
+<section id="pot"></section>
+<section id="jou"></section>
+<div class="avert" id="avert"></div>
+<script>
+const D=/*DONNEES*/null;
+const $=s=>document.querySelector(s);
+const pct=n=>(n>0?"+":"")+n+" %";
+const cls=n=>n>0?"up":n<0?"down":"";
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function fourch(f){const o=f.fourchette;return `<div class="fourch">
+<div><b class="up">Scénario favorable</b><br>${pct(o.gain[0])} à ${pct(o.gain[1])}</div>
+<div><b class="down">Scénario défavorable</b><br>${pct(o.perte[1])} à ${pct(o.perte[0])}</div></div>
+<div class="sm">Sur ~1 mois, d'après la volatilité${o.ecart_objectif!=null?` et l'objectif des analystes (${pct(o.ecart_objectif)} vs cours)`:""}.</div>`}
+function entete(f){return `<div class="top"><div><span class="sym">${esc(f.symbole)}</span> <span class="nom">${esc(f.nom)}</span></div>
+<div><b>${f.cours} ${esc(f.devise)}</b> <span class="${cls(f.variation_jour)}">${pct(f.variation_jour)}</span></div></div>`}
+function lienArts(f){return f.articles.slice(0,3).map(a=>`<div class="sm">• <a href="${esc(a.lien)}" target="_blank" rel="noopener">${esc(a.titre)}</a></div>`).join("")}
+$("#maj").textContent="Mis à jour : "+D.maj;
+$("#avert").textContent=D.avertissement;
+$("#fav").innerHTML=D.fiches.filter(f=>!f.decouverte).map(f=>`<div class="card">${entete(f)}
+<div class="sm">Analystes : ${esc(f.recommandation||"n/a")}${f.nb_analystes?` (${f.nb_analystes})`:""} · Actu : <span class="tag">${esc(f.analyse.sentiment)}</span></div>
+${fourch(f)}${lienArts(f)}</div>`).join("")||"<p>Aucun favori. Ajoute des symboles dans watchlist.txt (l'onglet Potentiel montre les entreprises découvertes).</p>";
+function risque(f){const r=[];if(f.vol_mois>20)r.push("très volatile");if(f.capitalisation&&f.capitalisation<1e9)r.push("petite capitalisation : peu d'échanges, écarts de prix possibles");if(f.decouverte)r.push("à vérifier : disponible sur Trade Republic ?");return r.length?`<p class="sm"><b>⚠ Profil :</b> ${r.join(" · ")}</p>`:""}
+const mc=n=>n?(n>=1e9?(n/1e9).toFixed(1)+" Md":(n/1e6).toFixed(0)+" M"):"n/a";
+const pots=[...D.fiches].sort((a,b)=>b.score-a.score);
+$("#pot").innerHTML=pots.map(f=>`<div class="card">${entete(f)}
+<div class="sm">${f.decouverte?'<span class="tag">Découverte</span> ':''}Capi : ${mc(f.capitalisation)} · croissance du CA : ${f.croissance_ca!=null?pct(Math.round(f.croissance_ca*1000)/10):"n/a"}</div>
+<div class="sm">Score potentiel : <b>${f.score}</b> · importance de l'actu : ${f.analyse.importance}/5</div>
+<p>${esc(f.analyse.resume)}</p>
+<p class="sm"><b>⚠ Risques :</b> ${esc(f.analyse.risques||"non précisés")}</p>
+${risque(f)}${fourch(f)}${lienArts(f)}</div>`).join("");
+$("#jou").innerHTML=D.journal.map(j=>{const v=j.cours_actuel?Math.round((j.cours_actuel/j.cours-1)*1000)/10:null;
+return `<div class="card"><div class="top"><b>${esc(j.symbole)}</b><span class="sm">${esc(j.date)}</span></div>
+<div class="sm">Cours au signal : ${j.cours} · Prévu : ${pct(j.perte[1])} à ${pct(j.gain[1])}</div>
+<div>Réel depuis : ${v==null?"n/a":`<b class="${cls(v)}">${pct(v)}</b>`}</div><p class="sm">${esc(j.resume)}</p></div>`}).join("")||"<p>Pas encore de signal enregistré.</p>";
+document.querySelectorAll("nav button").forEach(b=>b.onclick=()=>{
+document.querySelectorAll("nav button,section").forEach(e=>e.classList.remove("on"));
+b.classList.add("on");$("#"+b.dataset.t).classList.add("on")});
+</script>
+</body>
+</html>

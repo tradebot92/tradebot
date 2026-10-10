@@ -1,0 +1,15 @@
+{
+  "ntfy_topic": "",
+  "model": "claude-sonnet-5-5",
+  "alerte_importance_min": 4,
+  "articles_par_action": 5,
+  "decouverte": {
+    "actif": true,
+    "places": ["NMS", "NYQ", "PAR"],
+    "cap_min": 300000000,
+    "cap_max": 3000000000,
+    "croissance_min": 20,
+    "croissance_max": 200,
+    "nombre": 10
+  }
+}
