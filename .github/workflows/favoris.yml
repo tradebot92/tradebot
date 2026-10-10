@@ -1,0 +1,55 @@
+name: Favoris
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: tradebot
+  cancel-in-progress: false
+
+jobs:
+  maj:
+    if: github.event.issue.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Modifier watchlist.txt
+        env:
+          TITRE: ${{ github.event.issue.title }}
+          GH_TOKEN: ${{ github.token }}
+          NUM: ${{ github.event.issue.number }}
+        run: |
+          python3 - <<'PY'
+          import os, re
+          titre = os.environ["TITRE"].strip().upper()
+          m = re.fullmatch(r"(FAV|DEL) ([A-Z0-9][A-Z0-9.\-]{0,11})", titre)
+          open("resultat.txt", "w").write("invalide" if not m else m.group(1) + " " + m.group(2))
+          if m:
+              action, sym = m.groups()
+              lignes = open("watchlist.txt", encoding="utf-8").read().splitlines()
+              presentes = [l.strip().upper() for l in lignes]
+              if action == "FAV" and sym not in presentes:
+                  lignes.append(sym)
+              if action == "DEL":
+                  lignes = [l for l in lignes if l.strip().upper() != sym]
+              open("watchlist.txt", "w", encoding="utf-8").write("\n".join(lignes) + "\n")
+          PY
+          RES=$(cat resultat.txt)
+          rm resultat.txt
+          if [ "$RES" = "invalide" ]; then
+            gh issue close "$NUM" --repo "$GITHUB_REPOSITORY" --comment "Demande non reconnue (attendu : FAV SYMBOLE ou DEL SYMBOLE)."
+            exit 0
+          fi
+          git config user.name "bot-trade"
+          git config user.email "bot-trade@users.noreply.github.com"
+          git add watchlist.txt
+          git diff --cached --quiet || git commit -m "Favoris : $RES"
+          git push
+          gh workflow run bot.yml --repo "$GITHUB_REPOSITORY"
+          gh issue close "$NUM" --repo "$GITHUB_REPOSITORY" --comment "C'est fait : $RES. Le tableau de bord sera à jour dans quelques minutes."
