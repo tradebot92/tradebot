@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "date": "10/10/2026 17:46",
+    "symbole": "SVC",
+    "sentiment": "neutre",
+    "cours": 7.15,
+    "gain": [
+      8.0,
+      70.5
+    ],
+    "perte": [
+      -8.0,
+      -15.9
+    ],
+    "resume": "TKO propose 2 milliards de dollars pour le portefeuille hôtelier de Service Properties Trust, ce qui représente une offre concrète sur une grande partie de ses actifs hôteliers. Cela compte car la société a une petite capitalisation (environ 926 M$) et le montant de l'offre est élevé par rapport à sa taille. Les titres ne disent pas si l'offre sera acceptée ni à quelles conditions. Les autres titres (Infracore) n'ont aucun lien avec SVC."
+  },
+  {
+    "date": "10/10/2026 17:46",
+    "symbole": "MEDCL.PA",
+    "sentiment": "positif",
+    "cours": 29.06,
+    "gain": [
+      8.6,
+      20.6
+    ],
+    "perte": [
+      -8.6,
+      -17.2
+    ],
+    "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % en Bourse. Cette étape réglementaire compte beaucoup pour une biotech dont la valeur dépend de l'arrivée de ses produits sur le marché. Des analystes, dont Stifel, restent confiants, mais le titre est volatil."
+  }
+]

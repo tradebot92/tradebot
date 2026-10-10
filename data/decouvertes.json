@@ -1,0 +1,45 @@
+{
+  "actuel": {
+    "SVC": {
+      "premiere": "2026-10-10T17:46+02:00",
+      "nom": "Service Properties Trust"
+    },
+    "NVAX": {
+      "premiere": "2026-10-10T17:46+02:00",
+      "nom": "Novavax, Inc."
+    },
+    "BKD": {
+      "premiere": "2026-10-10T17:46+02:00",
+      "nom": "Brookdale Senior Living Inc."
+    },
+    "ALHC": {
+      "premiere": "2026-10-10T17:46+02:00",
+      "nom": "Alignment Healthcare, Inc."
+    },
+    "MEDCL.PA": {
+      "premiere": "2026-10-10T17:46+02:00",
+      "nom": "MEDINCELL S.A."
+    },
+    "KLRA": {
+      "premiere": "2026-10-10T17:46+02:00",
+      "nom": "Kailera Therapeutics, Inc."
+    },
+    "DNA": {
+      "premiere": "2026-10-10T17:46+02:00",
+      "nom": "Ginkgo Bioworks Holdings, Inc."
+    },
+    "GLOO": {
+      "premiere": "2026-10-10T17:46+02:00",
+      "nom": "Gloo Holdings, Inc."
+    },
+    "INFQ": {
+      "premiere": "2026-10-10T17:46+02:00",
+      "nom": "Infleqtion, Inc."
+    },
+    "EIKN": {
+      "premiere": "2026-10-10T17:46+02:00",
+      "nom": "Eikon Therapeutics, Inc."
+    }
+  },
+  "sorties": []
+}
