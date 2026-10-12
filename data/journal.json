@@ -58,5 +58,20 @@
       -15.9
     ],
     "resume": "TKO propose 2 milliards de dollars pour le portefeuille hôtelier de Service Properties Trust, ce qui pourrait changer fortement la structure de la société si l'offre aboutit. Par ailleurs, la distribution trimestrielle reste fixée à 0,05 $ par action, payable le 12 novembre. Les détails de l'offre (acceptation, conditions) ne sont pas connus à ce stade."
+  },
+  {
+    "date": "12/10/2026 11:46",
+    "symbole": "MEDCL.PA",
+    "sentiment": "positif",
+    "cours": 27.92,
+    "gain": [
+      8.1,
+      25.6
+    ],
+    "perte": [
+      -8.1,
+      -16.2
+    ],
+    "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % selon la presse. Cette étape réglementaire compte car elle ouvre la voie à une commercialisation aux États-Unis et confirme la technologie d'injection à libération prolongée de la société. Plusieurs analystes (Stifel notamment) affichent leur confiance."
   }
 ]

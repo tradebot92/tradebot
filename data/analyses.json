@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "05e75c08ffebddbd",
+    "sig": "52069e3daa47c98c",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a fortement progressé (environ 18 % selon un titre de presse).",
-          "a_surveiller": "Le calendrier commercial et les revenus attendus du produit ne sont pas détaillés, alors que le chiffre d'affaires recule et que le cours reste loin de son plus haut sur 52 semaines (39,68 €).",
+          "pourquoi": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % selon la presse.",
+          "a_surveiller": "Le titre est volatil et proche de 28 €, donc une partie de la nouvelle peut déjà être intégrée, alors que le chiffre d'affaires recule de 44,6 %.",
           "nom": "MEDINCELL S.A."
         },
         {
-          "symbole": "GOOG",
-          "pourquoi": "Les actualités évoquent un bénéfice d'Alphabet en hausse de 81 % et un accord important avec Anthropic, qui a accompagné une hausse d'environ 2 % de l'action.",
-          "a_surveiller": "Les détails de l'accord avec Anthropic ne sont pas précisés, et l'objectif bas des analystes (340 USD) est proche du cours actuel de 347,86 USD.",
-          "nom": "Alphabet Inc."
+          "symbole": "SVC",
+          "pourquoi": "TKO propose 2 milliards de dollars pour le portefeuille hôtelier de Service Properties Trust, ce qui pourrait transformer l'activité, et le dividende trimestriel est maintenu à 0,05 $ par action.",
+          "a_surveiller": "Les détails de l'offre (acceptation, conditions, usage du produit) ne sont pas connus et rien ne garantit qu'elle aboutisse.",
+          "nom": "Service Properties Trust"
         },
         {
-          "symbole": "SVC",
-          "pourquoi": "TKO propose 2 milliards de dollars pour le portefeuille hôtelier de Service Properties Trust, ce qui pourrait changer fortement la structure de la société si l'offre aboutit.",
-          "a_surveiller": "L'offre n'est pas confirmée et ses conditions sont inconnues, dans un contexte de chiffre d'affaires en baisse (-16,4 %) et de cours volatil.",
-          "nom": "Service Properties Trust"
+          "symbole": "BKD",
+          "pourquoi": "L'action Brookdale a chuté après une stagnation du taux d'occupation en juin et recule d'environ 25,6 % sur 6 mois, près du bas de sa fourchette annuelle.",
+          "a_surveiller": "L'évolution du taux d'occupation, indicateur clé pour un exploitant de résidences seniors, alors que le chiffre d'affaires baisse de 8,9 %.",
+          "nom": "Brookdale Senior Living Inc."
         }
       ],
-      "prudence": "Ces éléments sont issus de titres de presse et de données partielles, les cours peuvent varier fortement et à tout moment, et rien ne garantit un gain ni l'absence de perte."
+      "prudence": "Ces informations sont données à titre indicatif : les cours peuvent varier fortement dans les deux sens et il existe toujours un risque de perte en capital."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "f8c6744624df1db4",
+    "sig": "d5526ea237352fac",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à Medincell, et le titre a bondi d'environ 18 % en Bourse. C'est important car cela valide un produit clé du portefeuille et peut ouvrir de nouvelles sources de revenus. Un analyste (Stifel) a aussi exprimé sa confiance, mais les titres ne donnent pas de détails chiffrés.",
+      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % selon la presse. Cette étape réglementaire compte car elle ouvre la voie à une commercialisation aux États-Unis et confirme la technologie d'injection à libération prolongée de la société. Plusieurs analystes (Stifel notamment) affichent leur confiance.",
       "points_forts": [
         "Feu vert américain pour Weltruza (schizophrénie)",
-        "Consensus des 9 analystes : strong_buy, objectif moyen ~35 EUR",
-        "Cours de 28 EUR, nettement sous le plus haut annuel de 39,68 EUR"
+        "Avis des analystes très favorable (strong_buy, objectif moyen ~35 €)",
+        "Cours en hausse de 15,1 % sur 6 mois et franchissement d'une résistance technique"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-44,6 %) selon les données fournies",
-        "Titre très volatile : un bond de 18 % peut en partie se corriger",
-        "Le succès commercial après l'autorisation reste à démontrer"
+        "Chiffre d'affaires en recul (-44,6 %)",
+        "Titre volatil : une forte hausse en une séance peut être suivie d'un repli",
+        "Cours déjà proche de 28 €, une partie de la bonne nouvelle peut être intégrée"
       ],
       "catalyseurs": [
-        "Lancement commercial et premières ventes de Weltruza",
-        "Avancées des autres programmes (mdc-CWM en phase III)"
+        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
+        "Avancées des autres programmes, comme mdc-CWM en phase III contre la douleur post-opératoire"
       ],
-      "a_surveiller": "Surveiller la rapidité du déploiement commercial de Weltruza et la trajectoire du chiffre d'affaires, après la forte hausse du cours liée à cette annonce."
+      "a_surveiller": "Le rythme du lancement de Weltruza et la capacité du titre à tenir ses niveaux après le bond de la séance, sachant qu'aucune date de prochains résultats n'est communiquée."
     }
   },
   "KLRA": {
