@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "d2eecb7bf2627444",
+    "sig": "4bf197939f5113ba",
     "analyse": {
       "sentiment": "positif",
       "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres récents sont surtout des pages de cotation et de prévisions, sans information détaillée, hormis un article indiquant que le bénéfice d'Alphabet a bondi de 81 %. Ce résultat, associé à une croissance du chiffre d'affaires de 24,2 %, montre une activité très dynamique, ce qui compte pour la valorisation du titre.",
+      "resume": "Les titres récents portent surtout sur des pages de cotation et des prévisions de cours, avec une information concrète : Alphabet aurait vu son bénéfice bondir de 81 % selon Euronews. Cela compte car cela va dans le sens d'une forte croissance, cohérente avec la hausse du chiffre d'affaires de 24,2 %. Les autres titres ne donnent pas de détails chiffrés supplémentaires.",
       "points_forts": [
-        "Bénéfice en hausse de 81 % selon Euronews",
-        "Croissance du chiffre d'affaires de 24,2 %",
-        "Avis analystes strong_buy, objectif moyen 420,36 USD"
+        "Bénéfice en hausse de 81 % (Euronews)",
+        "Chiffre d'affaires en croissance de 24,2 %",
+        "Objectif moyen des analystes (420 USD) au-dessus du cours actuel (350 USD)"
       ],
       "risques": [
-        "Cours à 350,96 USD, sous le plus haut annuel de 404,47 USD",
-        "Objectif bas des analystes (340 USD) proche du cours actuel",
-        "Valorisation très élevée (capitalisation d'environ 4 300 Md USD)"
+        "Cours déjà éloigné de son plus haut sur 52 semaines (404,47 USD), signe de volatilité",
+        "Valorisation très élevée avec une capitalisation d'environ 4 280 milliards USD",
+        "Objectif bas des analystes (340 USD) proche du cours actuel"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 28 octobre 2026",
-        "Révisions des objectifs de cours par les analystes"
+        "Révision des objectifs et avis des analystes après les prochains résultats"
       ],
-      "a_surveiller": "Surveillez si la croissance du chiffre d'affaires et des bénéfices se maintient lors des prochains résultats du 28 octobre 2026, et l'évolution du cours par rapport à l'objectif moyen des analystes."
+      "a_surveiller": "Voir si la croissance du chiffre d'affaires et du bénéfice se confirme lors des résultats du 28 octobre 2026, et comment le cours réagit par rapport à son plus haut de 404,47 USD."
     }
   },
   "GLOO": {
@@ -96,27 +96,26 @@
     }
   },
   "EIKN": {
-    "sig": "ebccd620d45b84e3",
+    "sig": "b493aebd66fa7035",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas vraiment d'Eikon : ce sont surtout des pages de cours d'autres sociétés de biotechnologie (AUTL, GENB, MRNA, CAPR, AGMB). Il n'y a donc aucune actualité concrète sur l'entreprise. Le titre a reculé d'environ 30 % en 6 mois et se trouve près de son plus bas sur 52 semaines.",
+      "resume": "Les titres récents ne parlent pas d'Eikon Therapeutics : ce sont des pages de cours d'autres sociétés de biotechnologie (Ovid, Generate Biomedicines, Moderna, Autolus, Novavax). Ils n'apportent donc aucune information concrète sur EIKN. Le titre reste en baisse d'environ 30 % sur 6 mois et proche de son plus bas sur 52 semaines.",
       "points_forts": [
-        "Plusieurs candidats en développement clinique (EIK1001, EIK1003, EIK1004, EIK1005)",
-        "Objectif moyen des analystes (24,6 $) très supérieur au cours actuel (7,43 $)",
-        "Capitalisation d'environ 402 M$ et 5 analystes qui suivent le titre"
+        "Large écart entre l'objectif moyen des analystes (24,6 $) et le cours (7,36 $)",
+        "Portefeuille de plusieurs candidats-médicaments en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)"
       ],
       "risques": [
-        "Très grand écart entre les objectifs des analystes (4 $ à 32 $), signe d'une forte incertitude",
-        "Société biotech en phase clinique, sans chiffre d'affaires communiqué et donc dépendante de résultats d'essais",
-        "Baisse marquée du cours, proche du plus bas sur 52 semaines (7,02 $)"
+        "Société clinique sans chiffre d'affaires communiqué, donc très dépendante des résultats d'essais",
+        "Cours proche du plus bas annuel (7,02 $) et tendance baissière",
+        "Avis des analystes très dispersés (objectifs de 4 $ à 32 $), signe d'une forte incertitude"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Éventuelles données d'essais cliniques sur les candidats médicaments (dates non précisées)"
+        "Publication des résultats trimestriels prévue le 12 novembre 2026",
+        "Éventuelles données d'essais cliniques sur les candidats-médicaments (non datées dans les informations fournies)"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas sur 52 semaines (7,02 $) et si l'entreprise annonce des données cliniques ou des informations sur sa trésorerie."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas de 52 semaines (7,02 $) et attendre des annonces propres à Eikon (données cliniques, financement)."
     }
   },
   "EXK": {
@@ -216,29 +215,29 @@
     }
   },
   "_synthese": {
-    "sig": "3e9d3602c7d59de1",
+    "sig": "13a9d3469328f780",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 %.",
-          "a_surveiller": "La forte volatilité du titre, la baisse du chiffre d'affaires et le fait qu'une part de la bonne nouvelle soit peut-être déjà dans le cours.",
+          "pourquoi": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 %.",
+          "a_surveiller": "La forte volatilité après cette hausse d'environ 18 % en une séance, la baisse de cible de Jefferies et le recul du chiffre d'affaires (-0,45 %).",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "TRAX",
-          "pourquoi": "L'action de First Tracks Biotherapeutics a progressé d'environ 20 % après des données d'essai clinique jugées encourageantes dans la maladie cœliaque.",
-          "a_surveiller": "Les détails chiffrés de l'essai, absents des titres, car un repli reste possible si les données déçoivent.",
+          "pourquoi": "L'action First Tracks Biotherapeutics a bondi d'environ 20 % après des données d'essai clinique jugées encourageantes dans la maladie cœliaque.",
+          "a_surveiller": "Les détails chiffrés de l'essai, non précisés dans les titres, car une déception pourrait entraîner un repli après cette hausse brutale.",
           "nom": "First Tracks Biotherapeutics, I"
         },
         {
           "symbole": "GOOG",
-          "pourquoi": "Le bénéfice d'Alphabet a bondi de 81 % avec une croissance du chiffre d'affaires de 24,2 %, ce qui témoigne d'une activité très dynamique.",
-          "a_surveiller": "Le cours de 350,96 USD, sous le plus haut annuel de 404,47 USD et proche de l'objectif bas des analystes (340 USD), ainsi que la valorisation très élevée.",
+          "pourquoi": "Alphabet aurait vu son bénéfice bondir de 81 % selon Euronews, ce qui est cohérent avec la hausse de 24,2 % du chiffre d'affaires.",
+          "a_surveiller": "La valorisation très élevée (environ 4 280 milliards USD de capitalisation), l'écart avec le plus haut sur 52 semaines (404,47 USD) et l'objectif bas des analystes (340 USD) proche du cours actuel.",
           "nom": "Alphabet Inc."
         }
       ],
-      "prudence": "Ces informations sont données à titre indicatif : les hausses brutales peuvent s'inverser rapidement et tout investissement comporte un risque de perte en capital."
+      "prudence": "Ces informations ne sont pas un conseil en investissement : les valeurs de biotechnologie et les titres ayant fortement monté peuvent varier brutalement, et tout investissement comporte un risque de perte en capital."
     }
   },
   "SVC": {
@@ -338,27 +337,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "e16f8c8af58bf621",
+    "sig": "1bb988eb6810964f",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % en Bourse. Cette autorisation est une étape réglementaire majeure pour un produit en attente depuis plusieurs mois. Elle peut ouvrir la voie à de futurs revenus, mais le titre reste très volatil.",
+      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % en Bourse. Cette étape réglementaire compte beaucoup pour une biotech dont la valeur dépend de ses produits à libération prolongée. Les analystes restent très favorables (avis strong_buy, objectif moyen 35,06 € contre 29,02 € de cours), même si Jefferies a abaissé sa cible.",
       "points_forts": [
         "Feu vert américain pour Weltruza (schizophrénie)",
-        "Objectif moyen des analystes (35,7 €) au-dessus du cours (29,26 €)",
-        "Avis « strong buy » de 9 analystes"
+        "Consensus d'analystes strong_buy sur 9 avis",
+        "Objectif moyen de 35,06 € supérieur au cours actuel"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-0,446)",
-        "Forte volatilité, titre suspendu puis repris en séance",
-        "Après la forte hausse, une part de la bonne nouvelle est peut-être déjà dans le cours"
+        "Chiffre d'affaires en recul (-0,45 %)",
+        "Forte volatilité après un bond de 18 % en une séance",
+        "Jefferies a revu sa cible à la baisse"
       ],
       "catalyseurs": [
         "Lancement commercial de Weltruza aux États-Unis",
-        "Avancées de mdc-CWM (essai de phase III contre la douleur post-opératoire)"
+        "Avancée de mdc-CWM (essai de phase III contre la douleur post-opératoire)"
       ],
-      "a_surveiller": "Le calendrier de commercialisation de Weltruza et la capacité du titre à se maintenir au-dessus de son niveau de résistance après cette hausse brutale."
+      "a_surveiller": "Vérifier si le titre tient ses niveaux après la hausse et suivre les premiers signes de ventes de Weltruza, la date des prochains résultats n'étant pas communiquée."
     }
   },
   "KLRA": {
@@ -434,27 +433,26 @@
     }
   },
   "MYN": {
-    "sig": "ee5f84d13612b68a",
+    "sig": "6b633add52d13939",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 1,
       "confiance": "faible",
-      "resume": "Le seul titre pertinent annonce la publication des résultats annuels du fonds BlackRock MuniYield New York Quality Fund, sans aucun chiffre détaillé dans les données fournies. Les autres titres sont de simples pages de cours d'autres fonds, sans lien concret avec MYN. L'action se situe près de son plus bas sur 52 semaines (8.78 USD contre 8.58), après une baisse d'environ 9 % sur 6 mois.",
+      "resume": "Le seul titre pertinent annonce la publication des résultats annuels du fonds MYN, sans en donner le contenu. Les autres titres sont de simples pages de cours d'autres fonds (CION, MYI, DXYZ, VTN) qui ne concernent pas directement MYN. Rien de concret ne permet donc d'en tirer une conclusion sur le fonds.",
       "points_forts": [
         "Croissance du chiffre d'affaires de 6,5 %",
-        "Fonds investi en obligations municipales de qualité (investment grade) exonérées d'impôt fédéral",
-        "Gestion assurée par BlackRock, grand acteur du secteur"
+        "Fonds géré par BlackRock, investi en obligations municipales de qualité"
       ],
       "risques": [
-        "Cours proche du plus bas sur 52 semaines",
-        "Tendance baissière sur 6 mois",
-        "Aucun avis d'analystes ni objectif de cours disponible"
+        "Cours en baisse de 8,7 % sur 6 mois, proche du plus bas annuel (8,58 USD)",
+        "Aucune couverture d'analystes ni objectif de cours disponible",
+        "Détails des résultats non communiqués dans les titres"
       ],
       "catalyseurs": [
-        "Détail des résultats annuels publiés (revenus distribués, valeur liquidative)",
-        "Évolution des taux d'intérêt, qui pèse sur les fonds d'obligations"
+        "Détail des résultats publiés et de la distribution aux porteurs",
+        "Évolution des taux d'intérêt, qui pèse sur les fonds obligataires"
       ],
-      "a_surveiller": "Surveillez si le cours reste au-dessus du plus bas de 8.58 USD et ce que montrent les détails des résultats publiés, notamment les distributions."
+      "a_surveiller": "Lire le rapport complet pour voir l'évolution de la valeur liquidative, des distributions et de la décote, et suivre si le cours casse le plus bas annuel de 8,58 USD."
     }
   },
   "AL2SI.PA": {
@@ -506,27 +504,27 @@
     }
   },
   "CTNM": {
-    "sig": "da25773c42440675",
+    "sig": "8e50b97caac9501b",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis sont des pages de cotation génériques (Moderna, Novavax, CBIO, ALT) et ne parlent pas de Contineum Therapeutics. Ils n'apportent donc aucune information concrète sur l'entreprise. Le cours (10,86 USD) a reculé d'environ 16 % en 6 mois, mais reste au-dessus de son plus bas annuel de 8,6 USD.",
+      "resume": "Les titres d'actualité récents ne concernent pas vraiment Contineum : ce sont des pages de cours d'autres sociétés (Moderna, Novavax, etc.), sans information concrète sur l'entreprise. Le titre cote 9,92 USD, en baisse d'environ 23,5 % sur 6 mois, proche du bas de sa fourchette annuelle (8,425 - 17,785), alors que les analystes restent très favorables sur le papier.",
       "points_forts": [
-        "Avis des analystes très favorable (strong_buy, 7 analystes)",
-        "Objectif moyen (22,29 USD) nettement au-dessus du cours actuel",
-        "Pipeline clinique avec deux candidats (PIPE-791 et PIPE-307)"
+        "Avis analystes « strong_buy » (7 analystes)",
+        "Objectif moyen (22,43 USD) très supérieur au cours actuel",
+        "Actifs cliniques en neurosciences et inflammation (PIPE-791, PIPE-307)"
       ],
       "risques": [
-        "Société en phase clinique : les résultats des essais restent incertains",
-        "Aucun chiffre d'affaires communiqué",
-        "Forte volatilité probable pour une petite capitalisation (environ 409 M USD)"
+        "Société biotech au stade clinique, très volatile",
+        "Baisse de 23,5 % sur 6 mois, cours proche du plus bas annuel",
+        "Pas de chiffre d'affaires communiqué : dépend des résultats d'essais et du financement"
       ],
       "catalyseurs": [
-        "Prochains résultats financiers prévus le 2026-10-29",
-        "Annonces de données cliniques sur PIPE-791 ou PIPE-307 (dates non précisées)"
+        "Publication des prochains résultats prévue le 2026-10-29",
+        "Éventuelles données d'essais cliniques sur PIPE-791 ou PIPE-307 (aucune date fournie)"
       ],
-      "a_surveiller": "Surveiller les communiqués officiels de l'entreprise sur l'avancement des essais cliniques, plus pertinents que ces pages de cotation génériques."
+      "a_surveiller": "Surveiller les communiqués officiels de la société sur les essais cliniques et sa trésorerie, plus informatifs que ces titres sans rapport."
     }
   },
   "ALLT": {
@@ -647,6 +645,30 @@
         "Éventuelles révisions des objectifs de cours par les analystes"
       ],
       "a_surveiller": "Vérifier que les informations lues concernent bien FIGS (scrubwear) et non Figma, puis suivre la croissance du chiffre d'affaires lors des prochains résultats."
+    }
+  },
+  "GOGO": {
+    "sig": "a16e57a7f075bd8a",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres récents sont de simples pages de cours (Zonebourse, TradingView) et ne donnent aucune information concrète sur l'entreprise. Le contexte reste marqué par une forte baisse du cours (-45,3 % en 6 mois), proche du plus bas sur 52 semaines (2,05 USD), avec un chiffre d'affaires quasi stable (-1,4 %).",
+      "points_forts": [
+        "Objectifs des analystes (7 à 10 USD) bien au-dessus du cours actuel",
+        "Chiffre d'affaires quasi stable (-1,4 %)",
+        "Activité centrée sur la connectivité à bord des avions"
+      ],
+      "risques": [
+        "Forte chute du cours, tendance baissière nette",
+        "Seulement 2 analystes, avis peu représentatif et aucune recommandation claire",
+        "Petite capitalisation (environ 347 M USD), donc très volatile"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 5 novembre 2026",
+        "Éventuelles nouvelles sur les contrats avec les compagnies aériennes ou la concurrence (non précisées dans les données)"
+      ],
+      "a_surveiller": "Les résultats du 5 novembre 2026 et la capacité du cours à se stabiliser au-dessus du plus bas annuel de 2,05 USD."
     }
   }
 }
