@@ -32,13 +32,13 @@
       "premiere": "2026-10-10T17:46+02:00",
       "nom": "Infleqtion, Inc."
     },
-    "EIKN": {
-      "premiere": "2026-10-10T17:46+02:00",
-      "nom": "Eikon Therapeutics, Inc."
-    },
     "ABSI": {
       "premiere": "2026-10-10T18:17+02:00",
       "nom": "Absci Corporation"
+    },
+    "MYN": {
+      "premiere": "2026-10-12T09:14+02:00",
+      "nom": "Blackrock MuniYield New York Qu"
     }
   },
   "sorties": [
@@ -46,6 +46,11 @@
       "symbole": "MEDCL.PA",
       "date": "10/10/2026",
       "nom": "MEDINCELL S.A."
+    },
+    {
+      "symbole": "EIKN",
+      "date": "12/10/2026",
+      "nom": "Eikon Therapeutics, Inc."
     }
   ]
 }
