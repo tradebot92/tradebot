@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "61bf86e1cf151fa1",
+    "sig": "8e2bdd0966aac566",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et des articles généraux : l'entrée en Bourse via un SPAC (valorisation de 1,8 milliard de dollars) et un bond de 314 % évoqué sur TradingView, sans détail concret dans les données. Le cours (11,04 $) est en baisse de 12,3 % sur 6 mois et reste très éloigné du plus haut sur 52 semaines (21,28 $), ce qui montre une forte volatilité.",
+      "resume": "Les titres récents sont surtout des pages de cours et des commentaires généraux : Infleqtion, spécialiste des technologies quantiques, est entrée en Bourse via un SPAC valorisant la société à 1,8 milliard de dollars. Un article évoque un bond de 314 %, mais sans détail concret ici. L'action reste très volatile, à 11,04 $ contre un plus haut annuel de 21,28 $.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 156,5 %",
-        "Objectif moyen des analystes (21,83 $) nettement au-dessus du cours actuel",
-        "Positionnement dans les technologies quantiques (calcul, capteurs, horloges)"
+        "Croissance du chiffre d'affaires élevée (1,565)",
+        "Avis des analystes : strong_buy, objectif moyen 21,83 $",
+        "Gamme variée : capteurs, horloges et informatique quantique"
       ],
       "risques": [
-        "Forte volatilité typique d'une petite valeur issue d'un SPAC",
-        "Cours proche du bas de la fourchette sur 52 semaines (8,52 $) après un fort recul depuis le sommet",
-        "Valorisation élevée (capitalisation d'environ 2,5 milliards de dollars) liée à l'engouement pour le quantique"
+        "Forte volatilité (fourchette 52 sem. de 8,52 à 21,28 $)",
+        "Valorisation élevée (environ 2,5 Md$) pour une entreprise récemment cotée via SPAC",
+        "Secteur quantique spéculatif, sensible à l'humeur du marché"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 12 novembre 2026",
-        "Évolution de l'enthousiasme du marché pour les valeurs quantiques (ex. QUBT)"
+        "Publication des résultats prévue le 2026-11-12",
+        "Évolution des objectifs et avis des analystes"
       ],
-      "a_surveiller": "Surveille si la forte croissance du chiffre d'affaires se confirme aux prochains résultats et comment le cours réagit autour de son plus bas sur 52 semaines."
+      "a_surveiller": "Surveille la publication des résultats du 12 novembre 2026 et la capacité de l'entreprise à transformer sa croissance du chiffre d'affaires en résultats durables, sans oublier la volatilité du secteur quantique."
     }
   },
   "EIKN": {
@@ -242,51 +242,51 @@
     }
   },
   "SVC": {
-    "sig": "ac790a5625f13c03",
+    "sig": "c9f060fb702b7f6f",
     "analyse": {
       "sentiment": "neutre",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "TKO propose 2 milliards de dollars pour le portefeuille hôtelier de Service Properties Trust, ce qui pourrait changer fortement la structure de la société si l'offre aboutit. Par ailleurs, la distribution trimestrielle reste fixée à 0,05 $ par action, payable le 12 novembre. Les détails de l'offre (acceptation, conditions) ne sont pas connus à ce stade.",
+      "resume": "TKO propose 2 milliards de dollars pour le portefeuille hôtelier de Service Properties Trust, ce qui pourrait transformer l'activité de la société, qui détient aussi des commerces en location nette. Par ailleurs, le dividende trimestriel est maintenu à 0,05 $ par action, payable le 12 novembre. Les détails de l'offre (acceptation, conditions, usage du produit) ne sont pas connus à ce stade.",
       "points_forts": [
-        "Offre de 2 Md$ de TKO sur les hôtels",
-        "Dividende maintenu à 0,05 $ par trimestre",
-        "Objectifs des analystes (moyen 13,75 $) au-dessus du cours de 7,15 $"
+        "Offre de 2 Md$ pour le portefeuille hôtelier, signe d'un intérêt externe",
+        "Dividende trimestriel maintenu à 0,05 $",
+        "Objectif moyen des analystes (12,19 $) bien au-dessus du cours de 7,15 $"
       ],
       "risques": [
         "Chiffre d'affaires en baisse (-16,4 %)",
-        "Offre non confirmée, issue incertaine",
-        "Capitalisation faible (environ 0,9 Md$) et cours volatil (52 sem. : 5,65 à 12,15 $)"
+        "Offre non confirmée : aucune certitude qu'elle aboutisse",
+        "Titre volatil (52 sem. : 5,65 à 12,15 $) et petite capitalisation (environ 0,93 Md$)"
       ],
       "catalyseurs": [
         "Réponse de la société à l'offre de TKO",
         "Publication des résultats le 4 novembre 2026"
       ],
-      "a_surveiller": "Suivre si le conseil d'administration accepte, refuse ou négocie l'offre de TKO, et ce que la société prévoit de faire du produit éventuel de la vente."
+      "a_surveiller": "La réaction du conseil d'administration à l'offre de TKO et l'éventuel usage du produit d'une vente (désendettement, dividende, réinvestissement)."
     }
   },
   "NVAX": {
-    "sig": "b6ce648222a77271",
+    "sig": "071977d20901f4de",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 1,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis sont uniquement des pages de cotation et de graphiques (Zonebourse, Boursorama, TradingView, Bourse Direct), sans information concrète sur l'entreprise. Le cours de 12,75 USD a fortement progressé en 6 mois (+57,2 %) et se rapproche de son plus haut sur 52 semaines (13,39), tandis que le chiffre d'affaires est en net recul (-76,3 %).",
+      "resume": "Les titres d'actualité sont de simples pages de cotation (Zonebourse, Boursorama, TradingView, Bourse Direct) et n'apportent aucune information concrète sur Novavax. Le cours de 12,75 USD a fortement monté en 6 mois (+57,2 %) et se situe près de son plus haut sur 52 semaines (13,39), alors que le chiffre d'affaires recule nettement (-0,763 selon les données fournies).",
       "points_forts": [
-        "Hausse de 57,2 % du cours sur 6 mois",
-        "Avis moyen des analystes : achat (9 analystes)",
+        "Cours en hausse de 57,2 % sur 6 mois, proche du plus haut annuel",
+        "Avis moyen des 9 analystes : buy, objectif moyen d'environ 14 USD",
         "Accords de licence avec Sanofi, Pfizer, Takeda et Serum Life Sciences"
       ],
       "risques": [
-        "Chiffre d'affaires en forte baisse (-76,3 %)",
-        "Titre très volatil (plus bas 6,2 et plus haut 13,39 sur 52 semaines)",
-        "Objectif moyen des analystes (14,11) proche du cours, avec un objectif bas à 7,0"
+        "Chiffre d'affaires en forte baisse (-0,763)",
+        "Titre très volatile (plus bas annuel 6,2 contre 13,39 en haut)",
+        "Objectifs d'analystes très dispersés (7 à 25 USD), signe de forte incertitude"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-05",
-        "Révisions des objectifs de cours par les analystes"
+        "Publication des prochains résultats prévue le 5 novembre 2026",
+        "Évolutions liées aux accords de licence et à la commercialisation de Nuvaxovid et du vaccin contre le paludisme R21"
       ],
-      "a_surveiller": "Surveiller si le cours franchit durablement son plus haut sur 52 semaines (13,39) et ce que diront les prochains résultats sur l'évolution du chiffre d'affaires."
+      "a_surveiller": "Surveiller la trajectoire du chiffre d'affaires dans les prochains résultats, car le cours proche de son plus haut annuel contraste avec la baisse des ventes."
     }
   },
   "BKD": {
@@ -314,51 +314,51 @@
     }
   },
   "ALHC": {
-    "sig": "531cd81e7d803560",
+    "sig": "37529f7361471fa6",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 1,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont de simples pages de cours et de graphiques (ALHC, Molina, UnitedHealth), sans information concrète sur l'entreprise. Le contexte reste marqué par une forte baisse du titre (-64 % en 6 mois), alors que le chiffre d'affaires progresse de 31,6 % et que les analystes restent globalement favorables.",
+      "resume": "Les titres récents sont de simples pages de cours (TradingView, Zonebourse) sur ALHC et sur d'autres assureurs santé comme Molina et UnitedHealth, sans information concrète sur l'entreprise. Le contexte reste tendu : l'action a perdu environ 64 % en 6 mois, alors que le chiffre d'affaires progresse de 31,6 % et que les analystes restent très positifs.",
       "points_forts": [
         "Croissance du chiffre d'affaires de 31,6 %",
-        "Avis moyen des analystes : achat (13 analystes)",
-        "Objectif moyen des analystes (17,15 $) très au-dessus du cours actuel (7,55 $)"
+        "Avis moyen des analystes « strong buy » (13 analystes)",
+        "Objectif moyen de 20,54 USD, nettement au-dessus du cours de 7,55 USD"
       ],
       "risques": [
-        "Chute de 64 % en 6 mois, forte volatilité",
-        "Cours proche du plus bas sur 52 semaines (6,01 $)",
-        "Secteur des plans de santé suivi de près, avec des pairs comme Molina et UnitedHealth en toile de fond"
+        "Baisse de 64 % en 6 mois, signe d'une forte volatilité",
+        "Cours proche du plus bas sur 52 semaines (6,01 USD)",
+        "Secteur des assureurs santé sous pression, avec des pairs comme Molina et UnitedHealth également suivis"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 29 octobre 2026",
-        "Révisions des objectifs ou des avis des analystes"
+        "Évolutions des objectifs et avis des analystes"
       ],
-      "a_surveiller": "Surveiller si le titre tient au-dessus de son plus bas de 52 semaines (6,01 $) et ce que diront les prochains résultats sur la croissance et la rentabilité."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas des 52 semaines (6,01 USD) et ce que diront les prochains résultats sur la rentabilité, au-delà de la croissance du chiffre d'affaires."
     }
   },
   "MEDCL.PA": {
-    "sig": "8f42a91fb200509a",
+    "sig": "f8c6744624df1db4",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell. Le titre a fortement progressé, environ 18 % selon un titre de presse, et au moins un analyste (Stifel) a exprimé sa confiance. Cette étape compte car elle peut ouvrir une nouvelle source de revenus pour une société dont le chiffre d'affaires recule actuellement.",
+      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à Medincell, et le titre a bondi d'environ 18 % en Bourse. C'est important car cela valide un produit clé du portefeuille et peut ouvrir de nouvelles sources de revenus. Un analyste (Stifel) a aussi exprimé sa confiance, mais les titres ne donnent pas de détails chiffrés.",
       "points_forts": [
-        "Feu vert américain pour Weltruza dans la schizophrénie",
-        "Avis des analystes : strong_buy, objectif moyen 35,72 € (au-dessus du cours de 29,06 €)",
-        "Confiance affichée par Stifel après l'annonce"
+        "Feu vert américain pour Weltruza (schizophrénie)",
+        "Consensus des 9 analystes : strong_buy, objectif moyen ~35 EUR",
+        "Cours de 28 EUR, nettement sous le plus haut annuel de 39,68 EUR"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse de 0,446 sur la période indiquée",
-        "Forte volatilité : hausse brutale qui peut se retourner, cours encore loin du plus haut 52 sem. de 39,68 €",
-        "Les données fournies ne détaillent pas le calendrier commercial ni les revenus attendus du produit"
+        "Chiffre d'affaires en baisse (-44,6 %) selon les données fournies",
+        "Titre très volatile : un bond de 18 % peut en partie se corriger",
+        "Le succès commercial après l'autorisation reste à démontrer"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis et premières ventes",
-        "Avancement du mdc-CWM (celecoxib, phase III) contre la douleur post-opératoire"
+        "Lancement commercial et premières ventes de Weltruza",
+        "Avancées des autres programmes (mdc-CWM en phase III)"
       ],
-      "a_surveiller": "Voir si la hausse se maintient dans les prochains jours et si les communiqués de la société précisent le calendrier de lancement et les revenus attendus, car aucune date de résultats n'est indiquée."
+      "a_surveiller": "Surveiller la rapidité du déploiement commercial de Weltruza et la trajectoire du chiffre d'affaires, après la forte hausse du cours liée à cette annonce."
     }
   },
   "KLRA": {
