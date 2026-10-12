@@ -216,77 +216,77 @@
     }
   },
   "_synthese": {
-    "sig": "52069e3daa47c98c",
+    "sig": "c937cfa77abdad8f",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % selon la presse.",
-          "a_surveiller": "Le titre est volatil et proche de 28 €, donc une partie de la nouvelle peut déjà être intégrée, alors que le chiffre d'affaires recule de 44,6 %.",
+          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et l'action a progressé d'environ 18 % selon BFM Bourse.",
+          "a_surveiller": "Le succès commercial du lancement reste incertain, le chiffre d'affaires est en recul et la forte hausse récente peut déjà être en partie intégrée au cours.",
           "nom": "MEDINCELL S.A."
         },
         {
-          "symbole": "SVC",
-          "pourquoi": "TKO propose 2 milliards de dollars pour le portefeuille hôtelier de Service Properties Trust, ce qui pourrait transformer l'activité, et le dividende trimestriel est maintenu à 0,05 $ par action.",
-          "a_surveiller": "Les détails de l'offre (acceptation, conditions, usage du produit) ne sont pas connus et rien ne garantit qu'elle aboutisse.",
-          "nom": "Service Properties Trust"
+          "symbole": "GOOG",
+          "pourquoi": "Les actualités évoquent un bénéfice d'Alphabet en hausse de 81 % et un accord important avec Anthropic, qui a fait monter l'action d'environ 2 %.",
+          "a_surveiller": "Le cours (347,86 USD) reste loin du plus haut sur 52 semaines (404,47 USD), proche de l'objectif bas des analystes (340 USD), et les détails de l'accord ne sont pas précisés.",
+          "nom": "Alphabet Inc."
         },
         {
-          "symbole": "BKD",
-          "pourquoi": "L'action Brookdale a chuté après une stagnation du taux d'occupation en juin et recule d'environ 25,6 % sur 6 mois, près du bas de sa fourchette annuelle.",
-          "a_surveiller": "L'évolution du taux d'occupation, indicateur clé pour un exploitant de résidences seniors, alors que le chiffre d'affaires baisse de 8,9 %.",
-          "nom": "Brookdale Senior Living Inc."
+          "symbole": "SVC",
+          "pourquoi": "TKO a proposé 2 milliards de dollars pour le portefeuille hôtelier de Service Properties Trust, ce qui pourrait changer fortement la structure de la société.",
+          "a_surveiller": "Il ne s'agit que d'une proposition sans garantie d'aboutissement, le chiffre d'affaires recule de 16,4 % et le cours de cette petite capitalisation peut être très volatil.",
+          "nom": "Service Properties Trust"
         }
       ],
-      "prudence": "Ces informations sont données à titre indicatif : les cours peuvent varier fortement dans les deux sens et il existe toujours un risque de perte en capital."
+      "prudence": "Ces éléments sont donnés à titre d'information : les cours peuvent varier fortement à la hausse comme à la baisse, et rien ne garantit qu'une actualité positive se traduise durablement dans le cours."
     }
   },
   "SVC": {
-    "sig": "c9f060fb702b7f6f",
+    "sig": "0343d9c5e94b05b4",
     "analyse": {
       "sentiment": "neutre",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "TKO propose 2 milliards de dollars pour le portefeuille hôtelier de Service Properties Trust, ce qui pourrait transformer l'activité de la société, qui détient aussi des commerces en location nette. Par ailleurs, le dividende trimestriel est maintenu à 0,05 $ par action, payable le 12 novembre. Les détails de l'offre (acceptation, conditions, usage du produit) ne sont pas connus à ce stade.",
+      "resume": "TKO a proposé 2 milliards de dollars pour le portefeuille hôtelier de Service Properties Trust. Une vente éventuelle pourrait changer fortement la structure de la société, qui détient aussi des commerces en location nette. Le dividende trimestriel reste fixé à 0,05 $ par action (versement le 12 novembre), mais le chiffre d'affaires recule de 16,4 %.",
       "points_forts": [
-        "Offre de 2 Md$ pour le portefeuille hôtelier, signe d'un intérêt externe",
+        "Offre de 2 Md$ de TKO pour les hôtels, ce qui valorise le portefeuille",
         "Dividende trimestriel maintenu à 0,05 $",
-        "Objectif moyen des analystes (12,19 $) bien au-dessus du cours de 7,15 $"
+        "Objectifs des analystes (moyen 13,75 $) bien au-dessus du cours de 7,15 $"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-16,4 %)",
-        "Offre non confirmée : aucune certitude qu'elle aboutisse",
-        "Titre volatil (52 sem. : 5,65 à 12,15 $) et petite capitalisation (environ 0,93 Md$)"
+        "Chiffre d'affaires en baisse de 16,4 %",
+        "L'offre n'est qu'une proposition, rien ne garantit qu'elle aboutisse",
+        "Petite capitalisation (environ 0,93 Md$), donc cours potentiellement volatil, avec un écart important entre plus bas (5,65 $) et plus haut (12,15 $) sur 52 semaines"
       ],
       "catalyseurs": [
-        "Réponse de la société à l'offre de TKO",
+        "Réponse de la société à l'offre de TKO et éventuelles conditions de la transaction",
         "Publication des résultats le 4 novembre 2026"
       ],
-      "a_surveiller": "La réaction du conseil d'administration à l'offre de TKO et l'éventuel usage du produit d'une vente (désendettement, dividende, réinvestissement)."
+      "a_surveiller": "Suivre si le conseil d'administration accepte, refuse ou négocie l'offre de TKO, et comment la société utiliserait le produit de la vente (dette, dividende, autres actifs)."
     }
   },
   "NVAX": {
-    "sig": "071977d20901f4de",
+    "sig": "b6ce648222a77271",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres d'actualité sont de simples pages de cotation (Zonebourse, Boursorama, TradingView, Bourse Direct) et n'apportent aucune information concrète sur Novavax. Le cours de 12,75 USD a fortement monté en 6 mois (+57,2 %) et se situe près de son plus haut sur 52 semaines (13,39), alors que le chiffre d'affaires recule nettement (-0,763 selon les données fournies).",
+      "resume": "Les titres récents sont de simples pages de cotation (Zonebourse, Boursorama, TradingView, Bourse Direct) et ne révèlent aucune information concrète sur Novavax. Le cours de 12,75 USD a gagné environ 57 % en 6 mois et se situe près de son plus haut annuel (13,39), alors que le chiffre d'affaires est en fort recul (-76,3 %). Le cours est proche de l'objectif moyen des analystes (14,11), avec un large écart entre les objectifs bas (7) et haut (25).",
       "points_forts": [
-        "Cours en hausse de 57,2 % sur 6 mois, proche du plus haut annuel",
-        "Avis moyen des 9 analystes : buy, objectif moyen d'environ 14 USD",
+        "Forte hausse du cours sur 6 mois (+57 %)",
+        "Avis moyen des analystes : acheteur (9 analystes)",
         "Accords de licence avec Sanofi, Pfizer, Takeda et Serum Life Sciences"
       ],
       "risques": [
-        "Chiffre d'affaires en forte baisse (-0,763)",
-        "Titre très volatile (plus bas annuel 6,2 contre 13,39 en haut)",
-        "Objectifs d'analystes très dispersés (7 à 25 USD), signe de forte incertitude"
+        "Chiffre d'affaires en forte baisse (-76,3 %)",
+        "Forte volatilité (plus bas 6,2 et plus haut 13,39 sur 52 semaines)",
+        "Cours proche du haut annuel et objectif bas des analystes à 7, bien en dessous du cours"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 5 novembre 2026",
-        "Évolutions liées aux accords de licence et à la commercialisation de Nuvaxovid et du vaccin contre le paludisme R21"
+        "Publication des résultats prévue le 5 novembre 2026",
+        "Évolutions des ventes de Nuvaxovid et des accords de licence"
       ],
-      "a_surveiller": "Surveiller la trajectoire du chiffre d'affaires dans les prochains résultats, car le cours proche de son plus haut annuel contraste avec la baisse des ventes."
+      "a_surveiller": "Surveiller si le cours franchit ou non le plus haut annuel de 13,39 USD, et la trajectoire du chiffre d'affaires lors des prochains résultats."
     }
   },
   "BKD": {
@@ -314,75 +314,75 @@
     }
   },
   "ALHC": {
-    "sig": "37529f7361471fa6",
+    "sig": "531cd81e7d803560",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont de simples pages de cours (TradingView, Zonebourse) sur ALHC et sur d'autres assureurs santé comme Molina et UnitedHealth, sans information concrète sur l'entreprise. Le contexte reste tendu : l'action a perdu environ 64 % en 6 mois, alors que le chiffre d'affaires progresse de 31,6 % et que les analystes restent très positifs.",
+      "resume": "Les titres récents sont de simples pages de cours et de graphiques (ALHC, Molina, UnitedHealth) et ne donnent aucune information concrète sur l'entreprise. Le contexte reste tendu : l'action a perdu 64 % en 6 mois et se trouve proche de son plus bas sur 52 semaines (6,01 USD), alors que le chiffre d'affaires progresse de 31,6 %.",
       "points_forts": [
         "Croissance du chiffre d'affaires de 31,6 %",
-        "Avis moyen des analystes « strong buy » (13 analystes)",
-        "Objectif moyen de 20,54 USD, nettement au-dessus du cours de 7,55 USD"
+        "Avis moyen des analystes : achat (13 analystes)",
+        "Objectif moyen des analystes (17,15 USD) nettement au-dessus du cours de 7,55 USD"
       ],
       "risques": [
-        "Baisse de 64 % en 6 mois, signe d'une forte volatilité",
-        "Cours proche du plus bas sur 52 semaines (6,01 USD)",
-        "Secteur des assureurs santé sous pression, avec des pairs comme Molina et UnitedHealth également suivis"
+        "Forte baisse de 64 % en 6 mois, signe d'une grande volatilité",
+        "Petite capitalisation (environ 1,6 Md USD), donc sensible aux mauvaises nouvelles",
+        "Secteur des assurances santé sous pression, avec des pairs comme Molina et UnitedHealth suivis de près"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 29 octobre 2026",
-        "Évolutions des objectifs et avis des analystes"
+        "Révisions des objectifs ou des avis des analystes après ces résultats"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas des 52 semaines (6,01 USD) et ce que diront les prochains résultats sur la rentabilité, au-delà de la croissance du chiffre d'affaires."
+      "a_surveiller": "Les prochains résultats du 29 octobre 2026 et la capacité du titre à tenir au-dessus de son plus bas de 52 semaines (6,01 USD)."
     }
   },
   "MEDCL.PA": {
-    "sig": "d5526ea237352fac",
+    "sig": "4da625fd2255d054",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % selon la presse. Cette étape réglementaire compte car elle ouvre la voie à une commercialisation aux États-Unis et confirme la technologie d'injection à libération prolongée de la société. Plusieurs analystes (Stifel notamment) affichent leur confiance.",
+      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell (TEV-749 / mdc-TJK d'après les titres). L'action a fortement progressé, de l'ordre de 18 % selon BFM Bourse. Cette approbation compte car elle fait passer un produit du stade de développement à celui de la commercialisation.",
       "points_forts": [
-        "Feu vert américain pour Weltruza (schizophrénie)",
-        "Avis des analystes très favorable (strong_buy, objectif moyen ~35 €)",
-        "Cours en hausse de 15,1 % sur 6 mois et franchissement d'une résistance technique"
+        "Feu vert de la FDA pour Weltruza",
+        "Avis des analystes : strong_buy (9 analystes), objectif moyen 35,72 € contre 28,52 € de cours",
+        "UZEDY déjà commercialisé, pipeline avancé (mdc-CWM en phase III)"
       ],
       "risques": [
-        "Chiffre d'affaires en recul (-44,6 %)",
-        "Titre volatil : une forte hausse en une séance peut être suivie d'un repli",
-        "Cours déjà proche de 28 €, une partie de la bonne nouvelle peut être intégrée"
+        "Chiffre d'affaires en recul de 0,446 sur la dernière période",
+        "Titre volatile : forte hausse récente pouvant être en partie déjà intégrée au cours",
+        "Succès commercial du lancement encore incertain"
       ],
       "catalyseurs": [
-        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
-        "Avancées des autres programmes, comme mdc-CWM en phase III contre la douleur post-opératoire"
+        "Lancement commercial de Weltruza aux États-Unis",
+        "Avancement de l'essai de phase III de mdc-CWM (douleur post-opératoire)"
       ],
-      "a_surveiller": "Le rythme du lancement de Weltruza et la capacité du titre à tenir ses niveaux après le bond de la séance, sachant qu'aucune date de prochains résultats n'est communiquée."
+      "a_surveiller": "Surveiller la réaction du cours dans les prochains jours après l'envolée, ainsi que les premiers signaux sur le lancement commercial et la date des prochains résultats (non communiquée)."
     }
   },
   "KLRA": {
-    "sig": "828e4c353c16f7a1",
+    "sig": "8e2f3dddfc043388",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont peu concrets : l'un rappelle que l'introduction en bourse de Kailera est la plus grande du secteur biotech depuis 2021, les deux autres sont des pages de cotation d'autres sociétés. Le cours a pourtant baissé d'environ 55 % en 6 mois et se situe près de son plus bas sur 52 semaines, alors que les analystes restent très positifs. Cela montre une forte volatilité et un décalage entre le cours et les objectifs des analystes.",
+      "resume": "Les titres récents portent surtout sur l'introduction en bourse de Kailera, présentée comme la plus grande du secteur biotech depuis 2021, dans un contexte de course aux traitements contre l'obésité. Les autres titres sont généraux ou concernent d'autres sociétés, sans information concrète sur Kailera. Le cours a pourtant perdu environ 55 % en 6 mois, ce qui montre une forte volatilité.",
       "points_forts": [
-        "Pipeline centré sur l'obésité, un domaine très suivi (KAI-9531, KAI-7535, KAI-4729)",
-        "5 analystes en avis strong_buy, objectif moyen 42,4 USD",
-        "Introduction en bourse de grande taille, signe d'un fort intérêt des investisseurs"
+        "Introduction en bourse de grande taille pour le secteur",
+        "Pipeline varié dans l'obésité (injectable et oral)",
+        "Avis des analystes très favorable (5 analystes, objectif moyen 42,4 USD)"
       ],
       "risques": [
-        "Société au stade clinique, sans chiffre d'affaires communiqué",
-        "Baisse d'environ 55 % en 6 mois, forte volatilité",
-        "Concurrence intense dans la course aux traitements contre l'obésité"
+        "Société au stade clinique, sans chiffre d'affaires indiqué",
+        "Forte baisse du cours (-55,3 % sur 6 mois) et volatilité élevée",
+        "Concurrence intense sur le marché de l'obésité"
       ],
       "catalyseurs": [
-        "Publication des résultats trimestriels prévue le 2026-11-04",
-        "Nouvelles données ou avancées cliniques sur les programmes du pipeline (aucune date précisée dans les données)"
+        "Publication des prochains résultats le 04/11/2026",
+        "Éventuelles données cliniques sur les programmes comme KAI-9531 (non datées dans les informations fournies)"
       ],
-      "a_surveiller": "Surveillez si le cours tient au-dessus du plus bas de 52 semaines (9,76 USD) et les prochaines annonces cliniques de la société, en gardant à l'esprit que les objectifs des analystes restent incertains pour une biotech aussi volatile."
+      "a_surveiller": "Surveiller les annonces sur l'avancement des essais cliniques et l'écart entre le cours actuel (11,61 USD) et les objectifs des analystes, tout en restant prudent face à la volatilité."
     }
   },
   "DNA": {
