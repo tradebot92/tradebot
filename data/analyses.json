@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "5d891e7bf165d2bc",
+    "sig": "3e9d3602c7d59de1",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a progressé d'environ 18 %.",
-          "a_surveiller": "Le chiffre d'affaires en baisse, la forte hausse déjà intégrée au cours et la dépendance à quelques produits en développement ou en cours d'approbation.",
+          "pourquoi": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 %.",
+          "a_surveiller": "La forte volatilité du titre, la baisse du chiffre d'affaires et le fait qu'une part de la bonne nouvelle soit peut-être déjà dans le cours.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "TRAX",
-          "pourquoi": "L'action a bondi d'environ 20 % après des données d'essai clinique jugées encourageantes dans la maladie cœliaque.",
-          "a_surveiller": "Les titres ne donnent pas de détails chiffrés sur l'essai, et un repli reste possible si les données détaillées déçoivent.",
+          "pourquoi": "L'action de First Tracks Biotherapeutics a progressé d'environ 20 % après des données d'essai clinique jugées encourageantes dans la maladie cœliaque.",
+          "a_surveiller": "Les détails chiffrés de l'essai, absents des titres, car un repli reste possible si les données déçoivent.",
           "nom": "First Tracks Biotherapeutics, I"
         },
         {
           "symbole": "GOOG",
-          "pourquoi": "Le bénéfice d'Alphabet a bondi de 81 % et le chiffre d'affaires a progressé de 24,2 %, ce qui montre une activité très dynamique.",
-          "a_surveiller": "Le cours de 350,96 USD est proche de l'objectif bas des analystes (340 USD) et sous le plus haut annuel de 404,47 USD, avec une valorisation très élevée.",
+          "pourquoi": "Le bénéfice d'Alphabet a bondi de 81 % avec une croissance du chiffre d'affaires de 24,2 %, ce qui témoigne d'une activité très dynamique.",
+          "a_surveiller": "Le cours de 350,96 USD, sous le plus haut annuel de 404,47 USD et proche de l'objectif bas des analystes (340 USD), ainsi que la valorisation très élevée.",
           "nom": "Alphabet Inc."
         }
       ],
-      "prudence": "Ces informations sont données à titre indicatif : les cours peuvent varier fortement, surtout après une hausse brutale, et aucun résultat n'est garanti."
+      "prudence": "Ces informations sont données à titre indicatif : les hausses brutales peuvent s'inverser rapidement et tout investissement comporte un risque de perte en capital."
     }
   },
   "SVC": {
@@ -314,51 +314,51 @@
     }
   },
   "ALHC": {
-    "sig": "531cd81e7d803560",
+    "sig": "0a495c926b274afd",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont de simples pages de cours et de graphiques (ALHC, Molina, UnitedHealth) et ne donnent aucune information concrète sur l'entreprise. Le contexte reste tendu : l'action a perdu 64 % en 6 mois et se trouve proche de son plus bas sur 52 semaines (6,01 USD), alors que le chiffre d'affaires progresse de 31,6 %.",
+      "resume": "Les titres d'actualité récents sont uniquement des pages de cours et de graphiques (ALHC, Molina, UnitedHealth, Elevance) et ne contiennent aucune information concrète. L'action a beaucoup baissé en 6 mois (-61,4 %) et cote à 8,22 USD, loin de son plus haut de 25,12 USD, ce qui indique une forte volatilité.",
       "points_forts": [
         "Croissance du chiffre d'affaires de 31,6 %",
-        "Avis moyen des analystes : achat (13 analystes)",
-        "Objectif moyen des analystes (17,15 USD) nettement au-dessus du cours de 7,55 USD"
+        "Avis moyen des analystes : buy (13 analystes)",
+        "Objectif moyen (17,15 USD) nettement au-dessus du cours actuel"
       ],
       "risques": [
-        "Forte baisse de 64 % en 6 mois, signe d'une grande volatilité",
-        "Petite capitalisation (environ 1,6 Md USD), donc sensible aux mauvaises nouvelles",
-        "Secteur des assurances santé sous pression, avec des pairs comme Molina et UnitedHealth suivis de près"
+        "Baisse de 61,4 % en 6 mois et forte volatilité",
+        "Petite capitalisation (environ 1,7 Md USD), plus sensible aux chocs",
+        "Écart important entre les objectifs des analystes (9 à 28 USD), signe d'une grande incertitude"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 29 octobre 2026",
-        "Révisions des objectifs ou des avis des analystes après ces résultats"
+        "Évolutions des autres assureurs santé (Molina, UnitedHealth, Elevance) qui pourraient influencer le secteur"
       ],
-      "a_surveiller": "Les prochains résultats du 29 octobre 2026 et la capacité du titre à tenir au-dessus de son plus bas de 52 semaines (6,01 USD)."
+      "a_surveiller": "Surveiller si le cours se stabilise autour du plus bas des 52 semaines (6,01 USD) et ce que diront les prochains résultats sur la croissance et la rentabilité."
     }
   },
   "MEDCL.PA": {
-    "sig": "2692011f60f9beb9",
+    "sig": "e16f8c8af58bf621",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % en Bourse. Cette étape réglementaire compte car elle ouvre la voie à une commercialisation aux États-Unis. Le titre a aussi connu une suspension temporaire de cotation avant de reprendre.",
+      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % en Bourse. Cette autorisation est une étape réglementaire majeure pour un produit en attente depuis plusieurs mois. Elle peut ouvrir la voie à de futurs revenus, mais le titre reste très volatil.",
       "points_forts": [
         "Feu vert américain pour Weltruza (schizophrénie)",
-        "Consensus des analystes très favorable (strong_buy, objectif moyen ~35 € contre 29,32 € de cours)",
-        "Cours en hausse d'environ 21 % sur 6 mois"
+        "Objectif moyen des analystes (35,7 €) au-dessus du cours (29,26 €)",
+        "Avis « strong buy » de 9 analystes"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-0,446 de croissance)",
-        "Titre très volatil, avec une forte hausse déjà intégrée au cours",
-        "Dépendance à quelques produits en développement ou en cours d'approbation"
+        "Chiffre d'affaires en baisse (-0,446)",
+        "Forte volatilité, titre suspendu puis repris en séance",
+        "Après la forte hausse, une part de la bonne nouvelle est peut-être déjà dans le cours"
       ],
       "catalyseurs": [
-        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
-        "Avancées des autres candidats (mdc-CWM en phase III)"
+        "Lancement commercial de Weltruza aux États-Unis",
+        "Avancées de mdc-CWM (essai de phase III contre la douleur post-opératoire)"
       ],
-      "a_surveiller": "Surveiller si le cours consolide après ce bond et les annonces sur le calendrier de commercialisation, la date des prochains résultats n'étant pas communiquée."
+      "a_surveiller": "Le calendrier de commercialisation de Weltruza et la capacité du titre à se maintenir au-dessus de son niveau de résistance après cette hausse brutale."
     }
   },
   "KLRA": {
@@ -578,27 +578,27 @@
     }
   },
   "BBT": {
-    "sig": "1c0a2ab243e481d7",
+    "sig": "6fb0a97ead70ca94",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Le seul titre vraiment lié à Beacon Financial est le maintien de la recommandation « neutre » par RBC Capital Markets, ce qui ne change pas grand-chose en soi. Les autres titres concernent d'autres valeurs (JPMorgan, Bank of Hawaii, Banc of California, Solidion) et n'apportent rien de concret sur Beacon. L'action recule d'environ 12 % en 6 mois, alors que les analystes restent globalement positifs.",
+      "resume": "Le seul titre vraiment lié à Beacon Financial est le maintien de la recommandation neutre par RBC Capital Markets, ce qui n'apporte pas d'information nouvelle. Les autres titres concernent d'autres sociétés ou des pages de cours génériques. L'action recule d'environ 12 % sur 6 mois, alors que les analystes restent globalement positifs.",
       "points_forts": [
-        "Objectif moyen des analystes (34,33 USD) supérieur au cours actuel (27,25 USD)",
-        "Avis global « buy » sur 6 analystes",
-        "Croissance du chiffre d'affaires indiquée à 1,445 (donnée à interpréter avec prudence)"
+        "Objectif moyen des analystes (34 USD) nettement au-dessus du cours actuel (27,32 USD)",
+        "Avis global « buy » parmi 6 analystes",
+        "Croissance du chiffre d'affaires indiquée à 1,445"
       ],
       "risques": [
-        "Baisse du cours d'environ 12 % sur 6 mois",
-        "RBC reste neutre, signe d'avis partagés parmi les analystes",
-        "Cours plus proche du bas de la fourchette sur 52 semaines (22,81) que du haut (32,83)"
+        "Baisse de 12 % sur 6 mois, cours proche du bas de la fourchette sur 52 semaines",
+        "RBC reste neutre, ce qui nuance l'avis des autres analystes",
+        "Secteur des banques régionales américaines sensible à la conjoncture"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 21 octobre 2026",
-        "Éventuelles révisions des objectifs ou recommandations des analystes"
+        "Éventuelles révisions des objectifs ou des recommandations des analystes"
       ],
-      "a_surveiller": "Les résultats du 21 octobre 2026 et la façon dont les analystes ajusteront leurs avis, notamment après la position neutre de RBC."
+      "a_surveiller": "Les résultats du 21 octobre 2026 et la capacité du cours à se maintenir au-dessus du plus bas sur 52 semaines (22,81 USD)."
     }
   },
   "FOIL": {
@@ -623,6 +623,30 @@
         "Initiation de couverture par de nouveaux analystes"
       ],
       "a_surveiller": "La date des prochains résultats et l'évolution du cours par rapport à la fourchette des 52 semaines (15,15 – 28,49 $), en restant prudent sur un titre récemment introduit."
+    }
+  },
+  "FIGS": {
+    "sig": "e89637d4238eed0f",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres récents ne concernent pas vraiment FIGS : ils parlent surtout de Figma (FIG), une autre société, et de pages de cotation génériques (LDOS, Zonebourse). Il n'y a donc aucune actualité concrète sur FIGS elle-même, et ces titres ne permettent pas de tirer de conclusion sur l'action.",
+      "points_forts": [
+        "Croissance du chiffre d'affaires de 28,8 %",
+        "Cours en hausse d'environ 17,8 % sur 6 mois",
+        "Avis moyen des analystes à « buy » (8 analystes)"
+      ],
+      "risques": [
+        "Cours proche du plus haut sur 52 semaines (17,1 contre 17,48), après un plus bas à 6,96 : forte volatilité",
+        "Objectif moyen des analystes (18,6) assez proche du cours actuel, donc peu de marge selon eux",
+        "Risque de confusion avec Figma (FIG), dont l'actualité n'a rien à voir avec FIGS"
+      ],
+      "catalyseurs": [
+        "Publication des prochains résultats le 05/11/2026",
+        "Éventuelles révisions des objectifs de cours par les analystes"
+      ],
+      "a_surveiller": "Vérifier que les informations lues concernent bien FIGS (scrubwear) et non Figma, puis suivre la croissance du chiffre d'affaires lors des prochains résultats."
     }
   }
 }

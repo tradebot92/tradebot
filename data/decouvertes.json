@@ -28,17 +28,17 @@
       "premiere": "2026-10-12T15:54+02:00",
       "nom": "Beacon Financial Corporation"
     },
-    "EXK": {
-      "premiere": "2026-10-12T16:13+02:00",
-      "nom": "Endeavour Silver Corporation"
-    },
     "FOIL": {
       "premiere": "2026-10-12T16:48+02:00",
       "nom": "Londian Wason New Energy Tech I"
     },
-    "SNDA": {
-      "premiere": "2026-10-12T16:48+02:00",
-      "nom": "Sonida Senior Living, Inc."
+    "ALHC": {
+      "premiere": "2026-10-12T17:10+02:00",
+      "nom": "Alignment Healthcare, Inc."
+    },
+    "FIGS": {
+      "premiere": "2026-10-12T17:10+02:00",
+      "nom": "FIGS, Inc."
     }
   },
   "sorties": [
@@ -101,6 +101,16 @@
       "symbole": "ALLT",
       "date": "12/10/2026",
       "nom": "Allot Ltd."
+    },
+    {
+      "symbole": "EXK",
+      "date": "12/10/2026",
+      "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "SNDA",
+      "date": "12/10/2026",
+      "nom": "Sonida Senior Living, Inc."
     }
   ]
 }
