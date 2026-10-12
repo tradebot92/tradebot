@@ -1,26 +1,26 @@
 {
   "IREN": {
-    "sig": "13f5bfee4d74f6ac",
+    "sig": "0a7b626ebd262e58",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia dans IREN, qui a fait bondir le cours, ainsi qu'une note d'achat de Jefferies avec un objectif de 79 $. Pourtant, l'action reste en baisse d'environ 18 % sur 6 mois et la croissance du chiffre d'affaires est négative (-26,7 %), ce qui montre un contraste entre l'enthousiasme autour de l'IA et les chiffres récents.",
+      "resume": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia dans IREN, qui aurait fait grimper l'action, ainsi qu'une nouvelle note d'achat de Jefferies avec un objectif de 79 $. Malgré ces nouvelles, le cours (35,48 $) reste bien en dessous de son plus haut sur 52 semaines (76,87 $) et a baissé d'environ 25 % en 6 mois. Les titres restent sommaires et ne donnent pas de détails chiffrés vérifiables.",
       "points_forts": [
-        "Investissement de 2,1 Md$ de Nvidia cité dans l'actualité",
-        "Consensus des 18 analystes : « buy », objectif moyen 78,14 $ contre 35,19 $ de cours",
-        "Positionnement dans le cloud IA avec ses propres centres de données"
+        "Investissement de Nvidia de 2,1 Md$ évoqué dans l'actualité",
+        "Consensus des 18 analystes : « buy », objectif moyen 78,14 $",
+        "Nouvelle note d'achat de Jefferies (objectif 79 $)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse de 26,7 %",
-        "Titre très volatile (52 sem. : 28,93 à 76,87 $) et en repli sur 6 mois",
-        "Écart très large entre objectifs d'analystes (40 à 139 $), signe de forte incertitude"
+        "Chiffre d'affaires en baisse (-26,7 %)",
+        "Action très volatile (de 28,93 $ à 76,87 $ sur 52 semaines)",
+        "Objectif bas des analystes à 40 $, au-dessus du cours actuel : forte dispersion des avis"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 5 novembre 2026",
-        "Nouvelles annonces de partenariats ou de financements liés à l'IA"
+        "Nouvelles annonces liées au partenariat ou aux investissements dans l'IA"
       ],
-      "a_surveiller": "Voir si les résultats du 5 novembre 2026 confirment le passage de la baisse du chiffre d'affaires à une croissance portée par l'activité cloud IA."
+      "a_surveiller": "Surveiller si l'investissement annoncé se traduit par une reprise de la croissance du chiffre d'affaires lors des prochains résultats, et si le cours se maintient au-dessus du plus bas annuel de 28,93 $."
     }
   },
   "GOOG": {
@@ -96,27 +96,27 @@
     }
   },
   "EIKN": {
-    "sig": "58ff0d4bba9b2877",
+    "sig": "ebccd620d45b84e3",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas d'Eikon Therapeutics : ce sont des pages de cours d'autres sociétés (Autolus, Generate Biomedicines, Novavax, Capricor, Moderna). Il n'y a donc aucune information concrète sur Eikon dans l'actualité fournie. Le cours (7,47 USD) reste proche de son plus bas sur 52 semaines (7,02), après une baisse de 24,3 % en 6 mois.",
+      "resume": "Les titres récents ne parlent pas vraiment d'Eikon : ce sont surtout des pages de cours d'autres sociétés de biotechnologie (AUTL, GENB, MRNA, CAPR, AGMB). Il n'y a donc aucune actualité concrète sur l'entreprise. Le titre a reculé d'environ 30 % en 6 mois et se trouve près de son plus bas sur 52 semaines.",
       "points_forts": [
-        "Portefeuille clinique varié en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)",
-        "Objectif moyen des analystes (24,6 USD) très supérieur au cours actuel",
-        "Capitalisation d'environ 405 M USD"
+        "Plusieurs candidats en développement clinique (EIK1001, EIK1003, EIK1004, EIK1005)",
+        "Objectif moyen des analystes (24,6 $) très supérieur au cours actuel (7,43 $)",
+        "Capitalisation d'environ 402 M$ et 5 analystes qui suivent le titre"
       ],
       "risques": [
-        "Société en phase clinique, très volatile et sans croissance de chiffre d'affaires indiquée",
-        "Cours proche du plus bas annuel, tendance baissière sur 6 mois",
-        "Fourchette des objectifs d'analystes très large (4,0 à 32,0), signe de forte incertitude"
+        "Très grand écart entre les objectifs des analystes (4 $ à 32 $), signe d'une forte incertitude",
+        "Société biotech en phase clinique, sans chiffre d'affaires communiqué et donc dépendante de résultats d'essais",
+        "Baisse marquée du cours, proche du plus bas sur 52 semaines (7,02 $)"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 12 novembre 2026",
-        "Éventuelles données cliniques sur les programmes EIK1001, PARP1 ou WRN (aucune date indiquée)"
+        "Éventuelles données d'essais cliniques sur les candidats médicaments (dates non précisées)"
       ],
-      "a_surveiller": "Surveiller les communiqués officiels d'Eikon sur l'avancement des essais cliniques et la réaction du cours autour du plus bas annuel de 7,02 USD."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas sur 52 semaines (7,02 $) et si l'entreprise annonce des données cliniques ou des informations sur sa trésorerie."
     }
   },
   "EXK": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "da0b59b38a649f42",
+    "sig": "e96ef304c9fbfb63",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a progressé d'environ 18 %.",
-          "a_surveiller": "Le titre est très volatil (entre 19,69 € et 39,68 € sur 52 semaines), le chiffre d'affaires recule et des prises de bénéfices restent possibles après cette hausse.",
+          "pourquoi": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, traitement de la schizophrénie lié à Medincell, et le titre a progressé d'environ 18 %.",
+          "a_surveiller": "Le succès commercial du produit reste à confirmer, tout comme la tenue du titre très volatil après ce bond, alors que le chiffre d'affaires est en baisse.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "GOOG",
           "pourquoi": "Les actualités évoquent un bénéfice d'Alphabet en hausse de 81 % et un accord important avec Anthropic, qui a fait monter l'action d'environ 2 %.",
-          "a_surveiller": "Le cours (347,86 USD) reste loin du plus haut sur 52 semaines (404,47 USD), proche de l'objectif bas des analystes (340 USD), et les détails de l'accord ne sont pas précisés.",
+          "a_surveiller": "Les détails de l'accord avec Anthropic ne sont pas précisés, et le cours de 347,86 USD reste loin du plus haut sur 52 semaines (404,47 USD) tout en étant proche de l'objectif bas des analystes (340 USD).",
           "nom": "Alphabet Inc."
         },
         {
-          "symbole": "SVC",
-          "pourquoi": "TKO a proposé 2 milliards de dollars pour le portefeuille hôtelier de Service Properties Trust, ce qui pourrait changer fortement la structure de la société.",
-          "a_surveiller": "L'offre n'est qu'une proposition sans garantie d'aboutir, le chiffre d'affaires baisse de 16,4 % et la petite capitalisation peut rendre le cours volatil.",
-          "nom": "Service Properties Trust"
+          "symbole": "TRAX",
+          "pourquoi": "L'action de First Tracks Biotherapeutics a bondi d'environ 20 % après des données encourageantes d'un essai clinique dans la maladie cœliaque.",
+          "a_surveiller": "Les détails chiffrés de l'essai ne sont pas disponibles et le cours est déjà proche de son plus haut sur 52 semaines (49,91 USD) après une hausse rapide.",
+          "nom": "First Tracks Biotherapeutics, I"
         }
       ],
-      "prudence": "Ces informations sont données à titre indicatif : les cours peuvent varier fortement à la hausse comme à la baisse, et une actualité positive ne garantit aucun résultat."
+      "prudence": "Ces informations ne constituent pas un conseil : les hausses rapides peuvent s'inverser, et la valeur de ces entreprises dépend de facteurs incertains comme les résultats d'essais, les ventes futures ou la dynamique des marchés."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "68a11fb8e2cc3881",
+    "sig": "e16f8c8af58bf621",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % en Bourse. Cette étape réglementaire compte beaucoup pour une biotech dont la valeur dépend de ses produits à injection prolongée. Plusieurs articles évoquent aussi la confiance d'analystes comme Stifel.",
+      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à Medincell, et le titre a bondi d'environ 18 % en Bourse. Une cotation a été suspendue puis reprise en séance. C'est important car cela marque une étape réglementaire clé pour un produit de l'entreprise, mais l'impact commercial reste à confirmer.",
       "points_forts": [
-        "Feu vert américain pour Weltruza (schizophrénie)",
-        "Consensus d'analystes « strong_buy », objectif moyen 35,72 € (au-dessus du cours de 28,74 €)",
-        "Cours en hausse de 18,5 % sur 6 mois, avec une résistance technique cassée"
+        "Feu vert américain pour Weltruza",
+        "Forte hausse du titre après l'annonce",
+        "Analystes très favorables (avis strong_buy, objectif moyen 35,7 €)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-0,446 selon les données)",
-        "Titre très volatil : plus bas 19,69 € et plus haut 39,68 € sur 52 semaines",
-        "Après un bond de 18 %, risque de prises de bénéfices"
+        "Titre très volatil, un rebond brutal peut s'inverser",
+        "Chiffre d'affaires en baisse (-0,446)",
+        "Succès commercial du produit non garanti"
       ],
       "catalyseurs": [
-        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
-        "Avancée des essais cliniques, notamment mdc-CWM en phase III"
+        "Lancement commercial de Weltruza aux États-Unis",
+        "Avancée des autres produits en développement (mdc-CWM en phase III)"
       ],
-      "a_surveiller": "Voir si la hausse se maintient dans les prochains jours et si les premières ventes de Weltruza redressent le chiffre d'affaires, sans date de résultats connue pour l'instant."
+      "a_surveiller": "Voir si le cours tient après le bond de 18 % et si les analystes relèvent leurs objectifs, en gardant en tête que la date des prochains résultats n'est pas connue."
     }
   },
   "KLRA": {
@@ -479,6 +479,126 @@
         "Prochaine publication de résultats (date non communiquée)"
       ],
       "a_surveiller": "Suivre les réactions officielles de 2CRSI au rapport de Grizzly Research et l'évolution du cours, très volatil, autour des 30 €."
+    }
+  },
+  "TRAX": {
+    "sig": "7a30cff932828e92",
+    "analyse": {
+      "sentiment": "positif",
+      "importance": 3,
+      "confiance": "moyenne",
+      "resume": "Les titres récents indiquent que l'action First Tracks Biotherapeutics a bondi d'environ 20 % après des données encourageantes d'un essai clinique dans la maladie cœliaque. Pour une biotech en phase clinique, ce type de résultat compte beaucoup, car sa valeur dépend presque entièrement de ses médicaments en développement. Les détails chiffrés de l'essai ne figurent pas dans les données disponibles.",
+      "points_forts": [
+        "Données d'essai clinique jugées encourageantes (maladie cœliaque)",
+        "Consensus d'analystes « strong buy » (12 avis), objectif moyen 70,58 USD",
+        "Cours en hausse de 50,1 % sur 6 mois"
+      ],
+      "risques": [
+        "Forte volatilité typique d'une biotech clinique de taille moyenne",
+        "Cours déjà proche du plus haut sur 52 semaines (49,91 USD), après un bond rapide",
+        "Pas de croissance du chiffre d'affaires renseignée : valeur fondée sur des résultats d'essais futurs"
+      ],
+      "catalyseurs": [
+        "Publication des prochains résultats trimestriels le 2026-11-05",
+        "Nouvelles données cliniques ou étapes de développement sur ses candidats (rosnilimab, ANB033, ANB101)"
+      ],
+      "a_surveiller": "Surveiller la publication des détails complets de l'essai dans la maladie cœliaque et la réaction du cours, car un bond rapide peut être suivi d'un repli."
+    }
+  },
+  "CTNM": {
+    "sig": "da25773c42440675",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres d'actualité fournis sont des pages de cotation génériques (Moderna, Novavax, CBIO, ALT) et ne parlent pas de Contineum Therapeutics. Ils n'apportent donc aucune information concrète sur l'entreprise. Le cours (10,86 USD) a reculé d'environ 16 % en 6 mois, mais reste au-dessus de son plus bas annuel de 8,6 USD.",
+      "points_forts": [
+        "Avis des analystes très favorable (strong_buy, 7 analystes)",
+        "Objectif moyen (22,29 USD) nettement au-dessus du cours actuel",
+        "Pipeline clinique avec deux candidats (PIPE-791 et PIPE-307)"
+      ],
+      "risques": [
+        "Société en phase clinique : les résultats des essais restent incertains",
+        "Aucun chiffre d'affaires communiqué",
+        "Forte volatilité probable pour une petite capitalisation (environ 409 M USD)"
+      ],
+      "catalyseurs": [
+        "Prochains résultats financiers prévus le 2026-10-29",
+        "Annonces de données cliniques sur PIPE-791 ou PIPE-307 (dates non précisées)"
+      ],
+      "a_surveiller": "Surveiller les communiqués officiels de l'entreprise sur l'avancement des essais cliniques, plus pertinents que ces pages de cotation génériques."
+    }
+  },
+  "ALLT": {
+    "sig": "972a4ac3f62db1c2",
+    "analyse": {
+      "sentiment": "positif",
+      "importance": 3,
+      "confiance": "moyenne",
+      "resume": "Allot a relevé ses prévisions de résultats pour l'exercice 2026, d'après un titre de Zonebourse. Le détail des nouveaux chiffres n'est pas fourni ici. Un relèvement de prévisions signale en général que la direction voit l'activité mieux se dérouler que prévu, ce qui compte pour une petite entreprise technologique volatile.",
+      "points_forts": [
+        "Prévisions 2026 relevées par la direction",
+        "Croissance du chiffre d'affaires de 15,3 %",
+        "Objectif moyen des analystes (13,48 $) supérieur au cours de 9,12 $"
+      ],
+      "risques": [
+        "Titre très volatil (52 sem. : 6,12 à 11,92 $)",
+        "Petite capitalisation (environ 450 M$), sensible aux annonces",
+        "Ampleur du relèvement des prévisions inconnue, aucun avis d'analyste clair"
+      ],
+      "catalyseurs": [
+        "Publication des prochains résultats le 19 novembre 2026",
+        "Éventuelles révisions des objectifs par les analystes après le relèvement"
+      ],
+      "a_surveiller": "Vérifier dans le communiqué officiel l'ampleur du relèvement (chiffre d'affaires, rentabilité) et la réaction des analystes dans les prochaines semaines."
+    }
+  },
+  "BORR": {
+    "sig": "6865ec010532857d",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Borr Drilling, qui loue des plateformes de forage autoélévatrices pour l'offshore peu profond, a annoncé des contrats pour trois appareils selon Zonebourse. C'est un signe d'activité commerciale, mais les titres n'indiquent ni durée, ni montant, ni tarifs, donc leur effet sur les résultats reste difficile à mesurer. Le chiffre d'affaires recule de 13,2 % et le cours a perdu 9,2 % en 6 mois.",
+      "points_forts": [
+        "Contrats annoncés pour trois autoélévateurs",
+        "Avis moyen des analystes à « buy » (6 analystes)",
+        "Objectif moyen (4,97 USD) proche du cours, haut à 6,0"
+      ],
+      "risques": [
+        "Chiffre d'affaires en baisse de 13,2 %",
+        "Cours (5,18 USD) au-dessus de l'objectif moyen des analystes",
+        "Titre de petite capitalisation, potentiellement très volatil (plage 52 sem. 2,47 à 6,655)"
+      ],
+      "catalyseurs": [
+        "Résultats attendus le 18 novembre 2026",
+        "Annonces de nouveaux contrats ou de renouvellements d'appareils"
+      ],
+      "a_surveiller": "Les détails des nouveaux contrats (durée, tarif journalier) et leur effet sur la tendance du chiffre d'affaires lors des prochains résultats."
+    }
+  },
+  "BBT": {
+    "sig": "6fb0a97ead70ca94",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Le seul titre vraiment lié à Beacon Financial est le maintien de la recommandation neutre par RBC Capital Markets, ce qui n'apporte pas de changement concret. Les autres titres concernent d'autres sociétés (JPMorgan, BOH, BANC, Solidion) et ne disent rien sur Beacon. Le cours a reculé d'environ 12 % en 6 mois et reste sous l'objectif moyen des analystes.",
+      "points_forts": [
+        "Objectif moyen des analystes (34 USD) supérieur au cours actuel (27,17 USD)",
+        "Avis global « buy » parmi 6 analystes",
+        "Croissance du chiffre d'affaires indiquée à 1,445 (donnée à interpréter avec prudence)"
+      ],
+      "risques": [
+        "Recul d'environ 12,4 % sur 6 mois",
+        "Avis divergents : RBC reste neutre alors que le consensus est à l'achat",
+        "Secteur des banques régionales américaines sensible à la conjoncture et aux taux"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 21 octobre 2026",
+        "Révisions éventuelles des recommandations ou objectifs des analystes"
+      ],
+      "a_surveiller": "Les prochains résultats du 21 octobre 2026 et la capacité du cours à rester au-dessus du plus bas sur 52 semaines (22,81 USD)."
     }
   }
 }

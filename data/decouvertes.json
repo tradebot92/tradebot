@@ -1,29 +1,5 @@
 {
   "actuel": {
-    "SVC": {
-      "premiere": "2026-10-10T17:46+02:00",
-      "nom": "Service Properties Trust"
-    },
-    "NVAX": {
-      "premiere": "2026-10-10T17:46+02:00",
-      "nom": "Novavax, Inc."
-    },
-    "BKD": {
-      "premiere": "2026-10-10T17:46+02:00",
-      "nom": "Brookdale Senior Living Inc."
-    },
-    "ALHC": {
-      "premiere": "2026-10-10T17:46+02:00",
-      "nom": "Alignment Healthcare, Inc."
-    },
-    "KLRA": {
-      "premiere": "2026-10-10T17:46+02:00",
-      "nom": "Kailera Therapeutics, Inc."
-    },
-    "DNA": {
-      "premiere": "2026-10-10T17:46+02:00",
-      "nom": "Ginkgo Bioworks Holdings, Inc."
-    },
     "GLOO": {
       "premiere": "2026-10-10T17:46+02:00",
       "nom": "Gloo Holdings, Inc."
@@ -39,6 +15,30 @@
     "AL2SI.PA": {
       "premiere": "2026-10-12T09:45+02:00",
       "nom": "2CRSI"
+    },
+    "TRAX": {
+      "premiere": "2026-10-12T15:54+02:00",
+      "nom": "First Tracks Biotherapeutics, I"
+    },
+    "CTNM": {
+      "premiere": "2026-10-12T15:54+02:00",
+      "nom": "Contineum Therapeutics, Inc."
+    },
+    "ALLT": {
+      "premiere": "2026-10-12T15:54+02:00",
+      "nom": "Allot Ltd."
+    },
+    "BORR": {
+      "premiere": "2026-10-12T15:54+02:00",
+      "nom": "Borr Drilling Limited"
+    },
+    "EIKN": {
+      "premiere": "2026-10-12T15:54+02:00",
+      "nom": "Eikon Therapeutics, Inc."
+    },
+    "BBT": {
+      "premiere": "2026-10-12T15:54+02:00",
+      "nom": "Beacon Financial Corporation"
     }
   },
   "sorties": [
@@ -56,6 +56,36 @@
       "symbole": "ABSI",
       "date": "12/10/2026",
       "nom": "Absci Corporation"
+    },
+    {
+      "symbole": "SVC",
+      "date": "12/10/2026",
+      "nom": "Service Properties Trust"
+    },
+    {
+      "symbole": "NVAX",
+      "date": "12/10/2026",
+      "nom": "Novavax, Inc."
+    },
+    {
+      "symbole": "BKD",
+      "date": "12/10/2026",
+      "nom": "Brookdale Senior Living Inc."
+    },
+    {
+      "symbole": "ALHC",
+      "date": "12/10/2026",
+      "nom": "Alignment Healthcare, Inc."
+    },
+    {
+      "symbole": "KLRA",
+      "date": "12/10/2026",
+      "nom": "Kailera Therapeutics, Inc."
+    },
+    {
+      "symbole": "DNA",
+      "date": "12/10/2026",
+      "nom": "Ginkgo Bioworks Holdings, Inc."
     }
   ]
 }
