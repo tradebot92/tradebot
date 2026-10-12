@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "b5f9ba227964deac",
+    "sig": "d2eecb7bf2627444",
     "analyse": {
       "sentiment": "positif",
       "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les actualités récentes évoquent un bénéfice d'Alphabet en hausse de 81 % et un accord massif avec Anthropic, qui a fait grimper l'action d'environ 2 %. Cela compte car cela suggère une forte dynamique des résultats et un intérêt croissant pour ses activités liées à l'IA. Les autres titres (cours, prévisions de prix) ne donnent pas de détail concret.",
+      "resume": "Les titres récents sont surtout des pages de cotation et de prévisions, sans information détaillée, hormis un article indiquant que le bénéfice d'Alphabet a bondi de 81 %. Ce résultat, associé à une croissance du chiffre d'affaires de 24,2 %, montre une activité très dynamique, ce qui compte pour la valorisation du titre.",
       "points_forts": [
         "Bénéfice en hausse de 81 % selon Euronews",
         "Croissance du chiffre d'affaires de 24,2 %",
-        "Avis des analystes « strong buy » avec objectif moyen de 420,36 USD"
+        "Avis analystes strong_buy, objectif moyen 420,36 USD"
       ],
       "risques": [
-        "Cours à 347,86 USD, loin du plus haut sur 52 semaines (404,47 USD)",
+        "Cours à 350,96 USD, sous le plus haut annuel de 404,47 USD",
         "Objectif bas des analystes (340 USD) proche du cours actuel",
-        "Détails de l'accord avec Anthropic non précisés dans les titres"
+        "Valorisation très élevée (capitalisation d'environ 4 300 Md USD)"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 28 octobre 2026",
-        "Nouvelles précisions sur l'accord avec Anthropic et ses effets sur l'activité Cloud"
+        "Révisions des objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Surveillez si la croissance du chiffre d'affaires et des bénéfices se maintient lors des prochains résultats, et si le cours se rapproche de l'objectif moyen des analystes ou reste proche de leur objectif bas."
+      "a_surveiller": "Surveillez si la croissance du chiffre d'affaires et des bénéfices se maintient lors des prochains résultats du 28 octobre 2026, et l'évolution du cours par rapport à l'objectif moyen des analystes."
     }
   },
   "GLOO": {
@@ -144,27 +144,27 @@
     }
   },
   "SNDA": {
-    "sig": "5933c54828885a9d",
+    "sig": "a104eef2d82accd4",
     "analyse": {
       "sentiment": "positif",
-      "importance": 2,
-      "confiance": "faible",
-      "resume": "Le seul titre vraiment lié à Sonida est le début de couverture par RBC, avec une note « Outperform » et un potentiel de hausse annoncé d'environ 24 %. Les autres titres concernent d'autres sociétés ou de simples pages de cours, sans information concrète sur Sonida. Une initiation de couverture peut attirer l'attention sur le titre, mais elle ne change pas à elle seule la situation de l'entreprise.",
+      "importance": 3,
+      "confiance": "moyenne",
+      "resume": "RBC a initié la couverture de Sonida Senior Living avec une note Outperform et un potentiel de hausse d'environ 24 % selon le titre. Les autres titres cités concernent d'autres sociétés (LFST, NHC, RDNT) et n'apportent rien de concret sur Sonida. Cette initiation reste un avis d'analyste, pas un fait nouveau sur l'activité.",
       "points_forts": [
-        "Initiation de couverture positive par RBC (Outperform)",
-        "Objectif moyen des analystes (49,5 $) nettement au-dessus du cours de 35,24 $",
-        "Croissance du chiffre d'affaires très élevée (1,371 selon les données fournies)"
+        "Croissance du chiffre d'affaires élevée (+137 %)",
+        "Objectifs des analystes au-dessus du cours (43 / 49,5 / 65 USD contre 35,66 USD)",
+        "Initiation positive de RBC (Outperform)"
       ],
       "risques": [
-        "Petite capitalisation (environ 1,7 Md$), souvent plus volatile",
-        "Cours déjà éloigné de son plus haut sur 52 semaines (44,39 $), avec une fourchette étendue (24,95 à 44,39 $)",
-        "Avis global des analystes non renseigné (« none ») malgré des objectifs élevés"
+        "Action volatile : de 24,95 à 44,39 USD sur 52 semaines",
+        "Les objectifs d'analystes ne garantissent rien et peuvent être revus",
+        "Capitalisation modeste (environ 1,7 Md USD), donc sensibilité plus forte aux nouvelles"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-09",
-        "Éventuelles nouvelles révisions d'objectifs ou initiations de couverture par d'autres analystes"
+        "Publication des résultats prévue le 09/11/2026",
+        "Nouvelles initiations ou révisions d'objectifs par les analystes"
       ],
-      "a_surveiller": "Voir si les résultats du 9 novembre 2026 confirment la forte croissance du chiffre d'affaires et si le cours se rapproche des objectifs des analystes."
+      "a_surveiller": "Surveillez si la croissance du chiffre d'affaires se maintient dans les prochains résultats et si le cours se rapproche ou non des objectifs des analystes."
     }
   },
   "TKO.PA": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "f97b204a7a40fce5",
+    "sig": "5d891e7bf165d2bc",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et l'action a progressé d'environ 18 %.",
-          "a_surveiller": "Le lancement commercial aux États-Unis, encore à confirmer, ainsi que la volatilité du titre après cette forte hausse et un chiffre d'affaires en baisse de 0,4 %.",
+          "pourquoi": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a progressé d'environ 18 %.",
+          "a_surveiller": "Le chiffre d'affaires en baisse, la forte hausse déjà intégrée au cours et la dépendance à quelques produits en développement ou en cours d'approbation.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "TRAX",
-          "pourquoi": "L'action de First Tracks Biotherapeutics a gagné environ 20 % après des résultats encourageants d'un essai clinique dans la maladie cœliaque.",
-          "a_surveiller": "Les détails chiffrés de l'essai, non précisés dans les titres, et le cours proche de son plus haut sur 52 semaines (49,91), qui laisse place à un repli si les données déçoivent.",
+          "pourquoi": "L'action a bondi d'environ 20 % après des données d'essai clinique jugées encourageantes dans la maladie cœliaque.",
+          "a_surveiller": "Les titres ne donnent pas de détails chiffrés sur l'essai, et un repli reste possible si les données détaillées déçoivent.",
           "nom": "First Tracks Biotherapeutics, I"
         },
         {
           "symbole": "GOOG",
-          "pourquoi": "Alphabet fait état d'un bénéfice en hausse de 81 % et d'un accord important avec Anthropic, ce qui a fait progresser l'action d'environ 2 %.",
-          "a_surveiller": "Les détails de l'accord avec Anthropic, ainsi que le cours de 347,86 USD, éloigné du plus haut sur 52 semaines (404,47 USD) et proche de l'objectif bas des analystes (340 USD).",
+          "pourquoi": "Le bénéfice d'Alphabet a bondi de 81 % et le chiffre d'affaires a progressé de 24,2 %, ce qui montre une activité très dynamique.",
+          "a_surveiller": "Le cours de 350,96 USD est proche de l'objectif bas des analystes (340 USD) et sous le plus haut annuel de 404,47 USD, avec une valorisation très élevée.",
           "nom": "Alphabet Inc."
         }
       ],
-      "prudence": "Ces informations ne constituent pas un conseil : les cours peuvent fortement fluctuer, notamment après de fortes hausses, et tout investissement comporte un risque de perte en capital."
+      "prudence": "Ces informations sont données à titre indicatif : les cours peuvent varier fortement, surtout après une hausse brutale, et aucun résultat n'est garanti."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "9b9a6210527c2d76",
+    "sig": "2692011f60f9beb9",
     "analyse": {
       "sentiment": "positif",
-      "importance": 5,
+      "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell (le titre TEV-749 évoqué dans la presse), et l'action a bondi d'environ 18 % en Bourse. Cette approbation est une étape réglementaire majeure, car elle permet d'envisager une commercialisation aux États-Unis. La cotation a aussi été brièvement suspendue dans la journée, ce qui montre la forte réaction du marché.",
+      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % en Bourse. Cette étape réglementaire compte car elle ouvre la voie à une commercialisation aux États-Unis. Le titre a aussi connu une suspension temporaire de cotation avant de reprendre.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza (schizophrénie)",
-        "Objectif moyen des analystes (35,7 €) supérieur au cours de 29,26 €",
-        "Avis des 9 analystes : strong_buy"
+        "Feu vert américain pour Weltruza (schizophrénie)",
+        "Consensus des analystes très favorable (strong_buy, objectif moyen ~35 € contre 29,32 € de cours)",
+        "Cours en hausse d'environ 21 % sur 6 mois"
       ],
       "risques": [
-        "Titre très volatil : forte hausse suivie d'un possible repli",
-        "Chiffre d'affaires en baisse (-0,4 %) malgré la bonne nouvelle",
-        "Les revenus futurs dépendent du lancement commercial, encore à confirmer"
+        "Chiffre d'affaires en baisse (-0,446 de croissance)",
+        "Titre très volatil, avec une forte hausse déjà intégrée au cours",
+        "Dépendance à quelques produits en développement ou en cours d'approbation"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis par le partenaire",
-        "Avancement des autres programmes (mdc-CWM en Phase III)"
+        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
+        "Avancées des autres candidats (mdc-CWM en phase III)"
       ],
-      "a_surveiller": "Surveiller si le cours se stabilise après le bond de 18 % et ce que la société et son partenaire communiqueront sur le calendrier de commercialisation et les revenus attendus."
+      "a_surveiller": "Surveiller si le cours consolide après ce bond et les annonces sur le calendrier de commercialisation, la date des prochains résultats n'étant pas communiquée."
     }
   },
   "KLRA": {
@@ -434,27 +434,27 @@
     }
   },
   "MYN": {
-    "sig": "df06e2edb1b30df1",
+    "sig": "ee5f84d13612b68a",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 1,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres d'actualité sont de simples pages de cours TradingView sur d'autres fonds (MYI, VTN, MSD) et sociétés (CION, DXYZ), sans information concrète sur MYN. Le fonds, qui investit dans des obligations municipales de New York, cote à 8,79 USD, en recul d'environ 8,8 % sur 6 mois et proche de son plus bas sur 52 semaines (8,58).",
+      "resume": "Le seul titre pertinent annonce la publication des résultats annuels du fonds BlackRock MuniYield New York Quality Fund, sans aucun chiffre détaillé dans les données fournies. Les autres titres sont de simples pages de cours d'autres fonds, sans lien concret avec MYN. L'action se situe près de son plus bas sur 52 semaines (8.78 USD contre 8.58), après une baisse d'environ 9 % sur 6 mois.",
       "points_forts": [
-        "Obligations municipales de qualité investissement, exonérées d'impôts fédéraux et new-yorkais",
-        "Gestion assurée par BlackRock, un acteur reconnu",
-        "Croissance du chiffre d'affaires indiquée à 1,545 (donnée à interpréter avec prudence)"
+        "Croissance du chiffre d'affaires de 6,5 %",
+        "Fonds investi en obligations municipales de qualité (investment grade) exonérées d'impôt fédéral",
+        "Gestion assurée par BlackRock, grand acteur du secteur"
       ],
       "risques": [
-        "Cours proche du plus bas sur 52 semaines, avec une tendance baissière sur 6 mois",
-        "Sensibilité des fonds obligataires aux variations de taux d'intérêt",
-        "Fonds fermé : le cours peut s'écarter de la valeur liquidative et la liquidité est limitée (petite capitalisation)"
+        "Cours proche du plus bas sur 52 semaines",
+        "Tendance baissière sur 6 mois",
+        "Aucun avis d'analystes ni objectif de cours disponible"
       ],
       "catalyseurs": [
-        "Évolution des taux d'intérêt, qui pèse sur les prix des obligations",
-        "Prochaine annonce de distribution ou publication de la valeur liquidative (date non précisée dans les données)"
+        "Détail des résultats annuels publiés (revenus distribués, valeur liquidative)",
+        "Évolution des taux d'intérêt, qui pèse sur les fonds d'obligations"
       ],
-      "a_surveiller": "Le maintien du cours au-dessus du plus bas sur 52 semaines (8,58 USD) et l'évolution de l'écart entre le cours et la valeur liquidative du fonds."
+      "a_surveiller": "Surveillez si le cours reste au-dessus du plus bas de 8.58 USD et ce que montrent les détails des résultats publiés, notamment les distributions."
     }
   },
   "AL2SI.PA": {
@@ -482,27 +482,27 @@
     }
   },
   "TRAX": {
-    "sig": "42da59b22db23f7e",
+    "sig": "b6737c180a886781",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Plusieurs titres rapportent une forte hausse de l'action First Tracks Biotherapeutics (environ +20 %), attribuée à des résultats encourageants d'un essai clinique dans la maladie cœliaque. Pour une biotech en phase clinique, des données positives comptent beaucoup car elles valident l'approche scientifique et peuvent attirer des investisseurs. Les détails chiffrés de l'essai ne figurent pas dans les titres, donc la portée réelle reste à confirmer.",
+      "resume": "Plusieurs titres récents indiquent que l'action First Tracks Biotherapeutics a bondi d'environ 20 % après des données d'essai clinique jugées encourageantes dans la maladie cœliaque. Pour une société biotech au stade clinique, ce type de résultat compte beaucoup, car sa valeur dépend presque entièrement de ses médicaments en développement. Les titres ne donnent toutefois pas de détails chiffrés sur l'essai.",
       "points_forts": [
-        "Données d'essai clinique jugées encourageantes dans la maladie cœliaque",
-        "Avis des analystes strong_buy (12 analystes), objectif moyen 70,58 USD",
-        "Cours en hausse de 49,4 % sur 6 mois, loin du plus bas annuel de 14,72 USD"
+        "Données cliniques encourageantes dans la maladie cœliaque selon la presse",
+        "Analystes très favorables : avis strong_buy, objectif moyen 70,58 USD contre 34,07 USD de cours",
+        "Cours en hausse d'environ 38,8 % sur 6 mois"
       ],
       "risques": [
-        "Forte volatilité typique d'une petite biotech (capitalisation d'environ 1,3 Md USD)",
-        "Pas de chiffre d'affaires indiqué : dépendance aux résultats cliniques et au financement",
-        "Cours proche du plus haut sur 52 semaines (49,91) après une envolée, risque de repli si les données déçoivent en détail"
+        "Biotech au stade clinique : forte volatilité et dépendance aux résultats d'essais",
+        "Après une hausse brutale, risque de repli si les détails des données déçoivent",
+        "Aucune croissance du chiffre d'affaires communiquée ; les données financières fournies sont limitées"
       ],
       "catalyseurs": [
-        "Publication de résultats trimestriels le 2026-11-05",
-        "Nouvelles données cliniques ou détails complets de l'essai dans la maladie cœliaque"
+        "Publication de détails ou de données complémentaires sur l'essai dans la maladie cœliaque",
+        "Prochains résultats trimestriels prévus le 5 novembre 2026"
       ],
-      "a_surveiller": "Les détails complets des données de l'essai et la réaction du cours dans les jours suivants, pour voir si la hausse se maintient."
+      "a_surveiller": "Regarder si le cours se stabilise après le bond de 20 % et si la société publie des données plus détaillées sur l'essai, sans oublier que le cours reste plus bas que le plus haut sur 52 semaines (49,91 USD)."
     }
   },
   "CTNM": {
@@ -578,27 +578,51 @@
     }
   },
   "BBT": {
-    "sig": "2e0d744a22456a3a",
+    "sig": "1c0a2ab243e481d7",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Le seul titre vraiment lié à Beacon Financial est celui de RBC Capital Markets, qui maintient sa recommandation neutre, sans détail sur les raisons. Les autres titres concernent d'autres sociétés et ne disent rien de concret sur Beacon. L'action reste en repli sur six mois (-12,2 %), alors que les analystes sont globalement favorables.",
+      "resume": "Le seul titre vraiment lié à Beacon Financial est le maintien de la recommandation « neutre » par RBC Capital Markets, ce qui ne change pas grand-chose en soi. Les autres titres concernent d'autres valeurs (JPMorgan, Bank of Hawaii, Banc of California, Solidion) et n'apportent rien de concret sur Beacon. L'action recule d'environ 12 % en 6 mois, alors que les analystes restent globalement positifs.",
       "points_forts": [
-        "Avis moyen des analystes : achat (6 analystes)",
-        "Objectif moyen de 34 $, au-dessus du cours actuel de 27,23 $",
-        "Croissance du chiffre d'affaires indiquée à 1,445 (à vérifier, l'unité n'est pas précisée)"
+        "Objectif moyen des analystes (34,33 USD) supérieur au cours actuel (27,25 USD)",
+        "Avis global « buy » sur 6 analystes",
+        "Croissance du chiffre d'affaires indiquée à 1,445 (donnée à interpréter avec prudence)"
       ],
       "risques": [
-        "Recommandation neutre de RBC, moins enthousiaste que le consensus",
-        "Baisse de 12,2 % sur 6 mois, cours loin du plus haut de 52 semaines (32,83 $)",
-        "Secteur des banques régionales américaines, sensible à la conjoncture"
+        "Baisse du cours d'environ 12 % sur 6 mois",
+        "RBC reste neutre, signe d'avis partagés parmi les analystes",
+        "Cours plus proche du bas de la fourchette sur 52 semaines (22,81) que du haut (32,83)"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 21 octobre 2026",
-        "Nouvelles révisions de recommandations ou d'objectifs de cours par les analystes"
+        "Éventuelles révisions des objectifs ou recommandations des analystes"
       ],
-      "a_surveiller": "Les résultats du 21 octobre 2026 et d'éventuels changements d'avis des analystes, notamment après la position neutre de RBC."
+      "a_surveiller": "Les résultats du 21 octobre 2026 et la façon dont les analystes ajusteront leurs avis, notamment après la position neutre de RBC."
+    }
+  },
+  "FOIL": {
+    "sig": "1b66f1e146715b16",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 3,
+      "confiance": "faible",
+      "resume": "Londian Wason, fabricant chinois de feuilles de cuivre (batteries lithium et circuits imprimés), vient d'entrer à la Bourse de New York sous le ticker FOIL. Une introduction récente signifie peu d'historique de cours et de couverture par les analystes, ce qui rend le titre difficile à évaluer. Les titres d'actualité ne donnent pas de détails chiffrés sur l'opération.",
+      "points_forts": [
+        "Croissance du chiffre d'affaires de 16,4 %",
+        "Objectif d'analyste (31 $) supérieur au cours actuel (23,02 $)",
+        "Se présente comme le premier fabricant mondial de feuilles de cuivre"
+      ],
+      "risques": [
+        "Un seul analyste : avis peu représentatif",
+        "Introduction en bourse récente : volatilité possible et peu d'historique",
+        "Société chinoise cotée aux États-Unis : risques réglementaires et de change à vérifier"
+      ],
+      "catalyseurs": [
+        "Publication des premiers résultats trimestriels (date non communiquée)",
+        "Initiation de couverture par de nouveaux analystes"
+      ],
+      "a_surveiller": "La date des prochains résultats et l'évolution du cours par rapport à la fourchette des 52 semaines (15,15 – 28,49 $), en restant prudent sur un titre récemment introduit."
     }
   }
 }
