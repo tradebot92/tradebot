@@ -48,27 +48,27 @@
     }
   },
   "GLOO": {
-    "sig": "455b0fceee463a1e",
+    "sig": "d5e6ae6c0b5dbf08",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont de simples pages de cotation (TradingView, Yahoo) sans information concrète sur Gloo, et plusieurs concernent d'autres sociétés. Il n'y a donc pas d'actualité précise à analyser. Le contexte reste celui d'un petit titre volatil, en baisse de 38 % sur 6 mois et proche de son plus bas annuel (2,9 $ contre 3,8 $ actuellement).",
+      "resume": "Les titres d'actualité fournis sont des pages génériques de cours (TradingView, Yahoo Finance) et concernent en partie d'autres sociétés (MNTN, CRNC, SPIR). Ils n'apportent aucune information concrète sur Gloo. Le contexte reste celui d'une petite capitalisation (environ 352 M USD) qui a baissé d'environ 38 % en 6 mois et se traite près de son plus bas sur 52 semaines (2,9 USD).",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (1,88, soit environ +188 % si exprimée en pourcentage)",
-        "Objectif moyen des analystes (11,17 $) nettement au-dessus du cours actuel",
-        "Plateforme logicielle spécialisée sur un marché de niche (communautés de foi)"
+        "Croissance du chiffre d'affaires de 1,88 (valeur indiquée dans les données)",
+        "Objectif moyen des analystes (11,17 USD) nettement au-dessus du cours de 3,8 USD",
+        "Plateforme technologique spécialisée sur un créneau précis (communautés de foi)"
       ],
       "risques": [
-        "Forte volatilité et petite capitalisation (environ 352 M$)",
-        "Tendance baissière : -38,3 % sur 6 mois, loin du plus haut de 9,98 $",
-        "Pas d'avis consensuel clair des analystes et écart important entre objectifs bas (7 $) et haut (17 $)"
+        "Forte baisse sur 6 mois et cours proche du plus bas annuel",
+        "Petite capitalisation, probablement très volatile",
+        "Écart important entre les objectifs des analystes (7 à 17 USD), donc forte incertitude"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 9 septembre 2026",
-        "Éventuelles révisions des objectifs ou des avis des analystes (6 analystes suivent le titre)"
+        "Publication des prochains résultats le 2026-09-09",
+        "Révision des objectifs ou des avis des analystes après les résultats"
       ],
-      "a_surveiller": "Surveiller les résultats du 9 septembre 2026 et la capacité du cours à se maintenir au-dessus du plus bas annuel de 2,9 $, sans tirer de conclusion d'actualités peu informatives."
+      "a_surveiller": "Les résultats du 9 septembre 2026 et toute actualité propre à Gloo, car les titres actuels n'apportent rien de concret."
     }
   },
   "INFQ": {
@@ -434,27 +434,27 @@
     }
   },
   "MYN": {
-    "sig": "ee5f84d13612b68a",
+    "sig": "41c33003977fdba4",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "La seule actualité concrète est la publication des résultats du fonds pour l'exercice clos le 31 juillet 2026, dont le contenu n'est pas détaillé dans les titres. Les autres titres sont de simples pages de cours de fonds sans rapport direct, donc ils n'apportent pas d'information utile. Le cours (8,74 USD) est proche de son plus bas sur 52 semaines, après une baisse d'environ 9 % en 6 mois.",
+      "resume": "Le seul titre vraiment lié au fonds annonce la publication de ses résultats annuels (exercice clos le 31 juillet 2026), sans aucun chiffre détaillé dans les données disponibles. Les autres titres sont de simples pages de cours d'autres fonds, sans lien concret avec MYN. Le cours (8,73 USD) se trouve près de son plus bas sur 52 semaines (8,58) après environ -9 % sur 6 mois.",
       "points_forts": [
-        "Fonds d'obligations municipales de qualité investissement, exonérées d'impôts fédéraux et de l'État/ville de New York",
-        "Gestion assurée par BlackRock Advisors",
-        "Croissance du chiffre d'affaires indiquée à 1,545 (donnée à interpréter avec prudence)"
+        "Fonds géré par BlackRock, investi en obligations municipales de qualité (investment grade)",
+        "Obligations exonérées d'impôt fédéral et de New York, selon la description du fonds",
+        "Croissance du chiffre d'affaires indiquée à 1,545 (donnée peu précise)"
       ],
       "risques": [
-        "Cours proche du plus bas sur 52 semaines (8,58 USD) avec une tendance baissière sur 6 mois",
-        "Aucun avis ni objectif d'analystes disponible",
-        "Contenu des résultats non précisé, donc impossible d'en tirer une conclusion"
+        "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
+        "Aucun avis d'analystes ni objectif de cours disponible",
+        "Contenu des résultats non détaillé : impossible d'en juger la qualité"
       ],
       "catalyseurs": [
-        "Détails des résultats annuels (revenus, distributions, valeur liquidative)",
-        "Prochaine annonce de distribution du fonds (date non communiquée)"
+        "Détail des résultats publiés (revenus distribués, valeur liquidative)",
+        "Annonce de la prochaine distribution mensuelle ou d'un changement de son montant"
       ],
-      "a_surveiller": "Consulter le rapport complet des résultats et suivre l'évolution du cours par rapport au plus bas annuel de 8,58 USD, ainsi que la décote ou prime par rapport à la valeur liquidative."
+      "a_surveiller": "Surveille l'évolution du cours par rapport au plus bas de 52 semaines (8,58 USD) et le contenu détaillé du rapport financier, notamment la décote ou prime par rapport à la valeur liquidative."
     }
   },
   "AL2SI.PA": {
@@ -626,27 +626,27 @@
     }
   },
   "FIGS": {
-    "sig": "d39ff20e17e641e1",
+    "sig": "e89637d4238eed0f",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas vraiment de FIGS : ils concernent surtout Figma (FIG), une autre société au nom proche, ainsi que des pages de cours boursiers. Aucune information concrète sur l'activité ou les résultats de FIGS n'en ressort, donc leur portée pour l'action est très limitée.",
+      "resume": "Les titres d'actualité fournis ne concernent pas FIGS : ils parlent de Figma (FIG), de LDOS et de pages de cotation génériques, ce qui n'apporte aucune information concrète sur l'entreprise de vêtements médicaux. Seules les données de marché comptent ici : le cours (17,74 $) est proche de son plus haut sur 52 semaines, avec une croissance du chiffre d'affaires de 28,8 %.",
       "points_forts": [
-        "Chiffre d'affaires en hausse de 28,8 %",
-        "Cours proche du plus haut sur 52 semaines (17,98 USD) et en hausse de 22,3 % sur 6 mois",
-        "Avis moyen des analystes : buy (8 analystes)"
+        "Croissance du chiffre d'affaires de 28,8 %",
+        "Cours en hausse de 22,2 % sur 6 mois",
+        "Avis analystes globalement favorable (buy, 8 analystes)"
       ],
       "risques": [
-        "Cours déjà proche de l'objectif moyen (18,6 USD), donc peu de marge selon les analystes",
-        "Titre volatil : plus bas 52 semaines à 6,96 USD",
-        "Risque de confusion avec Figma (FIG) dans l'actualité"
+        "Cours proche du plus haut annuel, proche de l'objectif moyen des analystes (18,625 $)",
+        "Forte volatilité : plus bas à 6,96 $ sur 52 semaines",
+        "Actualité sans lien direct, donc peu d'éléments pour évaluer la situation actuelle"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 5 novembre 2026",
-        "Éventuelles révisions des objectifs des analystes (15 à 22 USD)"
+        "Éventuelles révisions des objectifs de cours des analystes"
       ],
-      "a_surveiller": "Vérifier que l'actualité lue concerne bien FIGS (vêtements médicaux) et non Figma, puis suivre la croissance du chiffre d'affaires lors des prochains résultats."
+      "a_surveiller": "Vérifier que les informations lues concernent bien FIGS (et non Figma, au ticker proche) et observer si le cours dépasse durablement son plus haut annuel ou se rapproche de l'objectif moyen de 18,625 $."
     }
   },
   "GOGO": {
@@ -674,27 +674,27 @@
     }
   },
   "BMBL": {
-    "sig": "f6aac085e218df80",
+    "sig": "8ed2a9ce44808802",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Le titre le plus concret est la dégradation de Bumble par Goldman Sachs, qui évoque une visibilité limitée et une forte concurrence. Le chiffre d'affaires recule de 15,2 % et les analystes n'ont pas d'avis tranché, avec un objectif moyen (3,79 USD) proche du cours actuel (3,73 USD). Les autres titres sont des pages de cours ou des articles généraux, sans information nouvelle.",
+      "resume": "Les titres récents sont surtout des pages de cours et de consensus, avec une seule information concrète : Goldman Sachs a dégradé Bumble en évoquant une visibilité limitée et une forte concurrence. Le chiffre d'affaires recule de 15,2 % et le cours (3,8 USD) se situe à peu près au niveau de l'objectif moyen des analystes (3,79 USD), ce qui laisse peu d'écart avec leur estimation.",
       "points_forts": [
-        "Cours en hausse nette depuis le plus bas annuel (2,44 USD)",
-        "Objectif moyen des analystes proche du cours actuel",
-        "Marques connues (Bumble, Badoo, Bumble BFF)"
+        "Cours proche du consensus moyen des analystes (3,79 USD)",
+        "Marques connues (Bumble, Badoo, Bumble BFF) avec un modèle d'abonnements et d'achats intégrés",
+        "Cours stable sur 6 mois (+0,8 %)"
       ],
       "risques": [
         "Chiffre d'affaires en baisse de 15,2 %",
-        "Dégradation de Goldman Sachs : visibilité limitée et forte concurrence",
-        "Titre volatil et de petite capitalisation (environ 572 M USD)"
+        "Dégradation par Goldman Sachs : visibilité limitée et forte concurrence",
+        "Titre volatil : entre 2,44 et 5,96 USD sur 52 semaines, petite capitalisation (environ 582 M USD)"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 4 novembre 2026",
-        "Éventuelles révisions des objectifs ou avis des analystes après la dégradation"
+        "Nouvelles révisions d'objectifs ou d'avis par les analystes"
       ],
-      "a_surveiller": "Regarder si la baisse du chiffre d'affaires ralentit lors des prochains résultats et si d'autres analystes suivent la position prudente de Goldman Sachs."
+      "a_surveiller": "Surveille si la baisse du chiffre d'affaires ralentit lors des prochains résultats et si d'autres analystes suivent la prudence de Goldman Sachs."
     }
   },
   "HELE": {
@@ -722,27 +722,27 @@
     }
   },
   "TMC": {
-    "sig": "00ae98fa6bd8930e",
+    "sig": "b149f7c8c0a08d75",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et de graphiques, sans information concrète, hormis un article indiquant que l'action TMC progresse après un accord avec Allseas. Le détail de cet accord n'est pas donné ici, donc son effet réel reste difficile à juger. Le cours (2,9 USD) est proche de son plus bas sur 52 semaines, après une baisse d'environ 38,6 % sur 6 mois.",
+      "resume": "Les titres récents sont surtout des pages de cours et de graphiques (TradingView, Yahoo Finance) et ne contiennent aucune nouvelle concrète sur TMC. Le cours, à 2,88 USD, est proche de son plus bas sur 52 semaines (2,87) et a perdu environ 39 % en 6 mois, ce qui montre une forte pression vendeuse, alors que les analystes visent en moyenne 10,9 USD.",
       "points_forts": [
-        "Accord avec Allseas évoqué, avec une réaction boursière positive",
-        "Objectif moyen des analystes (10,9 USD) bien au-dessus du cours actuel",
-        "Droits d'exploration et commerciaux sur deux zones de nodules polymétalliques"
+        "Objectifs des analystes nettement au-dessus du cours (10,0 à 12,3 USD)",
+        "Droits d'exploration et commerciaux sur deux zones de nodules polymétalliques",
+        "Exposition aux métaux utilisés dans les batteries de véhicules électriques"
       ],
       "risques": [
-        "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
-        "Pas de croissance du chiffre d'affaires indiquée : activité encore au stade d'exploration",
-        "Titre très volatil, dépendant de décisions externes et de financements"
+        "Cours au plus bas annuel et forte baisse sur 6 mois",
+        "Entreprise d'exploration très volatile, sans croissance du chiffre d'affaires communiquée",
+        "Écart important entre cours et objectifs, signe d'incertitude sur le projet"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-12",
-        "Précisions sur l'accord avec Allseas et son calendrier"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Toute annonce sur les autorisations ou contrats d'exploitation (non précisée dans les données)"
       ],
-      "a_surveiller": "Surveillez les détails de l'accord avec Allseas et la capacité de TMC à tenir son calendrier, en gardant en tête que les objectifs des analystes sont très éloignés du cours actuel et que le titre peut varier fortement."
+      "a_surveiller": "Voir si le cours tient autour de 2,87 USD (plus bas sur 52 semaines) ou s'il passe nettement en dessous, et si de vraies nouvelles de l'entreprise apparaissent."
     }
   }
 }
