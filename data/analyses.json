@@ -386,27 +386,27 @@
     }
   },
   "DNA": {
-    "sig": "79755cc073ea7008",
+    "sig": "423898881c3317cc",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les actualités récentes sont peu concrètes : un partenariat avec Araceli Biosciences pour déployer l'imagerie cellulaire à grande échelle, et une vente d'actions de 36 045 $ par le directeur financier. Le titre a fortement monté en 6 mois (+94,6 %), mais le chiffre d'affaires recule nettement (-48,5 %) et les analystes (2 seulement) visent en moyenne 7 $, bien sous le cours de 13 $.",
+      "resume": "Les titres récents sont surtout des pages de cours et un classement d'entreprises CRISPR, sans information financière concrète. Seule nouvelle précise : un partenariat entre Araceli Biosciences et Ginkgo Bioworks pour déployer l'imagerie cellulaire à grande échelle, ce qui montre une activité commerciale mais sans chiffres sur son impact.",
       "points_forts": [
-        "Partenariat annoncé avec Araceli Biosciences autour de l'imagerie cellulaire",
-        "Cours en forte hausse sur 6 mois (+94,6 %)",
-        "Cours bien au-dessus du plus bas sur 52 semaines (5,37 $)"
+        "Partenariat annoncé avec Araceli Biosciences (imagerie cellulaire)",
+        "Cours en hausse d'environ 95 % sur 6 mois",
+        "Capitalisation d'environ 875 M USD et plateforme technologique diversifiée"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse d'environ 48,5 %",
-        "Cours supérieur à tous les objectifs des analystes (5 à 9 $)",
-        "Forte volatilité et vente d'actions par le directeur financier (montant modeste)"
+        "Chiffre d'affaires en forte baisse (-48,5 %)",
+        "Objectif moyen des analystes (7 USD) bien inférieur au cours de 13 USD, avec seulement 2 analystes",
+        "Forte volatilité : écart important entre plus bas (5,37) et plus haut (18,22) sur 52 semaines"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 5 novembre 2026",
-        "Évolution des partenariats et des déploiements de la plateforme (ex. Araceli)"
+        "Nouvelles annonces de partenariats ou de déploiements de la plateforme"
       ],
-      "a_surveiller": "Surveille si le chiffre d'affaires se stabilise lors des prochains résultats et si l'écart entre le cours (13 $) et les objectifs des analystes (5 à 9 $) se réduit."
+      "a_surveiller": "Surveiller si la baisse du chiffre d'affaires se stabilise lors des prochains résultats et si le cours reste durablement bien au-dessus des objectifs des analystes."
     }
   },
   "ABSI": {
