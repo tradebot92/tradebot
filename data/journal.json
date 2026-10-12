@@ -133,5 +133,35 @@
       -16.1
     ],
     "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % en Bourse. Cette étape réglementaire compte beaucoup pour une biotech dont la valeur dépend de ses produits à libération prolongée. Les analystes restent très favorables (avis strong_buy, objectif moyen 35,06 € contre 29,02 € de cours), même si Jefferies a abaissé sa cible."
+  },
+  {
+    "date": "12/10/2026 20:04",
+    "symbole": "GOOG",
+    "sentiment": "positif",
+    "cours": 348.51,
+    "gain": [
+      4.5,
+      20.6
+    ],
+    "perte": [
+      -4.5,
+      -9.0
+    ],
+    "resume": "Les titres récents évoquent un bénéfice en forte hausse (+81 %), des résultats trimestriels portés par le cloud et un accord important avec Anthropic qui a fait grimper l'action d'environ 2 %. Alphabet relève toutefois à nouveau ses prévisions d'investissements, ce qui pèse sur les dépenses futures. Cela compte car le cours (348,51 USD) reste sous son plus haut sur 52 semaines (404,47 USD) alors que les analystes sont très majoritairement positifs."
+  },
+  {
+    "date": "12/10/2026 20:04",
+    "symbole": "MEDCL.PA",
+    "sentiment": "positif",
+    "cours": 28.8,
+    "gain": [
+      8.1,
+      24.0
+    ],
+    "perte": [
+      -8.1,
+      -16.1
+    ],
+    "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de MedinCell, après UZEDY. Le titre a réagi par une forte hausse d'environ 18 % en Bourse. C'est une étape réglementaire majeure qui confirme la plateforme de l'entreprise."
   }
 ]

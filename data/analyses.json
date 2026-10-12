@@ -24,51 +24,51 @@
     }
   },
   "GOOG": {
-    "sig": "4bf197939f5113ba",
+    "sig": "c9eb335d0892176f",
     "analyse": {
       "sentiment": "positif",
-      "importance": 3,
+      "importance": 4,
       "confiance": "moyenne",
-      "resume": "Le titre le plus concret parmi l'actualité est celui d'Euronews : Alphabet, maison mère de Google, annonce un bénéfice en hausse de 81 %. Les autres titres sont surtout des pages de cotation et de prévisions sans information nouvelle. Cela compte car cela confirme une forte dynamique de résultats, même si le cours reste sous son plus haut sur 52 semaines.",
+      "resume": "Les titres récents évoquent un bénéfice en forte hausse (+81 %), des résultats trimestriels portés par le cloud et un accord important avec Anthropic qui a fait grimper l'action d'environ 2 %. Alphabet relève toutefois à nouveau ses prévisions d'investissements, ce qui pèse sur les dépenses futures. Cela compte car le cours (348,51 USD) reste sous son plus haut sur 52 semaines (404,47 USD) alors que les analystes sont très majoritairement positifs.",
       "points_forts": [
-        "Bénéfice en hausse de 81 % selon Euronews",
-        "Chiffre d'affaires en croissance de 24,2 %",
-        "Consensus des analystes « strong buy » (14 analystes), objectif moyen 420,36 USD"
+        "Croissance du chiffre d'affaires de 24,2 %",
+        "Bénéfice en hausse de 81 % et cloud moteur des résultats",
+        "Avis analystes strong_buy, objectif moyen 420,36 USD"
       ],
       "risques": [
-        "Cours à 348,37 USD, environ 14 % sous le plus haut de 52 semaines (404,47)",
-        "Valorisation élevée avec une capitalisation d'environ 4 260 milliards USD",
-        "Objectif bas des analystes (340 USD) proche du cours actuel"
+        "Hausse des prévisions d'investissements qui peut peser sur les marges",
+        "Objectif bas des analystes (340 USD) proche du cours actuel",
+        "Cours volatil : environ 30 % d'écart entre plus bas et plus haut sur 52 semaines"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 28 octobre 2026",
-        "Évolution des objectifs de cours des analystes après les résultats"
+        "Publication des résultats prévue le 28 octobre 2026",
+        "Évolution de l'accord avec Anthropic et de l'activité cloud"
       ],
-      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires et des bénéfices se maintient lors des résultats du 28 octobre 2026, et si le cours repasse vers son plus haut de 52 semaines."
+      "a_surveiller": "Surveille si la croissance du cloud et des revenus continue de justifier le niveau élevé des investissements lors des prochains résultats."
     }
   },
   "GLOO": {
-    "sig": "455b0fceee463a1e",
+    "sig": "fe95e68978bf06c8",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis sont des pages de cours génériques (TradingView, Yahoo) et ne contiennent aucune information concrète sur Gloo. Le cours a reculé d'environ 38,5 % en 6 mois et se situe près du bas de sa fourchette sur 52 semaines, ce qui reflète une forte volatilité. Les analystes visent un objectif moyen bien supérieur au cours actuel, mais cela reste une estimation et non une certitude.",
+      "resume": "Les titres récents sont de simples pages de cotation (TradingView, Yahoo) et ne contiennent aucune information concrète sur Gloo. Le cours de 3,84 $ a reculé d'environ 38 % en six mois, mais reste au-dessus de son plus bas à 2,9 $. L'écart avec les objectifs des analystes (7 à 17 $) est important, ce qui reflète une forte incertitude.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 1,88 (à confirmer selon la période)",
-        "Objectif moyen des analystes (11,17 $) nettement au-dessus du cours de 3,79 $",
-        "Plateforme d'outils IA pour un marché de niche (communautés de foi)"
+        "Croissance du chiffre d'affaires élevée (1,88, soit +188 % selon la donnée fournie)",
+        "Objectif moyen des analystes (11,17 $) bien au-dessus du cours actuel",
+        "Plateforme d'outils d'IA par abonnement pour un marché spécialisé"
       ],
       "risques": [
-        "Forte baisse du cours sur 6 mois (-38,5 %)",
-        "Petite capitalisation (~351 M$), donc volatilité élevée",
-        "Écart important entre les objectifs des analystes (7 à 17 $) et le cours, signe d'incertitude"
+        "Forte baisse du cours sur 6 mois (-37,7 %)",
+        "Petite capitalisation (~355 M$) probablement très volatile",
+        "Large dispersion des objectifs d'analystes (7 à 17 $), sans avis tranché"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 9 septembre 2026",
-        "Éventuelles révisions des objectifs par les analystes"
+        "Publication des résultats prévue le 9 septembre 2026",
+        "Éventuelles révisions des objectifs par les 6 analystes"
       ],
-      "a_surveiller": "Surveiller les résultats du 9 septembre 2026 et voir si le cours se maintient au-dessus du plus bas sur 52 semaines (2,90 $)."
+      "a_surveiller": "Surveille les résultats du 9 septembre 2026 et vérifie si la croissance du chiffre d'affaires se maintient, car les titres actuels n'apportent aucun fait nouveau."
     }
   },
   "INFQ": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "fc757b5420100b0b",
+    "sig": "1d3094bf79ebf4d8",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza (TEV-749), traitement de la schizophrénie développé avec la technologie de MedinCell, et le titre a bondi d'environ 18 %.",
-          "a_surveiller": "Le succès commercial du lancement, encore incertain, ainsi que la volatilité après la forte hausse et le recul du chiffre d'affaires de 44,6 %.",
+          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de MedinCell après UZEDY, et le titre a progressé d'environ 18 %.",
+          "a_surveiller": "Une partie de la bonne nouvelle peut déjà être intégrée dans le cours, et le chiffre d'affaires est en baisse alors que la société dépend de ses partenaires pour la commercialisation.",
           "nom": "MEDINCELL S.A."
         },
         {
-          "symbole": "TRAX",
-          "pourquoi": "L'action a progressé d'environ 20 % après la publication de données d'un essai clinique dans la maladie cœliaque.",
-          "a_surveiller": "Les détails chiffrés de l'essai, non fournis ici, et la confirmation des résultats lors des phases suivantes, pour une société sans revenus indiqués.",
-          "nom": "First Tracks Biotherapeutics, I"
+          "symbole": "GOOG",
+          "pourquoi": "Alphabet publie un bénéfice en forte hausse (+81 %), des résultats portés par le cloud et un accord important avec Anthropic, tandis que le cours (348,51 USD) reste sous son plus haut sur 52 semaines (404,47 USD).",
+          "a_surveiller": "La nouvelle hausse des prévisions d'investissements peut peser sur les marges, et l'objectif bas des analystes (340 USD) est proche du cours actuel.",
+          "nom": "Alphabet Inc."
         },
         {
-          "symbole": "GOOG",
-          "pourquoi": "Alphabet annonce un bénéfice en hausse de 81 %, ce qui confirme une forte dynamique de résultats.",
-          "a_surveiller": "L'écart du cours (348,37 USD) avec son plus haut sur 52 semaines (404,47 USD), la valorisation élevée et l'objectif bas des analystes (340 USD) proche du cours.",
-          "nom": "Alphabet Inc."
+          "symbole": "TRAX",
+          "pourquoi": "L'action a bondi d'environ 20 % après la publication de données d'un essai clinique dans la maladie cœliaque, un type de résultat déterminant pour la valorisation d'une biotech en phase clinique.",
+          "a_surveiller": "Les détails chiffrés de l'essai ne sont pas fournis, et les résultats doivent souvent être confirmés lors des phases suivantes.",
+          "nom": "First Tracks Biotherapeutics, I"
         }
       ],
-      "prudence": "Ces informations sont données à titre indicatif : les cours peuvent varier fortement et rapidement, et toute décision comporte un risque de perte en capital."
+      "prudence": "Ces éléments sont purement informatifs : les cours de ces valeurs sont très volatils, une hausse rapide peut s'inverser et tout investissement comporte un risque de perte en capital."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "ee07e5d36b34ca22",
+    "sig": "5a0a9255961bd8fa",
     "analyse": {
       "sentiment": "positif",
-      "importance": 4,
+      "importance": 5,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec la technologie de MedinCell. Le titre a bondi d'environ 18 % en Bourse après cette annonce, et Stifel a exprimé sa confiance. C'est une étape réglementaire majeure pour cette biotech, mais l'impact réel dépendra du lancement commercial.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de MedinCell, après UZEDY. Le titre a réagi par une forte hausse d'environ 18 % en Bourse. C'est une étape réglementaire majeure qui confirme la plateforme de l'entreprise.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza (schizophrénie)",
-        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,7 EUR)",
-        "Produit UZEDY déjà commercialisé"
+        "Feu vert de la FDA pour Weltruza, 2e traitement de la schizophrénie",
+        "UZEDY déjà commercialisé, ce qui valide la technologie",
+        "Analystes très positifs : avis strong_buy, objectif moyen 35,7 EUR"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-44,6 %) selon les données fournies",
-        "Forte volatilité après un bond de 18 % en une séance",
-        "Succès commercial du lancement encore incertain"
+        "Chiffre d'affaires en baisse (-0,446 selon les données)",
+        "Forte volatilité : le titre a déjà bondi de 18 %, une partie de la bonne nouvelle peut être déjà intégrée",
+        "Société de petite taille, dépendante de ses partenaires pour la commercialisation"
       ],
       "catalyseurs": [
         "Lancement commercial de Weltruza aux États-Unis",
-        "Avancement des essais de phase III de mdc-CWM (douleur post-opératoire)"
+        "Avancement de mdc-CWM (phase III, douleur post-opératoire)"
       ],
-      "a_surveiller": "Surveiller si le cours se stabilise après le bond et les informations sur le calendrier de lancement et les revenus attendus (redevances) de Weltruza."
+      "a_surveiller": "Surveillez si le cours tient après la hausse brutale, ainsi que les annonces sur le calendrier de lancement et les ventes de Weltruza et d'UZEDY."
     }
   },
   "KLRA": {
