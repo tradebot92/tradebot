@@ -338,75 +338,75 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "4da625fd2255d054",
+    "sig": "68a11fb8e2cc3881",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell (TEV-749 / mdc-TJK d'après les titres). L'action a fortement progressé, de l'ordre de 18 % selon BFM Bourse. Cette approbation compte car elle fait passer un produit du stade de développement à celui de la commercialisation.",
+      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % en Bourse. Cette étape réglementaire compte beaucoup pour une biotech dont la valeur dépend de ses produits à injection prolongée. Plusieurs articles évoquent aussi la confiance d'analystes comme Stifel.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza",
-        "Avis des analystes : strong_buy (9 analystes), objectif moyen 35,72 € contre 28,52 € de cours",
-        "UZEDY déjà commercialisé, pipeline avancé (mdc-CWM en phase III)"
+        "Feu vert américain pour Weltruza (schizophrénie)",
+        "Consensus d'analystes « strong_buy », objectif moyen 35,72 € (au-dessus du cours de 28,74 €)",
+        "Cours en hausse de 18,5 % sur 6 mois, avec une résistance technique cassée"
       ],
       "risques": [
-        "Chiffre d'affaires en recul de 0,446 sur la dernière période",
-        "Titre volatile : forte hausse récente pouvant être en partie déjà intégrée au cours",
-        "Succès commercial du lancement encore incertain"
+        "Chiffre d'affaires en baisse (-0,446 selon les données)",
+        "Titre très volatil : plus bas 19,69 € et plus haut 39,68 € sur 52 semaines",
+        "Après un bond de 18 %, risque de prises de bénéfices"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis",
-        "Avancement de l'essai de phase III de mdc-CWM (douleur post-opératoire)"
+        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
+        "Avancée des essais cliniques, notamment mdc-CWM en phase III"
       ],
-      "a_surveiller": "Surveiller la réaction du cours dans les prochains jours après l'envolée, ainsi que les premiers signaux sur le lancement commercial et la date des prochains résultats (non communiquée)."
+      "a_surveiller": "Voir si la hausse se maintient dans les prochains jours et si les premières ventes de Weltruza redressent le chiffre d'affaires, sans date de résultats connue pour l'instant."
     }
   },
   "KLRA": {
-    "sig": "8e2f3dddfc043388",
+    "sig": "3787168a92031ff4",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents portent surtout sur l'introduction en bourse de Kailera, présentée comme la plus grande du secteur biotech depuis 2021, dans un contexte de course aux traitements contre l'obésité. Les autres titres sont généraux ou concernent d'autres sociétés, sans information concrète sur Kailera. Le cours a pourtant perdu environ 55 % en 6 mois, ce qui montre une forte volatilité.",
+      "resume": "Les titres d'actualité fournis ne disent presque rien de concret sur Kailera : le seul élément pertinent rappelle que son introduction en bourse a été la plus grosse du secteur biotech depuis 2021, dans un contexte de course aux traitements contre l'obésité. L'action a pourtant fortement reculé depuis (-55,3 % sur 6 mois) et se situe près de son plus bas sur 52 semaines, alors que les analystes restent très positifs sur le papier.",
       "points_forts": [
-        "Introduction en bourse de grande taille pour le secteur",
-        "Pipeline varié dans l'obésité (injectable et oral)",
-        "Avis des analystes très favorable (5 analystes, objectif moyen 42,4 USD)"
+        "Pipeline ciblant l'obésité, un marché très suivi (GLP-1/GIP, oral, tri-agoniste)",
+        "Avis analystes strong_buy, objectif moyen 42,4 $ très au-dessus du cours",
+        "Forte visibilité grâce à une introduction en bourse de grande taille"
       ],
       "risques": [
-        "Société au stade clinique, sans chiffre d'affaires indiqué",
-        "Forte baisse du cours (-55,3 % sur 6 mois) et volatilité élevée",
-        "Concurrence intense sur le marché de l'obésité"
+        "Société en phase clinique, sans chiffre d'affaires, avec des résultats d'essais incertains",
+        "Forte volatilité et baisse marquée depuis le plus haut (28,23 $)",
+        "Concurrence intense dans le secteur de la perte de poids"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 04/11/2026",
-        "Éventuelles données cliniques sur les programmes comme KAI-9531 (non datées dans les informations fournies)"
+        "Publication des prochains résultats trimestriels le 04/11/2026",
+        "Données ou avancées cliniques sur KAI-9531 et les autres programmes"
       ],
-      "a_surveiller": "Surveiller les annonces sur l'avancement des essais cliniques et l'écart entre le cours actuel (11,61 USD) et les objectifs des analystes, tout en restant prudent face à la volatilité."
+      "a_surveiller": "Surveille les annonces d'essais cliniques et l'évolution du cours autour du plus bas annuel de 9,76 $, en gardant à l'esprit que les objectifs des analystes ne sont pas une garantie."
     }
   },
   "DNA": {
-    "sig": "423898881c3317cc",
+    "sig": "31083aaaf05b6ae3",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et un classement d'entreprises CRISPR, sans information financière concrète. Seule nouvelle précise : un partenariat entre Araceli Biosciences et Ginkgo Bioworks pour déployer l'imagerie cellulaire à grande échelle, ce qui montre une activité commerciale mais sans chiffres sur son impact.",
+      "resume": "Les titres récents sont surtout des pages de cours et un article de classement sur les entreprises CRISPR, ce qui n'apporte rien de concret. Seule info précise : un partenariat avec Araceli Biosciences pour déployer l'imagerie cellulaire à grande échelle, dont l'impact financier n'est pas détaillé. Le cours a presque doublé en 6 mois, mais le chiffre d'affaires recule fortement.",
       "points_forts": [
-        "Partenariat annoncé avec Araceli Biosciences (imagerie cellulaire)",
-        "Cours en hausse d'environ 95 % sur 6 mois",
-        "Capitalisation d'environ 875 M USD et plateforme technologique diversifiée"
+        "Cours en forte hausse sur 6 mois (+94,6 %)",
+        "Collaboration annoncée avec Araceli Biosciences sur l'imagerie cellulaire",
+        "Plateforme combinant ingénierie cellulaire, IA et automatisation"
       ],
       "risques": [
-        "Chiffre d'affaires en forte baisse (-48,5 %)",
-        "Objectif moyen des analystes (7 USD) bien inférieur au cours de 13 USD, avec seulement 2 analystes",
-        "Forte volatilité : écart important entre plus bas (5,37) et plus haut (18,22) sur 52 semaines"
+        "Chiffre d'affaires en baisse d'environ 48,5 %",
+        "Titre très volatil (de 5,37 à 18,22 sur 52 semaines)",
+        "Cours (13 $) nettement au-dessus de l'objectif moyen des analystes (7 $), avec seulement 2 analystes"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 5 novembre 2026",
         "Nouvelles annonces de partenariats ou de déploiements de la plateforme"
       ],
-      "a_surveiller": "Surveiller si la baisse du chiffre d'affaires se stabilise lors des prochains résultats et si le cours reste durablement bien au-dessus des objectifs des analystes."
+      "a_surveiller": "Surveille lors des prochains résultats si la baisse du chiffre d'affaires s'arrête et si le partenariat avec Araceli se traduit par des revenus concrets."
     }
   },
   "ABSI": {
