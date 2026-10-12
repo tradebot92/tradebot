@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "c9eb335d0892176f",
+    "sig": "4bf197939f5113ba",
     "analyse": {
       "sentiment": "positif",
-      "importance": 4,
+      "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres récents évoquent un bénéfice en forte hausse (+81 %), des résultats trimestriels portés par le cloud et un accord important avec Anthropic qui a fait grimper l'action d'environ 2 %. Alphabet relève toutefois à nouveau ses prévisions d'investissements, ce qui pèse sur les dépenses futures. Cela compte car le cours (348,51 USD) reste sous son plus haut sur 52 semaines (404,47 USD) alors que les analystes sont très majoritairement positifs.",
+      "resume": "Les titres récents sont surtout des pages de cotation, mais l'un d'eux indique que le bénéfice d'Alphabet a bondi de 81 %, ce qui va dans le sens d'une forte dynamique. Le cours (348,46 USD) reste sous son plus haut sur 52 semaines (404,47) et les analystes sont majoritairement très favorables. Les détails de ce bénéfice ne sont pas précisés dans les titres.",
       "points_forts": [
+        "Bénéfice en hausse de 81 % selon un titre de presse",
         "Croissance du chiffre d'affaires de 24,2 %",
-        "Bénéfice en hausse de 81 % et cloud moteur des résultats",
         "Avis analystes strong_buy, objectif moyen 420,36 USD"
       ],
       "risques": [
-        "Hausse des prévisions d'investissements qui peut peser sur les marges",
+        "Cours environ 14 % sous le plus haut sur 52 semaines",
         "Objectif bas des analystes (340 USD) proche du cours actuel",
-        "Cours volatil : environ 30 % d'écart entre plus bas et plus haut sur 52 semaines"
+        "Valorisation très élevée (capitalisation d'environ 4 260 Md USD)"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 28 octobre 2026",
-        "Évolution de l'accord avec Anthropic et de l'activité cloud"
+        "Publication des résultats le 28 octobre 2026",
+        "Évolution des objectifs de cours des analystes"
       ],
-      "a_surveiller": "Surveille si la croissance du cloud et des revenus continue de justifier le niveau élevé des investissements lors des prochains résultats."
+      "a_surveiller": "Vérifier si la forte hausse du bénéfice est durable ou liée à des éléments ponctuels, et comment le cours réagira lors des prochains résultats du 28 octobre 2026."
     }
   },
   "GLOO": {
@@ -96,27 +96,26 @@
     }
   },
   "EIKN": {
-    "sig": "ebccd620d45b84e3",
+    "sig": "b493aebd66fa7035",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas d'Eikon : ce sont des pages de cours d'autres sociétés de biotechnologie (AUTL, GENB, MRNA, CAPR, AGMB), sans information concrète sur l'entreprise. L'action cote 7,28 USD, proche de son plus bas sur 52 semaines (7,02), après une baisse d'environ 31 % en 6 mois. L'écart très large entre les objectifs des analystes (4,0 à 32,0) montre une forte incertitude.",
+      "resume": "Les titres d'actualité fournis concernent d'autres sociétés (Ovid, Generate Biomedicines, Moderna, Autolus, Novavax) et ne disent rien de concret sur Eikon Therapeutics. Aucune information propre à l'entreprise n'en ressort. Le cours reste proche de son plus bas sur 52 semaines, avec un recul de 32 % sur six mois.",
       "points_forts": [
-        "Portefeuille clinique varié en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)",
-        "Objectif moyen des analystes (24,6) bien au-dessus du cours actuel",
-        "Capitalisation d'environ 394 M USD avec 5 analystes qui la suivent"
+        "Portefeuille clinique diversifié (EIK1001, EIK1003, EIK1004, EIK1005)",
+        "Objectif moyen des analystes (24,6 USD) bien au-dessus du cours actuel (7,22 USD)"
       ],
       "risques": [
-        "Société en phase clinique : le résultat dépend de données d'essais incertaines",
-        "Cours proche du plus bas annuel et tendance baissière",
-        "Objectifs d'analystes très dispersés, dont un à 4,0 sous le cours actuel"
+        "Cours proche du plus bas sur 52 semaines (7,02 USD), tendance baissière",
+        "Très grand écart entre les objectifs des analystes (4,0 à 32,0 USD), signe de forte incertitude",
+        "Société clinique de petite taille (capitalisation d'environ 391 M USD), sans chiffre d'affaires communiqué et donc très volatile"
       ],
       "catalyseurs": [
-        "Publication des résultats trimestriels prévue le 2026-11-12",
-        "Éventuelles données d'essais cliniques sur ses candidats (aucune date indiquée dans les données)"
+        "Prochains résultats prévus le 12 novembre 2026",
+        "Éventuelles données cliniques sur les programmes en développement (dates non précisées)"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas de 52 semaines (7,02) et les annonces officielles de l'entreprise sur ses essais cliniques, car l'actualité actuelle n'apporte rien de concret."
+      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas sur 52 semaines (7,02 USD) et les prochaines annonces cliniques propres à Eikon."
     }
   },
   "EXK": {
@@ -216,29 +215,29 @@
     }
   },
   "_synthese": {
-    "sig": "1d3094bf79ebf4d8",
+    "sig": "8431a6824e900314",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de MedinCell après UZEDY, et le titre a progressé d'environ 18 %.",
-          "a_surveiller": "Une partie de la bonne nouvelle peut déjà être intégrée dans le cours, et le chiffre d'affaires est en baisse alors que la société dépend de ses partenaires pour la commercialisation.",
+          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), traitement de la schizophrénie développé avec la technologie de MedinCell, et le titre a progressé d'environ 18 %.",
+          "a_surveiller": "Le risque de prises de bénéfices après une hausse aussi rapide, le recul du chiffre d'affaires et la réussite commerciale du lancement par les partenaires.",
           "nom": "MEDINCELL S.A."
         },
         {
-          "symbole": "GOOG",
-          "pourquoi": "Alphabet publie un bénéfice en forte hausse (+81 %), des résultats portés par le cloud et un accord important avec Anthropic, tandis que le cours (348,51 USD) reste sous son plus haut sur 52 semaines (404,47 USD).",
-          "a_surveiller": "La nouvelle hausse des prévisions d'investissements peut peser sur les marges, et l'objectif bas des analystes (340 USD) est proche du cours actuel.",
-          "nom": "Alphabet Inc."
+          "symbole": "TRAX",
+          "pourquoi": "Le titre a bondi d'environ 20 % après la publication de données d'un essai clinique dans la maladie cœliaque.",
+          "a_surveiller": "Les détails chiffrés de l'essai, non fournis ici, et leur confirmation lors des phases suivantes, pour une société sans revenus indiqués.",
+          "nom": "First Tracks Biotherapeutics, I"
         },
         {
-          "symbole": "TRAX",
-          "pourquoi": "L'action a bondi d'environ 20 % après la publication de données d'un essai clinique dans la maladie cœliaque, un type de résultat déterminant pour la valorisation d'une biotech en phase clinique.",
-          "a_surveiller": "Les détails chiffrés de l'essai ne sont pas fournis, et les résultats doivent souvent être confirmés lors des phases suivantes.",
-          "nom": "First Tracks Biotherapeutics, I"
+          "symbole": "GOOG",
+          "pourquoi": "Un titre indique que le bénéfice d'Alphabet a progressé de 81 %, et les analystes restent majoritairement très favorables.",
+          "a_surveiller": "Le cours (348,46 USD) est environ 14 % sous son plus haut sur 52 semaines, proche de l'objectif bas des analystes (340 USD), avec une valorisation très élevée.",
+          "nom": "Alphabet Inc."
         }
       ],
-      "prudence": "Ces éléments sont purement informatifs : les cours de ces valeurs sont très volatils, une hausse rapide peut s'inverser et tout investissement comporte un risque de perte en capital."
+      "prudence": "Ces informations sont issues de titres de presse et de scores indicatifs : les cours peuvent varier fortement et rapidement, et rien ne garantit une évolution future."
     }
   },
   "SVC": {
@@ -338,27 +337,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "5a0a9255961bd8fa",
+    "sig": "ee07e5d36b34ca22",
     "analyse": {
       "sentiment": "positif",
-      "importance": 5,
+      "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de MedinCell, après UZEDY. Le titre a réagi par une forte hausse d'environ 18 % en Bourse. C'est une étape réglementaire majeure qui confirme la plateforme de l'entreprise.",
+      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), traitement de la schizophrénie développé avec la technologie de MedinCell, et le titre a bondi d'environ 18 % en Bourse. Cette approbation valide la technologie d'injection prolongée de la société et ouvre une nouvelle source de revenus potentielle. Plusieurs analystes, dont Stifel, affichent leur confiance.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, 2e traitement de la schizophrénie",
-        "UZEDY déjà commercialisé, ce qui valide la technologie",
-        "Analystes très positifs : avis strong_buy, objectif moyen 35,7 EUR"
+        "Feu vert de la FDA pour Weltruza (schizophrénie)",
+        "Consensus des analystes à « achat fort » (9 analystes), objectif moyen 35,72 EUR",
+        "UZEDY déjà commercialisé, ce qui valide la technologie"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-0,446 selon les données)",
-        "Forte volatilité : le titre a déjà bondi de 18 %, une partie de la bonne nouvelle peut être déjà intégrée",
-        "Société de petite taille, dépendante de ses partenaires pour la commercialisation"
+        "Chiffre d'affaires en recul (-0,446 dans les données)",
+        "Titre très volatil, après un bond de 18 % en une séance, avec un risque de prises de bénéfices",
+        "Dépendance aux partenaires et à la réussite commerciale des lancements"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis",
-        "Avancement de mdc-CWM (phase III, douleur post-opératoire)"
+        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
+        "Avancée de l'essai de phase III de mdc-CWM (douleur post-opératoire)"
       ],
-      "a_surveiller": "Surveillez si le cours tient après la hausse brutale, ainsi que les annonces sur le calendrier de lancement et les ventes de Weltruza et d'UZEDY."
+      "a_surveiller": "Le rythme de lancement de Weltruza et la capacité du cours à se maintenir après la forte hausse, face à l'objectif moyen des analystes de 35,72 EUR (cours actuel : 28,8 EUR)."
     }
   },
   "KLRA": {
@@ -671,6 +670,54 @@
         "Éventuelles nouvelles sur les contrats avec les compagnies aériennes ou la concurrence (non précisées dans les données)"
       ],
       "a_surveiller": "Les résultats du 5 novembre 2026 et la capacité du cours à se stabiliser au-dessus du plus bas annuel de 2,05 USD."
+    }
+  },
+  "BMBL": {
+    "sig": "873d3c4e78e5a2c0",
+    "analyse": {
+      "sentiment": "negatif",
+      "importance": 3,
+      "confiance": "faible",
+      "resume": "Le titre le plus concret est la dégradation de Bumble par Goldman Sachs, qui invoque une visibilité limitée et une forte concurrence. Le chiffre d'affaires recule de 15,2 % et le cours (3,78 $) est proche de l'objectif moyen des analystes (3,79 $). Les autres titres ne sont que des pages de cours, sans information nouvelle.",
+      "points_forts": [
+        "Cours proche de l'objectif moyen des analystes (3,79 $)",
+        "Cours bien au-dessus du plus bas sur 52 semaines (2,44 $)",
+        "Plusieurs applications : Bumble, Badoo, Bumble BFF"
+      ],
+      "risques": [
+        "Chiffre d'affaires en baisse de 15,2 %",
+        "Dégradation de Goldman Sachs : visibilité limitée et forte concurrence",
+        "Titre volatil, petite capitalisation (environ 578 M$)"
+      ],
+      "catalyseurs": [
+        "Prochains résultats prévus le 4 novembre 2026",
+        "Éventuelles autres révisions d'analystes après la dégradation de Goldman Sachs"
+      ],
+      "a_surveiller": "Voir si le chiffre d'affaires cesse de reculer lors des prochains résultats et si d'autres analystes suivent Goldman Sachs. Le consensus ne donne pas d'avis clair et les objectifs vont de 3 à 5 $."
+    }
+  },
+  "HELE": {
+    "sig": "baf7146bfd9a3cb5",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 3,
+      "confiance": "faible",
+      "resume": "Les titres indiquent que Helen of Troy a publié un BPA supérieur aux attentes (de 0,28 $), mais un chiffre d'affaires inférieur aux prévisions, et que l'action a fortement bondi. Le cours (28,77 $) est proche de son plus haut sur 52 semaines (31,98 $) après une hausse d'environ 66 % en 6 mois, ce qui montre un fort rebond mais aussi une volatilité élevée.",
+      "points_forts": [
+        "BPA au-dessus des attentes (+0,28 $)",
+        "Forte remontée du cours sur 6 mois (+65,9 %)",
+        "Croissance du chiffre d'affaires positive (+2,1 %)"
+      ],
+      "risques": [
+        "Chiffre d'affaires sous les prévisions",
+        "Croissance des ventes faible",
+        "Titre très volatil (plus bas 13,85 $ vs plus haut 31,98 $)"
+      ],
+      "catalyseurs": [
+        "Prochains résultats prévus le 7 janvier 2027",
+        "Évolution des avis des analystes (consensus actuel : hold, objectif moyen 31,67 $)"
+      ],
+      "a_surveiller": "Regarder si le chiffre d'affaires parvient à accélérer lors des prochains résultats, car la hausse du cours repose surtout sur un BPA meilleur que prévu et non sur des ventes solides."
     }
   }
 }

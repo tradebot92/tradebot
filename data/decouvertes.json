@@ -24,10 +24,6 @@
       "premiere": "2026-10-12T17:10+02:00",
       "nom": "FIGS, Inc."
     },
-    "GOGO": {
-      "premiere": "2026-10-12T17:43+02:00",
-      "nom": "Gogo Inc."
-    },
     "BBT": {
       "premiere": "2026-10-12T18:07+02:00",
       "nom": "Beacon Financial Corporation"
@@ -36,9 +32,13 @@
       "premiere": "2026-10-12T19:05+02:00",
       "nom": "First Tracks Biotherapeutics, I"
     },
-    "EXK": {
-      "premiere": "2026-10-12T19:41+02:00",
-      "nom": "Endeavour Silver Corporation"
+    "BMBL": {
+      "premiere": "2026-10-12T20:46+02:00",
+      "nom": "Bumble Inc."
+    },
+    "HELE": {
+      "premiere": "2026-10-12T20:46+02:00",
+      "nom": "Helen of Troy Limited"
     }
   },
   "sorties": [
@@ -141,6 +141,16 @@
       "symbole": "ALHC",
       "date": "12/10/2026",
       "nom": "Alignment Healthcare, Inc."
+    },
+    {
+      "symbole": "GOGO",
+      "date": "12/10/2026",
+      "nom": "Gogo Inc."
+    },
+    {
+      "symbole": "EXK",
+      "date": "12/10/2026",
+      "nom": "Endeavour Silver Corporation"
     }
   ]
 }
