@@ -20,17 +20,9 @@
       "premiere": "2026-10-12T17:10+02:00",
       "nom": "FIGS, Inc."
     },
-    "TRAX": {
-      "premiere": "2026-10-12T19:05+02:00",
-      "nom": "First Tracks Biotherapeutics, I"
-    },
     "BMBL": {
       "premiere": "2026-10-12T20:46+02:00",
       "nom": "Bumble Inc."
-    },
-    "HELE": {
-      "premiere": "2026-10-12T20:46+02:00",
-      "nom": "Helen of Troy Limited"
     },
     "BORR": {
       "premiere": "2026-10-12T21:07+02:00",
@@ -39,6 +31,14 @@
     "TMC": {
       "premiere": "2026-10-12T21:40+02:00",
       "nom": "TMC the metals company Inc."
+    },
+    "EIKN": {
+      "premiere": "2026-10-12T22:05+02:00",
+      "nom": "Eikon Therapeutics, Inc."
+    },
+    "BBT": {
+      "premiere": "2026-10-12T22:05+02:00",
+      "nom": "Beacon Financial Corporation"
     }
   },
   "sorties": [
@@ -166,6 +166,16 @@
       "symbole": "ALHC",
       "date": "12/10/2026",
       "nom": "Alignment Healthcare, Inc."
+    },
+    {
+      "symbole": "TRAX",
+      "date": "12/10/2026",
+      "nom": "First Tracks Biotherapeutics, I"
+    },
+    {
+      "symbole": "HELE",
+      "date": "12/10/2026",
+      "nom": "Helen of Troy Limited"
     }
   ]
 }
