@@ -216,13 +216,13 @@
     }
   },
   "_synthese": {
-    "sig": "c937cfa77abdad8f",
+    "sig": "da0b59b38a649f42",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et l'action a progressé d'environ 18 % selon BFM Bourse.",
-          "a_surveiller": "Le succès commercial du lancement reste incertain, le chiffre d'affaires est en recul et la forte hausse récente peut déjà être en partie intégrée au cours.",
+          "pourquoi": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a progressé d'environ 18 %.",
+          "a_surveiller": "Le titre est très volatil (entre 19,69 € et 39,68 € sur 52 semaines), le chiffre d'affaires recule et des prises de bénéfices restent possibles après cette hausse.",
           "nom": "MEDINCELL S.A."
         },
         {
@@ -234,11 +234,11 @@
         {
           "symbole": "SVC",
           "pourquoi": "TKO a proposé 2 milliards de dollars pour le portefeuille hôtelier de Service Properties Trust, ce qui pourrait changer fortement la structure de la société.",
-          "a_surveiller": "Il ne s'agit que d'une proposition sans garantie d'aboutissement, le chiffre d'affaires recule de 16,4 % et le cours de cette petite capitalisation peut être très volatil.",
+          "a_surveiller": "L'offre n'est qu'une proposition sans garantie d'aboutir, le chiffre d'affaires baisse de 16,4 % et la petite capitalisation peut rendre le cours volatil.",
           "nom": "Service Properties Trust"
         }
       ],
-      "prudence": "Ces éléments sont donnés à titre d'information : les cours peuvent varier fortement à la hausse comme à la baisse, et rien ne garantit qu'une actualité positive se traduise durablement dans le cours."
+      "prudence": "Ces informations sont données à titre indicatif : les cours peuvent varier fortement à la hausse comme à la baisse, et une actualité positive ne garantit aucun résultat."
     }
   },
   "SVC": {
@@ -362,27 +362,27 @@
     }
   },
   "KLRA": {
-    "sig": "3787168a92031ff4",
+    "sig": "828e4c353c16f7a1",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis ne disent presque rien de concret sur Kailera : le seul élément pertinent rappelle que son introduction en bourse a été la plus grosse du secteur biotech depuis 2021, dans un contexte de course aux traitements contre l'obésité. L'action a pourtant fortement reculé depuis (-55,3 % sur 6 mois) et se situe près de son plus bas sur 52 semaines, alors que les analystes restent très positifs sur le papier.",
+      "resume": "Les titres récents sont peu concrets : l'un évoque l'introduction en bourse de Kailera, présentée comme la plus grande dans la biotech depuis 2021 dans un contexte de course aux traitements contre l'obésité. Les deux autres sont de simples pages de cotation sur d'autres sociétés. Depuis son entrée en bourse, l'action a fortement reculé (-55,3 % sur 6 mois), alors que les analystes restent très positifs.",
       "points_forts": [
-        "Pipeline ciblant l'obésité, un marché très suivi (GLP-1/GIP, oral, tri-agoniste)",
-        "Avis analystes strong_buy, objectif moyen 42,4 $ très au-dessus du cours",
-        "Forte visibilité grâce à une introduction en bourse de grande taille"
+        "Pipeline ciblant l'obésité (injectables et oraux), un marché très suivi",
+        "Avis des analystes strong_buy (5 analystes), objectif moyen 42,4 $ très au-dessus du cours",
+        "Introduction en bourse de grande taille pour le secteur"
       ],
       "risques": [
-        "Société en phase clinique, sans chiffre d'affaires, avec des résultats d'essais incertains",
-        "Forte volatilité et baisse marquée depuis le plus haut (28,23 $)",
-        "Concurrence intense dans le secteur de la perte de poids"
+        "Société au stade clinique, sans chiffre d'affaires communiqué",
+        "Forte volatilité : cours de 11,61 $ vs plus haut 28,23 $ sur 52 semaines",
+        "Concurrence intense dans la course aux traitements contre l'obésité"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats trimestriels le 04/11/2026",
-        "Données ou avancées cliniques sur KAI-9531 et les autres programmes"
+        "Publication des prochains résultats le 04/11/2026",
+        "Nouvelles données ou avancées cliniques sur KAI-9531, KAI-7535 ou KAI-4729 (dates non précisées)"
       ],
-      "a_surveiller": "Surveille les annonces d'essais cliniques et l'évolution du cours autour du plus bas annuel de 9,76 $, en gardant à l'esprit que les objectifs des analystes ne sont pas une garantie."
+      "a_surveiller": "Surveille l'évolution du cours par rapport au plus bas de 52 semaines (9,76 $) et toute annonce sur les programmes cliniques, sans te fier uniquement aux objectifs des analystes."
     }
   },
   "DNA": {
