@@ -36,9 +36,9 @@
       "premiere": "2026-10-12T18:07+02:00",
       "nom": "Beacon Financial Corporation"
     },
-    "EXK": {
-      "premiere": "2026-10-12T18:41+02:00",
-      "nom": "Endeavour Silver Corporation"
+    "TRAX": {
+      "premiere": "2026-10-12T19:05+02:00",
+      "nom": "First Tracks Biotherapeutics, I"
     }
   },
   "sorties": [
@@ -131,6 +131,11 @@
       "symbole": "CTNM",
       "date": "12/10/2026",
       "nom": "Contineum Therapeutics, Inc."
+    },
+    {
+      "symbole": "EXK",
+      "date": "12/10/2026",
+      "nom": "Endeavour Silver Corporation"
     }
   ]
 }

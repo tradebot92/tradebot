@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "13c6fb6eefe7c75a",
+    "sig": "4bf197939f5113ba",
     "analyse": {
       "sentiment": "positif",
       "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres récents sont surtout des pages de cours, mais un article annonce que le bénéfice d'Alphabet a bondi de 81 %. Cela confirme une forte dynamique, avec un chiffre d'affaires en hausse de 24,2 %. Le cours (350,64 USD) reste sous son plus haut sur 52 semaines (404,47 USD) et sous l'objectif moyen des analystes (420,36 USD).",
+      "resume": "Le titre le plus concret parmi l'actualité est celui d'Euronews : Alphabet, maison mère de Google, annonce un bénéfice en hausse de 81 %. Les autres titres sont surtout des pages de cotation et de prévisions sans information nouvelle. Cela compte car cela confirme une forte dynamique de résultats, même si le cours reste sous son plus haut sur 52 semaines.",
       "points_forts": [
         "Bénéfice en hausse de 81 % selon Euronews",
         "Chiffre d'affaires en croissance de 24,2 %",
-        "Avis analystes « strong buy » (14 analystes)"
+        "Consensus des analystes « strong buy » (14 analystes), objectif moyen 420,36 USD"
       ],
       "risques": [
-        "Cours environ 13 % sous le plus haut sur 52 semaines",
-        "Valorisation élevée avec une capitalisation d'environ 4 300 milliards USD",
+        "Cours à 348,37 USD, environ 14 % sous le plus haut de 52 semaines (404,47)",
+        "Valorisation élevée avec une capitalisation d'environ 4 260 milliards USD",
         "Objectif bas des analystes (340 USD) proche du cours actuel"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 28 octobre 2026",
-        "Évolution des objectifs de cours des analystes d'ici 2027"
+        "Publication des prochains résultats le 28 octobre 2026",
+        "Évolution des objectifs de cours des analystes après les résultats"
       ],
-      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires et des bénéfices se maintient lors des résultats du 28 octobre 2026, et si le cours revient vers son plus haut annuel."
+      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires et des bénéfices se maintient lors des résultats du 28 octobre 2026, et si le cours repasse vers son plus haut de 52 semaines."
     }
   },
   "GLOO": {
@@ -96,27 +96,27 @@
     }
   },
   "EIKN": {
-    "sig": "ebccd620d45b84e3",
+    "sig": "b493aebd66fa7035",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas d'Eikon : ce sont des pages de cours d'autres sociétés de biotechnologie (AUTL, GENB, MRNA, CAPR, AGMB). Ils n'apportent donc aucune information concrète sur l'entreprise. Le titre recule de 30,8 % en 6 mois et se trouve proche de son plus bas sur 52 semaines (7,02 USD).",
+      "resume": "Les titres d'actualité fournis ne concernent pas directement Eikon Therapeutics : ce sont des pages de cours d'autres sociétés (OVID, GENB, MRNA, AUTL, NVAX). Ils n'apportent donc aucune information concrète sur EIKN. Le cours (7,28 USD) est proche de son plus bas sur 52 semaines (7,02), après une baisse d'environ 31 % en 6 mois.",
       "points_forts": [
-        "Portefeuille clinique diversifié (EIK1001, EIK1003/1004, EIK1005) en oncologie",
+        "Portefeuille clinique varié (immunothérapie, inhibiteurs PARP1 et WRN)",
         "Objectif moyen des analystes (24,6 USD) très supérieur au cours actuel",
-        "Capitalisation d'environ 398 M USD avec 5 analystes qui suivent le titre"
+        "Produit EIK1004 pensé pour les métastases cérébrales, un besoin médical important"
       ],
       "risques": [
-        "Forte baisse du cours et proximité du plus bas annuel",
-        "Dispersion très large des objectifs (4 à 32 USD), signe d'une grande incertitude",
-        "Société clinique sans chiffre d'affaires communiqué, donc très volatile et dépendante des résultats d'essais"
+        "Cours proche du plus bas annuel et tendance baissière",
+        "Très forte dispersion des objectifs d'analystes (4,0 à 32,0 USD), signe d'une grande incertitude",
+        "Société clinique sans chiffre d'affaires communiqué, donc dépendante des résultats d'essais et de financements"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 12 novembre 2026",
-        "Éventuelles données cliniques sur les programmes EIK1001, PARP1 ou WRN (non datées dans les informations fournies)"
+        "Éventuelles données d'essais cliniques sur les candidats (EIK1001, EIK1003/1004, EIK1005)"
       ],
-      "a_surveiller": "Suivre si le cours tient au-dessus du plus bas annuel de 7,02 USD et attendre des annonces cliniques ou financières propres à Eikon."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas annuel de 7,02 USD et si l'entreprise annonce des données cliniques ou des informations sur sa trésorerie avant les résultats de novembre."
     }
   },
   "EXK": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "ffd8877da059083c",
+    "sig": "22d295fd96d44621",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % avec une suspension de cotation en séance.",
-          "a_surveiller": "Après ce fort rebond, le cours est plus exposé à des prises de bénéfices, et le chiffre d'affaires est indiqué en baisse (-0,446 selon les données).",
+          "pourquoi": "L'autorisation américaine de mise sur le marché de Weltruza, traitement de la schizophrénie, a fait bondir le titre d'environ 18 %.",
+          "a_surveiller": "Le chiffre d'affaires en baisse de 44,6 %, la volatilité du titre après cette forte hausse et la cible abaissée par Jefferies.",
           "nom": "MEDINCELL S.A."
         },
         {
-          "symbole": "GOOG",
-          "pourquoi": "Alphabet aurait vu son bénéfice bondir de 81 % selon Euronews, ce qui va dans le sens de la hausse du chiffre d'affaires de 24,2 %.",
-          "a_surveiller": "La valorisation est très élevée (environ 4 280 milliards USD) et l'objectif bas des analystes (340 USD) est proche du cours actuel.",
-          "nom": "Alphabet Inc."
+          "symbole": "TRAX",
+          "pourquoi": "L'action a progressé d'environ 20 % après la publication de données d'un essai clinique dans la maladie cœliaque.",
+          "a_surveiller": "Les détails chiffrés de l'essai ne sont pas fournis, et les résultats devront être confirmés lors des phases suivantes.",
+          "nom": "First Tracks Biotherapeutics, I"
         },
         {
-          "symbole": "IREN",
-          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le cours (35,48 $) reste bien sous son plus haut sur 52 semaines (76,87 $), le chiffre d'affaires recule de 26,7 % et les avis des analystes sont très dispersés.",
-          "nom": "IREN LIMITED"
+          "symbole": "GOOG",
+          "pourquoi": "Alphabet annonce un bénéfice en hausse de 81 %, ce qui confirme une forte dynamique de résultats.",
+          "a_surveiller": "Le cours de 348,37 USD reste environ 14 % sous son plus haut sur 52 semaines, avec un objectif bas des analystes (340 USD) proche du niveau actuel.",
+          "nom": "Alphabet Inc."
         }
       ],
-      "prudence": "Ces informations sont données à titre indicatif : les cours peuvent varier fortement à la hausse comme à la baisse et toute décision comporte un risque de perte en capital."
+      "prudence": "Ces éléments sont donnés à titre d'information : les titres cités sont volatils ou très valorisés, et les mouvements récents peuvent s'inverser, ce qui comporte un risque de perte."
     }
   },
   "SVC": {
@@ -314,51 +314,51 @@
     }
   },
   "ALHC": {
-    "sig": "531cd81e7d803560",
+    "sig": "0a495c926b274afd",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 1,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont de simples pages de cours (TradingView, Zonebourse) sur ALHC et sur des concurrents comme Molina et UnitedHealth. Ils n'apportent aucune information concrète sur l'entreprise. Le contexte reste marqué par une forte baisse du cours sur 6 mois (-61,2 %), malgré une croissance du chiffre d'affaires de 31,6 %.",
+      "resume": "Les titres récents ne sont que des pages de cours et de graphiques (ALHC, Molina, UnitedHealth, Elevance), sans information concrète sur l'entreprise. L'action a pourtant chuté d'environ 61,5 % en 6 mois et se situe près de son plus bas sur 52 semaines (6,01 USD), ce qui montre une forte volatilité et un contexte difficile pour le secteur des assurances santé.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 31,6 %",
-        "Avis moyen des analystes : acheter (13 analystes)",
-        "Objectif moyen des analystes (17,15 $) bien au-dessus du cours actuel (8,27 $)"
+        "Chiffre d'affaires en hausse de 31,6 %",
+        "Avis moyen des analystes : « buy » (13 analystes)",
+        "Objectif moyen (17,15 USD) nettement au-dessus du cours actuel (8,19 USD)"
       ],
       "risques": [
-        "Chute du cours de 61,2 % en 6 mois, signe d'une forte volatilité",
-        "Cours proche du plus bas sur 52 semaines (6,01 $), très loin du plus haut (25,12 $)",
-        "Activité concentrée sur les plans Medicare Advantage, secteur où les concurrents sont aussi suivis de près"
+        "Baisse de 61,5 % en 6 mois, très forte volatilité",
+        "Secteur Medicare Advantage sous pression, comme le suggèrent les titres sur d'autres assureurs",
+        "Petite capitalisation (environ 1,7 Md USD), donc plus sensible aux fluctuations"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 29 octobre 2026",
-        "Révisions des objectifs ou des avis des analystes"
+        "Évolution des objectifs et des avis des analystes (objectif bas à 9,0 USD)"
       ],
-      "a_surveiller": "Les prochains résultats du 29 octobre 2026 et l'évolution du cours par rapport au plus bas de 6,01 $, en gardant à l'esprit que le titre est très volatil."
+      "a_surveiller": "Surveiller si les prochains résultats confirment la croissance du chiffre d'affaires tout en rassurant sur la situation du secteur, après la forte baisse du cours."
     }
   },
   "MEDCL.PA": {
-    "sig": "e16f8c8af58bf621",
+    "sig": "2e27056622c2c03e",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % en Bourse. Cette autorisation est une étape réglementaire importante pour une biotech qui dépend de ses produits injectables à libération prolongée. Le cours est passé de 26,14 € à 28,8 €, mais la volatilité reste forte.",
+      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, le traitement de la schizophrénie de Medincell, et le titre a bondi d'environ 18 % en Bourse. Cette autorisation est une étape réglementaire importante pour une société dont le chiffre d'affaires est en recul. Plusieurs analystes restent confiants, mais l'un d'eux (Jefferies) a revu sa cible à la baisse.",
       "points_forts": [
         "Feu vert américain pour Weltruza (schizophrénie)",
-        "Consensus des analystes « strong buy » (9 analystes)",
-        "Objectif moyen de 35,72 € au-dessus du cours actuel"
+        "Consensus des 9 analystes : strong_buy, objectif moyen 35,72 € contre 28,8 € de cours",
+        "Titre qui franchit une résistance technique et progresse sur 6 mois (+18,7 %)"
       ],
       "risques": [
-        "Forte volatilité, avec une suspension de cotation récente",
-        "Chiffre d'affaires en baisse (-0,446 selon les données)",
-        "Cours encore sous le plus haut sur 52 semaines (39,68 €) après un rebond rapide"
+        "Chiffre d'affaires en baisse (-44,6 %)",
+        "Action volatile, forte hausse récente déjà en partie intégrée dans le cours",
+        "Cible abaissée par Jefferies, signe de prudence chez certains analystes"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis",
-        "Avancée des essais de phase III du mdc-CWM (douleur post-opératoire)"
+        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
+        "Avancée de mdc-CWM (essai de phase III contre la douleur post-opératoire)"
       ],
-      "a_surveiller": "Surveiller si le cours se maintient après le bond de 18 % et les premières informations sur le lancement commercial de Weltruza."
+      "a_surveiller": "Surveille si le titre tient ses niveaux après le bond de 18 % et comment évoluent les objectifs des analystes ainsi que les premiers chiffres de ventes."
     }
   },
   "KLRA": {
@@ -482,27 +482,27 @@
     }
   },
   "TRAX": {
-    "sig": "b6737c180a886781",
+    "sig": "1b8e7639787d3331",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Plusieurs titres récents indiquent que l'action First Tracks Biotherapeutics a bondi d'environ 20 % après des données d'essai clinique jugées encourageantes dans la maladie cœliaque. Pour une société biotech au stade clinique, ce type de résultat compte beaucoup, car sa valeur dépend presque entièrement de ses médicaments en développement. Les titres ne donnent toutefois pas de détails chiffrés sur l'essai.",
+      "resume": "Plusieurs titres indiquent que l'action a bondi d'environ 20 % après la publication de données d'un essai clinique dans la maladie cœliaque. Pour une biotech en phase clinique, ce type de résultat compte beaucoup car la valorisation dépend presque entièrement des données de ses candidats-médicaments. Les détails chiffrés de l'essai ne sont pas fournis ici, donc la portée réelle reste difficile à juger.",
       "points_forts": [
-        "Données cliniques encourageantes dans la maladie cœliaque selon la presse",
-        "Analystes très favorables : avis strong_buy, objectif moyen 70,58 USD contre 34,07 USD de cours",
-        "Cours en hausse d'environ 38,8 % sur 6 mois"
+        "Données cliniques jugées encourageantes dans la maladie cœliaque",
+        "Consensus d'analystes très favorable (strong_buy, 12 avis, objectif moyen 70,58 $)",
+        "Cours en hausse de 40,8 % sur 6 mois, loin du plus bas annuel de 14,72 $"
       ],
       "risques": [
-        "Biotech au stade clinique : forte volatilité et dépendance aux résultats d'essais",
-        "Après une hausse brutale, risque de repli si les détails des données déçoivent",
-        "Aucune croissance du chiffre d'affaires communiquée ; les données financières fournies sont limitées"
+        "Forte volatilité : une hausse rapide peut s'inverser tout aussi vite",
+        "Société encore au stade clinique, sans revenus indiqués",
+        "Résultats d'essai souvent sujets à confirmation lors des phases suivantes"
       ],
       "catalyseurs": [
-        "Publication de détails ou de données complémentaires sur l'essai dans la maladie cœliaque",
-        "Prochains résultats trimestriels prévus le 5 novembre 2026"
+        "Publication des prochains résultats trimestriels (prévue le 2026-11-05)",
+        "Nouvelles données cliniques ou avancées sur les candidats (rosnilimab, ANB033, ANB101)"
       ],
-      "a_surveiller": "Regarder si le cours se stabilise après le bond de 20 % et si la société publie des données plus détaillées sur l'essai, sans oublier que le cours reste plus bas que le plus haut sur 52 semaines (49,91 USD)."
+      "a_surveiller": "Regarder si le cours se maintient après le bond de 20 % et si la société publie des détails plus complets sur les données de l'essai, ainsi que ses prochaines étapes cliniques."
     }
   },
   "CTNM": {
