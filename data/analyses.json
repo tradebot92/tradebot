@@ -48,27 +48,27 @@
     }
   },
   "GLOO": {
-    "sig": "fe95e68978bf06c8",
+    "sig": "455b0fceee463a1e",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis ne sont que des pages de cours et de graphiques (TradingView, Yahoo Finance), dont plusieurs concernent d'autres sociétés : ils n'apportent aucune information concrète sur Gloo. Le contexte reste mitigé : le cours (3,8 USD) a reculé d'environ 38 % en 6 mois et se situe près de son plus bas sur 52 semaines (2,9), malgré une forte croissance du chiffre d'affaires (+1,88, soit +188 % si l'indicateur est en ratio).",
+      "resume": "Les titres d'actualité fournis sont des pages de cours génériques (TradingView, Yahoo) et ne contiennent aucune information concrète sur Gloo. Le cours a reculé d'environ 38,5 % en 6 mois et se situe près du bas de sa fourchette sur 52 semaines, ce qui reflète une forte volatilité. Les analystes visent un objectif moyen bien supérieur au cours actuel, mais cela reste une estimation et non une certitude.",
       "points_forts": [
-        "Forte croissance du chiffre d'affaires (1,88)",
-        "Objectif moyen des analystes (11,17 USD) bien au-dessus du cours actuel",
-        "Positionnement de niche : plateforme technologique pour le secteur de la foi"
+        "Croissance du chiffre d'affaires de 1,88 (à confirmer selon la période)",
+        "Objectif moyen des analystes (11,17 $) nettement au-dessus du cours de 3,79 $",
+        "Plateforme d'outils IA pour un marché de niche (communautés de foi)"
       ],
       "risques": [
-        "Forte baisse du cours sur 6 mois (-38,4 %)",
-        "Petite capitalisation (environ 351 M USD), donc probablement très volatile",
-        "Large écart entre les objectifs des analystes (7 à 17 USD), signe d'une forte incertitude"
+        "Forte baisse du cours sur 6 mois (-38,5 %)",
+        "Petite capitalisation (~351 M$), donc volatilité élevée",
+        "Écart important entre les objectifs des analystes (7 à 17 $) et le cours, signe d'incertitude"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 2026-09-09",
-        "Révisions éventuelles des objectifs ou des avis des analystes"
+        "Publication des prochains résultats le 9 septembre 2026",
+        "Éventuelles révisions des objectifs par les analystes"
       ],
-      "a_surveiller": "Surveiller les résultats du 9 septembre 2026 : la croissance du chiffre d'affaires s'y confirme-t-elle, et le cours tient-il au-dessus du plus bas des 52 semaines (2,9 USD) ?"
+      "a_surveiller": "Surveiller les résultats du 9 septembre 2026 et voir si le cours se maintient au-dessus du plus bas sur 52 semaines (2,90 $)."
     }
   },
   "INFQ": {
@@ -96,27 +96,27 @@
     }
   },
   "EIKN": {
-    "sig": "b493aebd66fa7035",
+    "sig": "ebccd620d45b84e3",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis ne concernent pas directement Eikon Therapeutics : ce sont des pages de cours d'autres sociétés (OVID, GENB, MRNA, AUTL, NVAX). Ils n'apportent donc aucune information concrète sur EIKN. Le cours (7,28 USD) est proche de son plus bas sur 52 semaines (7,02), après une baisse d'environ 31 % en 6 mois.",
+      "resume": "Les titres récents ne parlent pas d'Eikon : ce sont des pages de cours d'autres sociétés de biotechnologie (AUTL, GENB, MRNA, CAPR, AGMB), sans information concrète sur l'entreprise. L'action cote 7,28 USD, proche de son plus bas sur 52 semaines (7,02), après une baisse d'environ 31 % en 6 mois. L'écart très large entre les objectifs des analystes (4,0 à 32,0) montre une forte incertitude.",
       "points_forts": [
-        "Portefeuille clinique varié (immunothérapie, inhibiteurs PARP1 et WRN)",
-        "Objectif moyen des analystes (24,6 USD) très supérieur au cours actuel",
-        "Produit EIK1004 pensé pour les métastases cérébrales, un besoin médical important"
+        "Portefeuille clinique varié en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)",
+        "Objectif moyen des analystes (24,6) bien au-dessus du cours actuel",
+        "Capitalisation d'environ 394 M USD avec 5 analystes qui la suivent"
       ],
       "risques": [
+        "Société en phase clinique : le résultat dépend de données d'essais incertaines",
         "Cours proche du plus bas annuel et tendance baissière",
-        "Très forte dispersion des objectifs d'analystes (4,0 à 32,0 USD), signe d'une grande incertitude",
-        "Société clinique sans chiffre d'affaires communiqué, donc dépendante des résultats d'essais et de financements"
+        "Objectifs d'analystes très dispersés, dont un à 4,0 sous le cours actuel"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Éventuelles données d'essais cliniques sur les candidats (EIK1001, EIK1003/1004, EIK1005)"
+        "Publication des résultats trimestriels prévue le 2026-11-12",
+        "Éventuelles données d'essais cliniques sur ses candidats (aucune date indiquée dans les données)"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas annuel de 7,02 USD et si l'entreprise annonce des données cliniques ou des informations sur sa trésorerie avant les résultats de novembre."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas de 52 semaines (7,02) et les annonces officielles de l'entreprise sur ses essais cliniques, car l'actualité actuelle n'apporte rien de concret."
     }
   },
   "EXK": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "22d295fd96d44621",
+    "sig": "fc757b5420100b0b",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "L'autorisation américaine de mise sur le marché de Weltruza, traitement de la schizophrénie, a fait bondir le titre d'environ 18 %.",
-          "a_surveiller": "Le chiffre d'affaires en baisse de 44,6 %, la volatilité du titre après cette forte hausse et la cible abaissée par Jefferies.",
+          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza (TEV-749), traitement de la schizophrénie développé avec la technologie de MedinCell, et le titre a bondi d'environ 18 %.",
+          "a_surveiller": "Le succès commercial du lancement, encore incertain, ainsi que la volatilité après la forte hausse et le recul du chiffre d'affaires de 44,6 %.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "TRAX",
           "pourquoi": "L'action a progressé d'environ 20 % après la publication de données d'un essai clinique dans la maladie cœliaque.",
-          "a_surveiller": "Les détails chiffrés de l'essai ne sont pas fournis, et les résultats devront être confirmés lors des phases suivantes.",
+          "a_surveiller": "Les détails chiffrés de l'essai, non fournis ici, et la confirmation des résultats lors des phases suivantes, pour une société sans revenus indiqués.",
           "nom": "First Tracks Biotherapeutics, I"
         },
         {
           "symbole": "GOOG",
           "pourquoi": "Alphabet annonce un bénéfice en hausse de 81 %, ce qui confirme une forte dynamique de résultats.",
-          "a_surveiller": "Le cours de 348,37 USD reste environ 14 % sous son plus haut sur 52 semaines, avec un objectif bas des analystes (340 USD) proche du niveau actuel.",
+          "a_surveiller": "L'écart du cours (348,37 USD) avec son plus haut sur 52 semaines (404,47 USD), la valorisation élevée et l'objectif bas des analystes (340 USD) proche du cours.",
           "nom": "Alphabet Inc."
         }
       ],
-      "prudence": "Ces éléments sont donnés à titre d'information : les titres cités sont volatils ou très valorisés, et les mouvements récents peuvent s'inverser, ce qui comporte un risque de perte."
+      "prudence": "Ces informations sont données à titre indicatif : les cours peuvent varier fortement et rapidement, et toute décision comporte un risque de perte en capital."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "2e27056622c2c03e",
+    "sig": "ee07e5d36b34ca22",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, le traitement de la schizophrénie de Medincell, et le titre a bondi d'environ 18 % en Bourse. Cette autorisation est une étape réglementaire importante pour une société dont le chiffre d'affaires est en recul. Plusieurs analystes restent confiants, mais l'un d'eux (Jefferies) a revu sa cible à la baisse.",
+      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec la technologie de MedinCell. Le titre a bondi d'environ 18 % en Bourse après cette annonce, et Stifel a exprimé sa confiance. C'est une étape réglementaire majeure pour cette biotech, mais l'impact réel dépendra du lancement commercial.",
       "points_forts": [
-        "Feu vert américain pour Weltruza (schizophrénie)",
-        "Consensus des 9 analystes : strong_buy, objectif moyen 35,72 € contre 28,8 € de cours",
-        "Titre qui franchit une résistance technique et progresse sur 6 mois (+18,7 %)"
+        "Feu vert de la FDA pour Weltruza (schizophrénie)",
+        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,7 EUR)",
+        "Produit UZEDY déjà commercialisé"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-44,6 %)",
-        "Action volatile, forte hausse récente déjà en partie intégrée dans le cours",
-        "Cible abaissée par Jefferies, signe de prudence chez certains analystes"
+        "Chiffre d'affaires en baisse (-44,6 %) selon les données fournies",
+        "Forte volatilité après un bond de 18 % en une séance",
+        "Succès commercial du lancement encore incertain"
       ],
       "catalyseurs": [
-        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
-        "Avancée de mdc-CWM (essai de phase III contre la douleur post-opératoire)"
+        "Lancement commercial de Weltruza aux États-Unis",
+        "Avancement des essais de phase III de mdc-CWM (douleur post-opératoire)"
       ],
-      "a_surveiller": "Surveille si le titre tient ses niveaux après le bond de 18 % et comment évoluent les objectifs des analystes ainsi que les premiers chiffres de ventes."
+      "a_surveiller": "Surveiller si le cours se stabilise après le bond et les informations sur le calendrier de lancement et les revenus attendus (redevances) de Weltruza."
     }
   },
   "KLRA": {
@@ -626,27 +626,27 @@
     }
   },
   "FIGS": {
-    "sig": "e89637d4238eed0f",
+    "sig": "d39ff20e17e641e1",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne concernent pas vraiment FIGS : ils parlent surtout de Figma (FIG), une autre société, et de pages de cotation génériques (LDOS, Zonebourse). Il n'y a donc aucune actualité concrète sur FIGS elle-même, et ces titres ne permettent pas de tirer de conclusion sur l'action.",
+      "resume": "Les titres récents ne parlent presque pas de FIGS : ils concernent surtout Figma (FIG), une autre société, ou des pages de cours génériques. Il n'y a donc pas d'actualité concrète sur l'entreprise de vêtements médicaux. Le cours (17,58 $) est proche de son plus haut sur 52 semaines (17,62 $), ce qui reflète un élan récent plutôt qu'une nouvelle précise.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 28,8 %",
-        "Cours en hausse d'environ 17,8 % sur 6 mois",
-        "Avis moyen des analystes à « buy » (8 analystes)"
+        "Chiffre d'affaires en hausse de 28,8 %",
+        "Cours proche du plus haut sur 52 semaines, après un fort rebond depuis 6,96 $",
+        "Avis moyen des analystes : buy (8 analystes)"
       ],
       "risques": [
-        "Cours proche du plus haut sur 52 semaines (17,1 contre 17,48), après un plus bas à 6,96 : forte volatilité",
-        "Objectif moyen des analystes (18,6) assez proche du cours actuel, donc peu de marge selon eux",
-        "Risque de confusion avec Figma (FIG), dont l'actualité n'a rien à voir avec FIGS"
+        "Cours déjà proche de l'objectif moyen des analystes (18,625 $), donc peu de marge selon ces estimations",
+        "Titre volatil, avec une grande amplitude entre plus bas et plus haut sur 52 semaines",
+        "Risque de confusion avec Figma (FIG) dans l'actualité, qui peut brouiller l'information"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 05/11/2026",
-        "Éventuelles révisions des objectifs de cours par les analystes"
+        "Publication des résultats prévue le 5 novembre 2026",
+        "Éventuelles révisions des objectifs de cours par les analystes (de 15 à 22 $ actuellement)"
       ],
-      "a_surveiller": "Vérifier que les informations lues concernent bien FIGS (scrubwear) et non Figma, puis suivre la croissance du chiffre d'affaires lors des prochains résultats."
+      "a_surveiller": "Surveille si le cours se maintient au-dessus de son plus haut récent et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
     }
   },
   "GOGO": {

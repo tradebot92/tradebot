@@ -20,10 +20,6 @@
       "premiere": "2026-10-12T15:54+02:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "ALHC": {
-      "premiere": "2026-10-12T17:10+02:00",
-      "nom": "Alignment Healthcare, Inc."
-    },
     "FIGS": {
       "premiere": "2026-10-12T17:10+02:00",
       "nom": "FIGS, Inc."
@@ -39,6 +35,10 @@
     "TRAX": {
       "premiere": "2026-10-12T19:05+02:00",
       "nom": "First Tracks Biotherapeutics, I"
+    },
+    "EXK": {
+      "premiere": "2026-10-12T19:41+02:00",
+      "nom": "Endeavour Silver Corporation"
     }
   },
   "sorties": [
@@ -136,6 +136,11 @@
       "symbole": "EXK",
       "date": "12/10/2026",
       "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "ALHC",
+      "date": "12/10/2026",
+      "nom": "Alignment Healthcare, Inc."
     }
   ]
 }
