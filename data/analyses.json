@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "8e2bdd0966aac566",
+    "sig": "61bf86e1cf151fa1",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et des commentaires généraux : Infleqtion, spécialiste des technologies quantiques, est entrée en Bourse via un SPAC valorisant la société à 1,8 milliard de dollars. Un article évoque un bond de 314 %, mais sans détail concret ici. L'action reste très volatile, à 11,04 $ contre un plus haut annuel de 21,28 $.",
+      "resume": "Infleqtion, spécialiste des technologies quantiques (calcul, capteurs, horloges atomiques), est cotée depuis peu via un SPAC, avec une valorisation annoncée à 1,8 milliard de dollars. Les titres récents évoquent un bond très fort puis un cours en recul de 26,2 % sur 6 mois, ce qui montre une forte volatilité. Les titres ne donnent aucun détail concret sur les résultats de l'entreprise.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (1,565)",
-        "Avis des analystes : strong_buy, objectif moyen 21,83 $",
-        "Gamme variée : capteurs, horloges et informatique quantique"
+        "Croissance du chiffre d'affaires de 156,5 %",
+        "Objectif moyen des analystes (21,83 $) bien au-dessus du cours (10,42 $)",
+        "Large gamme de produits quantiques (capteurs, horloges, calcul)"
       ],
       "risques": [
-        "Forte volatilité (fourchette 52 sem. de 8,52 à 21,28 $)",
-        "Valorisation élevée (environ 2,5 Md$) pour une entreprise récemment cotée via SPAC",
-        "Secteur quantique spéculatif, sensible à l'humeur du marché"
+        "Forte volatilité du cours (52 sem. : 8,52 à 21,28 $)",
+        "Cotation récente via SPAC et valorisation élevée (environ 2,3 Md$)",
+        "Secteur quantique spéculatif, sensible à l'actualité des autres valeurs du domaine"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-12",
-        "Évolution des objectifs et avis des analystes"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Évolution de l'engouement du marché pour les valeurs quantiques"
       ],
-      "a_surveiller": "Surveille la publication des résultats du 12 novembre 2026 et la capacité de l'entreprise à transformer sa croissance du chiffre d'affaires en résultats durables, sans oublier la volatilité du secteur quantique."
+      "a_surveiller": "Voir si la croissance du chiffre d'affaires se confirme lors des prochains résultats et si le cours se stabilise après sa forte baisse depuis le plus haut des 52 semaines."
     }
   },
   "EIKN": {
@@ -673,27 +673,27 @@
     }
   },
   "BMBL": {
-    "sig": "873d3c4e78e5a2c0",
+    "sig": "f6aac085e218df80",
     "analyse": {
-      "sentiment": "negatif",
+      "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Le titre le plus concret est la dégradation de Bumble par Goldman Sachs, qui invoque une visibilité limitée et une forte concurrence. Le chiffre d'affaires recule de 15,2 % et le cours (3,78 $) est proche de l'objectif moyen des analystes (3,79 $). Les autres titres ne sont que des pages de cours, sans information nouvelle.",
+      "resume": "Le titre le plus concret est la dégradation de Bumble par Goldman Sachs, qui évoque une visibilité limitée et une forte concurrence. Le chiffre d'affaires recule de 15,2 % et les analystes n'ont pas d'avis tranché, avec un objectif moyen (3,79 USD) proche du cours actuel (3,73 USD). Les autres titres sont des pages de cours ou des articles généraux, sans information nouvelle.",
       "points_forts": [
-        "Cours proche de l'objectif moyen des analystes (3,79 $)",
-        "Cours bien au-dessus du plus bas sur 52 semaines (2,44 $)",
-        "Plusieurs applications : Bumble, Badoo, Bumble BFF"
+        "Cours en hausse nette depuis le plus bas annuel (2,44 USD)",
+        "Objectif moyen des analystes proche du cours actuel",
+        "Marques connues (Bumble, Badoo, Bumble BFF)"
       ],
       "risques": [
         "Chiffre d'affaires en baisse de 15,2 %",
         "Dégradation de Goldman Sachs : visibilité limitée et forte concurrence",
-        "Titre volatil, petite capitalisation (environ 578 M$)"
+        "Titre volatil et de petite capitalisation (environ 572 M USD)"
       ],
       "catalyseurs": [
-        "Prochains résultats prévus le 4 novembre 2026",
-        "Éventuelles autres révisions d'analystes après la dégradation de Goldman Sachs"
+        "Publication des résultats prévue le 4 novembre 2026",
+        "Éventuelles révisions des objectifs ou avis des analystes après la dégradation"
       ],
-      "a_surveiller": "Voir si le chiffre d'affaires cesse de reculer lors des prochains résultats et si d'autres analystes suivent Goldman Sachs. Le consensus ne donne pas d'avis clair et les objectifs vont de 3 à 5 $."
+      "a_surveiller": "Regarder si la baisse du chiffre d'affaires ralentit lors des prochains résultats et si d'autres analystes suivent la position prudente de Goldman Sachs."
     }
   },
   "HELE": {

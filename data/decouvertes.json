@@ -16,17 +16,9 @@
       "premiere": "2026-10-12T09:45+02:00",
       "nom": "2CRSI"
     },
-    "EIKN": {
-      "premiere": "2026-10-12T15:54+02:00",
-      "nom": "Eikon Therapeutics, Inc."
-    },
     "FIGS": {
       "premiere": "2026-10-12T17:10+02:00",
       "nom": "FIGS, Inc."
-    },
-    "BBT": {
-      "premiere": "2026-10-12T18:07+02:00",
-      "nom": "Beacon Financial Corporation"
     },
     "TRAX": {
       "premiere": "2026-10-12T19:05+02:00",
@@ -39,6 +31,14 @@
     "HELE": {
       "premiere": "2026-10-12T20:46+02:00",
       "nom": "Helen of Troy Limited"
+    },
+    "BORR": {
+      "premiere": "2026-10-12T21:07+02:00",
+      "nom": "Borr Drilling Limited"
+    },
+    "ALHC": {
+      "premiere": "2026-10-12T21:07+02:00",
+      "nom": "Alignment Healthcare, Inc."
     }
   },
   "sorties": [
@@ -151,6 +151,16 @@
       "symbole": "EXK",
       "date": "12/10/2026",
       "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "EIKN",
+      "date": "12/10/2026",
+      "nom": "Eikon Therapeutics, Inc."
+    },
+    {
+      "symbole": "BBT",
+      "date": "12/10/2026",
+      "nom": "Beacon Financial Corporation"
     }
   ]
 }
