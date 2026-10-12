@@ -1,26 +1,26 @@
 {
   "IREN": {
-    "sig": "0a7b626ebd262e58",
+    "sig": "13f5bfee4d74f6ac",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres évoquent une hausse récente de l'action IREN, attribuée à un investissement de 2,1 milliards de dollars de Nvidia dans l'IA, ainsi qu'une note Jefferies à 79 $. Cela compte car l'action reste nettement sous son plus haut sur 52 semaines (76,87 $) et son chiffre d'affaires recule, ce qui crée un contraste entre l'enthousiasme et les chiffres.",
+      "resume": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia dans IREN, qui a fait bondir le cours, ainsi qu'une note d'achat de Jefferies avec un objectif de 79 $. Pourtant, l'action reste en baisse d'environ 18 % sur 6 mois et la croissance du chiffre d'affaires est négative (-26,7 %), ce qui montre un contraste entre l'enthousiasme autour de l'IA et les chiffres récents.",
       "points_forts": [
-        "Investissement de 2,1 Md$ de Nvidia mentionné dans l'actualité",
-        "Consensus des 18 analystes à « buy », objectif moyen 78,14 $",
-        "Activité intégrée : centres de données et calcul pour l'IA"
+        "Investissement de 2,1 Md$ de Nvidia cité dans l'actualité",
+        "Consensus des 18 analystes : « buy », objectif moyen 78,14 $ contre 35,19 $ de cours",
+        "Positionnement dans le cloud IA avec ses propres centres de données"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-26,7 %)",
-        "Action très volatile : -18,3 % sur 6 mois, fourchette 28,93-76,87 $",
-        "Objectif bas des analystes (40 $) et écart très large avec l'objectif haut (139 $)"
+        "Chiffre d'affaires en baisse de 26,7 %",
+        "Titre très volatile (52 sem. : 28,93 à 76,87 $) et en repli sur 6 mois",
+        "Écart très large entre objectifs d'analystes (40 à 139 $), signe de forte incertitude"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-05",
-        "Nouvelles révisions d'objectifs de cours par les analystes"
+        "Publication des résultats prévue le 5 novembre 2026",
+        "Nouvelles annonces de partenariats ou de financements liés à l'IA"
       ],
-      "a_surveiller": "Voir si les détails de l'investissement de Nvidia se traduisent par une reprise du chiffre d'affaires lors des prochains résultats."
+      "a_surveiller": "Voir si les résultats du 5 novembre 2026 confirment le passage de la baisse du chiffre d'affaires à une croissance portée par l'activité cloud IA."
     }
   },
   "GOOG": {
