@@ -32,13 +32,13 @@
       "premiere": "2026-10-10T17:46+02:00",
       "nom": "Infleqtion, Inc."
     },
-    "ABSI": {
-      "premiere": "2026-10-10T18:17+02:00",
-      "nom": "Absci Corporation"
-    },
     "MYN": {
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
+    },
+    "AL2SI.PA": {
+      "premiere": "2026-10-12T09:45+02:00",
+      "nom": "2CRSI"
     }
   },
   "sorties": [
@@ -51,6 +51,11 @@
       "symbole": "EIKN",
       "date": "12/10/2026",
       "nom": "Eikon Therapeutics, Inc."
+    },
+    {
+      "symbole": "ABSI",
+      "date": "12/10/2026",
+      "nom": "Absci Corporation"
     }
   ]
 }

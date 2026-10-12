@@ -456,5 +456,29 @@
       ],
       "a_surveiller": "Voir si le cours tient au-dessus du plus bas sur 52 semaines (8,58 USD) et si la distribution du fonds reste stable."
     }
+  },
+  "AL2SI.PA": {
+    "sig": "3e6b1038352cbe6c",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 3,
+      "confiance": "faible",
+      "resume": "Les titres récents évoquent la forte hausse de 2CRSi en Bourse grâce à l'IA (plus de 3 000 % en trois ans) et un rapport de Grizzly Research qui aurait fait plonger l'action. Les contenus détaillés ne sont pas fournis : on ne connaît donc ni les accusations ni la réponse de la société. Cela compte car le titre est très volatil et divisé entre enthousiasme et doutes.",
+      "points_forts": [
+        "Croissance du chiffre d'affaires de 8,77 (donnée fournie)",
+        "Positionnement sur les serveurs pour l'IA et les data centers",
+        "Objectif moyen des analystes (46,9 €) supérieur au cours actuel (28,66 €)"
+      ],
+      "risques": [
+        "Rapport de Grizzly Research ayant fait chuter l'action",
+        "Très forte volatilité (plus bas 9,3 € et plus haut 59,95 € sur 52 semaines)",
+        "Seulement 2 analystes et aucun avis consensuel"
+      ],
+      "catalyseurs": [
+        "Réponse éventuelle de 2CRSi aux accusations de Grizzly Research",
+        "Prochaine publication de résultats (date non communiquée)"
+      ],
+      "a_surveiller": "Suivre si la société réagit officiellement au rapport de Grizzly Research et si le cours se stabilise après la baisse de ces 6 derniers mois (-26,4 %)."
+    }
   }
 }
