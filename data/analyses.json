@@ -96,27 +96,27 @@
     }
   },
   "EIKN": {
-    "sig": "99786f720c36e332",
+    "sig": "ebccd620d45b84e3",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne parlent pas vraiment d'Eikon : ce sont surtout des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, MRNA, SPRY, AUTL). Ils n'apportent donc aucune information concrète sur l'entreprise. Le cours, à 7,26 USD, a reculé d'environ 31,6 % en 6 mois et se situe près de son plus bas sur 52 semaines (7,02).",
+      "resume": "Les titres d'actualité fournis concernent d'autres sociétés (AUTL, GENB, MRNA, CAPR, AGMB) et ne contiennent aucune information concrète sur Eikon Therapeutics. Le cours (7,26 USD) est proche de son plus bas sur 52 semaines (7,02) et a reculé d'environ 31,6 % en six mois. Il n'y a donc pas de nouvelle spécifique à interpréter, seulement un contexte de baisse.",
       "points_forts": [
-        "Plusieurs candidats-médicaments en développement clinique (EIK1001, EIK1003, EIK1004, EIK1005)",
+        "Portefeuille clinique varié (immunothérapie, inhibiteurs PARP1, inhibiteur WRN)",
         "Objectif moyen des analystes (24,6 USD) très supérieur au cours actuel",
-        "Pipeline centré sur des cancers où les besoins médicaux restent importants"
+        "Capitalisation d'environ 393 M USD"
       ],
       "risques": [
-        "Forte volatilité et baisse marquée du cours, proche du plus bas annuel",
-        "Avis d'analystes très dispersés (objectifs de 4,0 à 32,0 USD), signe d'une grande incertitude",
-        "Société encore au stade clinique, sans croissance de chiffre d'affaires renseignée"
+        "Forte baisse du cours et proximité du plus bas annuel",
+        "Très large dispersion des objectifs d'analystes (4 à 32 USD), signe d'une forte incertitude",
+        "Société biotech au stade clinique, sans chiffre d'affaires communiqué"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 12 novembre 2026",
-        "Éventuelles données cliniques ou annonces sur le pipeline (non datées dans les informations fournies)"
+        "Éventuelles données cliniques sur EIK1001, EIK1003/1004 ou EIK1005 (aucune date communiquée)"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas de 52 semaines (7,02 USD) et si de vraies annonces sur les essais cliniques ou le financement de la société apparaissent."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas de 52 semaines (7,02 USD) et les prochaines annonces cliniques ou financières de la société."
     }
   },
   "EXK": {
@@ -434,26 +434,27 @@
     }
   },
   "MYN": {
-    "sig": "df06e2edb1b30df1",
+    "sig": "41c33003977fdba4",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité sont de simples pages de cours TradingView sur d'autres fonds (MYI, VTN, MSD) et sur CION et DXYZ, sans aucune information concrète sur MYN. Le cours (8,73 USD) a reculé de 9,4 % en 6 mois et se situe près de son plus bas sur 52 semaines (8,58 USD).",
+      "resume": "Le seul titre lié au fonds annonce la publication de ses résultats annuels pour l'exercice clos le 31 juillet 2026, sans aucun chiffre ni détail concret. Les autres titres concernent d'autres valeurs (CION, MYI, PBT, DXYZ) et ne disent rien sur MYN. Il n'y a donc pas d'information précise permettant de juger la situation du fonds.",
       "points_forts": [
-        "Fonds géré par BlackRock, un gestionnaire reconnu",
-        "Obligations municipales de qualité investissement, exonérées d'impôts fédéraux et de l'État et de la ville de New York"
+        "Cours proche de la fourchette basse mais stable sur le dernier mouvement connu",
+        "Fonds géré par BlackRock, un grand gestionnaire d'actifs",
+        "Obligations municipales de qualité (investment grade) exonérées d'impôt fédéral et new-yorkais"
       ],
       "risques": [
-        "Cours proche du plus bas annuel, avec une tendance baissière sur 6 mois",
-        "Fonds concentré sur un seul État, donc sensible à la situation locale",
-        "Pas d'avis d'analystes ni d'objectif de cours pour se repérer"
+        "Baisse de 9,4 % sur 6 mois, cours proche du plus bas sur 52 semaines (8,58 USD)",
+        "Aucune couverture d'analystes ni objectif de cours disponible",
+        "Données d'actualité peu informatives, sans détail sur les résultats"
       ],
       "catalyseurs": [
-        "Prochaine publication des résultats ou de la distribution du fonds (date non communiquée)",
-        "Évolution des taux d'intérêt, qui pèse sur le prix des obligations longues"
+        "Détails des résultats annuels publiés (revenu net, distributions)",
+        "Évolution des taux d'intérêt, qui pèse sur le prix des obligations municipales"
       ],
-      "a_surveiller": "Surveiller si le cours passe sous le plus bas de 52 semaines (8,58 USD) et si les distributions du fonds restent stables."
+      "a_surveiller": "Surveiller le contenu détaillé du rapport annuel (revenus distribués, valeur liquidative) et si le cours reste au-dessus du plus bas des 52 semaines à 8,58 USD."
     }
   },
   "AL2SI.PA": {
@@ -625,27 +626,27 @@
     }
   },
   "FIGS": {
-    "sig": "7f12686318790ab4",
+    "sig": "d39ff20e17e641e1",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne concernent pas vraiment FIGS : ils parlent de Figma (FIG), de Leidos (LDOS) et de pages de cours boursiers, des entreprises différentes avec des tickers proches. Ils n'apportent donc aucune information concrète sur FIGS. Les seules données utiles sont le cours de 17,74 USD, proche de son plus haut sur 52 semaines, la croissance du chiffre d'affaires de 28,8 % et l'avis moyen « buy » des analystes.",
+      "resume": "Les titres d'actualité récents ne concernent pas vraiment FIGS : ils parlent surtout de Figma (FIG), une autre société, et de pages de cotation génériques. Ils n'apportent donc aucune information concrète sur FIGS. Il faut se fier surtout aux données de marché : le cours est proche de son plus haut sur 52 semaines, avec une croissance du chiffre d'affaires de 28,8 %.",
       "points_forts": [
         "Croissance du chiffre d'affaires de 28,8 %",
-        "Avis « buy » de 8 analystes",
-        "Cours en forte hausse depuis le plus bas annuel de 6,96 USD"
+        "Cours en forte hausse (+22,2 % sur 6 mois), près du plus haut annuel",
+        "Avis moyen des analystes : achat (8 analystes)"
       ],
       "risques": [
-        "Cours proche du plus haut 52 semaines (17,979) et de l'objectif moyen de 18,625, donc peu de marge selon les analystes",
-        "Forte volatilité : le cours a plus que doublé en un an environ",
-        "Actualité confuse avec Figma, qui peut fausser les recherches"
+        "Cours déjà proche du plus haut sur 52 semaines (17,98) et au-dessus de l'objectif bas de 15",
+        "Forte volatilité passée : plus bas annuel à 6,96",
+        "Écart limité avec l'objectif moyen (18,625), donc peu de marge selon les analystes"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 5 novembre 2026",
-        "Éventuelles révisions des objectifs de cours par les analystes"
+        "Publication des résultats prévue le 2026-11-05",
+        "Révisions des objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Vérifier que les articles lus concernent bien FIGS (vêtements médicaux) et non Figma, puis suivre la réaction du cours autour des résultats du 5 novembre 2026."
+      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires se maintient lors des prochains résultats et si le cours dépasse durablement son plus haut sur 52 semaines, sans confondre FIGS avec Figma dans les actualités."
     }
   },
   "GOGO": {
@@ -721,27 +722,27 @@
     }
   },
   "TMC": {
-    "sig": "00ae98fa6bd8930e",
+    "sig": "b149f7c8c0a08d75",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 1,
       "confiance": "faible",
-      "resume": "Le seul titre concret évoque une hausse de l'action TMC après un accord avec Allseas, sans que le contenu de l'accord soit détaillé ici. Les autres titres sont de simples pages de cours ou de graphiques. Le cours est proche de son plus bas sur 52 semaines (2,88 $ contre 2,87 $) et recule de 39 % en 6 mois, ce qui montre une forte pression et une grande volatilité.",
+      "resume": "Les titres récents ne sont que des pages de cours et de graphiques (TradingView, Yahoo Finance), sans information concrète sur TMC. Le cours, à 2,88 USD, est au plus bas sur 52 semaines (2,87) et a perdu 39 % en 6 mois, ce qui montre une forte pression à la baisse.",
       "points_forts": [
-        "Accord avec Allseas cité dans l'actualité récente",
-        "Objectif moyen des analystes (10,9 $) très au-dessus du cours actuel",
-        "Droits d'exploration et commerciaux sur deux zones de la Clarion-Clipperton"
+        "Objectif moyen des analystes (10,9 USD) très supérieur au cours actuel",
+        "Droits d'exploration et commerciaux sur deux zones de nodules polymétalliques",
+        "Métaux visés (nickel, cobalt, cuivre, manganèse) utilisés dans les véhicules électriques et le stockage d'énergie"
       ],
       "risques": [
-        "Cours au niveau de son plus bas sur 52 semaines, avec une tendance baissière",
-        "Aucun chiffre d'affaires communiqué, activité encore au stade d'exploration",
-        "Forte volatilité et grand écart entre cours et objectifs des analystes, ce qui reflète une forte incertitude"
+        "Cours au plus bas annuel, tendance baissière marquée",
+        "Aucun chiffre d'affaires communiqué, société d'exploration encore au stade pré-commercial",
+        "Forte volatilité et écart important entre objectifs des analystes et cours, signe d'incertitude"
       ],
       "catalyseurs": [
-        "Détails et suites de l'accord avec Allseas",
-        "Publication des résultats prévue le 12 novembre 2026"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Toute nouvelle officielle sur les autorisations ou la mise en production (non mentionnée dans les données)"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas annuel d'environ 2,87 $ et si l'accord avec Allseas est précisé par la société."
+      "a_surveiller": "Vérifier si le cours se stabilise au-dessus du plus bas de 52 semaines (2,87 USD) et chercher des annonces officielles de la société, car les titres actuels n'apportent rien de concret."
     }
   }
 }
