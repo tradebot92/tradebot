@@ -163,5 +163,20 @@
       -16.1
     ],
     "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de MedinCell, après UZEDY. Le titre a réagi par une forte hausse d'environ 18 % en Bourse. C'est une étape réglementaire majeure qui confirme la plateforme de l'entreprise."
+  },
+  {
+    "date": "12/10/2026 23:05",
+    "symbole": "BMBL",
+    "sentiment": "neutre",
+    "cours": 3.8,
+    "gain": [
+      12.3,
+      24.7
+    ],
+    "perte": [
+      -12.3,
+      -24.7
+    ],
+    "resume": "Un titre de presse (Zonebourse Suisse) évoque des négociations avancées pour sortir Bumble de la cote à une valorisation d'environ 1 milliard de dollars, selon une source. Si cela se confirmait, cela changerait fortement la situation des actionnaires actuels. Les autres titres sont des pages de cours ou de consensus, sans information concrète, et la date et les conditions de l'opération ne sont pas précisées."
   }
 ]
