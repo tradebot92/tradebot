@@ -28,10 +28,6 @@
       "premiere": "2026-10-12T15:54+02:00",
       "nom": "Allot Ltd."
     },
-    "BORR": {
-      "premiere": "2026-10-12T15:54+02:00",
-      "nom": "Borr Drilling Limited"
-    },
     "EIKN": {
       "premiere": "2026-10-12T15:54+02:00",
       "nom": "Eikon Therapeutics, Inc."
@@ -39,6 +35,10 @@
     "BBT": {
       "premiere": "2026-10-12T15:54+02:00",
       "nom": "Beacon Financial Corporation"
+    },
+    "EXK": {
+      "premiere": "2026-10-12T16:13+02:00",
+      "nom": "Endeavour Silver Corporation"
     }
   },
   "sorties": [
@@ -86,6 +86,11 @@
       "symbole": "DNA",
       "date": "12/10/2026",
       "nom": "Ginkgo Bioworks Holdings, Inc."
+    },
+    {
+      "symbole": "BORR",
+      "date": "12/10/2026",
+      "nom": "Borr Drilling Limited"
     }
   ]
 }

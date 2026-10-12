@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "e96ef304c9fbfb63",
+    "sig": "f97b204a7a40fce5",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, traitement de la schizophrénie lié à Medincell, et le titre a progressé d'environ 18 %.",
-          "a_surveiller": "Le succès commercial du produit reste à confirmer, tout comme la tenue du titre très volatil après ce bond, alors que le chiffre d'affaires est en baisse.",
+          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et l'action a progressé d'environ 18 %.",
+          "a_surveiller": "Le lancement commercial aux États-Unis, encore à confirmer, ainsi que la volatilité du titre après cette forte hausse et un chiffre d'affaires en baisse de 0,4 %.",
           "nom": "MEDINCELL S.A."
         },
         {
-          "symbole": "GOOG",
-          "pourquoi": "Les actualités évoquent un bénéfice d'Alphabet en hausse de 81 % et un accord important avec Anthropic, qui a fait monter l'action d'environ 2 %.",
-          "a_surveiller": "Les détails de l'accord avec Anthropic ne sont pas précisés, et le cours de 347,86 USD reste loin du plus haut sur 52 semaines (404,47 USD) tout en étant proche de l'objectif bas des analystes (340 USD).",
-          "nom": "Alphabet Inc."
+          "symbole": "TRAX",
+          "pourquoi": "L'action de First Tracks Biotherapeutics a gagné environ 20 % après des résultats encourageants d'un essai clinique dans la maladie cœliaque.",
+          "a_surveiller": "Les détails chiffrés de l'essai, non précisés dans les titres, et le cours proche de son plus haut sur 52 semaines (49,91), qui laisse place à un repli si les données déçoivent.",
+          "nom": "First Tracks Biotherapeutics, I"
         },
         {
-          "symbole": "TRAX",
-          "pourquoi": "L'action de First Tracks Biotherapeutics a bondi d'environ 20 % après des données encourageantes d'un essai clinique dans la maladie cœliaque.",
-          "a_surveiller": "Les détails chiffrés de l'essai ne sont pas disponibles et le cours est déjà proche de son plus haut sur 52 semaines (49,91 USD) après une hausse rapide.",
-          "nom": "First Tracks Biotherapeutics, I"
+          "symbole": "GOOG",
+          "pourquoi": "Alphabet fait état d'un bénéfice en hausse de 81 % et d'un accord important avec Anthropic, ce qui a fait progresser l'action d'environ 2 %.",
+          "a_surveiller": "Les détails de l'accord avec Anthropic, ainsi que le cours de 347,86 USD, éloigné du plus haut sur 52 semaines (404,47 USD) et proche de l'objectif bas des analystes (340 USD).",
+          "nom": "Alphabet Inc."
         }
       ],
-      "prudence": "Ces informations ne constituent pas un conseil : les hausses rapides peuvent s'inverser, et la valeur de ces entreprises dépend de facteurs incertains comme les résultats d'essais, les ventes futures ou la dynamique des marchés."
+      "prudence": "Ces informations ne constituent pas un conseil : les cours peuvent fortement fluctuer, notamment après de fortes hausses, et tout investissement comporte un risque de perte en capital."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "e16f8c8af58bf621",
+    "sig": "9b9a6210527c2d76",
     "analyse": {
       "sentiment": "positif",
-      "importance": 4,
+      "importance": 5,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à Medincell, et le titre a bondi d'environ 18 % en Bourse. Une cotation a été suspendue puis reprise en séance. C'est important car cela marque une étape réglementaire clé pour un produit de l'entreprise, mais l'impact commercial reste à confirmer.",
+      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell (le titre TEV-749 évoqué dans la presse), et l'action a bondi d'environ 18 % en Bourse. Cette approbation est une étape réglementaire majeure, car elle permet d'envisager une commercialisation aux États-Unis. La cotation a aussi été brièvement suspendue dans la journée, ce qui montre la forte réaction du marché.",
       "points_forts": [
-        "Feu vert américain pour Weltruza",
-        "Forte hausse du titre après l'annonce",
-        "Analystes très favorables (avis strong_buy, objectif moyen 35,7 €)"
+        "Feu vert de la FDA pour Weltruza (schizophrénie)",
+        "Objectif moyen des analystes (35,7 €) supérieur au cours de 29,26 €",
+        "Avis des 9 analystes : strong_buy"
       ],
       "risques": [
-        "Titre très volatil, un rebond brutal peut s'inverser",
-        "Chiffre d'affaires en baisse (-0,446)",
-        "Succès commercial du produit non garanti"
+        "Titre très volatil : forte hausse suivie d'un possible repli",
+        "Chiffre d'affaires en baisse (-0,4 %) malgré la bonne nouvelle",
+        "Les revenus futurs dépendent du lancement commercial, encore à confirmer"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis",
-        "Avancée des autres produits en développement (mdc-CWM en phase III)"
+        "Lancement commercial de Weltruza aux États-Unis par le partenaire",
+        "Avancement des autres programmes (mdc-CWM en Phase III)"
       ],
-      "a_surveiller": "Voir si le cours tient après le bond de 18 % et si les analystes relèvent leurs objectifs, en gardant en tête que la date des prochains résultats n'est pas connue."
+      "a_surveiller": "Surveiller si le cours se stabilise après le bond de 18 % et ce que la société et son partenaire communiqueront sur le calendrier de commercialisation et les revenus attendus."
     }
   },
   "KLRA": {
@@ -434,27 +434,27 @@
     }
   },
   "MYN": {
-    "sig": "ee5f84d13612b68a",
+    "sig": "df06e2edb1b30df1",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 1,
       "confiance": "faible",
-      "resume": "Le seul titre vraiment lié au fonds annonce la publication de ses résultats pour l'exercice clos le 31 juillet 2026, sans aucun chiffre ni détail dans les données fournies. Les autres titres ne sont que des pages de cours d'autres fonds (MYI, VCX, DXYZ, CION) et n'apportent rien de concret sur MYN. L'action reste à 8,79 USD, proche de son plus bas sur 52 semaines (8,58).",
+      "resume": "Les titres d'actualité sont de simples pages de cours TradingView sur d'autres fonds (MYI, VTN, MSD) et sociétés (CION, DXYZ), sans information concrète sur MYN. Le fonds, qui investit dans des obligations municipales de New York, cote à 8,79 USD, en recul d'environ 8,8 % sur 6 mois et proche de son plus bas sur 52 semaines (8,58).",
       "points_forts": [
-        "Fonds investi en obligations municipales de qualité (exonérées d'impôt fédéral et de New York)",
-        "Géré par BlackRock, un gestionnaire reconnu",
-        "Croissance du chiffre d'affaires indiquée à 1,545 (la donnée est ambiguë)"
+        "Obligations municipales de qualité investissement, exonérées d'impôts fédéraux et new-yorkais",
+        "Gestion assurée par BlackRock, un acteur reconnu",
+        "Croissance du chiffre d'affaires indiquée à 1,545 (donnée à interpréter avec prudence)"
       ],
       "risques": [
-        "Cours en baisse de 8,4 % sur 6 mois et proche du plus bas annuel",
-        "Aucun avis ni objectif d'analystes disponible",
-        "Contenu des résultats non détaillé, donc impossible d'en évaluer l'effet"
+        "Cours proche du plus bas sur 52 semaines, avec une tendance baissière sur 6 mois",
+        "Sensibilité des fonds obligataires aux variations de taux d'intérêt",
+        "Fonds fermé : le cours peut s'écarter de la valeur liquidative et la liquidité est limitée (petite capitalisation)"
       ],
       "catalyseurs": [
-        "Détails du rapport annuel publié (revenus distribués, valeur liquidative)",
-        "Prochaine annonce de distribution du fonds (date non précisée dans les données)"
+        "Évolution des taux d'intérêt, qui pèse sur les prix des obligations",
+        "Prochaine annonce de distribution ou publication de la valeur liquidative (date non précisée dans les données)"
       ],
-      "a_surveiller": "Consulter le contenu du rapport annuel et voir si le cours se maintient au-dessus du plus bas sur 52 semaines de 8,58 USD."
+      "a_surveiller": "Le maintien du cours au-dessus du plus bas sur 52 semaines (8,58 USD) et l'évolution de l'écart entre le cours et la valeur liquidative du fonds."
     }
   },
   "AL2SI.PA": {
@@ -482,27 +482,27 @@
     }
   },
   "TRAX": {
-    "sig": "7a30cff932828e92",
+    "sig": "42da59b22db23f7e",
     "analyse": {
       "sentiment": "positif",
-      "importance": 3,
+      "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les titres récents indiquent que l'action First Tracks Biotherapeutics a bondi d'environ 20 % après des données encourageantes d'un essai clinique dans la maladie cœliaque. Pour une biotech en phase clinique, ce type de résultat compte beaucoup, car sa valeur dépend presque entièrement de ses médicaments en développement. Les détails chiffrés de l'essai ne figurent pas dans les données disponibles.",
+      "resume": "Plusieurs titres rapportent une forte hausse de l'action First Tracks Biotherapeutics (environ +20 %), attribuée à des résultats encourageants d'un essai clinique dans la maladie cœliaque. Pour une biotech en phase clinique, des données positives comptent beaucoup car elles valident l'approche scientifique et peuvent attirer des investisseurs. Les détails chiffrés de l'essai ne figurent pas dans les titres, donc la portée réelle reste à confirmer.",
       "points_forts": [
-        "Données d'essai clinique jugées encourageantes (maladie cœliaque)",
-        "Consensus d'analystes « strong buy » (12 avis), objectif moyen 70,58 USD",
-        "Cours en hausse de 50,1 % sur 6 mois"
+        "Données d'essai clinique jugées encourageantes dans la maladie cœliaque",
+        "Avis des analystes strong_buy (12 analystes), objectif moyen 70,58 USD",
+        "Cours en hausse de 49,4 % sur 6 mois, loin du plus bas annuel de 14,72 USD"
       ],
       "risques": [
-        "Forte volatilité typique d'une biotech clinique de taille moyenne",
-        "Cours déjà proche du plus haut sur 52 semaines (49,91 USD), après un bond rapide",
-        "Pas de croissance du chiffre d'affaires renseignée : valeur fondée sur des résultats d'essais futurs"
+        "Forte volatilité typique d'une petite biotech (capitalisation d'environ 1,3 Md USD)",
+        "Pas de chiffre d'affaires indiqué : dépendance aux résultats cliniques et au financement",
+        "Cours proche du plus haut sur 52 semaines (49,91) après une envolée, risque de repli si les données déçoivent en détail"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats trimestriels le 2026-11-05",
-        "Nouvelles données cliniques ou étapes de développement sur ses candidats (rosnilimab, ANB033, ANB101)"
+        "Publication de résultats trimestriels le 2026-11-05",
+        "Nouvelles données cliniques ou détails complets de l'essai dans la maladie cœliaque"
       ],
-      "a_surveiller": "Surveiller la publication des détails complets de l'essai dans la maladie cœliaque et la réaction du cours, car un bond rapide peut être suivi d'un repli."
+      "a_surveiller": "Les détails complets des données de l'essai et la réaction du cours dans les jours suivants, pour voir si la hausse se maintient."
     }
   },
   "CTNM": {
@@ -578,27 +578,27 @@
     }
   },
   "BBT": {
-    "sig": "6fb0a97ead70ca94",
+    "sig": "2e0d744a22456a3a",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Le seul titre vraiment lié à Beacon Financial est le maintien de la recommandation neutre par RBC Capital Markets, ce qui n'apporte pas de changement concret. Les autres titres concernent d'autres sociétés (JPMorgan, BOH, BANC, Solidion) et ne disent rien sur Beacon. Le cours a reculé d'environ 12 % en 6 mois et reste sous l'objectif moyen des analystes.",
+      "resume": "Le seul titre vraiment lié à Beacon Financial est celui de RBC Capital Markets, qui maintient sa recommandation neutre, sans détail sur les raisons. Les autres titres concernent d'autres sociétés et ne disent rien de concret sur Beacon. L'action reste en repli sur six mois (-12,2 %), alors que les analystes sont globalement favorables.",
       "points_forts": [
-        "Objectif moyen des analystes (34 USD) supérieur au cours actuel (27,17 USD)",
-        "Avis global « buy » parmi 6 analystes",
-        "Croissance du chiffre d'affaires indiquée à 1,445 (donnée à interpréter avec prudence)"
+        "Avis moyen des analystes : achat (6 analystes)",
+        "Objectif moyen de 34 $, au-dessus du cours actuel de 27,23 $",
+        "Croissance du chiffre d'affaires indiquée à 1,445 (à vérifier, l'unité n'est pas précisée)"
       ],
       "risques": [
-        "Recul d'environ 12,4 % sur 6 mois",
-        "Avis divergents : RBC reste neutre alors que le consensus est à l'achat",
-        "Secteur des banques régionales américaines sensible à la conjoncture et aux taux"
+        "Recommandation neutre de RBC, moins enthousiaste que le consensus",
+        "Baisse de 12,2 % sur 6 mois, cours loin du plus haut de 52 semaines (32,83 $)",
+        "Secteur des banques régionales américaines, sensible à la conjoncture"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 21 octobre 2026",
-        "Révisions éventuelles des recommandations ou objectifs des analystes"
+        "Nouvelles révisions de recommandations ou d'objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Les prochains résultats du 21 octobre 2026 et la capacité du cours à rester au-dessus du plus bas sur 52 semaines (22,81 USD)."
+      "a_surveiller": "Les résultats du 21 octobre 2026 et d'éventuels changements d'avis des analystes, notamment après la position neutre de RBC."
     }
   }
 }
