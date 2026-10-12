@@ -24,51 +24,51 @@
     }
   },
   "GOOG": {
-    "sig": "4bf197939f5113ba",
+    "sig": "13c6fb6eefe7c75a",
     "analyse": {
       "sentiment": "positif",
       "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres récents portent surtout sur des pages de cotation et des prévisions de cours, avec une information concrète : Alphabet aurait vu son bénéfice bondir de 81 % selon Euronews. Cela compte car cela va dans le sens d'une forte croissance, cohérente avec la hausse du chiffre d'affaires de 24,2 %. Les autres titres ne donnent pas de détails chiffrés supplémentaires.",
+      "resume": "Les titres récents sont surtout des pages de cours, mais un article annonce que le bénéfice d'Alphabet a bondi de 81 %. Cela confirme une forte dynamique, avec un chiffre d'affaires en hausse de 24,2 %. Le cours (350,64 USD) reste sous son plus haut sur 52 semaines (404,47 USD) et sous l'objectif moyen des analystes (420,36 USD).",
       "points_forts": [
-        "Bénéfice en hausse de 81 % (Euronews)",
+        "Bénéfice en hausse de 81 % selon Euronews",
         "Chiffre d'affaires en croissance de 24,2 %",
-        "Objectif moyen des analystes (420 USD) au-dessus du cours actuel (350 USD)"
+        "Avis analystes « strong buy » (14 analystes)"
       ],
       "risques": [
-        "Cours déjà éloigné de son plus haut sur 52 semaines (404,47 USD), signe de volatilité",
-        "Valorisation très élevée avec une capitalisation d'environ 4 280 milliards USD",
+        "Cours environ 13 % sous le plus haut sur 52 semaines",
+        "Valorisation élevée avec une capitalisation d'environ 4 300 milliards USD",
         "Objectif bas des analystes (340 USD) proche du cours actuel"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 28 octobre 2026",
-        "Révision des objectifs et avis des analystes après les prochains résultats"
+        "Évolution des objectifs de cours des analystes d'ici 2027"
       ],
-      "a_surveiller": "Voir si la croissance du chiffre d'affaires et du bénéfice se confirme lors des résultats du 28 octobre 2026, et comment le cours réagit par rapport à son plus haut de 404,47 USD."
+      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires et des bénéfices se maintient lors des résultats du 28 octobre 2026, et si le cours revient vers son plus haut annuel."
     }
   },
   "GLOO": {
-    "sig": "455b0fceee463a1e",
+    "sig": "fe95e68978bf06c8",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis sont surtout des pages de cours et de graphiques (TradingView, Yahoo) et ne donnent aucune information concrète sur Gloo. Le titre reste néanmoins nettement sous son plus haut sur 52 semaines (3,83 $ contre 9,98 $) et a perdu environ 38,5 % en 6 mois, ce qui montre une forte volatilité pour une petite capitalisation (~354 M$).",
+      "resume": "Les titres d'actualité fournis ne sont que des pages de cours et de graphiques (TradingView, Yahoo Finance), dont plusieurs concernent d'autres sociétés : ils n'apportent aucune information concrète sur Gloo. Le contexte reste mitigé : le cours (3,8 USD) a reculé d'environ 38 % en 6 mois et se situe près de son plus bas sur 52 semaines (2,9), malgré une forte croissance du chiffre d'affaires (+1,88, soit +188 % si l'indicateur est en ratio).",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 1,88 (à confirmer selon l'unité)",
-        "Objectif moyen des analystes (11,17 $) bien au-dessus du cours actuel",
-        "Plateforme logicielle ciblant un marché de niche (communautés de foi)"
+        "Forte croissance du chiffre d'affaires (1,88)",
+        "Objectif moyen des analystes (11,17 USD) bien au-dessus du cours actuel",
+        "Positionnement de niche : plateforme technologique pour le secteur de la foi"
       ],
       "risques": [
-        "Forte baisse du cours sur 6 mois et grande volatilité",
-        "Petite capitalisation, donc mouvements de cours amples possibles",
-        "Aucun avis d'analyste tranché (avis « none ») et peu d'informations récentes concrètes"
+        "Forte baisse du cours sur 6 mois (-38,4 %)",
+        "Petite capitalisation (environ 351 M USD), donc probablement très volatile",
+        "Large écart entre les objectifs des analystes (7 à 17 USD), signe d'une forte incertitude"
       ],
       "catalyseurs": [
         "Publication des prochains résultats le 2026-09-09",
-        "Éventuelles mises à jour des objectifs ou avis des 6 analystes"
+        "Révisions éventuelles des objectifs ou des avis des analystes"
       ],
-      "a_surveiller": "Les résultats du 9 septembre 2026 et la capacité de l'entreprise à maintenir sa croissance du chiffre d'affaires, dans un contexte de cours proche de son plus bas annuel (2,90 $)."
+      "a_surveiller": "Surveiller les résultats du 9 septembre 2026 : la croissance du chiffre d'affaires s'y confirme-t-elle, et le cours tient-il au-dessus du plus bas des 52 semaines (2,9 USD) ?"
     }
   },
   "INFQ": {
@@ -314,51 +314,51 @@
     }
   },
   "ALHC": {
-    "sig": "0a495c926b274afd",
+    "sig": "531cd81e7d803560",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents sont uniquement des pages de cours et de graphiques (ALHC, Molina, UnitedHealth, Elevance) et ne contiennent aucune information concrète. L'action a beaucoup baissé en 6 mois (-61,4 %) et cote à 8,22 USD, loin de son plus haut de 25,12 USD, ce qui indique une forte volatilité.",
+      "resume": "Les titres récents sont de simples pages de cours (TradingView, Zonebourse) sur ALHC et sur des concurrents comme Molina et UnitedHealth. Ils n'apportent aucune information concrète sur l'entreprise. Le contexte reste marqué par une forte baisse du cours sur 6 mois (-61,2 %), malgré une croissance du chiffre d'affaires de 31,6 %.",
       "points_forts": [
         "Croissance du chiffre d'affaires de 31,6 %",
-        "Avis moyen des analystes : buy (13 analystes)",
-        "Objectif moyen (17,15 USD) nettement au-dessus du cours actuel"
+        "Avis moyen des analystes : acheter (13 analystes)",
+        "Objectif moyen des analystes (17,15 $) bien au-dessus du cours actuel (8,27 $)"
       ],
       "risques": [
-        "Baisse de 61,4 % en 6 mois et forte volatilité",
-        "Petite capitalisation (environ 1,7 Md USD), plus sensible aux chocs",
-        "Écart important entre les objectifs des analystes (9 à 28 USD), signe d'une grande incertitude"
+        "Chute du cours de 61,2 % en 6 mois, signe d'une forte volatilité",
+        "Cours proche du plus bas sur 52 semaines (6,01 $), très loin du plus haut (25,12 $)",
+        "Activité concentrée sur les plans Medicare Advantage, secteur où les concurrents sont aussi suivis de près"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 29 octobre 2026",
-        "Évolutions des autres assureurs santé (Molina, UnitedHealth, Elevance) qui pourraient influencer le secteur"
+        "Révisions des objectifs ou des avis des analystes"
       ],
-      "a_surveiller": "Surveiller si le cours se stabilise autour du plus bas des 52 semaines (6,01 USD) et ce que diront les prochains résultats sur la croissance et la rentabilité."
+      "a_surveiller": "Les prochains résultats du 29 octobre 2026 et l'évolution du cours par rapport au plus bas de 6,01 $, en gardant à l'esprit que le titre est très volatil."
     }
   },
   "MEDCL.PA": {
-    "sig": "2692011f60f9beb9",
+    "sig": "e16f8c8af58bf621",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % en Bourse. Cette autorisation est une étape réglementaire importante pour l'entreprise. Une suspension temporaire de cotation a eu lieu pendant la séance, signe d'un mouvement brusque.",
+      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie lié à MedinCell, et le titre a bondi d'environ 18 % en Bourse. Cette autorisation est une étape réglementaire importante pour une biotech qui dépend de ses produits injectables à libération prolongée. Le cours est passé de 26,14 € à 28,8 €, mais la volatilité reste forte.",
       "points_forts": [
         "Feu vert américain pour Weltruza (schizophrénie)",
-        "Avis des analystes strong_buy, objectif moyen 35,06 € au-dessus du cours de 28,8 €",
-        "Cours en hausse de 18,7 % sur 6 mois"
+        "Consensus des analystes « strong buy » (9 analystes)",
+        "Objectif moyen de 35,72 € au-dessus du cours actuel"
       ],
       "risques": [
+        "Forte volatilité, avec une suspension de cotation récente",
         "Chiffre d'affaires en baisse (-0,446 selon les données)",
-        "Titre très volatil, avec une suspension de cotation récente",
-        "Après un fort rebond, le cours est plus exposé à des prises de bénéfices"
+        "Cours encore sous le plus haut sur 52 semaines (39,68 €) après un rebond rapide"
       ],
       "catalyseurs": [
-        "Lancement commercial et premiers retours de ventes de Weltruza",
-        "Avancées des autres produits en développement (mdc-CWM en phase III)"
+        "Lancement commercial de Weltruza aux États-Unis",
+        "Avancée des essais de phase III du mdc-CWM (douleur post-opératoire)"
       ],
-      "a_surveiller": "Voir si la hausse se confirme dans les prochaines séances et comment évoluent les objectifs des analystes, sans date de résultats connue pour l'instant."
+      "a_surveiller": "Surveiller si le cours se maintient après le bond de 18 % et les premières informations sur le lancement commercial de Weltruza."
     }
   },
   "KLRA": {
@@ -578,27 +578,27 @@
     }
   },
   "BBT": {
-    "sig": "1c0a2ab243e481d7",
+    "sig": "6fb0a97ead70ca94",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Le seul titre vraiment lié à Beacon Financial est le maintien de la recommandation « neutre » par RBC Capital Markets, ce qui n'apporte pas de nouvelle information concrète. Les autres titres concernent d'autres sociétés ou des pages de cours génériques. L'action a reculé d'environ 11,6 % en 6 mois, alors que les analystes restent globalement positifs (avis « buy », objectif moyen 34,33 USD).",
+      "resume": "Le seul titre vraiment lié à Beacon Financial est celui de RBC Capital Markets, qui maintient sa recommandation neutre, sans détail sur les raisons ni sur un éventuel changement d'objectif. Les autres titres concernent d'autres sociétés (JPMorgan, Bank of Hawaii, Solidion, Banc of California) et n'apportent rien de concret sur Beacon. L'action recule d'environ 11,6 % sur 6 mois, alors que les analystes affichent un avis globalement favorable.",
       "points_forts": [
-        "Objectif moyen des analystes (34,33 USD) au-dessus du cours actuel (27,42 USD)",
+        "Objectif moyen des analystes (34 USD) nettement au-dessus du cours de 27,42 USD",
         "Avis global « buy » sur 6 analystes",
         "Croissance du chiffre d'affaires indiquée à 1,445 (donnée à interpréter avec prudence)"
       ],
       "risques": [
-        "Baisse de 11,6 % sur 6 mois, cours loin du plus haut sur 52 semaines (32,83 USD)",
-        "RBC reste neutre, ce qui nuance l'optimisme des autres analystes",
-        "Banque régionale américaine, secteur sensible aux taux d'intérêt et à la qualité du crédit"
+        "Cours en baisse de 11,6 % sur 6 mois, loin du plus haut de 32,83 USD",
+        "Position neutre de RBC, qui contraste avec le consensus favorable",
+        "Actualité récente peu informative sur l'entreprise elle-même"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 21 octobre 2026",
-        "Éventuelles révisions des objectifs ou recommandations des analystes"
+        "Éventuelles révisions d'objectifs ou de recommandations des analystes"
       ],
-      "a_surveiller": "Les résultats du 21 octobre 2026 et la capacité du cours à rester au-dessus du plus bas sur 52 semaines (22,81 USD)."
+      "a_surveiller": "Le contenu des prochains résultats (21 octobre 2026) et l'évolution des recommandations des analystes, pour voir si l'écart entre l'avis neutre de RBC et le consensus favorable se réduit."
     }
   },
   "FOIL": {

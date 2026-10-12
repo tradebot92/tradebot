@@ -28,10 +28,6 @@
       "premiere": "2026-10-12T17:10+02:00",
       "nom": "FIGS, Inc."
     },
-    "CTNM": {
-      "premiere": "2026-10-12T17:43+02:00",
-      "nom": "Contineum Therapeutics, Inc."
-    },
     "GOGO": {
       "premiere": "2026-10-12T17:43+02:00",
       "nom": "Gogo Inc."
@@ -39,6 +35,10 @@
     "BBT": {
       "premiere": "2026-10-12T18:07+02:00",
       "nom": "Beacon Financial Corporation"
+    },
+    "EXK": {
+      "premiere": "2026-10-12T18:41+02:00",
+      "nom": "Endeavour Silver Corporation"
     }
   },
   "sorties": [
@@ -126,6 +126,11 @@
       "symbole": "TRAX",
       "date": "12/10/2026",
       "nom": "First Tracks Biotherapeutics, I"
+    },
+    {
+      "symbole": "CTNM",
+      "date": "12/10/2026",
+      "nom": "Contineum Therapeutics, Inc."
     }
   ]
 }
