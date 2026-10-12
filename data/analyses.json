@@ -386,27 +386,27 @@
     }
   },
   "DNA": {
-    "sig": "173b1e7fe12d28e6",
+    "sig": "79755cc073ea7008",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et un classement sectoriel, sans information financière concrète. Seule l'actualité d'un partenariat avec Araceli Biosciences (imagerie cellulaire à grande échelle) est un signal d'activité, mais son impact chiffré n'est pas précisé. L'action a fortement monté sur 6 mois (+94,6 %) alors que le chiffre d'affaires recule de 48,5 %, ce qui rend le titre très volatile.",
+      "resume": "Les actualités récentes sont peu concrètes : un partenariat avec Araceli Biosciences pour déployer l'imagerie cellulaire à grande échelle, et une vente d'actions de 36 045 $ par le directeur financier. Le titre a fortement monté en 6 mois (+94,6 %), mais le chiffre d'affaires recule nettement (-48,5 %) et les analystes (2 seulement) visent en moyenne 7 $, bien sous le cours de 13 $.",
       "points_forts": [
-        "Partenariat annoncé avec Araceli Biosciences pour l'imagerie cellulaire",
+        "Partenariat annoncé avec Araceli Biosciences autour de l'imagerie cellulaire",
         "Cours en forte hausse sur 6 mois (+94,6 %)",
-        "Capitalisation d'environ 875 M USD, avec une activité centrée sur l'ingénierie cellulaire et la biosécurité"
+        "Cours bien au-dessus du plus bas sur 52 semaines (5,37 $)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse de 48,5 %",
-        "Cours de 13 USD très au-dessus de l'objectif moyen des analystes (7 USD)",
-        "Forte volatilité (fourchette 52 semaines de 5,37 à 18,22 USD) et seulement 2 analystes"
+        "Chiffre d'affaires en baisse d'environ 48,5 %",
+        "Cours supérieur à tous les objectifs des analystes (5 à 9 $)",
+        "Forte volatilité et vente d'actions par le directeur financier (montant modeste)"
       ],
       "catalyseurs": [
-        "Publication des résultats le 5 novembre 2026",
-        "Suites concrètes du partenariat avec Araceli Biosciences"
+        "Publication des résultats prévue le 5 novembre 2026",
+        "Évolution des partenariats et des déploiements de la plateforme (ex. Araceli)"
       ],
-      "a_surveiller": "Voir lors des résultats du 5 novembre 2026 si la baisse du chiffre d'affaires se stabilise et si le cours reste justifié par rapport aux objectifs des analystes."
+      "a_surveiller": "Surveille si le chiffre d'affaires se stabilise lors des prochains résultats et si l'écart entre le cours (13 $) et les objectifs des analystes (5 à 9 $) se réduit."
     }
   },
   "ABSI": {
