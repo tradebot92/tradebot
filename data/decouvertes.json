@@ -16,10 +16,6 @@
       "premiere": "2026-10-12T09:45+02:00",
       "nom": "2CRSI"
     },
-    "TRAX": {
-      "premiere": "2026-10-12T15:54+02:00",
-      "nom": "First Tracks Biotherapeutics, I"
-    },
     "EIKN": {
       "premiere": "2026-10-12T15:54+02:00",
       "nom": "Eikon Therapeutics, Inc."
@@ -39,6 +35,10 @@
     "GOGO": {
       "premiere": "2026-10-12T17:43+02:00",
       "nom": "Gogo Inc."
+    },
+    "BBT": {
+      "premiere": "2026-10-12T18:07+02:00",
+      "nom": "Beacon Financial Corporation"
     }
   },
   "sorties": [
@@ -121,6 +121,11 @@
       "symbole": "FOIL",
       "date": "12/10/2026",
       "nom": "Londian Wason New Energy Tech I"
+    },
+    {
+      "symbole": "TRAX",
+      "date": "12/10/2026",
+      "nom": "First Tracks Biotherapeutics, I"
     }
   ]
 }
