@@ -36,9 +36,9 @@
       "premiere": "2026-10-12T21:07+02:00",
       "nom": "Borr Drilling Limited"
     },
-    "ALHC": {
-      "premiere": "2026-10-12T21:07+02:00",
-      "nom": "Alignment Healthcare, Inc."
+    "TMC": {
+      "premiere": "2026-10-12T21:40+02:00",
+      "nom": "TMC the metals company Inc."
     }
   },
   "sorties": [
@@ -161,6 +161,11 @@
       "symbole": "BBT",
       "date": "12/10/2026",
       "nom": "Beacon Financial Corporation"
+    },
+    {
+      "symbole": "ALHC",
+      "date": "12/10/2026",
+      "nom": "Alignment Healthcare, Inc."
     }
   ]
 }

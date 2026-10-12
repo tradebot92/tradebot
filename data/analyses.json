@@ -24,51 +24,51 @@
     }
   },
   "GOOG": {
-    "sig": "4bf197939f5113ba",
+    "sig": "c9eb335d0892176f",
     "analyse": {
       "sentiment": "positif",
-      "importance": 3,
+      "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les titres récents sont surtout des pages de cotation, mais l'un d'eux indique que le bénéfice d'Alphabet a bondi de 81 %, ce qui va dans le sens d'une forte dynamique. Le cours (348,46 USD) reste sous son plus haut sur 52 semaines (404,47) et les analystes sont majoritairement très favorables. Les détails de ce bénéfice ne sont pas précisés dans les titres.",
+      "resume": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance. Le groupe a aussi relevé ses prévisions d'investissements et annoncé un accord important avec Anthropic, ce qui a fait monter l'action d'environ 2 %. Ces éléments comptent car ils montrent une forte dynamique, mais aussi des dépenses plus lourdes.",
       "points_forts": [
-        "Bénéfice en hausse de 81 % selon un titre de presse",
         "Croissance du chiffre d'affaires de 24,2 %",
-        "Avis analystes strong_buy, objectif moyen 420,36 USD"
+        "Bénéfice en forte hausse (+81 %) porté par le cloud",
+        "Avis des analystes très favorable (strong_buy, objectif moyen 420,36 USD)"
       ],
       "risques": [
-        "Cours environ 14 % sous le plus haut sur 52 semaines",
-        "Objectif bas des analystes (340 USD) proche du cours actuel",
-        "Valorisation très élevée (capitalisation d'environ 4 260 Md USD)"
+        "Hausse des prévisions d'investissements qui pèse sur les marges futures",
+        "Cours à 349,92 USD, proche du bas de la fourchette d'objectifs (340 USD) et sous le plus haut annuel de 404,47 USD",
+        "Valorisation très élevée (capitalisation d'environ 4 280 milliards USD) qui laisse peu de marge à la déception"
       ],
       "catalyseurs": [
-        "Publication des résultats le 28 octobre 2026",
-        "Évolution des objectifs de cours des analystes"
+        "Prochains résultats trimestriels prévus le 28 octobre 2026",
+        "Détails et concrétisation de l'accord avec Anthropic et croissance du cloud"
       ],
-      "a_surveiller": "Vérifier si la forte hausse du bénéfice est durable ou liée à des éléments ponctuels, et comment le cours réagira lors des prochains résultats du 28 octobre 2026."
+      "a_surveiller": "Surveille si la hausse des investissements se traduit par une croissance continue du cloud, et si le cours reste au-dessus de l'objectif bas des analystes (340 USD)."
     }
   },
   "GLOO": {
-    "sig": "fe95e68978bf06c8",
+    "sig": "d5e6ae6c0b5dbf08",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont de simples pages de cotation (TradingView, Yahoo) et ne contiennent aucune information concrète sur Gloo. Le cours de 3,84 $ a reculé d'environ 38 % en six mois, mais reste au-dessus de son plus bas à 2,9 $. L'écart avec les objectifs des analystes (7 à 17 $) est important, ce qui reflète une forte incertitude.",
+      "resume": "Les titres d'actualité fournis sont des pages de cours génériques (TradingView, Yahoo Finance), dont plusieurs concernent d'autres sociétés (MNTN, CRNC, SPIR), et n'apportent aucune information concrète sur Gloo. Le cours de 3,79 USD a reculé d'environ 38,5 % en 6 mois et se situe plus près du plus bas annuel (2,9) que du plus haut (9,98). Cette action de petite capitalisation est très volatile, et l'écart avec l'objectif moyen des analystes (11,17 USD) est très large.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (1,88, soit +188 % selon la donnée fournie)",
-        "Objectif moyen des analystes (11,17 $) bien au-dessus du cours actuel",
-        "Plateforme d'outils d'IA par abonnement pour un marché spécialisé"
+        "Croissance du chiffre d'affaires de 1,88 (soit +188 % si exprimée en ratio)",
+        "Objectifs d'analystes nettement supérieurs au cours (bas 7,0 / moyen 11,17 / haut 17,0)",
+        "Activité centrée sur une niche spécifique (plateforme technologique pour la communauté de foi)"
       ],
       "risques": [
-        "Forte baisse du cours sur 6 mois (-37,7 %)",
-        "Petite capitalisation (~355 M$) probablement très volatile",
-        "Large dispersion des objectifs d'analystes (7 à 17 $), sans avis tranché"
+        "Forte baisse du cours sur 6 mois (-38,5 %) et volatilité élevée",
+        "Petite capitalisation (environ 351 M USD), donc sensibilité accrue aux variations",
+        "Aucun avis global d'analystes et grande dispersion des objectifs de cours"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 9 septembre 2026",
-        "Éventuelles révisions des objectifs par les 6 analystes"
+        "Publication des prochains résultats prévue le 2026-09-09",
+        "Éventuelle révision des objectifs ou des avis par les 6 analystes suivant la valeur"
       ],
-      "a_surveiller": "Surveille les résultats du 9 septembre 2026 et vérifie si la croissance du chiffre d'affaires se maintient, car les titres actuels n'apportent aucun fait nouveau."
+      "a_surveiller": "Surveiller les résultats du 9 septembre 2026, notamment la poursuite de la croissance du chiffre d'affaires, et l'évolution du cours par rapport au plus bas annuel de 2,9 USD."
     }
   },
   "INFQ": {
@@ -433,27 +433,27 @@
     }
   },
   "MYN": {
-    "sig": "ee5f84d13612b68a",
+    "sig": "df06e2edb1b30df1",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 1,
       "confiance": "faible",
-      "resume": "Le seul titre vraiment lié au fonds annonce la publication de ses résultats pour l'exercice clos le 31 juillet 2026, sans aucun chiffre dans les données fournies. Les autres titres concernent d'autres fonds ou sociétés (CION, MYI, VCX, DXYZ) et ne disent rien de concret sur MYN. Le cours reste proche de son plus bas sur 52 semaines, après une baisse de 8,9 % en 6 mois.",
+      "resume": "Les titres d'actualité fournis sont uniquement des pages de cours et de graphiques (TradingView) sur MYN et d'autres fonds, sans information concrète sur ce fonds. Ils ne permettent pas de tirer de conclusion sur MYN. Le cours (8,75 USD) se situe près de son plus bas sur 52 semaines (8,58), après un recul d'environ 9 % en 6 mois.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 6,5 %",
-        "Obligations municipales de qualité investissement, exonérées d'impôts fédéraux et new-yorkais",
-        "Fonds géré par BlackRock"
+        "Fonds obligataire municipal de New York investi en obligations de qualité (catégorie investissement)",
+        "Géré par BlackRock, un grand acteur de la gestion d'actifs",
+        "Revenus issus d'obligations exonérées d'impôts fédéraux et de l'État/ville de New York, selon la description"
       ],
       "risques": [
-        "Cours proche du plus bas sur 52 semaines (8,58 USD)",
-        "Baisse de 8,9 % sur 6 mois",
-        "Aucune estimation d'analystes disponible"
+        "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
+        "Aucune donnée d'analystes ni de résultats à venir pour éclairer la situation",
+        "Fonds concentré sur un seul État, donc sensible à la situation des obligations municipales de New York"
       ],
       "catalyseurs": [
-        "Détails des résultats annuels publiés (revenus, distributions)",
-        "Prochaine publication de la valeur liquidative et des distributions"
+        "Prochaine publication de la distribution ou du rapport du fonds (date non communiquée)",
+        "Évolution des taux d'intérêt, qui influence le prix des obligations"
       ],
-      "a_surveiller": "Surveillez le détail des résultats publiés, notamment les distributions et la valeur liquidative, ainsi que l'écart entre le cours et cette valeur liquidative."
+      "a_surveiller": "Surveiller si le cours casse ou rebondit au-dessus du plus bas annuel de 8,58 USD, ainsi que toute annonce officielle de BlackRock sur les distributions du fonds."
     }
   },
   "AL2SI.PA": {
@@ -625,27 +625,27 @@
     }
   },
   "FIGS": {
-    "sig": "d39ff20e17e641e1",
+    "sig": "e89637d4238eed0f",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent presque pas de FIGS : ils concernent surtout Figma (FIG), une autre société, ou des pages de cours génériques. Il n'y a donc pas d'actualité concrète sur l'entreprise de vêtements médicaux. Le cours (17,58 $) est proche de son plus haut sur 52 semaines (17,62 $), ce qui reflète un élan récent plutôt qu'une nouvelle précise.",
+      "resume": "Les titres d'actualité fournis ne concernent pas vraiment FIGS : ils parlent surtout de Figma (FIG), une autre société au ticker proche, et de pages de cotation génériques. Ils n'apportent donc aucune information concrète sur FIGS. Les données chiffrées (cours proche de son plus haut sur 52 semaines, croissance du chiffre d'affaires de 28,8 %) restent le seul vrai repère.",
       "points_forts": [
-        "Chiffre d'affaires en hausse de 28,8 %",
-        "Cours proche du plus haut sur 52 semaines, après un fort rebond depuis 6,96 $",
-        "Avis moyen des analystes : buy (8 analystes)"
+        "Chiffre d'affaires en croissance de 28,8 %",
+        "Cours en hausse de 22,6 % sur 6 mois, près du plus haut annuel",
+        "Avis moyen des analystes : « buy » (8 analystes)"
       ],
       "risques": [
-        "Cours déjà proche de l'objectif moyen des analystes (18,625 $), donc peu de marge selon ces estimations",
-        "Titre volatil, avec une grande amplitude entre plus bas et plus haut sur 52 semaines",
+        "Cours déjà au niveau de l'objectif moyen des analystes (18,6 USD), donc potentiel limité selon eux",
+        "Titre volatil : plus bas à 6,96 USD et plus haut à 17,94 USD sur 52 semaines",
         "Risque de confusion avec Figma (FIG) dans l'actualité, qui peut brouiller l'information"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 5 novembre 2026",
-        "Éventuelles révisions des objectifs de cours par les analystes (de 15 à 22 $ actuellement)"
+        "Révisions des objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Surveille si le cours se maintient au-dessus de son plus haut récent et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
+      "a_surveiller": "Surveiller si le cours se maintient autour de son plus haut sur 52 semaines et la croissance du chiffre d'affaires lors des prochains résultats, en vérifiant que l'actualité lue concerne bien FIGS et non Figma."
     }
   },
   "GOGO": {
@@ -718,6 +718,30 @@
         "Évolution des avis des analystes (consensus actuel : hold, objectif moyen 31,67 $)"
       ],
       "a_surveiller": "Regarder si le chiffre d'affaires parvient à accélérer lors des prochains résultats, car la hausse du cours repose surtout sur un BPA meilleur que prévu et non sur des ventes solides."
+    }
+  },
+  "TMC": {
+    "sig": "00ae98fa6bd8930e",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Les titres récents sont surtout des pages de cours et de graphiques, sans information concrète, hormis un article indiquant que l'action TMC progresse après un accord avec Allseas. Le détail de cet accord n'est pas donné ici, donc son effet réel reste difficile à juger. Le cours (2,9 USD) est proche de son plus bas sur 52 semaines, après une baisse d'environ 38,6 % sur 6 mois.",
+      "points_forts": [
+        "Accord avec Allseas évoqué, avec une réaction boursière positive",
+        "Objectif moyen des analystes (10,9 USD) bien au-dessus du cours actuel",
+        "Droits d'exploration et commerciaux sur deux zones de nodules polymétalliques"
+      ],
+      "risques": [
+        "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
+        "Pas de croissance du chiffre d'affaires indiquée : activité encore au stade d'exploration",
+        "Titre très volatil, dépendant de décisions externes et de financements"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 2026-11-12",
+        "Précisions sur l'accord avec Allseas et son calendrier"
+      ],
+      "a_surveiller": "Surveillez les détails de l'accord avec Allseas et la capacité de TMC à tenir son calendrier, en gardant en tête que les objectifs des analystes sont très éloignés du cours actuel et que le titre peut varier fortement."
     }
   }
 }
