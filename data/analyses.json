@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "c81954db6913c8c9",
+    "sig": "8ea6597352c0c9a8",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Alphabet a publié des résultats trimestriels portés par le cloud, avec un bénéfice en hausse de 81 % selon la presse. Le groupe a aussi relevé ses prévisions d'investissements et conclu un accord important avec Anthropic, ce qui a fait monter l'action d'environ 2 %. Cela compte car la croissance est forte, mais les dépenses en hausse pèsent sur la rentabilité future.",
+      "resume": "Les titres récents évoquent un bénéfice en forte hausse (+81 %), des résultats trimestriels portés par le cloud et un accord important avec Anthropic qui a fait grimper l'action d'environ 2 %. Alphabet relève toutefois à nouveau ses prévisions d'investissements, et un article mentionne aussi une chute du cours, ce qui montre des réactions de marché mitigées.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 24,2 %",
-        "Cloud moteur des résultats et accord massif avec Anthropic",
-        "Objectif moyen des analystes (420 USD) au-dessus du cours, avis strong_buy"
+        "Bénéfice en hausse de 81 % et croissance du chiffre d'affaires de 24,2 %",
+        "Moteur cloud dynamique et accord massif avec Anthropic",
+        "Objectif moyen des analystes (420 USD) supérieur au cours de 350,62 USD, avis strong_buy"
       ],
       "risques": [
-        "Prévisions d'investissements relevées à nouveau, donc plus de dépenses",
-        "Cours à 349 USD, environ 14 % sous le plus haut sur 52 semaines (404 USD)",
-        "Un titre cité évoque une chute du cours, signe de volatilité"
+        "Hausse répétée des prévisions d'investissements, pouvant peser sur les marges",
+        "Cours à environ 13 % sous son plus haut sur 52 semaines (404,47 USD), signe de volatilité",
+        "Objectif bas des analystes (340 USD) proche du cours actuel"
       ],
       "catalyseurs": [
-        "Prochains résultats trimestriels prévus le 28 octobre 2026",
-        "Évolution des revenus du cloud et des retombées de l'accord avec Anthropic"
+        "Prochains résultats trimestriels le 28 octobre 2026",
+        "Évolution de l'accord avec Anthropic et de la croissance du cloud"
       ],
-      "a_surveiller": "Surveille si la hausse des investissements se traduit par une croissance du cloud suffisante, et si le cours reste au-dessus de l'objectif bas des analystes (340 USD)."
+      "a_surveiller": "Surveillez si la progression du cloud et des bénéfices continue de justifier le niveau élevé des investissements annoncés."
     }
   },
   "GLOO": {
@@ -96,26 +96,27 @@
     }
   },
   "EIKN": {
-    "sig": "4e35002ec1b7eaa9",
+    "sig": "f3489f0f81de5b3b",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne concernent pas directement Eikon Therapeutics : ce sont des pages de cours d'autres sociétés (OVID, GENB, Moderna, SPRY, Novavax). Ils n'apportent aucune information concrète sur EIKN. Le cours est à 6,98 USD, tout près de son plus bas sur 52 semaines (6,96), après une baisse d'environ 36 % en 6 mois.",
+      "resume": "Les titres récents ne parlent pas vraiment d'Eikon : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, MRNA, SPRY, AGMB), sans information concrète sur l'entreprise. Le titre a perdu environ 35 % en 6 mois et se situe près de son plus bas sur 52 semaines (7,0 $ contre 6,94 $), ce qui reflète une forte volatilité.",
       "points_forts": [
-        "Portefeuille clinique varié (immunothérapie, inhibiteurs PARP1, inhibiteur WRN)",
-        "Objectif moyen des analystes (24,6 USD) très au-dessus du cours actuel"
+        "Plusieurs candidats-médicaments cliniques (EIK1001, EIK1003, EIK1004, EIK1005)",
+        "Objectif moyen des analystes (24,6 $) très supérieur au cours actuel",
+        "Capitalisation d'environ 379 M$ pour une biotech en phase clinique"
       ],
       "risques": [
-        "Cours au plus bas annuel, tendance baissière marquée",
-        "Très grand écart entre les objectifs d'analystes (4 à 32 USD), signe d'une forte incertitude",
-        "Société biotech au stade clinique, sans chiffre d'affaires communiqué, donc très volatile"
+        "Forte baisse du cours et proximité du plus bas sur 52 semaines",
+        "Très grand écart entre les objectifs des analystes (4 $ à 32 $), signe d'une grande incertitude",
+        "Pas de chiffre d'affaires communiqué ; résultats cliniques incertains"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Éventuelles données cliniques sur EIK1001, EIK1003/1004 ou EIK1005 (aucune date indiquée dans les données)"
+        "Publication des résultats trimestriels prévue le 12 novembre 2026",
+        "Éventuelles données cliniques sur les programmes EIK1001, PARP1 ou WRN (non datées dans les informations fournies)"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas de 52 semaines (6,96 USD) et si des annonces cliniques ou financières propres à Eikon apparaissent."
+      "a_surveiller": "Surveillez si le cours tient au-dessus du plus bas de 52 semaines (6,94 $) et les annonces officielles de l'entreprise sur ses essais cliniques."
     }
   },
   "EXK": {
@@ -143,27 +144,27 @@
     }
   },
   "SNDA": {
-    "sig": "a104eef2d82accd4",
+    "sig": "76291a2cf93d53ae",
     "analyse": {
-      "sentiment": "positif",
-      "importance": 3,
-      "confiance": "moyenne",
-      "resume": "RBC a initié la couverture de Sonida Senior Living avec une note Outperform et un potentiel de hausse d'environ 24 % selon le titre. Les autres titres cités concernent d'autres sociétés (LFST, NHC, RDNT) et n'apportent rien de concret sur Sonida. Cette initiation reste un avis d'analyste, pas un fait nouveau sur l'activité.",
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres d'actualité récents concernent d'autres sociétés (AVAH, National HealthCare, WGS) ou des recommandations générales de Wall Street, et ne disent rien de concret sur Sonida. Le cours (35,78 USD) se situe dans le milieu de sa fourchette sur 52 semaines, avec une hausse modeste d'environ 2,2 % sur 6 mois.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (+137 %)",
-        "Objectifs des analystes au-dessus du cours (43 / 49,5 / 65 USD contre 35,66 USD)",
-        "Initiation positive de RBC (Outperform)"
+        "Croissance du chiffre d'affaires de 1,371 (donnée à interpréter avec prudence)",
+        "Objectif moyen des analystes (49,5 USD) supérieur au cours actuel",
+        "Cours au-dessus du plus bas annuel (24,95 USD)"
       ],
       "risques": [
-        "Action volatile : de 24,95 à 44,39 USD sur 52 semaines",
-        "Les objectifs d'analystes ne garantissent rien et peuvent être revus",
-        "Capitalisation modeste (environ 1,7 Md USD), donc sensibilité plus forte aux nouvelles"
+        "Cours éloigné du plus haut de 52 semaines (44,39 USD), signe de volatilité",
+        "Petite capitalisation (environ 1,7 milliard USD), donc des mouvements de cours potentiellement brusques",
+        "Aucun avis consensuel clair des analystes (6 analystes, avis « none »)"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 09/11/2026",
-        "Nouvelles initiations ou révisions d'objectifs par les analystes"
+        "Publication des prochains résultats prévue le 2026-11-09",
+        "Éventuelles révisions des objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Surveillez si la croissance du chiffre d'affaires se maintient dans les prochains résultats et si le cours se rapproche ou non des objectifs des analystes."
+      "a_surveiller": "Les résultats du 9 novembre 2026 et toute actualité propre à Sonida, car les titres actuels ne la concernent pas directement."
     }
   },
   "TKO.PA": {
@@ -215,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "1b76b9ee83f58eb7",
+    "sig": "e71757cc2a5579e7",
     "contenu": {
       "points": [
         {
-          "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA américaine a autorisé Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de MedinCell, ce qui a fait bondir le titre d'environ 18 %.",
-          "a_surveiller": "Le titre est volatil après cette forte hausse en une séance, le chiffre d'affaires recule de 0,4 % et le succès commercial du lancement reste incertain.",
-          "nom": "MEDINCELL S.A."
-        },
-        {
           "symbole": "GOOG",
-          "pourquoi": "Alphabet a publié des résultats portés par le cloud, avec un bénéfice en hausse de 81 % selon la presse, et a conclu un accord important avec Anthropic, ce qui a fait monter l'action d'environ 2 %.",
-          "a_surveiller": "Les prévisions d'investissements relevées pèsent sur la rentabilité future, et le cours de 349 USD reste environ 14 % sous son plus haut sur 52 semaines (404 USD).",
+          "pourquoi": "Alphabet publie un bénéfice en forte hausse (+81 %), porté par le cloud, et annonce un accord important avec Anthropic qui a fait progresser l'action d'environ 2 %.",
+          "a_surveiller": "La nouvelle hausse des prévisions d'investissements pourrait peser sur les marges, et le cours, à environ 13 % sous son plus haut sur 52 semaines, reste proche de l'objectif bas des analystes (340 USD).",
           "nom": "Alphabet Inc."
         },
         {
+          "symbole": "MEDCL.PA",
+          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de Medincell, et le titre a bondi d'environ 18 %.",
+          "a_surveiller": "Le succès du lancement commercial reste incertain, le chiffre d'affaires est en baisse (-44,6 %) et la forte hausse récente peut déjà refléter la bonne nouvelle.",
+          "nom": "MEDINCELL S.A."
+        },
+        {
           "symbole": "IREN",
-          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le cours de 35,48 $ reste bien sous son plus haut sur 52 semaines (76,87 $), le chiffre d'affaires baisse de 26,7 % et les avis des analystes sont très dispersés.",
+          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies (objectif de 79 $), mais sans détails chiffrés vérifiables.",
+          "a_surveiller": "Le chiffre d'affaires recule de 26,7 %, le cours (35,48 $) reste bien sous son plus haut sur 52 semaines (76,87 $) et les avis des analystes sont très dispersés.",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations sont issues de titres de presse et d'indicateurs partiels, les cours peuvent varier fortement et aucun résultat n'est garanti."
+      "prudence": "Ces informations sont issues de titres de presse et de données partielles, les cours peuvent varier fortement et tout investissement comporte un risque de perte en capital."
     }
   },
   "SVC": {
@@ -337,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "b09e1d65a7157737",
+    "sig": "e0deda19e238f951",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de MedinCell. La nouvelle a fait bondir le titre d'environ 18 % en Bourse. Elle compte car elle valide la technologie de la société et élargit son portefeuille de produits commercialisés.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de Medincell, et le titre a bondi d'environ 18 % selon la presse. C'est une étape réglementaire majeure qui valide la plateforme de la société et ouvre la voie à de futurs revenus. Le cours reste toutefois volatil et l'impact financier réel dépendra du lancement commercial.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
-        "UZEDY déjà commercialisé, ce qui diversifie l'offre",
-        "Analystes très favorables : avis strong_buy, objectif moyen 35,9 € contre 26,8 € de cours"
+        "Feu vert de la FDA pour Weltruza, deuxième produit contre la schizophrénie",
+        "Avis des analystes très favorable (strong_buy, 9 analystes)",
+        "Objectif moyen des analystes (35,9 €) nettement au-dessus du cours de 26,98 €"
       ],
       "risques": [
-        "Chiffre d'affaires en recul (-0,4 %) malgré les avancées",
-        "Titre volatil : forte hausse en une séance, risque de prise de bénéfices",
-        "Succès commercial du lancement encore incertain (concurrence, rythme d'adoption)"
+        "Chiffre d'affaires en baisse (-44,6 %)",
+        "Titre très volatil, forte hausse récente pouvant déjà refléter la bonne nouvelle",
+        "Succès commercial du lancement encore incertain"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis",
-        "Avancées des autres programmes, dont mdc-CWM en phase III"
+        "Lancement commercial de Weltruza aux États-Unis par le partenaire",
+        "Avancées du programme mdc-CWM (essai de phase III contre la douleur post-opératoire)"
       ],
-      "a_surveiller": "Le rythme de déploiement commercial de Weltruza et UZEDY, ainsi que la capacité du cours à tenir après le bond lié à l'annonce, sans date de résultats connue pour l'instant."
+      "a_surveiller": "Surveiller le calendrier de lancement de Weltruza et les prochains revenus (redevances, jalons), car la date des prochains résultats n'est pas indiquée."
     }
   },
   "KLRA": {
@@ -813,6 +814,30 @@
         "Éventuelles révisions des objectifs par les analystes"
       ],
       "a_surveiller": "Voir si le cours se maintient au-dessus du plus bas de 52 semaines (2,28 $) et ce que révèleront les prochains résultats sur la croissance du chiffre d'affaires."
+    }
+  },
+  "IDIP.PA": {
+    "sig": "1dcf91e514e1f080",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Les titres récents évoquent la publication du rapport financier semestriel d'IDI, une progression de l'actif net réévalué au 1er semestre et une proposition de dividende de 2,9 € par action, à verser le 28 mai 2026. Ces éléments sont plutôt rassurants pour une société d'investissement, mais les titres ne donnent pas de chiffres précis et le cours reste stable sur 6 mois (+0,2 %).",
+      "points_forts": [
+        "Actif net réévalué en progression au 1er semestre",
+        "Dividende proposé de 2,9 € par action",
+        "Objectifs des analystes (74 à 85 €) au-dessus du cours de 67,4 €"
+      ],
+      "risques": [
+        "Seulement 2 analystes, avis peu représentatif",
+        "Cours proche du plus bas sur 52 semaines (65,8 €)",
+        "Petite capitalisation, liquidité et volatilité potentielles"
+      ],
+      "catalyseurs": [
+        "Détachement et paiement du dividende le 28 mai 2026",
+        "Prochaine publication de l'actif net réévalué (date non communiquée)"
+      ],
+      "a_surveiller": "Vérifier si l'actif net réévalué continue de progresser et si le cours se rapproche de cette valeur, sachant que le cours évolue près de son plus bas annuel."
     }
   }
 }

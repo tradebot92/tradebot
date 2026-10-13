@@ -28,21 +28,20 @@
       "premiere": "2026-10-13T15:48+02:00",
       "nom": "Fermi Inc."
     },
-    "BBAI": {
-      "premiere": "2026-10-13T15:48+02:00",
-      "nom": "BigBear.ai, Inc."
-    },
     "EXK": {
       "premiere": "2026-10-13T15:48+02:00",
       "nom": "Endeavour Silver Corporation"
+    },
+    "SNDA": {
+      "premiere": "2026-10-13T16:10+02:00",
+      "nom": "Sonida Senior Living, Inc."
+    },
+    "IDIP.PA": {
+      "premiere": "2026-10-13T16:10+02:00",
+      "nom": "IDI"
     }
   },
   "sorties": [
-    {
-      "symbole": "BORR",
-      "date": "12/10/2026",
-      "nom": "Borr Drilling Limited"
-    },
     {
       "symbole": "CTNM",
       "date": "12/10/2026",
@@ -187,6 +186,11 @@
       "symbole": "ARL",
       "date": "13/10/2026",
       "nom": "American Realty Investors, Inc."
+    },
+    {
+      "symbole": "BBAI",
+      "date": "13/10/2026",
+      "nom": "BigBear.ai, Inc."
     }
   ]
 }
