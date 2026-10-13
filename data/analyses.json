@@ -72,51 +72,51 @@
     }
   },
   "INFQ": {
-    "sig": "8e2bdd0966aac566",
+    "sig": "61bf86e1cf151fa1",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires généraux, avec un rappel de l'entrée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et d'un bond de 314 % évoqué sur TradingView. Ils n'apportent pas d'information concrète nouvelle sur l'activité. Le cours (10,38 USD) reste loin de son plus haut sur 52 semaines (21,28), signe d'une forte volatilité.",
+      "resume": "Les titres récents sont surtout des pages de cours et des articles généraux : l'entrée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et un commentaire évoquant un bond de 314 %. Aucune nouvelle concrète et récente sur les résultats ou les contrats n'apparaît. L'action reste très volatile : elle a perdu 26,5 % en 6 mois et évolue loin de son plus haut sur 52 semaines.",
       "points_forts": [
-        "Croissance du chiffre d'affaires très forte (1,565, soit environ +156 %)",
-        "Objectifs des analystes (19 à 25 USD) bien au-dessus du cours actuel",
-        "Positionnement dans les technologies quantiques (calcul, capteurs, horloges)"
+        "Croissance du chiffre d'affaires très élevée (+156,5 %)",
+        "Objectif moyen des analystes (21,83 $) bien au-dessus du cours actuel (10,38 $)",
+        "Activité diversifiée dans les technologies quantiques (calcul, capteurs, horloges)"
       ],
       "risques": [
-        "Forte volatilité : -26,5 % en 6 mois, fourchette 8,52 à 21,28 USD",
-        "Entreprise récemment cotée via SPAC, historique boursier court",
-        "Avis global des analystes non renseigné, échantillon de seulement 6 analystes"
+        "Forte volatilité (plus haut 21,28 $, plus bas 8,52 $)",
+        "Valorisation élevée (environ 2,3 milliards de dollars) pour une entreprise récemment cotée via un SPAC",
+        "Secteur quantique très spéculatif, sensible à l'effet d'entraînement des autres valeurs du secteur"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 12 novembre 2026",
-        "Évolution du sentiment sur le secteur quantique (par ex. IonQ cité dans l'actualité)"
+        "Publication des prochains résultats le 12 novembre 2026",
+        "Annonces de contrats ou de produits (capteurs, horloges, informatique quantique)"
       ],
-      "a_surveiller": "Surveiller si la forte croissance du chiffre d'affaires se confirme dans les prochains résultats et si le cours se maintient au-dessus du plus bas de 52 semaines (8,52 USD)."
+      "a_surveiller": "Surveille la publication des résultats du 12 novembre 2026 et la capacité de l'entreprise à confirmer sa forte croissance, sans te fier aux seuls mouvements du secteur quantique."
     }
   },
   "EIKN": {
-    "sig": "f3489f0f81de5b3b",
+    "sig": "4e35002ec1b7eaa9",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas d'Eikon : ce sont des pages de cours d'autres sociétés (OVID, GENB, MRNA, SPRY, AGMB), sans information concrète sur l'entreprise. Le cours de 7,26 USD est proche de son plus bas sur 52 semaines (7,02) et a reculé d'environ 32 % en 6 mois. Les objectifs des analystes sont très dispersés (4,0 à 32,0).",
+      "resume": "Les titres récents concernent surtout d'autres sociétés (OVID, GENB, MRNA, SPRY, NVAX) et des pages de cotation génériques, sans information concrète sur Eikon Therapeutics. Le cours (7,26 USD) est proche de son plus bas sur 52 semaines (7,02) après une baisse d'environ 32 % en 6 mois, ce qui reflète une forte volatilité typique d'une biotech en phase clinique.",
       "points_forts": [
-        "Portefeuille clinique varié en oncologie (TLR 7/8, PARP1, WRN)",
-        "Objectif moyen des analystes (24,6) bien au-dessus du cours actuel",
+        "Pipeline clinique diversifié (TLR 7/8, inhibiteurs PARP1, inhibiteur WRN)",
+        "Objectif moyen des analystes (24,6 USD) très supérieur au cours actuel",
         "Capitalisation d'environ 393 M USD"
       ],
       "risques": [
-        "Cours proche du plus bas sur 52 semaines, tendance baissière",
-        "Très grande dispersion des objectifs d'analystes (4,0 à 32,0)",
-        "Société clinique sans chiffre d'affaires communiqué, donc volatilité élevée"
+        "Cours proche du plus bas sur 52 semaines et tendance baissière",
+        "Écart très large entre les objectifs d'analystes (4 à 32 USD), signe d'une forte incertitude",
+        "Aucun chiffre d'affaires communiqué ; dépendance aux résultats d'essais cliniques"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Éventuelles données cliniques sur les candidats EIK1001, EIK1003/1004 ou EIK1005 (non datées dans les informations fournies)"
+        "Publication des résultats trimestriels prévue le 12 novembre 2026",
+        "Éventuelles données cliniques sur les candidats du pipeline (EIK1001, EIK1003/1004, EIK1005)"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas des 52 semaines (7,02 USD) et si des annonces cliniques propres à Eikon apparaissent."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel de 7,02 USD et toute annonce propre à Eikon concernant ses essais cliniques ou sa trésorerie."
     }
   },
   "EXK": {
@@ -721,27 +721,27 @@
     }
   },
   "TMC": {
-    "sig": "fac4c4c7ea5a46fc",
+    "sig": "ef69fea08602f4e7",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 1,
+      "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont de simples pages de cours et de graphiques (TradingView, Yahoo Finance) et ne contiennent aucune information concrète sur TMC. Le cours est à 2,88 USD, tout près de son plus bas sur 52 semaines (2,87), après une baisse d'environ 39 % en 6 mois, ce qui montre une forte pression sur le titre.",
+      "resume": "Les titres évoquent une hausse de l'action TMC après un accord avec Allseas, mais ils ne donnent aucun détail concret sur son contenu. Le cours reste pourtant proche de son plus bas sur 52 semaines (2,88 $ contre 2,87 $) et a perdu environ 39 % en 6 mois. L'accord pourrait compter pour l'avancement du projet, mais l'information disponible est trop mince pour conclure.",
       "points_forts": [
-        "Objectifs des analystes nettement au-dessus du cours (10,0 à 12,3 USD)",
-        "Droits d'exploration et commerciaux sur deux zones de nodules dans la zone Clarion-Clipperton",
-        "Métaux visés (nickel, cobalt, cuivre, manganèse) utilisés dans les véhicules électriques et le stockage d'énergie"
+        "Accord avec Allseas mentionné dans l'actualité",
+        "Objectif moyen des analystes (10,9 $) très supérieur au cours actuel",
+        "Droits d'exploration et commerciaux sur deux zones de nodules dans la Clarion-Clipperton"
       ],
       "risques": [
-        "Cours au plus bas annuel et tendance baissière marquée",
-        "Aucun chiffre d'affaires communiqué : activité encore au stade d'exploration",
-        "Titre très volatil, avec un écart important entre le cours et les objectifs des analystes"
+        "Cours au plus bas sur 52 semaines, tendance baissière sur 6 mois",
+        "Aucun chiffre d'affaires publié, activité encore au stade d'exploration",
+        "Forte volatilité typique d'une petite société minière sous-marine"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 12 novembre 2026",
-        "Toute annonce sur les autorisations ou le calendrier de l'activité d'exploitation"
+        "Précisions sur les termes et la portée de l'accord avec Allseas"
       ],
-      "a_surveiller": "Voir si le cours tient autour du plus bas annuel (2,87 USD) et si de vraies nouvelles de l'entreprise apparaissent, au-delà des simples pages de cotation."
+      "a_surveiller": "Vérifier le contenu exact de l'accord avec Allseas et si la hausse se confirme ou si le cours retombe sous son plus bas de 52 semaines."
     }
   },
   "ARL": {
