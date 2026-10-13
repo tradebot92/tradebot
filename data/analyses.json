@@ -434,27 +434,27 @@
     }
   },
   "MYN": {
-    "sig": "6a01da628b8b92b4",
+    "sig": "8b4b37ff1924880e",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis sont uniquement des pages de cours et de graphiques (TradingView) concernant d'autres fonds ou sociétés (MYI, CION, PBT, TSLX, VTN). Aucun ne donne d'information concrète sur MYN, donc rien de nouveau n'est à retenir pour ce fonds. Le cours reste à 8,77 USD, proche du plus bas sur 52 semaines (8,58), après une baisse de 8,5 % en 6 mois.",
+      "resume": "Les titres d'actualité fournis sont de simples pages de cours TradingView concernant d'autres valeurs (CION, MYI, PBT, TSLX, VTN) et n'apportent aucune information concrète sur MYN. Le fonds, qui investit dans des obligations municipales de New York, se traite à 8,77 USD, soit environ 8,6 % de moins qu'il y a 6 mois et près de son plus bas sur 52 semaines (8,58).",
       "points_forts": [
-        "Fonds investi en obligations municipales de qualité (investment grade) de New York",
-        "Revenus exonérés d'impôt fédéral et de New York, selon la description du fonds",
-        "Gestion assurée par BlackRock Advisors"
+        "Portefeuille d'obligations municipales de qualité (investment grade) exonérées d'impôts fédéraux et new-yorkais",
+        "Gestion assurée par BlackRock, acteur majeur du secteur",
+        "Fonds ancien, créé en 1992"
       ],
       "risques": [
-        "Cours proche du plus bas annuel, avec une tendance baissière sur 6 mois",
-        "Aucun avis d'analyste ni objectif de cours disponible",
-        "Fonds fermé concentré sur un seul État, donc moins diversifié"
+        "Cours proche du plus bas annuel, tendance baissière sur 6 mois",
+        "Concentration géographique sur les obligations de l'État et de la ville de New York",
+        "Aucune donnée d'analystes ni de résultats à venir pour éclairer la situation"
       ],
       "catalyseurs": [
-        "Prochaine publication ou annonce de distribution du fonds (date non communiquée)",
-        "Évolution des taux d'intérêt, qui influence généralement les obligations municipales"
+        "Évolution des taux d'intérêt, qui influence la valeur des obligations longues",
+        "Prochaines publications du fonds (distributions, valeur liquidative), dates non précisées dans les données"
       ],
-      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas de 52 semaines (8,58 USD) et les prochaines communications du fonds sur ses distributions."
+      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas des 52 semaines (8,58 USD) et l'évolution de l'écart entre le cours et la valeur liquidative du fonds."
     }
   },
   "AL2SI.PA": {
@@ -866,27 +866,27 @@
     }
   },
   "AGBK": {
-    "sig": "a01877d42bb908be",
+    "sig": "510f804aa1265016",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne concernent pas directement AGI Inc : ce sont des opérations sur d'autres sociétés (Senior plc, Simulations Plus, DigitalBridge) et l'introduction de Cerebras, plus une simple page de cours. Rien de concret sur l'entreprise elle-même ; le contexte reste celui d'un chiffre d'affaires en baisse (-15,2 %) et d'un cours à 7,63 USD, loin de son plus haut annuel.",
+      "resume": "Les titres d'actualité fournis ne concernent pas vraiment AGI Inc : ils parlent d'autres entreprises (Blackstone, Cerebras, SoftBank, etc.) ou d'une simple page de cours. Aucune information concrète ne ressort sur AGI, donc rien ne permet de tirer une conclusion à partir de l'actualité. Le dossier repose surtout sur les chiffres : cours de 7.47 USD, en baisse de 4.4 % sur 6 mois, et chiffre d'affaires en recul.",
       "points_forts": [
-        "Avis des analystes très favorable (strong_buy, 11 analystes)",
-        "Objectif moyen (12,61 USD) nettement au-dessus du cours actuel",
-        "Cours bien au-dessus du plus bas sur 52 semaines (5,28 USD)"
+        "Avis des analystes strong_buy (11 analystes) avec objectif moyen 12.58 USD, au-dessus du cours actuel",
+        "Cours bien au-dessus du plus bas 52 semaines (5.28 USD)",
+        "Activité appuyée sur des outils numériques (cloud, IA, applications mobiles)"
       ],
       "risques": [
-        "Chiffre d'affaires en recul de 15,2 %",
-        "Cours bien en dessous du plus haut sur 52 semaines (12,21 USD), volatilité marquée",
-        "Activité concentrée sur le Brésil, avec une exposition possible aux conditions économiques locales"
+        "Chiffre d'affaires en baisse (-15.2 %)",
+        "Cours nettement sous le plus haut 52 semaines (12.21 USD), signe d'une forte volatilité",
+        "Exposition à un seul pays, le Brésil, et à un secteur financier sensible au crédit"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 11 novembre 2026",
-        "Éventuelles révisions des objectifs de cours par les analystes"
+        "Publication des prochains résultats le 2026-11-11",
+        "Révision éventuelle des objectifs ou avis des analystes après ces résultats"
       ],
-      "a_surveiller": "Surveillez si le chiffre d'affaires se stabilise lors des prochains résultats du 11 novembre 2026, car c'est le point faible principal dans les données disponibles."
+      "a_surveiller": "Regarder lors des prochains résultats si le chiffre d'affaires cesse de reculer et si l'écart entre le cours et les objectifs des analystes se réduit."
     }
   },
   "QDEL": {
