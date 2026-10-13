@@ -36,17 +36,12 @@
       "premiere": "2026-10-13T19:41+02:00",
       "nom": "SES AI Corporation"
     },
-    "GTN-A": {
-      "premiere": "2026-10-13T21:19+02:00",
-      "nom": "Gray Media, Inc."
+    "BORR": {
+      "premiere": "2026-10-13T21:54+02:00",
+      "nom": "Borr Drilling Limited"
     }
   },
   "sorties": [
-    {
-      "symbole": "ALHC",
-      "date": "12/10/2026",
-      "nom": "Alignment Healthcare, Inc."
-    },
     {
       "symbole": "GOGO",
       "date": "12/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "PTLO",
       "date": "13/10/2026",
       "nom": "Portillo's Inc."
+    },
+    {
+      "symbole": "GTN-A",
+      "date": "13/10/2026",
+      "nom": "Gray Media, Inc."
     }
   ]
 }
