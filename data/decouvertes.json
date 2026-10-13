@@ -36,17 +36,12 @@
       "premiere": "2026-10-13T16:10+02:00",
       "nom": "Sonida Senior Living, Inc."
     },
-    "IDIP.PA": {
-      "premiere": "2026-10-13T16:10+02:00",
-      "nom": "IDI"
+    "FUN": {
+      "premiere": "2026-10-13T16:46+02:00",
+      "nom": "Six Flags Entertainment Corpora"
     }
   },
   "sorties": [
-    {
-      "symbole": "CTNM",
-      "date": "12/10/2026",
-      "nom": "Contineum Therapeutics, Inc."
-    },
     {
       "symbole": "ALLT",
       "date": "12/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "BBAI",
       "date": "13/10/2026",
       "nom": "BigBear.ai, Inc."
+    },
+    {
+      "symbole": "IDIP.PA",
+      "date": "13/10/2026",
+      "nom": "IDI"
     }
   ]
 }

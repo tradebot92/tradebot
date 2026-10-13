@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "8ea6597352c0c9a8",
+    "sig": "c81954db6913c8c9",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les titres récents évoquent un bénéfice en forte hausse (+81 %), des résultats trimestriels portés par le cloud et un accord important avec Anthropic qui a fait grimper l'action d'environ 2 %. Alphabet relève toutefois à nouveau ses prévisions d'investissements, et un article mentionne aussi une chute du cours, ce qui montre des réactions de marché mitigées.",
+      "resume": "Les titres récents évoquent des résultats trimestriels solides pour Alphabet, portés par le cloud, avec un bénéfice en forte hausse (+81 % selon Euronews) et un accord important avec Anthropic. Google relève toutefois à nouveau ses prévisions d'investissements, ce qui peut peser sur le cours à court terme malgré la bonne dynamique.",
       "points_forts": [
-        "Bénéfice en hausse de 81 % et croissance du chiffre d'affaires de 24,2 %",
-        "Moteur cloud dynamique et accord massif avec Anthropic",
-        "Objectif moyen des analystes (420 USD) supérieur au cours de 350,62 USD, avis strong_buy"
+        "Croissance du chiffre d'affaires de 24,2 %",
+        "Bénéfice en forte hausse et cloud moteur des résultats",
+        "Avis analystes strong_buy, objectif moyen 420,36 USD"
       ],
       "risques": [
-        "Hausse répétée des prévisions d'investissements, pouvant peser sur les marges",
-        "Cours à environ 13 % sous son plus haut sur 52 semaines (404,47 USD), signe de volatilité",
-        "Objectif bas des analystes (340 USD) proche du cours actuel"
+        "Hausse des prévisions d'investissements pouvant peser sur les marges",
+        "Cours à 350,52 USD, nettement sous le plus haut annuel de 404,47 USD",
+        "Évolution du cours après résultats parfois contrastée (mention d'une chute du cours)"
       ],
       "catalyseurs": [
         "Prochains résultats trimestriels le 28 octobre 2026",
-        "Évolution de l'accord avec Anthropic et de la croissance du cloud"
+        "Concrétisation de l'accord avec Anthropic et croissance du cloud"
       ],
-      "a_surveiller": "Surveillez si la progression du cloud et des bénéfices continue de justifier le niveau élevé des investissements annoncés."
+      "a_surveiller": "Le niveau des dépenses d'investissement par rapport à la croissance du cloud, ainsi que la tenue du cours face à l'objectif bas des analystes (340 USD)."
     }
   },
   "GLOO": {
@@ -72,51 +72,51 @@
     }
   },
   "INFQ": {
-    "sig": "3aa4d129e50275b4",
+    "sig": "61bf86e1cf151fa1",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents évoquent l'entrée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et de fortes variations du cours, dont un bond de 314 % mentionné par un analyste sur TradingView. Aucun titre ne donne de fait concret nouveau sur l'activité. Le cours (10,22 USD) reste nettement sous son plus haut sur 52 semaines (21,28) et a perdu 31,9 % en 6 mois, ce qui montre une forte volatilité.",
+      "resume": "Infleqtion, spécialiste des technologies quantiques à atomes neutres, est entrée en Bourse via un SPAC qui la valorisait à 1,8 milliard de dollars. Les titres récents évoquent un bond de 314 % puis un cours aujourd'hui à 10,12 $, en baisse de 32,5 % sur 6 mois. Les titres restent généraux et ne donnent aucun fait précis sur l'activité ou les comptes, d'où une lecture prudente.",
       "points_forts": [
-        "Croissance du chiffre d'affaires très élevée (1,565, soit environ +156 %)",
-        "Objectifs des analystes (19 à 25 USD) au-dessus du cours actuel",
-        "Gamme variée : informatique, capteurs et horloges quantiques"
+        "Croissance du chiffre d'affaires de 156,5 %",
+        "Objectif moyen des analystes de 21,83 $, nettement au-dessus du cours",
+        "Gamme variée : calcul, capteurs, horloges quantiques"
       ],
       "risques": [
-        "Volatilité extrême, typique d'une jeune société cotée via SPAC",
-        "Baisse de 31,9 % sur 6 mois et cours proche du bas des 52 semaines (8,52)",
-        "Valorisation d'environ 2,3 milliards de dollars sur une technologie encore émergente"
+        "Forte volatilité : plus haut 21,28 $, plus bas 8,52 $ sur 52 semaines",
+        "Valeur issue d'un SPAC, souvent très spéculative",
+        "Secteur quantique sensible à l'engouement du marché"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 12 novembre 2026",
-        "Évolution des objectifs et avis des 6 analystes qui suivent le titre"
+        "Prochains résultats le 12 novembre 2026",
+        "Révisions des objectifs par les 6 analystes"
       ],
-      "a_surveiller": "Voir si la croissance du chiffre d'affaires se confirme lors des prochains résultats, et si le cours tient au-dessus du plus bas des 52 semaines (8,52 USD)."
+      "a_surveiller": "Surveiller si la forte croissance du chiffre d'affaires se confirme aux prochains résultats et si le cours se maintient au-dessus du plus bas annuel de 8,52 $."
     }
   },
   "EIKN": {
-    "sig": "f3489f0f81de5b3b",
+    "sig": "4e35002ec1b7eaa9",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas vraiment d'Eikon : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, MRNA, SPRY, AGMB), sans information concrète sur l'entreprise. Le titre a perdu environ 35 % en 6 mois et se situe près de son plus bas sur 52 semaines (7,0 $ contre 6,94 $), ce qui reflète une forte volatilité.",
+      "resume": "Les titres récents ne concernent pas Eikon : ce sont des pages de cours d'autres sociétés (OVID, GENB, Moderna, SPRY, Novavax). Aucune information concrète sur Eikon n'en ressort. Le cours reste proche de son plus bas sur 52 semaines, après une baisse d'environ 34 % en 6 mois.",
       "points_forts": [
-        "Plusieurs candidats-médicaments cliniques (EIK1001, EIK1003, EIK1004, EIK1005)",
-        "Objectif moyen des analystes (24,6 $) très supérieur au cours actuel",
-        "Capitalisation d'environ 379 M$ pour une biotech en phase clinique"
+        "Objectif moyen des analystes (24,6 $) très au-dessus du cours actuel (7,14 $)",
+        "Pipeline clinique varié en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)",
+        "Capitalisation d'environ 386 M$, avec 5 analystes qui suivent le titre"
       ],
       "risques": [
-        "Forte baisse du cours et proximité du plus bas sur 52 semaines",
-        "Très grand écart entre les objectifs des analystes (4 $ à 32 $), signe d'une grande incertitude",
-        "Pas de chiffre d'affaires communiqué ; résultats cliniques incertains"
+        "Forte volatilité : cours proche du plus bas annuel de 6,94 $",
+        "Très grand écart entre les objectifs analystes (4 à 32 $), signe d'une forte incertitude",
+        "Société encore au stade clinique, sans chiffre d'affaires communiqué"
       ],
       "catalyseurs": [
-        "Publication des résultats trimestriels prévue le 12 novembre 2026",
-        "Éventuelles données cliniques sur les programmes EIK1001, PARP1 ou WRN (non datées dans les informations fournies)"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Éventuelles données d'essais cliniques sur le pipeline (aucune date précisée)"
       ],
-      "a_surveiller": "Surveillez si le cours tient au-dessus du plus bas de 52 semaines (6,94 $) et les annonces officielles de l'entreprise sur ses essais cliniques."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas annuel de 6,94 $ et si la société annonce des données cliniques ou des informations sur sa trésorerie."
     }
   },
   "EXK": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "e71757cc2a5579e7",
+    "sig": "78d9b33d10d53bf7",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
-          "pourquoi": "Alphabet publie un bénéfice en forte hausse (+81 %), porté par le cloud, et annonce un accord important avec Anthropic qui a fait progresser l'action d'environ 2 %.",
-          "a_surveiller": "La nouvelle hausse des prévisions d'investissements pourrait peser sur les marges, et le cours, à environ 13 % sous son plus haut sur 52 semaines, reste proche de l'objectif bas des analystes (340 USD).",
+          "pourquoi": "Alphabet publie des résultats trimestriels solides, portés par le cloud, avec un bénéfice en forte hausse (+81 % selon Euronews) et un accord important avec Anthropic.",
+          "a_surveiller": "La nouvelle hausse des prévisions d'investissements peut peser sur les marges et sur le cours à court terme, alors que celui-ci (350,52 USD) reste sous son plus haut annuel de 404,47 USD.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de Medincell, et le titre a bondi d'environ 18 %.",
-          "a_surveiller": "Le succès du lancement commercial reste incertain, le chiffre d'affaires est en baisse (-44,6 %) et la forte hausse récente peut déjà refléter la bonne nouvelle.",
+          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), un deuxième traitement injectable de la schizophrénie développé avec MedinCell, et le titre a progressé d'environ 18 % selon la presse.",
+          "a_surveiller": "Le titre reste volatil après cette annonce, le chiffre d'affaires est en baisse et l'activité dépend de partenaires et de quelques produits.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "IREN",
-          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies (objectif de 79 $), mais sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le chiffre d'affaires recule de 26,7 %, le cours (35,48 $) reste bien sous son plus haut sur 52 semaines (76,87 $) et les avis des analystes sont très dispersés.",
+          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
+          "a_surveiller": "Le cours (35,48 $) reste bien sous son plus haut sur 52 semaines (76,87 $), le chiffre d'affaires recule de 26,7 % et les avis d'analystes sont très dispersés.",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations sont issues de titres de presse et de données partielles, les cours peuvent varier fortement et tout investissement comporte un risque de perte en capital."
+      "prudence": "Ces informations sont issues de titres de presse et de données partielles, la bourse comporte toujours un risque de perte en capital et les cours peuvent varier fortement dans les deux sens."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "e0deda19e238f951",
+    "sig": "b09e1d65a7157737",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de Medincell, et le titre a bondi d'environ 18 % selon la presse. C'est une étape réglementaire majeure qui valide la plateforme de la société et ouvre la voie à de futurs revenus. Le cours reste toutefois volatil et l'impact financier réel dépendra du lancement commercial.",
+      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement injectable de la schizophrénie développé avec MedinCell. Le titre a fortement progressé (environ +18% selon la presse) après cette annonce. C'est une étape réglementaire importante pour une société dont l'activité dépend de quelques produits.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, deuxième produit contre la schizophrénie",
-        "Avis des analystes très favorable (strong_buy, 9 analystes)",
-        "Objectif moyen des analystes (35,9 €) nettement au-dessus du cours de 26,98 €"
+        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
+        "UZEDY déjà commercialisé, ce qui diversifie les produits",
+        "Avis des analystes très favorable (strong_buy, objectif moyen 35,9 € contre 26,9 € de cours)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-44,6 %)",
-        "Titre très volatil, forte hausse récente pouvant déjà refléter la bonne nouvelle",
-        "Succès commercial du lancement encore incertain"
+        "Chiffre d'affaires en baisse (-0,446 selon les données)",
+        "Titre volatil, fortes variations possibles après l'annonce",
+        "Dépendance à des partenaires et à quelques produits"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis par le partenaire",
-        "Avancées du programme mdc-CWM (essai de phase III contre la douleur post-opératoire)"
+        "Lancement commercial de Weltruza et premières ventes",
+        "Avancement des autres programmes, comme mdc-CWM en phase III contre la douleur post-opératoire"
       ],
-      "a_surveiller": "Surveiller le calendrier de lancement de Weltruza et les prochains revenus (redevances, jalons), car la date des prochains résultats n'est pas indiquée."
+      "a_surveiller": "Les détails du lancement de Weltruza et la manière dont le cours se stabilise après le bond, sachant que la date des prochains résultats n'est pas connue."
     }
   },
   "KLRA": {
@@ -838,6 +838,30 @@
         "Prochaine publication de l'actif net réévalué (date non communiquée)"
       ],
       "a_surveiller": "Vérifier si l'actif net réévalué continue de progresser et si le cours se rapproche de cette valeur, sachant que le cours évolue près de son plus bas annuel."
+    }
+  },
+  "FUN": {
+    "sig": "caadec5229e3dccd",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 3,
+      "confiance": "faible",
+      "resume": "Le seul titre vraiment lié à Six Flags indique que le fonds activiste Jana Partners demande la cession de l'entreprise, sans que les détails soient connus ici. Le cours a fortement chuté en 6 mois (-47,6 %) et se situe près de son plus bas sur 52 semaines, ce qui rend toute pression d'un actionnaire important notable. Les autres titres (Ubisoft, BATRA, pages de cotation) ne concernent pas directement l'entreprise.",
+      "points_forts": [
+        "Avis moyen des analystes à « buy » (13 analystes)",
+        "Objectif moyen (20,38 USD) bien au-dessus du cours actuel (10,28 USD)",
+        "Pression d'un activiste pouvant faire émerger de la valeur"
+      ],
+      "risques": [
+        "Chiffre d'affaires en baisse (-7 %)",
+        "Forte chute du cours sur 6 mois, tendance baissière",
+        "Issue incertaine de la demande de cession, qui peut ne pas aboutir"
+      ],
+      "catalyseurs": [
+        "Réaction de la direction et du conseil d'administration à la demande de Jana Partners",
+        "Publication des prochains résultats prévue le 05/11/2026"
+      ],
+      "a_surveiller": "Suivre si Six Flags répond officiellement à Jana Partners et si le cours se maintient au-dessus de son plus bas annuel (9,865 USD), l'objectif bas des analystes étant à 10 USD."
     }
   }
 }
