@@ -96,27 +96,26 @@
     }
   },
   "EIKN": {
-    "sig": "4e35002ec1b7eaa9",
+    "sig": "f3489f0f81de5b3b",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents concernent surtout d'autres sociétés (OVID, GENB, MRNA, SPRY, NVAX) et des pages de cotation génériques, sans information concrète sur Eikon Therapeutics. Le cours (7,26 USD) est proche de son plus bas sur 52 semaines (7,02) après une baisse d'environ 32 % en 6 mois, ce qui reflète une forte volatilité typique d'une biotech en phase clinique.",
+      "resume": "Les titres récents ne concernent pas directement Eikon Therapeutics : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, MRNA, SPRY, AGMB). Il n'y a donc pas d'actualité concrète sur EIKN. Le cours (7,26 USD) est proche de son plus bas sur 52 semaines (7,02), après une baisse d'environ 32 % en 6 mois.",
       "points_forts": [
-        "Pipeline clinique diversifié (TLR 7/8, inhibiteurs PARP1, inhibiteur WRN)",
-        "Objectif moyen des analystes (24,6 USD) très supérieur au cours actuel",
-        "Capitalisation d'environ 393 M USD"
+        "Portefeuille de candidats en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)",
+        "Objectif moyen des analystes (24,6 USD) bien supérieur au cours actuel"
       ],
       "risques": [
-        "Cours proche du plus bas sur 52 semaines et tendance baissière",
-        "Écart très large entre les objectifs d'analystes (4 à 32 USD), signe d'une forte incertitude",
-        "Aucun chiffre d'affaires communiqué ; dépendance aux résultats d'essais cliniques"
+        "Société biopharmaceutique au stade clinique, très volatile",
+        "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
+        "Fortes divergences entre analystes (objectifs de 4,0 à 32,0 USD)"
       ],
       "catalyseurs": [
-        "Publication des résultats trimestriels prévue le 12 novembre 2026",
-        "Éventuelles données cliniques sur les candidats du pipeline (EIK1001, EIK1003/1004, EIK1005)"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Toute annonce de données cliniques sur les candidats médicaments (aucune date connue dans les données)"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel de 7,02 USD et toute annonce propre à Eikon concernant ses essais cliniques ou sa trésorerie."
+      "a_surveiller": "Le maintien ou non du cours au-dessus du plus bas de 52 semaines (7,02 USD) et les prochaines annonces officielles de la société sur ses essais cliniques."
     }
   },
   "EXK": {
@@ -216,29 +215,29 @@
     }
   },
   "_synthese": {
-    "sig": "b8ebe8130b42ef81",
+    "sig": "1579107119142315",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
-          "pourquoi": "Alphabet a publié un bénéfice trimestriel en hausse de 81 %, porté par le cloud, et a conclu un accord important avec Anthropic, ce qui a fait monter le titre d'environ 2 %.",
-          "a_surveiller": "Le relèvement des prévisions d'investissements, qui peut peser sur les marges, ainsi qu'une valorisation déjà supérieure à 4 200 milliards USD, avec un cours environ 14 % sous son plus haut sur 52 semaines.",
+          "pourquoi": "Alphabet a publié un bénéfice trimestriel en hausse de 81 % porté par le cloud, et a conclu un accord important avec Anthropic, ce qui a soutenu le titre d'environ 2 %.",
+          "a_surveiller": "Le relèvement des prévisions d'investissements pèse sur les marges et la rentabilité future, et la valorisation de plus de 4 200 milliards USD laisse peu de marge à la déception.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de MedinCell contre la schizophrénie après UZEDY, et l'action a progressé d'environ 18 %.",
-          "a_surveiller": "La forte volatilité après ce bond, la baisse du chiffre d'affaires et la réussite commerciale du lancement, qui reste incertaine.",
+          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), deuxième traitement injectable de la schizophrénie issu de la technologie de MedinCell, et le titre a bondi d'environ 18 %.",
+          "a_surveiller": "Le succès commercial de Weltruza dépend de sa mise en marché, et le chiffre d'affaires en recul comme la volatilité de l'action invitent à suivre une possible correction.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "IREN",
-          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies (objectif de 79 $), mais sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le chiffre d'affaires en baisse de 26,7 %, la grande volatilité du cours (35,48 $ contre un plus haut de 76,87 $) et la forte dispersion des avis d'analystes.",
+          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies (objectif 79 $), mais ces informations restent sommaires et sans détails chiffrés vérifiables.",
+          "a_surveiller": "Le cours de 35,48 $ reste bien sous son plus haut sur 52 semaines (76,87 $), avec un chiffre d'affaires en baisse de 26,7 % et une forte dispersion des avis d'analystes.",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations sont issues de titres de presse et de scores indicatifs, elles ne constituent pas un conseil, et tout investissement en Bourse comporte un risque de perte en capital."
+      "prudence": "Ces éléments sont donnés à titre informatif : les cours peuvent varier fortement à la hausse comme à la baisse et une perte en capital reste possible."
     }
   },
   "SVC": {
