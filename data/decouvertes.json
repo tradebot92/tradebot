@@ -16,14 +16,6 @@
       "premiere": "2026-10-12T20:46+02:00",
       "nom": "Bumble Inc."
     },
-    "EIKN": {
-      "premiere": "2026-10-12T22:05+02:00",
-      "nom": "Eikon Therapeutics, Inc."
-    },
-    "BBT": {
-      "premiere": "2026-10-12T22:05+02:00",
-      "nom": "Beacon Financial Corporation"
-    },
     "FRMI": {
       "premiere": "2026-10-13T15:48+02:00",
       "nom": "Fermi Inc."
@@ -36,27 +28,20 @@
       "premiere": "2026-10-13T17:09+02:00",
       "nom": "AGI Inc"
     },
-    "QDEL": {
-      "premiere": "2026-10-13T17:44+02:00",
-      "nom": "QuidelOrtho Corporation"
+    "SES": {
+      "premiere": "2026-10-13T18:44+02:00",
+      "nom": "SES AI Corporation"
+    },
+    "VTEX": {
+      "premiere": "2026-10-13T18:44+02:00",
+      "nom": "VTEX"
+    },
+    "EVH": {
+      "premiere": "2026-10-13T18:44+02:00",
+      "nom": "Evolent Health, Inc"
     }
   },
   "sorties": [
-    {
-      "symbole": "SNDA",
-      "date": "12/10/2026",
-      "nom": "Sonida Senior Living, Inc."
-    },
-    {
-      "symbole": "BBT",
-      "date": "12/10/2026",
-      "nom": "Beacon Financial Corporation"
-    },
-    {
-      "symbole": "FOIL",
-      "date": "12/10/2026",
-      "nom": "Londian Wason New Energy Tech I"
-    },
     {
       "symbole": "TRAX",
       "date": "12/10/2026",
@@ -191,6 +176,21 @@
       "symbole": "EXK",
       "date": "13/10/2026",
       "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "EIKN",
+      "date": "13/10/2026",
+      "nom": "Eikon Therapeutics, Inc."
+    },
+    {
+      "symbole": "BBT",
+      "date": "13/10/2026",
+      "nom": "Beacon Financial Corporation"
+    },
+    {
+      "symbole": "QDEL",
+      "date": "13/10/2026",
+      "nom": "QuidelOrtho Corporation"
     }
   ]
 }

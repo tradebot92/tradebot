@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "c81954db6913c8c9",
+    "sig": "8ea6597352c0c9a8",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les titres récents évoquent des résultats trimestriels solides pour Alphabet, portés par le cloud, avec un bénéfice en forte hausse (+81 % selon Euronews) et un accord important avec Anthropic. Google relève toutefois à nouveau ses prévisions d'investissements, ce qui peut peser sur le cours à court terme malgré la bonne dynamique.",
+      "resume": "Les titres rapportent un bénéfice en hausse de 81 % et des résultats trimestriels portés par le cloud. Alphabet relève de nouveau ses prévisions d'investissements et a conclu un accord important avec Anthropic, ce qui a fait grimper l'action d'environ 2 %. Un article évoque toutefois une chute du cours, signe que le marché reste partagé.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 24,2 %",
-        "Bénéfice en forte hausse et cloud moteur des résultats",
-        "Avis analystes strong_buy, objectif moyen 420,36 USD"
+        "Bénéfice en hausse de 81 %",
+        "Croissance du chiffre d'affaires de 24,2 % portée par le cloud",
+        "Accord massif avec Anthropic"
       ],
       "risques": [
-        "Hausse des prévisions d'investissements pouvant peser sur les marges",
-        "Cours à 350,52 USD, nettement sous le plus haut annuel de 404,47 USD",
-        "Évolution du cours après résultats parfois contrastée (mention d'une chute du cours)"
+        "Hausse des prévisions d'investissements qui pèse sur la rentabilité",
+        "Cours à 351 $, nettement sous le plus haut annuel de 404 $",
+        "Valorisation élevée avec une capitalisation d'environ 4 300 Md$"
       ],
       "catalyseurs": [
-        "Prochains résultats trimestriels le 28 octobre 2026",
-        "Concrétisation de l'accord avec Anthropic et croissance du cloud"
+        "Prochains résultats le 28 octobre 2026",
+        "Évolution des revenus du cloud et de l'accord avec Anthropic"
       ],
-      "a_surveiller": "Le niveau des dépenses d'investissement par rapport à la croissance du cloud, ainsi que la tenue du cours face à l'objectif bas des analystes (340 USD)."
+      "a_surveiller": "Surveille si la croissance du cloud continue de compenser la hausse des investissements, car c'est ce qui semble influencer la réaction du cours."
     }
   },
   "GLOO": {
@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "3aa4d129e50275b4",
+    "sig": "61bf86e1cf151fa1",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires sur la forte hausse de l'action (un bond de 314 % évoqué) après l'entrée en Bourse via un SPAC, valorisée à 1,8 milliard de dollars. Aucune information concrète nouvelle n'apparaît dans ces titres. L'action reste très volatile : à 10,07 $, elle a perdu 32,8 % en 6 mois et se situe loin de son plus haut sur 52 semaines (21,28 $).",
+      "resume": "Les titres récents évoquent surtout l'arrivée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et un fort bond du cours cité par un article TradingView, sans information concrète nouvelle. Le cours actuel (10,16 $) reste nettement sous son plus haut sur 52 semaines (21,28 $) et a reculé d'environ 32 % en 6 mois, ce qui montre une forte volatilité.",
       "points_forts": [
         "Croissance du chiffre d'affaires élevée (1,565, soit environ +156 %)",
-        "Objectifs d'analystes (moyen 21,83 $) bien au-dessus du cours actuel",
-        "Positionnement dans l'informatique et les capteurs quantiques"
+        "Objectifs des analystes (19 à 25 $) bien au-dessus du cours actuel",
+        "Activité dans des technologies quantiques (horloges, capteurs, calcul) pour environnements sans GPS"
       ],
       "risques": [
-        "Forte volatilité (plage 8,52 à 21,28 $ sur 52 semaines)",
-        "Baisse de 32,8 % en 6 mois après un emballement initial",
-        "Société récemment cotée via SPAC, avec peu de recul et une valorisation élevée (≈2,27 Md$)"
+        "Forte volatilité : écart important entre plus haut (21,28 $) et plus bas (8,52 $) sur 52 semaines",
+        "Valorisation élevée (environ 2,3 milliards de dollars) pour une entreprise de technologie émergente",
+        "Introduction par SPAC et couverture analystes encore récente, donc historique limité"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 12 novembre 2026",
-        "Annonces de contrats ou de produits quantiques (capteurs, horloges, calcul)"
+        "Publication des prochains résultats prévue le 12 novembre 2026",
+        "Évolution de l'intérêt du marché pour le secteur quantique (ex. mouvements sur d'autres valeurs comme QUBT)"
       ],
-      "a_surveiller": "Surveille si la croissance du chiffre d'affaires se confirme aux prochains résultats et l'évolution des pertes, car les objectifs des analystes restent bien supérieurs au cours actuel."
+      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires se confirme aux prochains résultats et si le cours tient autour du plus bas annuel de 8,52 $."
     }
   },
   "EIKN": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "e0deda19e238f951",
+    "sig": "b09e1d65a7157737",
     "analyse": {
       "sentiment": "positif",
-      "importance": 4,
+      "importance": 5,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), deuxième traitement de Medincell contre la schizophrénie, et le titre a bondi d'environ 18 % en Bourse selon la presse. Cette approbation valide la technologie d'injection à libération prolongée de la société et élargit son portefeuille de produits commercialisés, après UZEDY.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de MedinCell. Le titre a bondi d'environ 18 % en Bourse à cette annonce. C'est une étape réglementaire majeure, qui élargit la gamme de produits de l'entreprise après UZEDY.",
       "points_forts": [
-        "Feu vert de la FDA pour un deuxième traitement contre la schizophrénie",
-        "Consensus d'analystes « strong buy » (9 analystes), objectif moyen 35,9 € contre 26,86 € de cours",
-        "Portefeuille en développement avec mdc-CWM en phase III"
+        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
+        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,9 € contre 26,58 € de cours)",
+        "Autres produits en développement (mdc-CWM en phase III)"
       ],
       "risques": [
         "Chiffre d'affaires en baisse (-0,446 selon les données)",
-        "Titre volatil : forte hausse en une séance, risque de repli",
-        "Succès commercial du lancement encore à prouver"
+        "Forte volatilité du titre (plus bas 19,69 € et plus haut 39,68 € sur 52 semaines)",
+        "Après une hausse rapide, le cours peut reculer ; le lancement commercial reste à réussir"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis",
-        "Avancées de mdc-CWM (phase III contre la douleur post-opératoire)"
+        "Lancement commercial de Weltruza aux États-Unis et premières ventes",
+        "Avancement des essais de phase III de mdc-CWM (douleur post-opératoire)"
       ],
-      "a_surveiller": "Le rythme de lancement de Weltruza et son effet sur les revenus, ainsi que la tenue du cours après ce bond de 18 % (date des prochains résultats non communiquée)."
+      "a_surveiller": "Le rythme du lancement commercial de Weltruza et son effet sur le chiffre d'affaires, ainsi que la tenue du cours après le bond de 18 %."
     }
   },
   "KLRA": {
@@ -434,26 +434,26 @@
     }
   },
   "MYN": {
-    "sig": "246c83be31db0b0f",
+    "sig": "8b4b37ff1924880e",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne sont que des pages de cours TradingView, concernant d'autres fonds ou sociétés (CION, MYI, PBT, VTN, DXYZ). Ils ne contiennent aucune information concrète sur MYN. Le cours (8,73 USD) se situe près de son plus bas sur 52 semaines (8,58), après une baisse d'environ 9,4 % en 6 mois.",
+      "resume": "Les titres d'actualité récents sont des pages génériques de cours et de graphiques (TradingView) sur d'autres valeurs (CION, MYI, PBT, TSLX, VTN), sans information concrète sur MYN. Il n'y a donc pas de nouvelle précise à analyser. Le cours (8,77 USD) reste proche de son plus bas sur 52 semaines (8,58), après un recul de 8,5 % en 6 mois.",
       "points_forts": [
-        "Fonds investi en obligations municipales de qualité (investment grade) exonérées d'impôts fédéraux et de New York",
-        "Géré par BlackRock Advisors, un gestionnaire reconnu"
+        "Fonds géré par BlackRock, un gestionnaire reconnu",
+        "Obligations municipales de qualité (investment grade) exemptes d'impôts fédéraux et de New York"
       ],
       "risques": [
-        "Cours proche du plus bas annuel, tendance baissière sur 6 mois",
-        "Aucun avis ni objectif d'analystes disponible",
-        "Aucune information récente spécifique au fonds dans l'actualité"
+        "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
+        "Sensibilité des obligations longues aux variations des taux d'intérêt",
+        "Aucune donnée d'analystes ni de date de résultats pour éclairer la situation"
       ],
       "catalyseurs": [
-        "Prochaine publication de résultats ou de données du fonds (date non communiquée)",
-        "Évolution générale des taux d'intérêt, qui pèse sur les fonds obligataires"
+        "Évolution des taux d'intérêt, qui influence le prix des obligations municipales",
+        "Prochaine publication du fonds (date non communiquée) ou annonce de distribution"
       ],
-      "a_surveiller": "Surveiller si le cours casse durablement le plus bas de 52 semaines (8,58 USD) et la publication des prochaines données officielles du fonds."
+      "a_surveiller": "Surveiller si le cours passe sous le plus bas des 52 semaines (8,58 USD) et suivre l'évolution des taux d'intérêt ainsi que les distributions du fonds."
     }
   },
   "AL2SI.PA": {
@@ -673,27 +673,27 @@
     }
   },
   "BMBL": {
-    "sig": "00fa5a83f89e90a9",
+    "sig": "d138319a9d86e6fe",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
-      "confiance": "faible",
-      "resume": "Le titre Bumble est proche de son plus haut sur 52 semaines (5,95 $ contre 5,98 $), avec une hausse d'environ 46 % en 6 mois. Parmi les titres récents, Goldman Sachs dégrade pourtant l'action en citant une visibilité limitée et une forte concurrence. Le cours dépasse par ailleurs l'objectif moyen des analystes (3,79 $) et même leur objectif le plus haut (5,0 $).",
+      "importance": 4,
+      "confiance": "moyenne",
+      "resume": "Un titre de presse indique que Bumble serait racheté pour 1,3 milliard de dollars et retiré de la Bourse, ce qui changerait fortement la nature de l'investissement. Un autre titre mentionne une dégradation par Goldman Sachs pour visibilité limitée et forte concurrence. Les détails (prix par action, calendrier, conditions) ne figurent pas dans les données fournies, donc il faut les vérifier à la source.",
       "points_forts": [
-        "Forte remontée du cours sur 6 mois (+45,6 %)",
-        "Cours proche du plus haut sur 52 semaines",
-        "Marque connue avec plusieurs applications (Bumble, Badoo, BFF)"
+        "Cours en hausse de 45,1 % sur 6 mois, proche du plus haut sur 52 semaines (5,98)",
+        "Un rachat annoncé offrirait une sortie claire aux actionnaires",
+        "Marques connues (Bumble, Badoo, Bumble BFF)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-15,2 %)",
-        "Cours supérieur à tous les objectifs des analystes",
-        "Dégradation de Goldman Sachs : visibilité limitée et forte concurrence"
+        "Chiffre d'affaires en baisse de 15,2 %",
+        "Concurrence forte et visibilité limitée selon Goldman Sachs",
+        "Objectifs des analystes (moyen 3,79) nettement sous le cours de 5,93, et incertitude sur la réalisation du rachat"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 4 novembre 2026",
-        "Nouvelles révisions d'objectifs ou d'avis par les analystes"
+        "Détails et finalisation de l'offre de rachat (accords, approbations, retrait de la cote)",
+        "Publication des résultats prévue le 2026-11-04, si le titre est encore coté"
       ],
-      "a_surveiller": "Voir si le chiffre d'affaires cesse de reculer lors des prochains résultats, car le cours se situe déjà au-dessus des objectifs des analystes et que l'action reste très volatile."
+      "a_surveiller": "Le prix exact de l'offre par action comparé au cours actuel de 5,93 USD, et les conditions et délais de clôture de l'opération."
     }
   },
   "HELE": {
@@ -865,27 +865,27 @@
     }
   },
   "AGBK": {
-    "sig": "97bfe2b73381f23a",
+    "sig": "79e598490cad35e3",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis ne parlent pas d'AGI Inc : ils concernent d'autres sociétés (rachats, introductions en bourse de Quantinuum, Cerebras, Infracore). Ils n'apportent donc aucune information concrète sur l'action. Le suivi repose surtout sur les données de marché : un cours de 7,48 USD, un chiffre d'affaires en baisse de 15,2 % et des analystes très favorables.",
+      "resume": "Les titres d'actualité fournis concernent d'autres sociétés (Blackstone, Altaris, Cerebras, Quantinuum, etc.) et ne mentionnent pas AGI Inc. Ils reflètent surtout un marché actif en introductions en bourse et en rachats, sans lien concret avec l'action. Il n'y a donc pas d'information précise sur AGI à en tirer.",
       "points_forts": [
-        "Avis des analystes : « strong buy » (11 analystes)",
-        "Objectif moyen (12,63 USD) bien au-dessus du cours actuel",
-        "Cours nettement au-dessus du plus bas sur 52 semaines (5,28 USD)"
+        "Avis des analystes : strong_buy (11 analystes)",
+        "Objectif moyen (12,62 $) nettement au-dessus du cours (7,57 $)",
+        "Services financiers numériques (IA, cloud, mobile) au Brésil"
       ],
       "risques": [
-        "Chiffre d'affaires en recul de 15,2 %",
-        "Cours en baisse de 4,2 % sur 6 mois et loin du plus haut annuel (12,21 USD)",
-        "Forte volatilité probable : écart important entre plus haut et plus bas sur 52 semaines"
+        "Chiffre d'affaires en baisse (-15,2 %)",
+        "Cours très variable sur 52 semaines (5,28 à 12,21 $)",
+        "Exposition à un seul pays, le Brésil"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 11 novembre 2026",
-        "Révisions des objectifs de cours par les analystes"
+        "Éventuelles révisions des objectifs des analystes"
       ],
-      "a_surveiller": "Regarder si, lors des prochains résultats, le chiffre d'affaires cesse de reculer, car c'est le principal point de tension face à l'optimisme des analystes."
+      "a_surveiller": "Surveille si le chiffre d'affaires cesse de reculer lors des prochains résultats, car c'est le point faible visible dans les données."
     }
   },
   "QDEL": {
@@ -910,6 +910,78 @@
         "Éventuelles révisions des objectifs des analystes (12 à 20 USD)"
       ],
       "a_surveiller": "Surveiller les résultats du 5 novembre 2026, notamment l'évolution du chiffre d'affaires, et l'amplitude des mouvements du cours, qui reste très volatil."
+    }
+  },
+  "SES": {
+    "sig": "d6ada631a14fc14f",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres d'actualité récents ne concernent pas vraiment SES AI : ce sont surtout des pages de cours d'autres sociétés (GOGO, HUCK, AIFC) et un article sur SoftBank. Seule une page de prévisions de cours pour SES en 2027 la mentionne, sans information concrète. Le titre reste donc surtout guidé par ses données de marché, pas par une nouvelle précise.",
+      "points_forts": [
+        "Chiffre d'affaires en hausse de 43,8 %",
+        "Objectif moyen des analystes (2,55 $) bien au-dessus du cours de 0,88 $",
+        "Activité variée : véhicules électriques, drones, robotique, stockage d'énergie"
+      ],
+      "risques": [
+        "Action très volatile : entre 0,491 $ et 3,73 $ sur 52 semaines",
+        "Baisse de 24,4 % en 6 mois",
+        "Seulement 2 analystes, sans avis consensuel : les objectifs sont peu représentatifs"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Annonces de contrats ou de partenariats avec des constructeurs ou d'autres clients"
+      ],
+      "a_surveiller": "Surveillez les résultats du 12 novembre 2026 : la croissance du chiffre d'affaires se confirme-t-elle, et comment évoluent les dépenses de l'entreprise ?"
+    }
+  },
+  "VTEX": {
+    "sig": "2c5637755ce6366a",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres d'actualité récents ne sont que des pages de cours TradingView (VTEX et d'autres sociétés) et ne contiennent aucune information concrète sur l'entreprise. Le cours de 4,39 USD se situe près de son plus haut sur 52 semaines (4,62), avec une croissance du chiffre d'affaires de 9,5 %.",
+      "points_forts": [
+        "Croissance du chiffre d'affaires de 9,5 %",
+        "Cours proche du plus haut sur 52 semaines (4,62 USD)",
+        "Objectif moyen des analystes (5,57 USD) supérieur au cours actuel"
+      ],
+      "risques": [
+        "Petite capitalisation (environ 725 M USD), souvent plus volatile",
+        "Large écart entre objectifs d'analystes (4,0 à 12,0 USD), signe d'incertitude",
+        "Aucun avis d'analystes clair (avis : none)"
+      ],
+      "catalyseurs": [
+        "Publication des prochains résultats prévue le 2026-11-05",
+        "Évolution des objectifs et avis des analystes (10 analystes suivent le titre)"
+      ],
+      "a_surveiller": "Surveille les résultats du 5 novembre 2026 et la capacité du cours à se maintenir près de son plus haut annuel de 4,62 USD."
+    }
+  },
+  "EVH": {
+    "sig": "7b7570e3bf0648b2",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres récents sont surtout des pages de cours et de graphiques (TradingView, Boursorama, Yahoo Finance) et ne contiennent aucune information concrète sur Evolent Health. Le cours (4,59 USD) a nettement rebondi sur 6 mois (+59,4 %) mais reste bien en dessous de son plus haut sur 52 semaines (8,3 USD), ce qui traduit une forte volatilité.",
+      "points_forts": [
+        "Chiffre d'affaires en croissance (+46,9 %)",
+        "Avis moyen des analystes : buy (12 analystes)",
+        "Objectif moyen des analystes (5,75 USD) supérieur au cours actuel"
+      ],
+      "risques": [
+        "Forte volatilité (de 2,095 à 8,3 USD sur 52 semaines)",
+        "Petite capitalisation (environ 519 M USD)",
+        "Fourchette d'objectifs très large (3,0 à 8,0 USD), signe d'avis partagés sur la valeur"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 5 novembre 2026",
+        "Éventuelles révisions des objectifs par les analystes après les résultats"
+      ],
+      "a_surveiller": "Vérifier à la prochaine publication de résultats si la croissance du chiffre d'affaires se maintient et si le cours reste dans la fourchette récente."
     }
   }
 }
