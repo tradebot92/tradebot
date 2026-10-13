@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "61bf86e1cf151fa1",
+    "sig": "8e2bdd0966aac566",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires généraux, sans information précise sur l'entreprise. Ils rappellent l'entrée en Bourse via un SPAC (valorisation de 1,8 milliard de dollars) et un fort bond évoqué par un auteur sur TradingView. Le cours reste volatil : il est à 10,38 $, soit -26,5 % sur 6 mois et loin du plus haut annuel de 21,28 $.",
+      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires généraux, avec un rappel de l'entrée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et d'un bond de 314 % évoqué sur TradingView. Ils n'apportent pas d'information concrète nouvelle sur l'activité. Le cours (10,38 USD) reste loin de son plus haut sur 52 semaines (21,28), signe d'une forte volatilité.",
       "points_forts": [
-        "Croissance du chiffre d'affaires très élevée (1,565)",
-        "Objectif moyen des analystes (21,83 $) bien au-dessus du cours actuel",
-        "Activité variée dans l'informatique, les capteurs et les horloges quantiques"
+        "Croissance du chiffre d'affaires très forte (1,565, soit environ +156 %)",
+        "Objectifs des analystes (19 à 25 USD) bien au-dessus du cours actuel",
+        "Positionnement dans les technologies quantiques (calcul, capteurs, horloges)"
       ],
       "risques": [
-        "Forte volatilité typique d'une petite valeur quantique récemment cotée via SPAC",
-        "Baisse de 26,5 % sur 6 mois et écart important avec le plus haut annuel",
-        "Les objectifs des analystes ne sont pas un avis clair (avis : none) et peuvent changer"
+        "Forte volatilité : -26,5 % en 6 mois, fourchette 8,52 à 21,28 USD",
+        "Entreprise récemment cotée via SPAC, historique boursier court",
+        "Avis global des analystes non renseigné, échantillon de seulement 6 analystes"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Évolution de l'intérêt du marché pour le secteur quantique (par exemple les mouvements de valeurs comme QUBT)"
+        "Publication des prochains résultats prévue le 12 novembre 2026",
+        "Évolution du sentiment sur le secteur quantique (par ex. IonQ cité dans l'actualité)"
       ],
-      "a_surveiller": "Surveille la prochaine publication de résultats et la capacité de l'entreprise à transformer sa forte croissance du chiffre d'affaires en résultats solides, sans te fier aux seuls titres de presse."
+      "a_surveiller": "Surveiller si la forte croissance du chiffre d'affaires se confirme dans les prochains résultats et si le cours se maintient au-dessus du plus bas de 52 semaines (8,52 USD)."
     }
   },
   "EIKN": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "bdadf684652326bd",
+    "sig": "b8be18cc7ca40af3",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
-          "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 %, un cloud moteur de la croissance et un accord important avec Anthropic.",
-          "a_surveiller": "La hausse des prévisions d'investissements pourrait peser sur les marges futures, alors que la valorisation très élevée laisse peu de marge à la déception.",
+          "pourquoi": "Alphabet a publié un bénéfice trimestriel en hausse de 81 %, porté par le cloud, et a conclu un accord important avec Anthropic, ce qui a fait monter le titre d'environ 2 %.",
+          "a_surveiller": "Le relèvement des prévisions d'investissements, qui peut peser sur les marges, ainsi qu'une valorisation déjà supérieure à 4 200 milliards USD.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), un deuxième traitement injectable de la schizophrénie lié à MedinCell, ce qui a fait bondir le titre d'environ 18 %.",
-          "a_surveiller": "Les ventes réelles de Weltruza restent à démontrer, et la forte volatilité du titre ainsi que le chiffre d'affaires en baisse appellent à la vigilance.",
+          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec Medincell, et l'action a bondi d'environ 18 %.",
+          "a_surveiller": "Le succès commercial du lancement, encore à démontrer, dans un contexte de chiffre d'affaires en recul et de forte volatilité.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "IREN",
-          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le chiffre d'affaires en baisse de 26,7 %, la forte volatilité du cours et la grande dispersion des avis d'analystes sont des points à suivre.",
+          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies (objectif 79 $), mais sans détails chiffrés vérifiables.",
+          "a_surveiller": "Le chiffre d'affaires en baisse de 26,7 %, la forte volatilité du cours (35,48 $) et la grande dispersion des objectifs des analystes.",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations sont données à titre indicatif : les cours peuvent fortement varier et toute décision comporte un risque de perte en capital."
+      "prudence": "Ces informations sont issues de titres d'actualité résumés, ne constituent pas un conseil, et tout investissement en Bourse comporte un risque de perte en capital."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "b09e1d65a7157737",
+    "sig": "93bec48d6ce5495d",
     "analyse": {
       "sentiment": "positif",
-      "importance": 5,
+      "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), le deuxième traitement de MedinCell contre la schizophrénie, et le titre a bondi d'environ 18 % en Bourse. C'est important car cela valide la technologie de libération prolongée de l'entreprise et ouvre une nouvelle source potentielle de revenus, même si les titres ne détaillent pas les conditions de lancement.",
+      "resume": "Les titres indiquent que les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec Medincell. L'action a bondi d'environ 18 % en Bourse après cette annonce. C'est une étape réglementaire importante pour l'entreprise, qui passe d'un projet en développement à un produit commercialisable.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
-        "UZEDY déjà commercialisé, ce qui confirme la plateforme technologique",
-        "Analystes très favorables : avis strong_buy, objectif moyen 35,9 EUR contre 29,06 EUR de cours"
+        "Feu vert de la FDA pour Weltruza, traitement de la schizophrénie",
+        "Consensus d'analystes très favorable (strong_buy, objectif moyen 35,9 EUR)",
+        "Cours en hausse sur 6 mois (+14,6 %)"
       ],
       "risques": [
-        "Chiffre d'affaires en recul (-0,446) malgré les bonnes nouvelles",
-        "Forte volatilité : hausse de 18 % en une séance, qui peut se corriger",
-        "Rythme et ampleur du lancement commercial encore inconnus"
+        "Chiffre d'affaires en recul (-0,446 selon les données)",
+        "Forte volatilité après un bond de 18 % en une séance",
+        "Succès commercial du lancement encore à démontrer"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza et premières ventes",
-        "Avancement de mdc-CWM (Phase III, douleur post-opératoire)"
+        "Lancement commercial de Weltruza aux États-Unis",
+        "Prochains résultats (date non communiquée) et avancement de mdc-CWM en Phase III"
       ],
-      "a_surveiller": "Surveille les communications sur le calendrier de lancement de Weltruza et la capacité du titre à tenir après ce fort rebond, sachant que la date des prochains résultats n'est pas connue."
+      "a_surveiller": "Observer si le cours se stabilise après le bond lié à l'autorisation, ainsi que les informations sur le calendrier de lancement et les revenus attendus."
     }
   },
   "KLRA": {

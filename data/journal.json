@@ -193,5 +193,20 @@
       -9.0
     ],
     "resume": "Alphabet a publié des résultats trimestriels marqués par un bénéfice en hausse de 81 % et un cloud moteur de la croissance. Le groupe a aussi relevé ses prévisions d'investissements et conclu un accord important avec Anthropic, ce qui a fait monter le titre d'environ 2 %. Certains titres évoquent toutefois une baisse du cours, signe que les dépenses élevées pèsent sur le sentiment."
+  },
+  {
+    "date": "13/10/2026 10:45",
+    "symbole": "MEDCL.PA",
+    "sentiment": "positif",
+    "cours": 27.8,
+    "gain": [
+      8.1,
+      29.2
+    ],
+    "perte": [
+      -8.1,
+      -16.2
+    ],
+    "resume": "Les titres indiquent que les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec Medincell. L'action a bondi d'environ 18 % en Bourse après cette annonce. C'est une étape réglementaire importante pour l'entreprise, qui passe d'un projet en développement à un produit commercialisable."
   }
 ]

@@ -36,17 +36,12 @@
       "premiere": "2026-10-12T22:05+02:00",
       "nom": "Beacon Financial Corporation"
     },
-    "EXK": {
-      "premiere": "2026-10-13T10:07+02:00",
-      "nom": "Endeavour Silver Corporation"
+    "ARL": {
+      "premiere": "2026-10-13T10:45+02:00",
+      "nom": "American Realty Investors, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "MEDCL.PA",
-      "date": "10/10/2026",
-      "nom": "MEDINCELL S.A."
-    },
     {
       "symbole": "EIKN",
       "date": "12/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "ARL",
       "date": "13/10/2026",
       "nom": "American Realty Investors, Inc."
+    },
+    {
+      "symbole": "EXK",
+      "date": "13/10/2026",
+      "nom": "Endeavour Silver Corporation"
     }
   ]
 }
