@@ -863,5 +863,29 @@
       ],
       "a_surveiller": "Suivre si Six Flags répond officiellement à Jana Partners et si le cours se maintient au-dessus de son plus bas annuel (9,865 USD), l'objectif bas des analystes étant à 10 USD."
     }
+  },
+  "AGBK": {
+    "sig": "79e598490cad35e3",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres d'actualité fournis portent sur d'autres sociétés (Blackstone, Simulations Plus, Cerebras, Quantinuum, etc.) et ne mentionnent pas AGI Inc. Ils ne donnent donc aucune information concrète sur l'entreprise, hormis un climat général où les introductions en bourse semblent actives.",
+      "points_forts": [
+        "Avis des analystes : strong_buy (11 analystes)",
+        "Objectif moyen 12,62 $, nettement au-dessus du cours de 7,53 $",
+        "Cours bien au-dessus du plus bas sur 52 semaines (5,28 $)"
+      ],
+      "risques": [
+        "Chiffre d'affaires en baisse (-15,2 %)",
+        "Cours bien sous le plus haut sur 52 semaines (12,21 $)",
+        "Exposition au seul marché brésilien et titre potentiellement volatil (capitalisation d'environ 2 Md$)"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 2026-11-11",
+        "Évolution des objectifs et des avis des analystes"
+      ],
+      "a_surveiller": "Surveiller si le chiffre d'affaires cesse de reculer lors des prochains résultats, car c'est le point faible face à l'optimisme des analystes."
+    }
   }
 }

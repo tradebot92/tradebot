@@ -32,21 +32,16 @@
       "premiere": "2026-10-13T15:48+02:00",
       "nom": "Endeavour Silver Corporation"
     },
-    "SNDA": {
-      "premiere": "2026-10-13T16:10+02:00",
-      "nom": "Sonida Senior Living, Inc."
-    },
     "FUN": {
       "premiere": "2026-10-13T16:46+02:00",
       "nom": "Six Flags Entertainment Corpora"
+    },
+    "AGBK": {
+      "premiere": "2026-10-13T17:09+02:00",
+      "nom": "AGI Inc"
     }
   },
   "sorties": [
-    {
-      "symbole": "ALLT",
-      "date": "12/10/2026",
-      "nom": "Allot Ltd."
-    },
     {
       "symbole": "EXK",
       "date": "12/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "IDIP.PA",
       "date": "13/10/2026",
       "nom": "IDI"
+    },
+    {
+      "symbole": "SNDA",
+      "date": "13/10/2026",
+      "nom": "Sonida Senior Living, Inc."
     }
   ]
 }
