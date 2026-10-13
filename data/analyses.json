@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "c9eb335d0892176f",
+    "sig": "8ea6597352c0c9a8",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance. Le groupe a aussi relevé ses prévisions d'investissements et annoncé un accord important avec Anthropic, ce qui a fait monter l'action d'environ 2 %. Ces éléments comptent car ils montrent une forte dynamique, mais aussi des dépenses plus lourdes.",
+      "resume": "Alphabet a publié des résultats trimestriels marqués par un bénéfice en hausse de 81 % et un cloud moteur de la croissance. Le groupe a aussi relevé ses prévisions d'investissements et conclu un accord important avec Anthropic, ce qui a fait monter le titre d'environ 2 %. Certains titres évoquent toutefois une baisse du cours, signe que les dépenses élevées pèsent sur le sentiment.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 24,2 %",
-        "Bénéfice en forte hausse (+81 %) porté par le cloud",
-        "Avis des analystes très favorable (strong_buy, objectif moyen 420,36 USD)"
+        "Bénéfice en hausse de 81 % et chiffre d'affaires en croissance de 24,2 %",
+        "Cloud moteur des résultats, accord massif avec Anthropic",
+        "Consensus des analystes très favorable (14 analystes, objectif moyen 420,36 USD)"
       ],
       "risques": [
-        "Hausse des prévisions d'investissements qui pèse sur les marges futures",
-        "Cours à 349,92 USD, proche du bas de la fourchette d'objectifs (340 USD) et sous le plus haut annuel de 404,47 USD",
-        "Valorisation très élevée (capitalisation d'environ 4 280 milliards USD) qui laisse peu de marge à la déception"
+        "Prévisions d'investissements relevées à nouveau, ce qui pèse sur les marges et la rentabilité future",
+        "Cours à environ 14 % sous son plus haut sur 52 semaines (404,47 USD), signe d'une certaine volatilité",
+        "Titre déjà valorisé à plus de 4 200 milliards USD, ce qui laisse peu de marge à la déception"
       ],
       "catalyseurs": [
-        "Prochains résultats trimestriels prévus le 28 octobre 2026",
-        "Détails et concrétisation de l'accord avec Anthropic et croissance du cloud"
+        "Publication des prochains résultats le 28 octobre 2026",
+        "Nouvelles annonces sur le cloud et les partenariats en intelligence artificielle, comme l'accord avec Anthropic"
       ],
-      "a_surveiller": "Surveille si la hausse des investissements se traduit par une croissance continue du cloud, et si le cours reste au-dessus de l'objectif bas des analystes (340 USD)."
+      "a_surveiller": "Voir si la croissance du cloud et des revenus continue de justifier la hausse des investissements, et si le cours se maintient au-dessus de l'objectif bas des analystes (340 USD)."
     }
   },
   "GLOO": {
@@ -96,27 +96,27 @@
     }
   },
   "EIKN": {
-    "sig": "ebccd620d45b84e3",
+    "sig": "4e35002ec1b7eaa9",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis concernent d'autres sociétés (AUTL, GENB, MRNA, CAPR, AGMB) et ne contiennent aucune information concrète sur Eikon Therapeutics. Le cours (7,26 USD) est proche de son plus bas sur 52 semaines (7,02) et a reculé d'environ 31,6 % en six mois. Il n'y a donc pas de nouvelle spécifique à interpréter, seulement un contexte de baisse.",
+      "resume": "Les titres récents ne parlent pas d'Eikon Therapeutics : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, MRNA, SPRY, NVAX). Aucune information concrète sur l'entreprise n'en ressort. Le cours (7,26 USD) est proche de son plus bas sur 52 semaines (7,02), après une baisse d'environ 32 % en 6 mois.",
       "points_forts": [
-        "Portefeuille clinique varié (immunothérapie, inhibiteurs PARP1, inhibiteur WRN)",
-        "Objectif moyen des analystes (24,6 USD) très supérieur au cours actuel",
+        "Pipeline clinique varié en oncologie (EIK1001, PARP1, WRN)",
+        "Objectif moyen des analystes (24,6 USD) très au-dessus du cours actuel",
         "Capitalisation d'environ 393 M USD"
       ],
       "risques": [
-        "Forte baisse du cours et proximité du plus bas annuel",
-        "Très large dispersion des objectifs d'analystes (4 à 32 USD), signe d'une forte incertitude",
-        "Société biotech au stade clinique, sans chiffre d'affaires communiqué"
+        "Cours proche du plus bas annuel, tendance baissière",
+        "Société clinique sans chiffre d'affaires communiqué, très volatile",
+        "Écart énorme entre les objectifs des analystes (4 à 32 USD), signe d'une forte incertitude"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 12 novembre 2026",
-        "Éventuelles données cliniques sur EIK1001, EIK1003/1004 ou EIK1005 (aucune date communiquée)"
+        "Éventuelles données cliniques sur les candidats du pipeline (non datées dans les informations fournies)"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas de 52 semaines (7,02 USD) et les prochaines annonces cliniques ou financières de la société."
+      "a_surveiller": "Le maintien ou non du cours au-dessus du plus bas de 52 semaines (7,02 USD) et toute annonce officielle sur les essais cliniques d'Eikon."
     }
   },
   "EXK": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "5a0a9255961bd8fa",
+    "sig": "b09e1d65a7157737",
     "analyse": {
       "sentiment": "positif",
-      "importance": 4,
+      "importance": 5,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement injectable de la schizophrénie lié à MedinCell. L'annonce a fait bondir le titre d'environ 18 % en Bourse. C'est important car cela confirme le potentiel de sa technologie de libération prolongée et élargit son portefeuille de produits commercialisés.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), le deuxième traitement de MedinCell contre la schizophrénie, et le titre a bondi d'environ 18 % en Bourse. C'est important car cela valide la technologie de libération prolongée de l'entreprise et ouvre une nouvelle source potentielle de revenus, même si les titres ne détaillent pas les conditions de lancement.",
       "points_forts": [
         "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
-        "Consensus des analystes « strong buy » (9 analystes), objectif moyen 35,72 € au-dessus du cours de 28,8 €",
-        "Cours en hausse de 18,7 % sur 6 mois"
+        "UZEDY déjà commercialisé, ce qui confirme la plateforme technologique",
+        "Analystes très favorables : avis strong_buy, objectif moyen 35,9 EUR contre 29,06 EUR de cours"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-0,446 de croissance)",
-        "Forte volatilité : l'action a pu bondir de 18 % en une séance, avec un risque de repli après le choc",
-        "Les ventes réelles de Weltruza restent à démontrer après l'autorisation"
+        "Chiffre d'affaires en recul (-0,446) malgré les bonnes nouvelles",
+        "Forte volatilité : hausse de 18 % en une séance, qui peut se corriger",
+        "Rythme et ampleur du lancement commercial encore inconnus"
       ],
       "catalyseurs": [
-        "Lancement commercial et premières ventes de Weltruza",
-        "Avancée de mdc-CWM (Phase III, douleur post-opératoire)"
+        "Lancement commercial de Weltruza et premières ventes",
+        "Avancement de mdc-CWM (Phase III, douleur post-opératoire)"
       ],
-      "a_surveiller": "Surveillez la réaction du cours dans les prochains jours, ainsi que les annonces sur le calendrier de commercialisation de Weltruza et ses retombées financières pour MedinCell."
+      "a_surveiller": "Surveille les communications sur le calendrier de lancement de Weltruza et la capacité du titre à tenir après ce fort rebond, sachant que la date des prochains résultats n'est pas connue."
     }
   },
   "KLRA": {
@@ -434,27 +434,26 @@
     }
   },
   "MYN": {
-    "sig": "41c33003977fdba4",
+    "sig": "246c83be31db0b0f",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Le seul titre lié au fonds annonce la publication de ses résultats annuels pour l'exercice clos le 31 juillet 2026, sans aucun chiffre ni détail concret. Les autres titres concernent d'autres valeurs (CION, MYI, PBT, DXYZ) et ne disent rien sur MYN. Il n'y a donc pas d'information précise permettant de juger la situation du fonds.",
+      "resume": "Les titres d'actualité récents ne sont que des pages de cours TradingView, concernant d'autres fonds ou sociétés (CION, MYI, PBT, VTN, DXYZ). Ils ne contiennent aucune information concrète sur MYN. Le cours (8,73 USD) se situe près de son plus bas sur 52 semaines (8,58), après une baisse d'environ 9,4 % en 6 mois.",
       "points_forts": [
-        "Cours proche de la fourchette basse mais stable sur le dernier mouvement connu",
-        "Fonds géré par BlackRock, un grand gestionnaire d'actifs",
-        "Obligations municipales de qualité (investment grade) exonérées d'impôt fédéral et new-yorkais"
+        "Fonds investi en obligations municipales de qualité (investment grade) exonérées d'impôts fédéraux et de New York",
+        "Géré par BlackRock Advisors, un gestionnaire reconnu"
       ],
       "risques": [
-        "Baisse de 9,4 % sur 6 mois, cours proche du plus bas sur 52 semaines (8,58 USD)",
-        "Aucune couverture d'analystes ni objectif de cours disponible",
-        "Données d'actualité peu informatives, sans détail sur les résultats"
+        "Cours proche du plus bas annuel, tendance baissière sur 6 mois",
+        "Aucun avis ni objectif d'analystes disponible",
+        "Aucune information récente spécifique au fonds dans l'actualité"
       ],
       "catalyseurs": [
-        "Détails des résultats annuels publiés (revenu net, distributions)",
-        "Évolution des taux d'intérêt, qui pèse sur le prix des obligations municipales"
+        "Prochaine publication de résultats ou de données du fonds (date non communiquée)",
+        "Évolution générale des taux d'intérêt, qui pèse sur les fonds obligataires"
       ],
-      "a_surveiller": "Surveiller le contenu détaillé du rapport annuel (revenus distribués, valeur liquidative) et si le cours reste au-dessus du plus bas des 52 semaines à 8,58 USD."
+      "a_surveiller": "Surveiller si le cours casse durablement le plus bas de 52 semaines (8,58 USD) et la publication des prochaines données officielles du fonds."
     }
   },
   "AL2SI.PA": {
@@ -578,27 +577,27 @@
     }
   },
   "BBT": {
-    "sig": "6fb0a97ead70ca94",
+    "sig": "a39f618d7d22f06c",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Le seul titre vraiment lié à Beacon Financial est celui de RBC Capital Markets, qui maintient sa recommandation neutre, sans détail sur les raisons ni sur un éventuel changement d'objectif. Les autres titres concernent d'autres sociétés (JPMorgan, Bank of Hawaii, Solidion, Banc of California) et n'apportent rien de concret sur Beacon. L'action recule d'environ 11,6 % sur 6 mois, alors que les analystes affichent un avis globalement favorable.",
+      "resume": "Le seul titre vraiment lié à Beacon Financial est le maintien de la recommandation « neutre » par RBC Capital Markets, sans détail sur les raisons ni sur un changement d'objectif. Les autres titres concernent des cours d'autres sociétés ou des pages de cotation génériques et n'apportent rien de concret. Les analystes restent globalement favorables (avis « buy »), mais l'action recule de 12 % sur 6 mois.",
       "points_forts": [
-        "Objectif moyen des analystes (34 USD) nettement au-dessus du cours de 27,42 USD",
+        "Objectif moyen des analystes (34 USD) nettement au-dessus du cours de 27,3 USD",
         "Avis global « buy » sur 6 analystes",
         "Croissance du chiffre d'affaires indiquée à 1,445 (donnée à interpréter avec prudence)"
       ],
       "risques": [
-        "Cours en baisse de 11,6 % sur 6 mois, loin du plus haut de 32,83 USD",
-        "Position neutre de RBC, qui contraste avec le consensus favorable",
-        "Actualité récente peu informative sur l'entreprise elle-même"
+        "Baisse de 12 % sur 6 mois, cours plus proche du bas que du haut des 52 semaines",
+        "Avis divergent : RBC reste neutre face à un consensus positif",
+        "Secteur des banques régionales américaines sensible aux taux et au crédit"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 21 octobre 2026",
-        "Éventuelles révisions d'objectifs ou de recommandations des analystes"
+        "Nouvelles révisions de recommandations ou d'objectifs par les analystes"
       ],
-      "a_surveiller": "Le contenu des prochains résultats (21 octobre 2026) et l'évolution des recommandations des analystes, pour voir si l'écart entre l'avis neutre de RBC et le consensus favorable se réduit."
+      "a_surveiller": "Les résultats du 21 octobre 2026 et d'éventuels changements d'objectifs des analystes, pour voir si l'écart entre le cours et l'objectif moyen se réduit."
     }
   },
   "FOIL": {
@@ -674,27 +673,27 @@
     }
   },
   "BMBL": {
-    "sig": "340c6e464142e666",
+    "sig": "710c05a3448f1fd6",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 4,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Un titre de presse (Zonebourse Suisse) évoque des négociations avancées pour sortir Bumble de la cote à une valorisation d'environ 1 milliard de dollars, selon une source. Si cela se confirmait, cela changerait fortement la situation des actionnaires actuels. Les autres titres sont des pages de cours ou de consensus, sans information concrète, et la date et les conditions de l'opération ne sont pas précisées.",
+      "resume": "Les titres récents sont surtout des pages de cours et de consensus d'analystes, sans annonce concrète sur Bumble. Le cours (3,8 USD) se situe près de l'objectif moyen des analystes (3,79 USD), mais le chiffre d'affaires recule de 15,2 %, ce qui reste le point central du dossier.",
       "points_forts": [
-        "Un éventuel rachat pourrait valoriser l'entreprise à environ 1 Md$, au-dessus de la capitalisation actuelle (~582 M$)",
-        "Cours de 3,8 $, proche de l'objectif moyen des analystes (3,79 $)",
-        "Plusieurs applications (Bumble, Badoo, Bumble BFF) pour diversifier l'activité"
+        "Cours proche de l'objectif moyen des analystes (3,79 USD)",
+        "Marques connues : Bumble, Badoo, Bumble BFF",
+        "Capitalisation modeste (~582 M USD) avec une activité d'abonnements"
       ],
       "risques": [
-        "Information issue d'une source anonyme, non confirmée : les négociations pourraient échouer",
-        "Chiffre d'affaires en baisse (-15,2 %)",
-        "Action volatile (de 2,44 $ à 5,96 $ sur 52 semaines) et sortie de cote qui retirerait la possibilité de détenir le titre"
+        "Chiffre d'affaires en baisse de 15,2 %",
+        "Forte amplitude sur 52 semaines (2,44 à 5,96 USD)",
+        "Aucun avis d'analystes clair et objectifs très dispersés (3,0 à 5,0 USD)"
       ],
       "catalyseurs": [
-        "Annonce officielle (ou démenti) d'un accord de sortie de cote",
-        "Publication des prochains résultats prévue le 2026-11-04"
+        "Publication des résultats prévue le 4 novembre 2026",
+        "Révisions des objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Surveillez toute communication officielle de l'entreprise sur les négociations, en particulier le prix par action proposé et les conditions pour les actionnaires actuels."
+      "a_surveiller": "Surveiller si le recul du chiffre d'affaires ralentit lors des prochains résultats, car c'est ce qui conditionnera la perception du titre, très volatil."
     }
   },
   "HELE": {
@@ -722,27 +721,27 @@
     }
   },
   "TMC": {
-    "sig": "b149f7c8c0a08d75",
+    "sig": "fac4c4c7ea5a46fc",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne sont que des pages de cours et de graphiques (TradingView, Yahoo Finance), sans information concrète sur TMC. Le cours, à 2,88 USD, est au plus bas sur 52 semaines (2,87) et a perdu 39 % en 6 mois, ce qui montre une forte pression à la baisse.",
+      "resume": "Les titres récents sont de simples pages de cours et de graphiques (TradingView, Yahoo Finance) et ne contiennent aucune information concrète sur TMC. Le cours est à 2,88 USD, tout près de son plus bas sur 52 semaines (2,87), après une baisse d'environ 39 % en 6 mois, ce qui montre une forte pression sur le titre.",
       "points_forts": [
-        "Objectif moyen des analystes (10,9 USD) très supérieur au cours actuel",
-        "Droits d'exploration et commerciaux sur deux zones de nodules polymétalliques",
+        "Objectifs des analystes nettement au-dessus du cours (10,0 à 12,3 USD)",
+        "Droits d'exploration et commerciaux sur deux zones de nodules dans la zone Clarion-Clipperton",
         "Métaux visés (nickel, cobalt, cuivre, manganèse) utilisés dans les véhicules électriques et le stockage d'énergie"
       ],
       "risques": [
-        "Cours au plus bas annuel, tendance baissière marquée",
-        "Aucun chiffre d'affaires communiqué, société d'exploration encore au stade pré-commercial",
-        "Forte volatilité et écart important entre objectifs des analystes et cours, signe d'incertitude"
+        "Cours au plus bas annuel et tendance baissière marquée",
+        "Aucun chiffre d'affaires communiqué : activité encore au stade d'exploration",
+        "Titre très volatil, avec un écart important entre le cours et les objectifs des analystes"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 12 novembre 2026",
-        "Toute nouvelle officielle sur les autorisations ou la mise en production (non mentionnée dans les données)"
+        "Toute annonce sur les autorisations ou le calendrier de l'activité d'exploitation"
       ],
-      "a_surveiller": "Vérifier si le cours se stabilise au-dessus du plus bas de 52 semaines (2,87 USD) et chercher des annonces officielles de la société, car les titres actuels n'apportent rien de concret."
+      "a_surveiller": "Voir si le cours tient autour du plus bas annuel (2,87 USD) et si de vraies nouvelles de l'entreprise apparaissent, au-delà des simples pages de cotation."
     }
   }
 }

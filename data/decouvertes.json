@@ -12,10 +12,6 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "AL2SI.PA": {
-      "premiere": "2026-10-12T09:45+02:00",
-      "nom": "2CRSI"
-    },
     "FIGS": {
       "premiere": "2026-10-12T17:10+02:00",
       "nom": "FIGS, Inc."
@@ -39,6 +35,10 @@
     "BBT": {
       "premiere": "2026-10-12T22:05+02:00",
       "nom": "Beacon Financial Corporation"
+    },
+    "EXK": {
+      "premiere": "2026-10-13T09:13+02:00",
+      "nom": "Endeavour Silver Corporation"
     }
   },
   "sorties": [
@@ -176,6 +176,11 @@
       "symbole": "HELE",
       "date": "12/10/2026",
       "nom": "Helen of Troy Limited"
+    },
+    {
+      "symbole": "AL2SI.PA",
+      "date": "13/10/2026",
+      "nom": "2CRSI"
     }
   ]
 }

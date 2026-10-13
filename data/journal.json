@@ -178,5 +178,20 @@
       -24.7
     ],
     "resume": "Un titre de presse (Zonebourse Suisse) évoque des négociations avancées pour sortir Bumble de la cote à une valorisation d'environ 1 milliard de dollars, selon une source. Si cela se confirmait, cela changerait fortement la situation des actionnaires actuels. Les autres titres sont des pages de cours ou de consensus, sans information concrète, et la date et les conditions de l'opération ne sont pas précisées."
+  },
+  {
+    "date": "13/10/2026 09:13",
+    "symbole": "GOOG",
+    "sentiment": "positif",
+    "cours": 348.97,
+    "gain": [
+      4.5,
+      20.5
+    ],
+    "perte": [
+      -4.5,
+      -9.0
+    ],
+    "resume": "Alphabet a publié des résultats trimestriels marqués par un bénéfice en hausse de 81 % et un cloud moteur de la croissance. Le groupe a aussi relevé ses prévisions d'investissements et conclu un accord important avec Anthropic, ce qui a fait monter le titre d'environ 2 %. Certains titres évoquent toutefois une baisse du cours, signe que les dépenses élevées pèsent sur le sentiment."
   }
 ]
