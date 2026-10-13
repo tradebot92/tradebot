@@ -208,5 +208,20 @@
       -16.2
     ],
     "resume": "Les titres indiquent que les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec Medincell. L'action a bondi d'environ 18 % en Bourse après cette annonce. C'est une étape réglementaire importante pour l'entreprise, qui passe d'un projet en développement à un produit commercialisable."
+  },
+  {
+    "date": "13/10/2026 19:07",
+    "symbole": "GOOG",
+    "sentiment": "positif",
+    "cours": 351.14,
+    "gain": [
+      4.5,
+      19.7
+    ],
+    "perte": [
+      -4.5,
+      -8.9
+    ],
+    "resume": "Les actualités récentes portent sur des résultats trimestriels solides d'Alphabet, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance. Un accord important avec Anthropic a aussi été annoncé, mais le groupe relève de nouveau ses prévisions d'investissements, ce qui peut peser sur la rentabilité future. Un titre évoque une chute du cours, signe que la réaction du marché reste partagée."
   }
 ]

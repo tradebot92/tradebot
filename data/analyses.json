@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "8ea6597352c0c9a8",
+    "sig": "2107ff92afbf8b2f",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les titres rapportent un bénéfice en hausse de 81 % et des résultats trimestriels portés par le cloud. Alphabet relève de nouveau ses prévisions d'investissements et a conclu un accord important avec Anthropic, ce qui a fait grimper l'action d'environ 2 %. Un article évoque toutefois une chute du cours, signe que le marché reste partagé.",
+      "resume": "Les actualités récentes portent sur des résultats trimestriels solides d'Alphabet, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance. Un accord important avec Anthropic a aussi été annoncé, mais le groupe relève de nouveau ses prévisions d'investissements, ce qui peut peser sur la rentabilité future. Un titre évoque une chute du cours, signe que la réaction du marché reste partagée.",
       "points_forts": [
-        "Bénéfice en hausse de 81 %",
-        "Croissance du chiffre d'affaires de 24,2 % portée par le cloud",
-        "Accord massif avec Anthropic"
+        "Bénéfice en hausse de 81 % et chiffre d'affaires en croissance de 24,2 %",
+        "Cloud cité comme moteur des résultats",
+        "Avis des analystes strong_buy, objectif moyen 420,36 USD"
       ],
       "risques": [
-        "Hausse des prévisions d'investissements qui pèse sur la rentabilité",
-        "Cours à 351 $, nettement sous le plus haut annuel de 404 $",
-        "Valorisation élevée avec une capitalisation d'environ 4 300 Md$"
+        "Hausse répétée des prévisions d'investissements",
+        "Cours (351,14 USD) à environ 13 % sous le plus haut sur 52 semaines (404,47 USD)",
+        "Réaction boursière mitigée aux résultats"
       ],
       "catalyseurs": [
-        "Prochains résultats le 28 octobre 2026",
-        "Évolution des revenus du cloud et de l'accord avec Anthropic"
+        "Prochains résultats trimestriels le 28 octobre 2026",
+        "Évolution de l'accord avec Anthropic et de l'activité cloud"
       ],
-      "a_surveiller": "Surveille si la croissance du cloud continue de compenser la hausse des investissements, car c'est ce qui semble influencer la réaction du cours."
+      "a_surveiller": "Surveiller si la hausse des investissements reste compensée par la croissance du cloud et des revenus lors des prochains résultats."
     }
   },
   "GLOO": {
@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "61bf86e1cf151fa1",
+    "sig": "3aa4d129e50275b4",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents évoquent surtout l'arrivée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et un fort bond du cours cité par un article TradingView, sans information concrète nouvelle. Le cours actuel (10,16 $) reste nettement sous son plus haut sur 52 semaines (21,28 $) et a reculé d'environ 32 % en 6 mois, ce qui montre une forte volatilité.",
+      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires sur la forte hausse de l'action (+314 % évoqué) après son arrivée en Bourse via un SPAC, valorisée à 1,8 milliard de dollars. Depuis, le cours (10,11 USD) a reculé de 32,6 % en 6 mois et reste loin de son plus haut sur 52 semaines (21,28). Les titres ne donnent aucune information concrète nouvelle sur l'activité ou les résultats.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (1,565, soit environ +156 %)",
-        "Objectifs des analystes (19 à 25 $) bien au-dessus du cours actuel",
-        "Activité dans des technologies quantiques (horloges, capteurs, calcul) pour environnements sans GPS"
+        "Chiffre d'affaires en forte croissance (+156,5 %)",
+        "Objectif moyen des analystes (21,83 USD) bien au-dessus du cours actuel",
+        "Positionnement dans l'informatique quantique et les capteurs (horloges, GPS-denied)"
       ],
       "risques": [
-        "Forte volatilité : écart important entre plus haut (21,28 $) et plus bas (8,52 $) sur 52 semaines",
-        "Valorisation élevée (environ 2,3 milliards de dollars) pour une entreprise de technologie émergente",
-        "Introduction par SPAC et couverture analystes encore récente, donc historique limité"
+        "Forte volatilité typique d'une petite valeur issue d'un SPAC",
+        "Baisse de 32,6 % sur 6 mois, cours proche du plus bas annuel (8,52)",
+        "Secteur quantique encore jeune et valorisation élevée (capitalisation ~2,3 Md USD)"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 12 novembre 2026",
-        "Évolution de l'intérêt du marché pour le secteur quantique (ex. mouvements sur d'autres valeurs comme QUBT)"
+        "Publication des prochains résultats le 12 novembre 2026",
+        "Évolution des objectifs et avis des analystes (6 suivent la valeur)"
       ],
-      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires se confirme aux prochains résultats et si le cours tient autour du plus bas annuel de 8,52 $."
+      "a_surveiller": "Surveille si la croissance du chiffre d'affaires se confirme aux prochains résultats et comment le cours réagit près de son plus bas annuel de 8,52 USD."
     }
   },
   "EIKN": {
@@ -434,26 +434,26 @@
     }
   },
   "MYN": {
-    "sig": "8b4b37ff1924880e",
+    "sig": "246c83be31db0b0f",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents sont des pages génériques de cours et de graphiques (TradingView) sur d'autres valeurs (CION, MYI, PBT, TSLX, VTN), sans information concrète sur MYN. Il n'y a donc pas de nouvelle précise à analyser. Le cours (8,77 USD) reste proche de son plus bas sur 52 semaines (8,58), après un recul de 8,5 % en 6 mois.",
+      "resume": "Les titres d'actualité récents ne concernent pas vraiment MYN : ce sont des pages de cours TradingView d'autres valeurs (CION, MYI, PBT, VTN, DXYZ), sans information concrète sur ce fonds. Le cours de 8,76 USD reste proche de son plus bas sur 52 semaines (8,58) et a reculé d'environ 8,6 % en 6 mois.",
       "points_forts": [
-        "Fonds géré par BlackRock, un gestionnaire reconnu",
-        "Obligations municipales de qualité (investment grade) exemptes d'impôts fédéraux et de New York"
+        "Fonds géré par BlackRock, un grand gestionnaire d'actifs",
+        "Obligations municipales de qualité investissement, exonérées d'impôt fédéral et de New York"
       ],
       "risques": [
         "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
-        "Sensibilité des obligations longues aux variations des taux d'intérêt",
-        "Aucune donnée d'analystes ni de date de résultats pour éclairer la situation"
+        "Fonds fermé : le cours peut s'écarter de la valeur des actifs sous-jacents",
+        "Aucune donnée d'analystes ni de prochains résultats pour éclairer la situation"
       ],
       "catalyseurs": [
-        "Évolution des taux d'intérêt, qui influence le prix des obligations municipales",
-        "Prochaine publication du fonds (date non communiquée) ou annonce de distribution"
+        "Évolution des taux d'intérêt, qui pèse sur les prix des obligations longues",
+        "Publication des prochains rapports ou distributions du fonds (date non communiquée)"
       ],
-      "a_surveiller": "Surveiller si le cours passe sous le plus bas des 52 semaines (8,58 USD) et suivre l'évolution des taux d'intérêt ainsi que les distributions du fonds."
+      "a_surveiller": "Surveiller si le cours casse le plus bas de 52 semaines (8,58 USD) et suivre l'évolution des taux d'intérêt, en l'absence de nouvelles propres au fonds."
     }
   },
   "AL2SI.PA": {
@@ -865,27 +865,27 @@
     }
   },
   "AGBK": {
-    "sig": "79e598490cad35e3",
+    "sig": "e70a76087dd8b8c6",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis concernent d'autres sociétés (Blackstone, Altaris, Cerebras, Quantinuum, etc.) et ne mentionnent pas AGI Inc. Ils reflètent surtout un marché actif en introductions en bourse et en rachats, sans lien concret avec l'action. Il n'y a donc pas d'information précise sur AGI à en tirer.",
+      "resume": "Les titres d'actualité fournis portent sur d'autres sociétés (Blackstone, Altaris, Cerebras, Quantinuum, etc.) et ne mentionnent pas AGI Inc. Ils décrivent surtout un marché actif en introductions en bourse et en acquisitions, mais n'apportent aucune information concrète sur AGBK.",
       "points_forts": [
-        "Avis des analystes : strong_buy (11 analystes)",
-        "Objectif moyen (12,62 $) nettement au-dessus du cours (7,57 $)",
-        "Services financiers numériques (IA, cloud, mobile) au Brésil"
+        "Avis des analystes « strong buy » (11 analystes)",
+        "Objectif moyen (12,60 USD) bien au-dessus du cours de 7,49 USD",
+        "Activité appuyée sur des outils numériques (cloud, IA, mobile)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-15,2 %)",
-        "Cours très variable sur 52 semaines (5,28 à 12,21 $)",
-        "Exposition à un seul pays, le Brésil"
+        "Chiffre d'affaires en recul (-15,2 %)",
+        "Forte volatilité : plage 52 semaines de 5,28 à 12,21 USD",
+        "Exposition au seul marché brésilien, entreprise de taille modeste"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 11 novembre 2026",
-        "Éventuelles révisions des objectifs des analystes"
+        "Évolution des révisions d'objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Surveille si le chiffre d'affaires cesse de reculer lors des prochains résultats, car c'est le point faible visible dans les données."
+      "a_surveiller": "Surveillez si le chiffre d'affaires se stabilise lors des prochains résultats, car la baisse actuelle contraste avec l'optimisme des analystes."
     }
   },
   "QDEL": {
@@ -982,6 +982,30 @@
         "Éventuelles révisions des objectifs par les analystes après les résultats"
       ],
       "a_surveiller": "Vérifier à la prochaine publication de résultats si la croissance du chiffre d'affaires se maintient et si le cours reste dans la fourchette récente."
+    }
+  },
+  "PTLO": {
+    "sig": "1f77eb8dbbaec877",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "La seule actualité propre à Portillo's est le départ de Jill Waite, directrice des ressources humaines, à compter du 1er novembre 2026. C'est un changement de personnel qui, en soi, a peu d'impact direct sur l'activité. Les autres titres sont de simples pages de cours d'autres sociétés et n'apportent rien de concret sur Portillo's.",
+      "points_forts": [
+        "Chiffre d'affaires en hausse de 5,6 %",
+        "Avis moyen des 9 analystes : « buy », objectif moyen de 6,0 USD contre un cours de 4,69 USD",
+        "Cours nettement au-dessus du plus bas sur 52 semaines (3,29 USD)"
+      ],
+      "risques": [
+        "Cours en baisse d'environ 15 % sur 6 mois",
+        "Petite capitalisation (environ 340 M USD), potentiellement très volatile",
+        "Fourchette d'objectifs d'analystes très large (4,0 à 11,0 USD), signe d'une forte incertitude"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 5 novembre 2026",
+        "Éventuelle annonce du successeur de la directrice des ressources humaines (date de départ : 1er novembre 2026)"
+      ],
+      "a_surveiller": "Surveiller les résultats du 5 novembre 2026, notamment l'évolution du chiffre d'affaires, et voir si d'autres départs de dirigeants sont annoncés."
     }
   }
 }
