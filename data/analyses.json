@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "61bf86e1cf151fa1",
+    "sig": "8e2bdd0966aac566",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et des articles généraux : l'entrée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et un commentaire évoquant un bond de 314 %. Aucune nouvelle concrète et récente sur les résultats ou les contrats n'apparaît. L'action reste très volatile : elle a perdu 26,5 % en 6 mois et évolue loin de son plus haut sur 52 semaines.",
+      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires généraux, avec un rappel de l'entrée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et un article évoquant un bond de 314 %. Ils n'apportent pas d'information concrète nouvelle. Le cours (10,38 USD) reste nettement sous son plus haut sur 52 semaines (21,28) et a reculé d'environ 26,5 % en 6 mois, ce qui montre une forte volatilité.",
       "points_forts": [
-        "Croissance du chiffre d'affaires très élevée (+156,5 %)",
-        "Objectif moyen des analystes (21,83 $) bien au-dessus du cours actuel (10,38 $)",
-        "Activité diversifiée dans les technologies quantiques (calcul, capteurs, horloges)"
+        "Croissance du chiffre d'affaires élevée (1,565 selon les données)",
+        "Objectifs des analystes (19 à 25 USD) supérieurs au cours actuel",
+        "Positionnement dans le quantique : calcul, capteurs, horloges atomiques"
       ],
       "risques": [
-        "Forte volatilité (plus haut 21,28 $, plus bas 8,52 $)",
-        "Valorisation élevée (environ 2,3 milliards de dollars) pour une entreprise récemment cotée via un SPAC",
-        "Secteur quantique très spéculatif, sensible à l'effet d'entraînement des autres valeurs du secteur"
+        "Forte volatilité : écart important entre plus haut et plus bas sur 52 semaines",
+        "Valorisation et sentiment dépendant de l'engouement pour le secteur quantique",
+        "Société récemment cotée via un SPAC, avec peu d'historique et pas d'avis d'analystes clair"
       ],
       "catalyseurs": [
         "Publication des prochains résultats le 12 novembre 2026",
-        "Annonces de contrats ou de produits (capteurs, horloges, informatique quantique)"
+        "Évolution du sentiment sur les valeurs quantiques comparables (ex. IonQ)"
       ],
-      "a_surveiller": "Surveille la publication des résultats du 12 novembre 2026 et la capacité de l'entreprise à confirmer sa forte croissance, sans te fier aux seuls mouvements du secteur quantique."
+      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires se confirme aux prochains résultats et comment le titre évolue entre ses niveaux de 8,52 et 21,28 USD."
     }
   },
   "EIKN": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "7dda8401c4daa941",
+    "sig": "b09e1d65a7157737",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, deuxième traitement de MedinCell contre la schizophrénie, et l'action a bondi d'environ 18 % en Bourse. Cette approbation valide une étape réglementaire clé et élargit la gamme de produits de l'entreprise après UZEDY.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement injectable de la schizophrénie issu de la technologie de MedinCell. Le titre a bondi d'environ 18 % à la suite de cette annonce. C'est important car cela confirme la technologie de l'entreprise et peut ouvrir de nouvelles sources de revenus, même si l'impact financier reste à voir.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
-        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,91 EUR)",
-        "Pipeline qui continue d'avancer (mdc-CWM en phase III)"
+        "Feu vert FDA pour un deuxième traitement contre la schizophrénie",
+        "Consensus d'analystes très favorable (strong_buy, objectif moyen 35,9 € contre 27,24 € de cours)",
+        "UZEDY déjà commercialisé, ce qui valide la technologie"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-0,446 selon les données)",
-        "Forte volatilité après un bond de 18 % en une séance, avec risque de repli",
-        "Réussite commerciale du lancement encore incertaine"
+        "Chiffre d'affaires en recul de 0,446 sur la période indiquée",
+        "Action volatile : la hausse brutale peut se corriger",
+        "Le succès commercial de Weltruza dépend de sa mise en marché, non détaillée dans les données"
       ],
       "catalyseurs": [
-        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
-        "Avancées cliniques de mdc-CWM (phase III) contre la douleur post-opératoire"
+        "Lancement commercial de Weltruza aux États-Unis",
+        "Avancement de mdc-CWM (Phase III, douleur post-opératoire)"
       ],
-      "a_surveiller": "Le calendrier de lancement de Weltruza et la manière dont il se traduira dans le chiffre d'affaires, car aucune date de prochains résultats n'est communiquée."
+      "a_surveiller": "Les détails sur le calendrier de lancement de Weltruza et la façon dont les revenus ou redevances pour MedinCell évolueront, ainsi que la tenue du cours après le fort rebond."
     }
   },
   "KLRA": {
@@ -721,27 +721,27 @@
     }
   },
   "TMC": {
-    "sig": "ef69fea08602f4e7",
+    "sig": "fac4c4c7ea5a46fc",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres évoquent une hausse de l'action TMC après un accord avec Allseas, mais ils ne donnent aucun détail concret sur son contenu. Le cours reste pourtant proche de son plus bas sur 52 semaines (2,88 $ contre 2,87 $) et a perdu environ 39 % en 6 mois. L'accord pourrait compter pour l'avancement du projet, mais l'information disponible est trop mince pour conclure.",
+      "resume": "Les titres d'actualité récents ne sont que des pages de cours et de graphiques (TradingView, Yahoo Finance), sans information concrète sur TMC. L'action est à 2,88 USD, tout près de son plus bas sur 52 semaines (2,87), après une baisse de 39 % en 6 mois. Les analystes visent bien plus haut (objectif moyen 10,9 USD), mais cet écart reste une estimation et non une certitude.",
       "points_forts": [
-        "Accord avec Allseas mentionné dans l'actualité",
-        "Objectif moyen des analystes (10,9 $) très supérieur au cours actuel",
-        "Droits d'exploration et commerciaux sur deux zones de nodules dans la Clarion-Clipperton"
+        "Droits d'exploration et commerciaux sur deux zones de nodules polymétalliques dans la Clarion-Clipperton",
+        "Métaux visés (nickel, cobalt, cuivre, manganèse) utilisés dans les véhicules électriques et le stockage d'énergie",
+        "Objectifs des 7 analystes tous nettement au-dessus du cours actuel (10,0 à 12,3 USD)"
       ],
       "risques": [
-        "Cours au plus bas sur 52 semaines, tendance baissière sur 6 mois",
-        "Aucun chiffre d'affaires publié, activité encore au stade d'exploration",
-        "Forte volatilité typique d'une petite société minière sous-marine"
+        "Cours au plus bas annuel et tendance baissière marquée (-39 % en 6 mois)",
+        "Aucun chiffre d'affaires publié : activité encore au stade d'exploration",
+        "Forte volatilité probable pour une petite capitalisation (environ 1,27 Md USD) et écart important entre cours et objectifs d'analystes"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Précisions sur les termes et la portée de l'accord avec Allseas"
+        "Publication des prochains résultats prévue le 2026-11-12",
+        "Toute nouvelle concernant les contrats et les droits d'exploitation dans la zone Clarion-Clipperton (non précisée dans les titres fournis)"
       ],
-      "a_surveiller": "Vérifier le contenu exact de l'accord avec Allseas et si la hausse se confirme ou si le cours retombe sous son plus bas de 52 semaines."
+      "a_surveiller": "Voir si le cours tient autour du plus bas annuel de 2,87 USD et si des informations concrètes sur les contrats ou le financement apparaissent avant les résultats de novembre."
     }
   },
   "ARL": {
