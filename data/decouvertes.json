@@ -28,10 +28,6 @@
       "premiere": "2026-10-13T15:48+02:00",
       "nom": "Fermi Inc."
     },
-    "EXK": {
-      "premiere": "2026-10-13T15:48+02:00",
-      "nom": "Endeavour Silver Corporation"
-    },
     "FUN": {
       "premiere": "2026-10-13T16:46+02:00",
       "nom": "Six Flags Entertainment Corpora"
@@ -39,14 +35,13 @@
     "AGBK": {
       "premiere": "2026-10-13T17:09+02:00",
       "nom": "AGI Inc"
+    },
+    "QDEL": {
+      "premiere": "2026-10-13T17:44+02:00",
+      "nom": "QuidelOrtho Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "EXK",
-      "date": "12/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
     {
       "symbole": "SNDA",
       "date": "12/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "SNDA",
       "date": "13/10/2026",
       "nom": "Sonida Senior Living, Inc."
+    },
+    {
+      "symbole": "EXK",
+      "date": "13/10/2026",
+      "nom": "Endeavour Silver Corporation"
     }
   ]
 }

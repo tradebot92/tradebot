@@ -96,27 +96,27 @@
     }
   },
   "EIKN": {
-    "sig": "4e35002ec1b7eaa9",
+    "sig": "f3489f0f81de5b3b",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 1,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents ne concernent pas Eikon : ce sont des pages de cours d'autres sociétés (OVID, GENB, Moderna, SPRY, Novavax). Aucune information concrète sur Eikon n'en ressort. Le cours reste proche de son plus bas sur 52 semaines, après une baisse d'environ 34 % en 6 mois.",
+      "resume": "Les titres récents ne parlent pas vraiment d'Eikon : ce sont surtout des pages de cours d'autres sociétés de biotechnologie, sans information concrète sur l'entreprise. Le titre est au plus bas sur 52 semaines (6,95 $ contre 6,94 $) et a reculé d'environ 36 % en 6 mois, ce qui montre une forte pression vendeuse.",
       "points_forts": [
-        "Objectif moyen des analystes (24,6 $) très au-dessus du cours actuel (7,14 $)",
-        "Pipeline clinique varié en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)",
-        "Capitalisation d'environ 386 M$, avec 5 analystes qui suivent le titre"
+        "Portefeuille clinique diversifié (TLR 7/8, inhibiteurs PARP1, inhibiteur WRN)",
+        "Objectif moyen des analystes (24,6 $) très supérieur au cours actuel",
+        "Capitalisation d'environ 376 M$ pour une société en phase clinique"
       ],
       "risques": [
-        "Forte volatilité : cours proche du plus bas annuel de 6,94 $",
-        "Très grand écart entre les objectifs analystes (4 à 32 $), signe d'une forte incertitude",
-        "Société encore au stade clinique, sans chiffre d'affaires communiqué"
+        "Cours au plus bas sur 52 semaines, tendance baissière marquée",
+        "Très large dispersion des objectifs d'analystes (4 à 32 $), signe d'une forte incertitude",
+        "Aucun chiffre d'affaires communiqué et dépendance aux résultats d'essais cliniques"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Éventuelles données d'essais cliniques sur le pipeline (aucune date précisée)"
+        "Publication des résultats prévue le 2026-11-12",
+        "Éventuelles données cliniques sur les candidats EIK1001, PARP1 ou WRN (aucune date indiquée)"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas annuel de 6,94 $ et si la société annonce des données cliniques ou des informations sur sa trésorerie."
+      "a_surveiller": "Voir si le cours tient autour de 6,94 $, son plus bas sur 52 semaines, et si l'entreprise communique des données cliniques ou des informations sur sa trésorerie avant les résultats."
     }
   },
   "EXK": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "78d9b33d10d53bf7",
+    "sig": "0a24f62d44d1ef8c",
     "contenu": {
       "points": [
         {
-          "symbole": "GOOG",
-          "pourquoi": "Alphabet publie des résultats trimestriels solides, portés par le cloud, avec un bénéfice en forte hausse (+81 % selon Euronews) et un accord important avec Anthropic.",
-          "a_surveiller": "La nouvelle hausse des prévisions d'investissements peut peser sur les marges et sur le cours à court terme, alors que celui-ci (350,52 USD) reste sous son plus haut annuel de 404,47 USD.",
-          "nom": "Alphabet Inc."
+          "symbole": "MEDCL.PA",
+          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), deuxième traitement de Medincell contre la schizophrénie, et le titre a bondi d'environ 18 % selon la presse.",
+          "a_surveiller": "La capacité du titre à tenir après une telle hausse en une séance, le succès commercial du lancement et l'évolution du chiffre d'affaires, indiqué en baisse.",
+          "nom": "MEDINCELL S.A."
         },
         {
-          "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), un deuxième traitement injectable de la schizophrénie développé avec MedinCell, et le titre a progressé d'environ 18 % selon la presse.",
-          "a_surveiller": "Le titre reste volatil après cette annonce, le chiffre d'affaires est en baisse et l'activité dépend de partenaires et de quelques produits.",
-          "nom": "MEDINCELL S.A."
+          "symbole": "GOOG",
+          "pourquoi": "Alphabet a publié des résultats trimestriels solides portés par le cloud, avec un bénéfice en forte hausse (+81 % selon Euronews) et un accord important avec Anthropic.",
+          "a_surveiller": "L'effet de la nouvelle hausse des prévisions d'investissements sur les marges et sur le cours, qui est de 350,52 USD contre un plus haut annuel de 404,47 USD.",
+          "nom": "Alphabet Inc."
         },
         {
           "symbole": "IREN",
           "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le cours (35,48 $) reste bien sous son plus haut sur 52 semaines (76,87 $), le chiffre d'affaires recule de 26,7 % et les avis d'analystes sont très dispersés.",
+          "a_surveiller": "La forte volatilité du titre, le recul du chiffre d'affaires (-26,7 %) et la dispersion des avis d'analystes, dont l'objectif bas est à 40 $.",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations sont issues de titres de presse et de données partielles, la bourse comporte toujours un risque de perte en capital et les cours peuvent varier fortement dans les deux sens."
+      "prudence": "Ces informations sont issues de titres de presse et de données partielles, les cours peuvent varier fortement et rien ne garantit une évolution favorable."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "b09e1d65a7157737",
+    "sig": "e0deda19e238f951",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement injectable de la schizophrénie développé avec MedinCell. Le titre a fortement progressé (environ +18% selon la presse) après cette annonce. C'est une étape réglementaire importante pour une société dont l'activité dépend de quelques produits.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), deuxième traitement de Medincell contre la schizophrénie, et le titre a bondi d'environ 18 % en Bourse selon la presse. Cette approbation valide la technologie d'injection à libération prolongée de la société et élargit son portefeuille de produits commercialisés, après UZEDY.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
-        "UZEDY déjà commercialisé, ce qui diversifie les produits",
-        "Avis des analystes très favorable (strong_buy, objectif moyen 35,9 € contre 26,9 € de cours)"
+        "Feu vert de la FDA pour un deuxième traitement contre la schizophrénie",
+        "Consensus d'analystes « strong buy » (9 analystes), objectif moyen 35,9 € contre 26,86 € de cours",
+        "Portefeuille en développement avec mdc-CWM en phase III"
       ],
       "risques": [
         "Chiffre d'affaires en baisse (-0,446 selon les données)",
-        "Titre volatil, fortes variations possibles après l'annonce",
-        "Dépendance à des partenaires et à quelques produits"
+        "Titre volatil : forte hausse en une séance, risque de repli",
+        "Succès commercial du lancement encore à prouver"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza et premières ventes",
-        "Avancement des autres programmes, comme mdc-CWM en phase III contre la douleur post-opératoire"
+        "Lancement commercial de Weltruza aux États-Unis",
+        "Avancées de mdc-CWM (phase III contre la douleur post-opératoire)"
       ],
-      "a_surveiller": "Les détails du lancement de Weltruza et la manière dont le cours se stabilise après le bond, sachant que la date des prochains résultats n'est pas connue."
+      "a_surveiller": "Le rythme de lancement de Weltruza et son effet sur les revenus, ainsi que la tenue du cours après ce bond de 18 % (date des prochains résultats non communiquée)."
     }
   },
   "KLRA": {
@@ -865,27 +865,51 @@
     }
   },
   "AGBK": {
-    "sig": "79e598490cad35e3",
+    "sig": "0cd43aebf44dffae",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis portent sur d'autres sociétés (Blackstone, Simulations Plus, Cerebras, Quantinuum, etc.) et ne mentionnent pas AGI Inc. Ils ne donnent donc aucune information concrète sur l'entreprise, hormis un climat général où les introductions en bourse semblent actives.",
+      "resume": "Les titres d'actualité fournis portent sur d'autres sociétés (Blackstone, Altaris, Cerebras, Quantinuum, etc.) et ne mentionnent pas AGI Inc. Il n'y a donc aucune information concrète sur l'entreprise. Le tableau général reste mitigé : un chiffre d'affaires en recul de 15,2 % face à des analystes très optimistes.",
       "points_forts": [
-        "Avis des analystes : strong_buy (11 analystes)",
-        "Objectif moyen 12,62 $, nettement au-dessus du cours de 7,53 $",
-        "Cours bien au-dessus du plus bas sur 52 semaines (5,28 $)"
+        "Avis des analystes « strong buy » (11 analystes)",
+        "Objectif moyen de 12,64 USD, bien au-dessus du cours de 7,49 USD",
+        "Cours nettement au-dessus du plus bas sur 52 semaines (5,28 USD)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-15,2 %)",
-        "Cours bien sous le plus haut sur 52 semaines (12,21 $)",
-        "Exposition au seul marché brésilien et titre potentiellement volatil (capitalisation d'environ 2 Md$)"
+        "Chiffre d'affaires en baisse de 15,2 %",
+        "Cours loin du plus haut sur 52 semaines (12,21 USD), forte volatilité",
+        "Exposition à un seul pays (Brésil), avec les aléas de change et de crédit que cela peut impliquer"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-11",
-        "Évolution des objectifs et des avis des analystes"
+        "Publication des résultats prévue le 11 novembre 2026",
+        "Éventuelles révisions des objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Surveiller si le chiffre d'affaires cesse de reculer lors des prochains résultats, car c'est le point faible face à l'optimisme des analystes."
+      "a_surveiller": "Regarder lors des prochains résultats si la baisse du chiffre d'affaires s'arrête, et si l'optimisme des analystes se confirme dans les chiffres."
+    }
+  },
+  "QDEL": {
+    "sig": "12832bf2447d3d28",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres récents sont des pages génériques de cours et de graphiques (Zonebourse, TradingView, Yahoo Finance), sans information concrète sur QuidelOrtho. Aucune nouvelle précise sur l'entreprise ne ressort donc de cette actualité. L'analyse repose surtout sur les données de marché : le titre à 14,45 USD a reculé de 17,4 % en 6 mois.",
+      "points_forts": [
+        "Chiffre d'affaires en hausse de 2,8 %",
+        "Cours proche de l'objectif moyen des analystes (14,67 USD)",
+        "Activités diversifiées dans le diagnostic (laboratoires, point de soins, moléculaire)"
+      ],
+      "risques": [
+        "Titre très volatil : entre 9,92 et 35,58 USD sur 52 semaines",
+        "Baisse de 17,4 % sur 6 mois",
+        "Peu d'analystes (3) et aucun avis consensuel clair"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 5 novembre 2026",
+        "Éventuelles révisions des objectifs des analystes (12 à 20 USD)"
+      ],
+      "a_surveiller": "Surveiller les résultats du 5 novembre 2026, notamment l'évolution du chiffre d'affaires, et l'amplitude des mouvements du cours, qui reste très volatil."
     }
   }
 }
