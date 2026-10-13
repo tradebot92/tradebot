@@ -624,27 +624,27 @@
     }
   },
   "FIGS": {
-    "sig": "aa62b9b6bb33ca43",
+    "sig": "dc83cd3a3fb5c116",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents parlent de Figma (ticker FIG), une entreprise différente de FIGS, Inc. (FIGS), et n'apportent donc aucune information concrète sur FIGS. Les seules données utiles sont chiffrées : cours à 17,74 USD, proche du plus haut sur 52 semaines (17,979), et croissance du chiffre d'affaires de 28,8 %.",
+      "resume": "Les titres d'actualité récents parlent surtout de Figma (ticker FIG), une autre société, et pas de FIGS (scrubs médicaux) : ils n'apportent aucune information concrète sur FIGS. Les seules données utiles sont chiffrées : le cours (17,74 $) est proche de son plus haut sur 52 semaines, avec une croissance du chiffre d'affaires de 28,8 %.",
       "points_forts": [
         "Croissance du chiffre d'affaires de 28,8 %",
-        "Cours en hausse de 22,2 % sur 6 mois, près du plus haut annuel",
-        "Objectif moyen des analystes (18,625) légèrement au-dessus du cours"
+        "Cours en hausse d'environ 22 % sur 6 mois",
+        "Objectif moyen des analystes (18,6 $) un peu au-dessus du cours"
       ],
       "risques": [
-        "Cours proche du plus haut sur 52 semaines après un fort rebond depuis 6,96",
-        "Peu de marge par rapport à l'objectif moyen, et objectif bas (15,0) sous le cours",
-        "Titre potentiellement très volatil, avec un risque de confusion avec Figma (FIG) dans l'actualité"
+        "Cours très proche du plus haut sur 52 semaines (17,98 $), après un point bas à 6,96 $ : forte volatilité",
+        "Peu de marge théorique face à l'objectif moyen, et objectif bas (15 $) inférieur au cours",
+        "Actualité récente confuse, centrée sur Figma et non sur FIGS"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-05",
-        "Évolution des objectifs et avis des 8 analystes"
+        "Publication des résultats prévue le 5 novembre 2026",
+        "Évolution des objectifs et avis des analystes (8 suivent le titre)"
       ],
-      "a_surveiller": "Vérifier que les informations lues concernent bien FIGS (vêtements médicaux) et non Figma, puis suivre la croissance du chiffre d'affaires lors des prochains résultats."
+      "a_surveiller": "Vérifier que les articles lus concernent bien FIGS (scrubs) et non Figma, puis suivre si le cours dépasse durablement son plus haut annuel avant les résultats de novembre."
     }
   },
   "GOGO": {
