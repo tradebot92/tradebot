@@ -434,27 +434,27 @@
     }
   },
   "MYN": {
-    "sig": "8b4b37ff1924880e",
+    "sig": "bf544a32252d0686",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis sont de simples pages de cours TradingView concernant d'autres valeurs (CION, MYI, PBT, TSLX, VTN) et n'apportent aucune information concrète sur MYN. Le fonds, qui investit dans des obligations municipales de New York, se traite à 8,77 USD, soit environ 8,6 % de moins qu'il y a 6 mois et près de son plus bas sur 52 semaines (8,58).",
+      "resume": "Les titres d'actualité récents ne concernent pas vraiment MYN : ce sont des pages de cours TradingView d'autres fonds ou sociétés (MYI, CION, PBT, VTN, TSLX), sans information concrète sur ce fonds. Le cours (8,78 USD) a reculé d'environ 8,4 % en 6 mois et se situe près de son plus bas sur 52 semaines (8,58 USD).",
       "points_forts": [
-        "Portefeuille d'obligations municipales de qualité (investment grade) exonérées d'impôts fédéraux et new-yorkais",
-        "Gestion assurée par BlackRock, acteur majeur du secteur",
-        "Fonds ancien, créé en 1992"
+        "Fonds géré par BlackRock, obligations municipales de qualité investissement",
+        "Revenus exemptés d'impôts fédéraux et de New York (pour les résidents concernés)",
+        "Croissance du chiffre d'affaires indiquée de 1,545 (donnée à interpréter avec prudence)"
       ],
       "risques": [
         "Cours proche du plus bas annuel, tendance baissière sur 6 mois",
-        "Concentration géographique sur les obligations de l'État et de la ville de New York",
-        "Aucune donnée d'analystes ni de résultats à venir pour éclairer la situation"
+        "Fonds concentré sur les obligations municipales de New York",
+        "Aucun avis d'analyste ni objectif de cours disponible"
       ],
       "catalyseurs": [
-        "Évolution des taux d'intérêt, qui influence la valeur des obligations longues",
-        "Prochaines publications du fonds (distributions, valeur liquidative), dates non précisées dans les données"
+        "Prochaine publication des distributions ou du rapport du fonds (date non communiquée)",
+        "Évolution des taux d'intérêt, qui influence le prix des obligations longues"
       ],
-      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas des 52 semaines (8,58 USD) et l'évolution de l'écart entre le cours et la valeur liquidative du fonds."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas des 52 semaines (8,58 USD) et suivre les prochaines communications du fonds sur ses distributions."
     }
   },
   "AL2SI.PA": {
@@ -674,27 +674,27 @@
     }
   },
   "BMBL": {
-    "sig": "4372a9661a5dc60f",
+    "sig": "3692af57998b05d9",
     "analyse": {
       "sentiment": "neutre",
       "importance": 5,
       "confiance": "moyenne",
-      "resume": "Selon les titres de Zonebourse, Bumble serait rachetée pour 1,3 milliard de dollars et retirée de la cote, ce qui a fait bondir l'action autour de 5,95 $, près de son plus haut sur 52 semaines. Si l'opération se conclut, l'action disparaîtrait de la Bourse : le prix du rachat deviendrait alors le repère principal, plus que les résultats de l'entreprise.",
+      "resume": "Les titres indiquent que Bumble serait racheté pour 1,3 milliard de dollars et retiré de la cote, ce qui explique la forte hausse récente de l'action (cours à 5,95 USD, proche du plus haut sur 52 semaines). Le cours dépasse l'objectif moyen des analystes (3,8 USD), donc il reflète surtout le prix de l'offre et non l'activité de l'entreprise, dont le chiffre d'affaires recule de 15,2 %.",
       "points_forts": [
-        "Le rachat annoncé a fait monter le cours (+45,5 % sur 6 mois)",
-        "Le cours actuel (5,95 $) dépasse l'objectif moyen des analystes (3,8 $)",
-        "Le cours est proche du plus haut sur 52 semaines (5,98 $)"
+        "Rachat annoncé à 1,3 Md$ avec hausse du cours",
+        "Cours à 5,95 USD, au-dessus de l'objectif moyen des analystes",
+        "Marques connues : Bumble, Badoo, Bumble BFF"
       ],
       "risques": [
-        "Les titres ne donnent ni le prix par action ni les conditions précises de l'offre",
-        "Le chiffre d'affaires recule (-15,2 %), ce qui pèse sur les fondamentaux",
-        "Si l'opération échouait, le cours pourrait retomber vers les niveaux d'avant l'annonce (plus bas à 2,44 $)"
+        "Chiffre d'affaires en baisse de 15,2 %",
+        "Retrait de la cote : l'action ne serait plus négociable en Bourse",
+        "Dégradation par Goldman Sachs : visibilité limitée et forte concurrence"
       ],
       "catalyseurs": [
-        "Approbation de l'opération par les actionnaires et les autorités",
-        "Finalisation du rachat et retrait effectif de la cote"
+        "Détails et finalisation de la transaction de rachat",
+        "Résultats prévus le 2026-11-04 (si le titre est encore coté)"
       ],
-      "a_surveiller": "Vérifier le prix d'offre par action, le calendrier de clôture et les conditions de l'opération, puis comparer avec le cours actuel de 5,95 $."
+      "a_surveiller": "Les conditions exactes du rachat (prix par action, calendrier, approbations) et l'écart entre le cours et le prix d'offre, qui indiquerait la confiance du marché dans la réalisation de l'opération."
     }
   },
   "HELE": {
@@ -866,27 +866,27 @@
     }
   },
   "AGBK": {
-    "sig": "ec210b5bf922513b",
+    "sig": "df7977d1152e0b3b",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas concrètement d'AGI Inc : ils concernent d'autres entreprises (Blackstone, Cerebras, SoftBank, etc.) et une simple page de cours sur TradingView. Il n'y a donc pas de nouvelle spécifique à l'entreprise. Le dossier reste dominé par un chiffre d'affaires en recul de 15,2 % et un cours en baisse de 5,5 % sur 6 mois.",
+      "resume": "Les titres d'actualité récents ne parlent pas d'AGI Inc : ils concernent d'autres sociétés (Blackstone, Cerebras, SoftBank, etc.) ou une simple page de cours. Il n'y a donc pas de nouvelle concrète sur l'entreprise. Le dossier repose surtout sur les chiffres : un cours de 7,38 USD, en baisse de 5,5 % sur 6 mois, et un chiffre d'affaires en recul de 15,2 %.",
       "points_forts": [
-        "Avis des analystes « strong buy » (11 analystes)",
-        "Objectif moyen de 12,56 USD, nettement au-dessus du cours de 7,38 USD",
-        "Services appuyés sur le cloud, l'IA et le mobile"
+        "Avis des analystes : strong_buy (11 analystes)",
+        "Objectif moyen de 12,56 USD, au-dessus du cours actuel de 7,38 USD",
+        "Activité fondée sur le numérique (cloud, IA, applications mobiles)"
       ],
       "risques": [
         "Chiffre d'affaires en baisse de 15,2 %",
-        "Forte volatilité : de 5,28 à 12,21 USD sur 52 semaines",
-        "Exposition au seul marché brésilien, petite capitalisation (environ 1,9 Md USD)"
+        "Cours très variable sur 52 semaines (de 5,28 à 12,21 USD)",
+        "Exposition à un seul pays, le Brésil, pour une entreprise de taille moyenne"
       ],
       "catalyseurs": [
-        "Publication des résultats le 11 novembre 2026",
-        "Révision des objectifs ou des avis des analystes"
+        "Publication des résultats prévue le 11 novembre 2026",
+        "Éventuelle révision des objectifs des analystes après ces résultats"
       ],
-      "a_surveiller": "Voir lors des prochains résultats si la baisse du chiffre d'affaires s'arrête et si les analystes maintiennent leurs objectifs élevés."
+      "a_surveiller": "Voir lors des prochains résultats si le recul du chiffre d'affaires se confirme ou s'atténue, et comment les analystes réagissent."
     }
   },
   "QDEL": {
