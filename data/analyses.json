@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "1b3558c9423acfff",
+    "sig": "a62960d976bf6e23",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de MedinCell, et le titre a progressé d'environ 18 % à cette annonce.",
-          "a_surveiller": "La réussite du lancement commercial, la volatilité du titre (entre 19,69 € et 39,68 € sur 52 semaines) et la baisse du chiffre d'affaires.",
+          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), un deuxième traitement injectable contre la schizophrénie issu de la technologie de Medincell, et l'action a gagné environ 18 %.",
+          "a_surveiller": "Les ventes réelles de Weltruza restent à démontrer, et après une hausse aussi brutale, des prises de bénéfices sont possibles alors que le chiffre d'affaires est en baisse.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "GOOG",
           "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 %, un cloud moteur de la croissance et un accord important avec Anthropic.",
-          "a_surveiller": "La nouvelle hausse des prévisions d'investissements, qui peut peser sur la rentabilité future, et la réaction mitigée du marché (cours à environ 13 % sous son plus haut sur 52 semaines).",
+          "a_surveiller": "La nouvelle hausse des prévisions d'investissements peut peser sur la rentabilité future, et la réaction du marché reste partagée, avec un cours à environ 13 % sous son plus haut sur 52 semaines.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "IREN",
           "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le recul du chiffre d'affaires (-26,7 %), la forte volatilité du titre et la grande dispersion des avis d'analystes, avec un objectif bas à 40 $.",
+          "a_surveiller": "Le cours (35,48 $) reste bien sous son plus haut sur 52 semaines, le chiffre d'affaires recule de 26,7 % et les avis des analystes sont très dispersés.",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations sont données à titre indicatif : les cours peuvent fortement varier à la hausse comme à la baisse et une perte en capital reste possible."
+      "prudence": "Ces informations sont données à titre indicatif : les cours peuvent varier fortement à la hausse comme à la baisse et toute décision d'investissement comporte un risque de perte en capital."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "b09e1d65a7157737",
+    "sig": "e0deda19e238f951",
     "analyse": {
       "sentiment": "positif",
       "importance": 5,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de MedinCell. Le titre a bondi d'environ 18 % en Bourse à cette annonce. C'est une étape réglementaire majeure, qui élargit la gamme de produits de l'entreprise après UZEDY.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement injectable contre la schizophrénie issu de la technologie de Medincell. L'action a bondi d'environ 18 % à cette annonce. C'est une étape réglementaire majeure, car elle ouvre la voie à une commercialisation aux États-Unis et diversifie les produits de l'entreprise après UZEDY.",
       "points_forts": [
         "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
-        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,9 € contre 26,58 € de cours)",
-        "Autres produits en développement (mdc-CWM en phase III)"
+        "Consensus d'analystes très favorable (strong_buy, objectif moyen 35,9 € contre 26,58 € de cours)",
+        "Produit UZEDY déjà commercialisé, ce qui valide la technologie"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-0,446 selon les données)",
-        "Forte volatilité du titre (plus bas 19,69 € et plus haut 39,68 € sur 52 semaines)",
-        "Après une hausse rapide, le cours peut reculer ; le lancement commercial reste à réussir"
+        "Chiffre d'affaires en baisse de 0,446 sur la dernière période",
+        "Forte volatilité : hausse brutale de 18 %, avec un risque de prises de bénéfices",
+        "Les ventes réelles de Weltruza restent à démontrer après l'autorisation"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis et premières ventes",
-        "Avancement des essais de phase III de mdc-CWM (douleur post-opératoire)"
+        "Lancement commercial de Weltruza et premiers chiffres de ventes",
+        "Avancement de mdc-CWM (essai de phase III contre la douleur post-opératoire)"
       ],
-      "a_surveiller": "Le rythme du lancement commercial de Weltruza et son effet sur le chiffre d'affaires, ainsi que la tenue du cours après le bond de 18 %."
+      "a_surveiller": "Surveiller le calendrier de lancement de Weltruza, les revenus qui en découleront pour Medincell et la réaction du cours après le bond initial."
     }
   },
   "KLRA": {
@@ -866,27 +866,27 @@
     }
   },
   "AGBK": {
-    "sig": "510f804aa1265016",
+    "sig": "06a292f5b806ddd8",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis ne concernent pas vraiment AGI Inc : ils parlent d'autres entreprises (Blackstone, Cerebras, SoftBank, etc.) ou d'une simple page de cours. Aucune information concrète ne ressort sur AGI, donc rien ne permet de tirer une conclusion à partir de l'actualité. Le dossier repose surtout sur les chiffres : cours de 7.47 USD, en baisse de 4.4 % sur 6 mois, et chiffre d'affaires en recul.",
+      "resume": "Les titres d'actualité récents ne concernent pas directement AGI Inc : ils portent sur d'autres sociétés (Blackstone, Cerebras, SoftBank, etc.) ou sur une simple page de cours. Il n'y a donc aucune information concrète et nouvelle sur l'entreprise elle-même. Le contexte reste celui d'un titre en baisse de 5,1 % sur 6 mois, avec un chiffre d'affaires en recul.",
       "points_forts": [
-        "Avis des analystes strong_buy (11 analystes) avec objectif moyen 12.58 USD, au-dessus du cours actuel",
-        "Cours bien au-dessus du plus bas 52 semaines (5.28 USD)",
-        "Activité appuyée sur des outils numériques (cloud, IA, applications mobiles)"
+        "Avis des analystes : strong_buy (11 analystes)",
+        "Objectif moyen de 12,58 USD, nettement au-dessus du cours de 7,41 USD",
+        "Services financiers numérisés (cloud, IA, mobile) au Brésil"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-15.2 %)",
-        "Cours nettement sous le plus haut 52 semaines (12.21 USD), signe d'une forte volatilité",
-        "Exposition à un seul pays, le Brésil, et à un secteur financier sensible au crédit"
+        "Chiffre d'affaires en baisse (-15,2 %)",
+        "Cours très volatil (52 semaines : de 5,28 à 12,21 USD)",
+        "Exposition à un seul pays, le Brésil, et petite capitalisation (environ 1,9 Md USD)"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 2026-11-11",
-        "Révision éventuelle des objectifs ou avis des analystes après ces résultats"
+        "Publication des résultats prévue le 11 novembre 2026",
+        "Éventuelles révisions des objectifs par les analystes"
       ],
-      "a_surveiller": "Regarder lors des prochains résultats si le chiffre d'affaires cesse de reculer et si l'écart entre le cours et les objectifs des analystes se réduit."
+      "a_surveiller": "Regarder si le chiffre d'affaires cesse de reculer lors des prochains résultats et si l'écart entre le cours et les objectifs des analystes se réduit."
     }
   },
   "QDEL": {
@@ -1006,6 +1006,30 @@
         "Éventuelle annonce du successeur de la directrice des ressources humaines (date de départ : 1er novembre 2026)"
       ],
       "a_surveiller": "Surveiller les résultats du 5 novembre 2026, notamment l'évolution du chiffre d'affaires, et voir si d'autres départs de dirigeants sont annoncés."
+    }
+  },
+  "GTN-A": {
+    "sig": "4a1aefd70e5e6a1d",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 3,
+      "confiance": "faible",
+      "resume": "Gray Media a annoncé une hausse de 75 millions de dollars de son prêt à terme et prévoit de rembourser 150 millions de dollars d'obligations de premier rang, ce qui touche la gestion de sa dette. Un autre titre évoque une mise à jour de ses prévisions de bénéfice pour le trimestre clos le 30 septembre 2026, mais les détails ne sont pas fournis. Le cours a fortement reculé sur 6 mois (-48,7 %), ce qui rend le dossier très volatil.",
+      "points_forts": [
+        "Chiffre d'affaires en croissance de 8,7 %",
+        "Démarche active de refinancement de la dette",
+        "Activité diversifiée (télévisions locales, production, numérique)"
+      ],
+      "risques": [
+        "Cours en forte baisse sur 6 mois, proche du plus bas annuel",
+        "Endettement probablement important pour une petite capitalisation",
+        "Détails des prévisions de bénéfice non précisés dans les titres"
+      ],
+      "catalyseurs": [
+        "Détails et chiffres de la mise à jour des prévisions de bénéfice",
+        "Finalisation du refinancement et remboursement des obligations de 150 M$"
+      ],
+      "a_surveiller": "Surveiller le coût du nouveau financement par rapport aux obligations remboursées, ainsi que le contenu précis des prévisions de bénéfice mises à jour."
     }
   }
 }
