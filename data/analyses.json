@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "61bf86e1cf151fa1",
+    "sig": "3aa4d129e50275b4",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Infleqtion, spécialiste des technologies quantiques à atomes neutres, est entrée en Bourse via un SPAC qui la valorisait à 1,8 milliard de dollars. Les titres récents évoquent un bond de 314 % puis un cours aujourd'hui à 10,12 $, en baisse de 32,5 % sur 6 mois. Les titres restent généraux et ne donnent aucun fait précis sur l'activité ou les comptes, d'où une lecture prudente.",
+      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires sur la forte hausse de l'action (un bond de 314 % évoqué) après l'entrée en Bourse via un SPAC, valorisée à 1,8 milliard de dollars. Aucune information concrète nouvelle n'apparaît dans ces titres. L'action reste très volatile : à 10,07 $, elle a perdu 32,8 % en 6 mois et se situe loin de son plus haut sur 52 semaines (21,28 $).",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 156,5 %",
-        "Objectif moyen des analystes de 21,83 $, nettement au-dessus du cours",
-        "Gamme variée : calcul, capteurs, horloges quantiques"
+        "Croissance du chiffre d'affaires élevée (1,565, soit environ +156 %)",
+        "Objectifs d'analystes (moyen 21,83 $) bien au-dessus du cours actuel",
+        "Positionnement dans l'informatique et les capteurs quantiques"
       ],
       "risques": [
-        "Forte volatilité : plus haut 21,28 $, plus bas 8,52 $ sur 52 semaines",
-        "Valeur issue d'un SPAC, souvent très spéculative",
-        "Secteur quantique sensible à l'engouement du marché"
+        "Forte volatilité (plage 8,52 à 21,28 $ sur 52 semaines)",
+        "Baisse de 32,8 % en 6 mois après un emballement initial",
+        "Société récemment cotée via SPAC, avec peu de recul et une valorisation élevée (≈2,27 Md$)"
       ],
       "catalyseurs": [
-        "Prochains résultats le 12 novembre 2026",
-        "Révisions des objectifs par les 6 analystes"
+        "Publication des prochains résultats le 12 novembre 2026",
+        "Annonces de contrats ou de produits quantiques (capteurs, horloges, calcul)"
       ],
-      "a_surveiller": "Surveiller si la forte croissance du chiffre d'affaires se confirme aux prochains résultats et si le cours se maintient au-dessus du plus bas annuel de 8,52 $."
+      "a_surveiller": "Surveille si la croissance du chiffre d'affaires se confirme aux prochains résultats et l'évolution des pertes, car les objectifs des analystes restent bien supérieurs au cours actuel."
     }
   },
   "EIKN": {
@@ -865,27 +865,27 @@
     }
   },
   "AGBK": {
-    "sig": "0cd43aebf44dffae",
+    "sig": "97bfe2b73381f23a",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis portent sur d'autres sociétés (Blackstone, Altaris, Cerebras, Quantinuum, etc.) et ne mentionnent pas AGI Inc. Il n'y a donc aucune information concrète sur l'entreprise. Le tableau général reste mitigé : un chiffre d'affaires en recul de 15,2 % face à des analystes très optimistes.",
+      "resume": "Les titres d'actualité fournis ne parlent pas d'AGI Inc : ils concernent d'autres sociétés (rachats, introductions en bourse de Quantinuum, Cerebras, Infracore). Ils n'apportent donc aucune information concrète sur l'action. Le suivi repose surtout sur les données de marché : un cours de 7,48 USD, un chiffre d'affaires en baisse de 15,2 % et des analystes très favorables.",
       "points_forts": [
-        "Avis des analystes « strong buy » (11 analystes)",
-        "Objectif moyen de 12,64 USD, bien au-dessus du cours de 7,49 USD",
+        "Avis des analystes : « strong buy » (11 analystes)",
+        "Objectif moyen (12,63 USD) bien au-dessus du cours actuel",
         "Cours nettement au-dessus du plus bas sur 52 semaines (5,28 USD)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse de 15,2 %",
-        "Cours loin du plus haut sur 52 semaines (12,21 USD), forte volatilité",
-        "Exposition à un seul pays (Brésil), avec les aléas de change et de crédit que cela peut impliquer"
+        "Chiffre d'affaires en recul de 15,2 %",
+        "Cours en baisse de 4,2 % sur 6 mois et loin du plus haut annuel (12,21 USD)",
+        "Forte volatilité probable : écart important entre plus haut et plus bas sur 52 semaines"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 11 novembre 2026",
-        "Éventuelles révisions des objectifs de cours par les analystes"
+        "Révisions des objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Regarder lors des prochains résultats si la baisse du chiffre d'affaires s'arrête, et si l'optimisme des analystes se confirme dans les chiffres."
+      "a_surveiller": "Regarder si, lors des prochains résultats, le chiffre d'affaires cesse de reculer, car c'est le principal point de tension face à l'optimisme des analystes."
     }
   },
   "QDEL": {
