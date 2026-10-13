@@ -238,5 +238,20 @@
       -29.5
     ],
     "resume": "Des titres de presse indiquent que Bumble serait racheté pour 1,3 milliard de dollars et retiré de la Bourse. Le cours (5,93 $) est proche de son plus haut sur 52 semaines (5,98 $) et au-dessus de l'objectif moyen des analystes (3,79 $). Si le retrait de la cote se confirme, le titre pourrait cesser d'être négociable et son cours dépendrait surtout des conditions de l'offre."
+  },
+  {
+    "date": "13/10/2026 22:57",
+    "symbole": "BMBL",
+    "sentiment": "neutre",
+    "cours": 5.95,
+    "gain": [
+      14.8,
+      29.6
+    ],
+    "perte": [
+      -14.8,
+      -29.6
+    ],
+    "resume": "Selon les titres de Zonebourse, Bumble serait rachetée pour 1,3 milliard de dollars et retirée de la cote, ce qui a fait bondir l'action autour de 5,95 $, près de son plus haut sur 52 semaines. Si l'opération se conclut, l'action disparaîtrait de la Bourse : le prix du rachat deviendrait alors le repère principal, plus que les résultats de l'entreprise."
   }
 ]

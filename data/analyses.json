@@ -674,27 +674,27 @@
     }
   },
   "BMBL": {
-    "sig": "2f6451a9ecfb5d67",
+    "sig": "4372a9661a5dc60f",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 4,
+      "importance": 5,
       "confiance": "moyenne",
-      "resume": "Un titre de Zonebourse Suisse indique que Bumble serait racheté pour 1,3 milliard de dollars et retiré de la Bourse. Si ce rachat se confirme, le cours (5,95 USD, proche du plus haut annuel de 5,98) dépendrait surtout des conditions de l'offre et non plus de l'activité. Les détails (prix par action, calendrier, approbations) ne figurent pas dans les données fournies.",
+      "resume": "Selon les titres de Zonebourse, Bumble serait rachetée pour 1,3 milliard de dollars et retirée de la cote, ce qui a fait bondir l'action autour de 5,95 $, près de son plus haut sur 52 semaines. Si l'opération se conclut, l'action disparaîtrait de la Bourse : le prix du rachat deviendrait alors le repère principal, plus que les résultats de l'entreprise.",
       "points_forts": [
-        "Cours en hausse de 45,4 % sur 6 mois, proche du plus haut sur 52 semaines",
-        "Rachat annoncé : une sortie de Bourse peut offrir une valorisation claire",
-        "Cours supérieur à l'objectif moyen des analystes (3,8 USD)"
+        "Le rachat annoncé a fait monter le cours (+45,5 % sur 6 mois)",
+        "Le cours actuel (5,95 $) dépasse l'objectif moyen des analystes (3,8 $)",
+        "Le cours est proche du plus haut sur 52 semaines (5,98 $)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-15,2 %)",
-        "Détails de l'opération non confirmés dans les données disponibles",
-        "Cours très au-dessus des objectifs des analystes : écart possible si l'opération échoue"
+        "Les titres ne donnent ni le prix par action ni les conditions précises de l'offre",
+        "Le chiffre d'affaires recule (-15,2 %), ce qui pèse sur les fondamentaux",
+        "Si l'opération échouait, le cours pourrait retomber vers les niveaux d'avant l'annonce (plus bas à 2,44 $)"
       ],
       "catalyseurs": [
-        "Confirmation officielle et détails de l'offre de rachat (prix, calendrier, approbations)",
-        "Résultats prévus le 2026-11-04, si le titre est encore coté"
+        "Approbation de l'opération par les actionnaires et les autorités",
+        "Finalisation du rachat et retrait effectif de la cote"
       ],
-      "a_surveiller": "Les communiqués officiels sur le rachat, en particulier le prix par action proposé comparé au cours actuel, et les étapes avant le retrait de la Bourse."
+      "a_surveiller": "Vérifier le prix d'offre par action, le calendrier de clôture et les conditions de l'opération, puis comparer avec le cours actuel de 5,95 $."
     }
   },
   "HELE": {
@@ -866,27 +866,27 @@
     }
   },
   "AGBK": {
-    "sig": "9cd34c1ef4381d5d",
+    "sig": "ec210b5bf922513b",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne concernent pas directement AGI Inc : ils portent sur des acquisitions d'autres sociétés (Senior plc, Simulations Plus, DigitalBridge) et sur l'introduction en bourse de Cerebras. Aucune information concrète sur l'entreprise elle-même n'en ressort, donc ces nouvelles ont peu d'impact pour suivre AGBK.",
+      "resume": "Les titres récents ne parlent pas concrètement d'AGI Inc : ils concernent d'autres entreprises (Blackstone, Cerebras, SoftBank, etc.) et une simple page de cours sur TradingView. Il n'y a donc pas de nouvelle spécifique à l'entreprise. Le dossier reste dominé par un chiffre d'affaires en recul de 15,2 % et un cours en baisse de 5,5 % sur 6 mois.",
       "points_forts": [
-        "Avis moyen des analystes : strong_buy (11 analystes)",
-        "Objectif moyen de 12,57 USD, nettement au-dessus du cours de 7,38 USD",
-        "Modèle technologique (cloud, automatisation par IA, applications mobiles)"
+        "Avis des analystes « strong buy » (11 analystes)",
+        "Objectif moyen de 12,56 USD, nettement au-dessus du cours de 7,38 USD",
+        "Services appuyés sur le cloud, l'IA et le mobile"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-15,2 %)",
-        "Cours volatil : entre 5,28 et 12,21 USD sur 52 semaines, -5,5 % sur 6 mois",
-        "Activité concentrée sur le Brésil, avec un risque lié à l'environnement local"
+        "Chiffre d'affaires en baisse de 15,2 %",
+        "Forte volatilité : de 5,28 à 12,21 USD sur 52 semaines",
+        "Exposition au seul marché brésilien, petite capitalisation (environ 1,9 Md USD)"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 11 novembre 2026",
-        "Révisions éventuelles des objectifs de cours par les analystes"
+        "Publication des résultats le 11 novembre 2026",
+        "Révision des objectifs ou des avis des analystes"
       ],
-      "a_surveiller": "Surveiller si le chiffre d'affaires cesse de reculer lors des prochains résultats, ainsi que toute annonce propre à l'entreprise, car les titres actuels n'en contiennent aucune."
+      "a_surveiller": "Voir lors des prochains résultats si la baisse du chiffre d'affaires s'arrête et si les analystes maintiennent leurs objectifs élevés."
     }
   },
   "QDEL": {
