@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "8ea6597352c0c9a8",
+    "sig": "c81954db6913c8c9",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Alphabet a publié des résultats trimestriels marqués par un bénéfice en hausse de 81 % et un cloud moteur de la croissance. Le groupe a aussi relevé ses prévisions d'investissements et conclu un accord important avec Anthropic, ce qui a fait monter le titre d'environ 2 %. Certains titres évoquent toutefois une baisse du cours, signe que les dépenses élevées pèsent sur le sentiment.",
+      "resume": "Alphabet a publié des résultats trimestriels portés par le cloud, avec un bénéfice en hausse de 81 % selon la presse. Le groupe a aussi relevé ses prévisions d'investissements et conclu un accord important avec Anthropic, ce qui a fait monter l'action d'environ 2 %. Cela compte car la croissance est forte, mais les dépenses en hausse pèsent sur la rentabilité future.",
       "points_forts": [
-        "Bénéfice en hausse de 81 % et chiffre d'affaires en croissance de 24,2 %",
-        "Cloud moteur des résultats, accord massif avec Anthropic",
-        "Consensus des analystes très favorable (14 analystes, objectif moyen 420,36 USD)"
+        "Croissance du chiffre d'affaires de 24,2 %",
+        "Cloud moteur des résultats et accord massif avec Anthropic",
+        "Objectif moyen des analystes (420 USD) au-dessus du cours, avis strong_buy"
       ],
       "risques": [
-        "Prévisions d'investissements relevées à nouveau, ce qui pèse sur les marges et la rentabilité future",
-        "Cours à environ 14 % sous son plus haut sur 52 semaines (404,47 USD), signe d'une certaine volatilité",
-        "Titre déjà valorisé à plus de 4 200 milliards USD, ce qui laisse peu de marge à la déception"
+        "Prévisions d'investissements relevées à nouveau, donc plus de dépenses",
+        "Cours à 349 USD, environ 14 % sous le plus haut sur 52 semaines (404 USD)",
+        "Un titre cité évoque une chute du cours, signe de volatilité"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 28 octobre 2026",
-        "Nouvelles annonces sur le cloud et les partenariats en intelligence artificielle, comme l'accord avec Anthropic"
+        "Prochains résultats trimestriels prévus le 28 octobre 2026",
+        "Évolution des revenus du cloud et des retombées de l'accord avec Anthropic"
       ],
-      "a_surveiller": "Voir si la croissance du cloud et des revenus continue de justifier la hausse des investissements, et si le cours se maintient au-dessus de l'objectif bas des analystes (340 USD)."
+      "a_surveiller": "Surveille si la hausse des investissements se traduit par une croissance du cloud suffisante, et si le cours reste au-dessus de l'objectif bas des analystes (340 USD)."
     }
   },
   "GLOO": {
@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "8e2bdd0966aac566",
+    "sig": "3aa4d129e50275b4",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires généraux, avec un rappel de l'entrée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et un article évoquant un bond de 314 %. Ils n'apportent pas d'information concrète nouvelle. Le cours (10,38 USD) reste nettement sous son plus haut sur 52 semaines (21,28) et a reculé d'environ 26,5 % en 6 mois, ce qui montre une forte volatilité.",
+      "resume": "Infleqtion, spécialiste de la technologie quantique (atomes neutres), est cotée à la suite d'une fusion avec un SPAC qui la valorisait à 1,8 milliard de dollars. Les titres récents évoquent de fortes variations du cours, dont un bond de 314 %, mais ne donnent aucun détail concret. Le cours (10,38 $) reste nettement sous son plus haut sur 52 semaines (21,28 $) et a perdu 26,5 % en 6 mois.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (1,565 selon les données)",
-        "Objectifs des analystes (19 à 25 USD) supérieurs au cours actuel",
-        "Positionnement dans le quantique : calcul, capteurs, horloges atomiques"
+        "Croissance du chiffre d'affaires de 156,5 %",
+        "Objectif moyen des analystes (21,83 $) bien au-dessus du cours actuel",
+        "Gamme variée : calcul, capteurs, horloges quantiques"
       ],
       "risques": [
-        "Forte volatilité : écart important entre plus haut et plus bas sur 52 semaines",
-        "Valorisation et sentiment dépendant de l'engouement pour le secteur quantique",
-        "Société récemment cotée via un SPAC, avec peu d'historique et pas d'avis d'analystes clair"
+        "Volatilité très forte, typique d'une valeur issue d'un SPAC",
+        "Recul de 26,5 % en 6 mois, cours loin de son plus haut",
+        "Secteur quantique encore jeune, avec des valorisations élevées (capitalisation d'environ 2,3 Md$)"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 12 novembre 2026",
-        "Évolution du sentiment sur les valeurs quantiques comparables (ex. IonQ)"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Évolution des avis et objectifs des analystes (6 couvrent le titre)"
       ],
-      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires se confirme aux prochains résultats et comment le titre évolue entre ses niveaux de 8,52 et 21,28 USD."
+      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires se confirme lors des prochains résultats, et la capacité du cours à se stabiliser après ses fortes variations."
     }
   },
   "EIKN": {
