@@ -72,50 +72,50 @@
     }
   },
   "INFQ": {
-    "sig": "8e2bdd0966aac566",
+    "sig": "3aa4d129e50275b4",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires généraux : on y trouve l'entrée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et un article évoquant un bond de 314 %. Aucune information concrète et nouvelle sur l'activité ou les résultats n'apparaît, mais le titre reste très volatil, à 10,38 USD, loin de son plus haut de 21,28.",
+      "resume": "Les titres récents évoquent l'entrée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et de fortes variations du cours, dont un bond de 314 % mentionné par un analyste sur TradingView. Aucun titre ne donne de fait concret nouveau sur l'activité. Le cours (10,22 USD) reste nettement sous son plus haut sur 52 semaines (21,28) et a perdu 31,9 % en 6 mois, ce qui montre une forte volatilité.",
       "points_forts": [
         "Croissance du chiffre d'affaires très élevée (1,565, soit environ +156 %)",
-        "Objectifs des analystes (19 à 25 USD) nettement au-dessus du cours actuel",
-        "Activité positionnée sur plusieurs technologies quantiques (calcul, capteurs, horloges)"
+        "Objectifs des analystes (19 à 25 USD) au-dessus du cours actuel",
+        "Gamme variée : informatique, capteurs et horloges quantiques"
       ],
       "risques": [
-        "Forte volatilité : -26,5 % sur 6 mois et écart important entre plus haut et plus bas sur 52 semaines",
-        "Entreprise récemment cotée via un SPAC, valorisation élevée pour un secteur encore émergent",
-        "Seulement 6 analystes et aucun avis consensuel clair"
+        "Volatilité extrême, typique d'une jeune société cotée via SPAC",
+        "Baisse de 31,9 % sur 6 mois et cours proche du bas des 52 semaines (8,52)",
+        "Valorisation d'environ 2,3 milliards de dollars sur une technologie encore émergente"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 2026-11-12",
-        "Évolution de l'engouement général pour le secteur quantique (par exemple IonQ, cité dans l'actualité)"
+        "Publication des prochains résultats le 12 novembre 2026",
+        "Évolution des objectifs et avis des 6 analystes qui suivent le titre"
       ],
-      "a_surveiller": "Surveille la trajectoire de la croissance du chiffre d'affaires et le niveau de pertes lors des prochains résultats, ainsi que la tenue du cours près du plus bas annuel de 8,52 USD."
+      "a_surveiller": "Voir si la croissance du chiffre d'affaires se confirme lors des prochains résultats, et si le cours tient au-dessus du plus bas des 52 semaines (8,52 USD)."
     }
   },
   "EIKN": {
-    "sig": "f3489f0f81de5b3b",
+    "sig": "4e35002ec1b7eaa9",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne concernent pas directement Eikon Therapeutics : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, MRNA, SPRY, AGMB). Il n'y a donc pas d'actualité concrète sur EIKN. Le cours (7,26 USD) est proche de son plus bas sur 52 semaines (7,02), après une baisse d'environ 32 % en 6 mois.",
+      "resume": "Les titres récents ne concernent pas directement Eikon Therapeutics : ce sont des pages de cours d'autres sociétés (OVID, GENB, Moderna, SPRY, Novavax). Ils n'apportent aucune information concrète sur EIKN. Le cours est à 6,98 USD, tout près de son plus bas sur 52 semaines (6,96), après une baisse d'environ 36 % en 6 mois.",
       "points_forts": [
-        "Portefeuille de candidats en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)",
-        "Objectif moyen des analystes (24,6 USD) bien supérieur au cours actuel"
+        "Portefeuille clinique varié (immunothérapie, inhibiteurs PARP1, inhibiteur WRN)",
+        "Objectif moyen des analystes (24,6 USD) très au-dessus du cours actuel"
       ],
       "risques": [
-        "Société biopharmaceutique au stade clinique, très volatile",
-        "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
-        "Fortes divergences entre analystes (objectifs de 4,0 à 32,0 USD)"
+        "Cours au plus bas annuel, tendance baissière marquée",
+        "Très grand écart entre les objectifs d'analystes (4 à 32 USD), signe d'une forte incertitude",
+        "Société biotech au stade clinique, sans chiffre d'affaires communiqué, donc très volatile"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 12 novembre 2026",
-        "Toute annonce de données cliniques sur les candidats médicaments (aucune date connue dans les données)"
+        "Éventuelles données cliniques sur EIK1001, EIK1003/1004 ou EIK1005 (aucune date indiquée dans les données)"
       ],
-      "a_surveiller": "Le maintien ou non du cours au-dessus du plus bas de 52 semaines (7,02 USD) et les prochaines annonces officielles de la société sur ses essais cliniques."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas de 52 semaines (6,96 USD) et si des annonces cliniques ou financières propres à Eikon apparaissent."
     }
   },
   "EXK": {
@@ -215,29 +215,29 @@
     }
   },
   "_synthese": {
-    "sig": "1579107119142315",
+    "sig": "1b76b9ee83f58eb7",
     "contenu": {
       "points": [
         {
-          "symbole": "GOOG",
-          "pourquoi": "Alphabet a publié un bénéfice trimestriel en hausse de 81 % porté par le cloud, et a conclu un accord important avec Anthropic, ce qui a soutenu le titre d'environ 2 %.",
-          "a_surveiller": "Le relèvement des prévisions d'investissements pèse sur les marges et la rentabilité future, et la valorisation de plus de 4 200 milliards USD laisse peu de marge à la déception.",
-          "nom": "Alphabet Inc."
-        },
-        {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), deuxième traitement injectable de la schizophrénie issu de la technologie de MedinCell, et le titre a bondi d'environ 18 %.",
-          "a_surveiller": "Le succès commercial de Weltruza dépend de sa mise en marché, et le chiffre d'affaires en recul comme la volatilité de l'action invitent à suivre une possible correction.",
+          "pourquoi": "La FDA américaine a autorisé Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de MedinCell, ce qui a fait bondir le titre d'environ 18 %.",
+          "a_surveiller": "Le titre est volatil après cette forte hausse en une séance, le chiffre d'affaires recule de 0,4 % et le succès commercial du lancement reste incertain.",
           "nom": "MEDINCELL S.A."
         },
         {
+          "symbole": "GOOG",
+          "pourquoi": "Alphabet a publié des résultats portés par le cloud, avec un bénéfice en hausse de 81 % selon la presse, et a conclu un accord important avec Anthropic, ce qui a fait monter l'action d'environ 2 %.",
+          "a_surveiller": "Les prévisions d'investissements relevées pèsent sur la rentabilité future, et le cours de 349 USD reste environ 14 % sous son plus haut sur 52 semaines (404 USD).",
+          "nom": "Alphabet Inc."
+        },
+        {
           "symbole": "IREN",
-          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies (objectif 79 $), mais ces informations restent sommaires et sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le cours de 35,48 $ reste bien sous son plus haut sur 52 semaines (76,87 $), avec un chiffre d'affaires en baisse de 26,7 % et une forte dispersion des avis d'analystes.",
+          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
+          "a_surveiller": "Le cours de 35,48 $ reste bien sous son plus haut sur 52 semaines (76,87 $), le chiffre d'affaires baisse de 26,7 % et les avis des analystes sont très dispersés.",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces éléments sont donnés à titre informatif : les cours peuvent varier fortement à la hausse comme à la baisse et une perte en capital reste possible."
+      "prudence": "Ces informations sont issues de titres de presse et d'indicateurs partiels, les cours peuvent varier fortement et aucun résultat n'est garanti."
     }
   },
   "SVC": {
@@ -337,27 +337,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "e0deda19e238f951",
+    "sig": "b09e1d65a7157737",
     "analyse": {
       "sentiment": "positif",
-      "importance": 5,
+      "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement contre la schizophrénie issu de la technologie de Medincell, après UZEDY. Les titres indiquent que l'action a bondi d'environ 18 % à cette annonce. C'est une étape réglementaire majeure pour une entreprise dont le cours dépend beaucoup de ses produits en développement.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de MedinCell. La nouvelle a fait bondir le titre d'environ 18 % en Bourse. Elle compte car elle valide la technologie de la société et élargit son portefeuille de produits commercialisés.",
       "points_forts": [
         "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
-        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,9 € contre 26,66 € de cours)",
-        "UZEDY déjà commercialisé, ce qui diversifie les produits autorisés"
+        "UZEDY déjà commercialisé, ce qui diversifie l'offre",
+        "Analystes très favorables : avis strong_buy, objectif moyen 35,9 € contre 26,8 € de cours"
       ],
       "risques": [
-        "Chiffre d'affaires en recul (-0,446 selon les données fournies)",
-        "Forte volatilité après un bond de 18 % : le cours peut corriger",
-        "Les données fournies ne détaillent ni le calendrier de lancement ni les revenus attendus de Weltruza"
+        "Chiffre d'affaires en recul (-0,4 %) malgré les avancées",
+        "Titre volatil : forte hausse en une séance, risque de prise de bénéfices",
+        "Succès commercial du lancement encore incertain (concurrence, rythme d'adoption)"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza et premiers retours sur les ventes",
-        "Avancement de mdc-CWM (essais de phase III contre la douleur post-opératoire)"
+        "Lancement commercial de Weltruza aux États-Unis",
+        "Avancées des autres programmes, dont mdc-CWM en phase III"
       ],
-      "a_surveiller": "Surveiller le calendrier de commercialisation de Weltruza et la capacité de Medincell à convertir cette approbation en revenus, car le titre reste volatil après cette forte hausse."
+      "a_surveiller": "Le rythme de déploiement commercial de Weltruza et UZEDY, ainsi que la capacité du cours à tenir après le bond lié à l'annonce, sans date de résultats connue pour l'instant."
     }
   },
   "KLRA": {
@@ -672,27 +672,27 @@
     }
   },
   "BMBL": {
-    "sig": "6cf45ab148af499c",
+    "sig": "00fa5a83f89e90a9",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours (Zonebourse, TradingView) et des articles généraux sur Bumble, sans information concrète nouvelle. Le chiffre d'affaires recule de 15,2 % et le cours (3,8 $) se situe près de l'objectif moyen des analystes (3,79 $), ce qui reflète une opinion partagée.",
+      "resume": "Le titre Bumble est proche de son plus haut sur 52 semaines (5,95 $ contre 5,98 $), avec une hausse d'environ 46 % en 6 mois. Parmi les titres récents, Goldman Sachs dégrade pourtant l'action en citant une visibilité limitée et une forte concurrence. Le cours dépasse par ailleurs l'objectif moyen des analystes (3,79 $) et même leur objectif le plus haut (5,0 $).",
       "points_forts": [
-        "Cours proche de l'objectif moyen des analystes (3,79 $)",
-        "Cours stable sur 6 mois (+0,8 %)",
-        "Plusieurs applications : Bumble, Badoo, Bumble BFF"
+        "Forte remontée du cours sur 6 mois (+45,6 %)",
+        "Cours proche du plus haut sur 52 semaines",
+        "Marque connue avec plusieurs applications (Bumble, Badoo, BFF)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse de 15,2 %",
-        "Forte volatilité : de 2,44 $ à 5,96 $ sur 52 semaines",
-        "Petite capitalisation (environ 582 M$) et avis analystes non tranché"
+        "Chiffre d'affaires en baisse (-15,2 %)",
+        "Cours supérieur à tous les objectifs des analystes",
+        "Dégradation de Goldman Sachs : visibilité limitée et forte concurrence"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 4 novembre 2026",
-        "Révisions des objectifs de cours par les analystes"
+        "Nouvelles révisions d'objectifs ou d'avis par les analystes"
       ],
-      "a_surveiller": "Surveillez si le recul du chiffre d'affaires ralentit lors des prochains résultats, car c'est le point central pour l'évolution du titre."
+      "a_surveiller": "Voir si le chiffre d'affaires cesse de reculer lors des prochains résultats, car le cours se situe déjà au-dessus des objectifs des analystes et que l'action reste très volatile."
     }
   },
   "HELE": {
@@ -765,6 +765,54 @@
         "Annonces de cessions ou d'acquisitions de terrains et de propriétés"
       ],
       "a_surveiller": "Surveiller la date et le contenu des prochains résultats, ainsi que la capacité du titre à rester éloigné de son plus haut de 52 semaines (24,44 USD) ou à le dépasser."
+    }
+  },
+  "FRMI": {
+    "sig": "52d22144022a000e",
+    "analyse": {
+      "sentiment": "negatif",
+      "importance": 3,
+      "confiance": "faible",
+      "resume": "Fermi Inc. développe de grands réseaux électriques privés pour alimenter l'IA et les centres de données. L'action a fortement reculé : environ -31,6 % en 6 mois, à 3,99 $ contre un plus haut annuel de 31,47 $. Parmi les titres récents, un plan d'obligations convertibles de 350 M$ a fait chuter le cours, ce qui montre que l'entreprise dépend du financement externe.",
+      "points_forts": [
+        "Projet ambitieux : réseau privé de 17 GW pour l'IA",
+        "Objectif moyen des analystes (17,1 $) très supérieur au cours actuel",
+        "Thème porteur : forte demande d'énergie pour l'IA"
+      ],
+      "risques": [
+        "Volatilité extrême : cours très éloigné de son plus haut de 52 semaines",
+        "Dilution possible avec les obligations convertibles et besoin de financement",
+        "Aucune croissance du chiffre d'affaires indiquée, et fourchette d'objectifs analystes très large (6 à 35 $)"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Avancement du projet Project Matador et nouvelles opérations de financement"
+      ],
+      "a_surveiller": "Suivre les annonces de financement et leur effet de dilution, ainsi que les signes concrets d'avancement du projet et de premiers revenus."
+    }
+  },
+  "BBAI": {
+    "sig": "e997a43b46101960",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Les titres sont surtout des pages de cotation et de prévisions, sans information concrète. Un article évoque une baisse de l'action un mardi, mais sans détail sur la cause. Le cours est à 2,53 $, proche du plus bas sur 52 semaines (2,28 $), après un recul de 33,2 % en 6 mois.",
+      "points_forts": [
+        "Chiffre d'affaires en hausse de 13,2 %",
+        "Objectif des analystes (4,0 $) nettement au-dessus du cours actuel",
+        "Activité centrée sur l'IA pour la sécurité nationale et la logistique"
+      ],
+      "risques": [
+        "Forte baisse du cours et proximité du plus bas annuel",
+        "Seulement 2 analystes, sans avis clair : visibilité limitée",
+        "Titre de petite capitalisation très volatil"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 27 octobre 2026",
+        "Éventuelles révisions des objectifs par les analystes"
+      ],
+      "a_surveiller": "Voir si le cours se maintient au-dessus du plus bas de 52 semaines (2,28 $) et ce que révèleront les prochains résultats sur la croissance du chiffre d'affaires."
     }
   }
 }

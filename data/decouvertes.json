@@ -12,21 +12,9 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "FIGS": {
-      "premiere": "2026-10-12T17:10+02:00",
-      "nom": "FIGS, Inc."
-    },
     "BMBL": {
       "premiere": "2026-10-12T20:46+02:00",
       "nom": "Bumble Inc."
-    },
-    "BORR": {
-      "premiere": "2026-10-12T21:07+02:00",
-      "nom": "Borr Drilling Limited"
-    },
-    "TMC": {
-      "premiere": "2026-10-12T21:40+02:00",
-      "nom": "TMC the metals company Inc."
     },
     "EIKN": {
       "premiere": "2026-10-12T22:05+02:00",
@@ -36,32 +24,20 @@
       "premiere": "2026-10-12T22:05+02:00",
       "nom": "Beacon Financial Corporation"
     },
-    "ARL": {
-      "premiere": "2026-10-13T15:15+02:00",
-      "nom": "American Realty Investors, Inc."
+    "FRMI": {
+      "premiere": "2026-10-13T15:48+02:00",
+      "nom": "Fermi Inc."
+    },
+    "BBAI": {
+      "premiere": "2026-10-13T15:48+02:00",
+      "nom": "BigBear.ai, Inc."
+    },
+    "EXK": {
+      "premiere": "2026-10-13T15:48+02:00",
+      "nom": "Endeavour Silver Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "BKD",
-      "date": "12/10/2026",
-      "nom": "Brookdale Senior Living Inc."
-    },
-    {
-      "symbole": "ALHC",
-      "date": "12/10/2026",
-      "nom": "Alignment Healthcare, Inc."
-    },
-    {
-      "symbole": "KLRA",
-      "date": "12/10/2026",
-      "nom": "Kailera Therapeutics, Inc."
-    },
-    {
-      "symbole": "DNA",
-      "date": "12/10/2026",
-      "nom": "Ginkgo Bioworks Holdings, Inc."
-    },
     {
       "symbole": "BORR",
       "date": "12/10/2026",
@@ -191,6 +167,26 @@
       "symbole": "EXK",
       "date": "13/10/2026",
       "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "FIGS",
+      "date": "13/10/2026",
+      "nom": "FIGS, Inc."
+    },
+    {
+      "symbole": "BORR",
+      "date": "13/10/2026",
+      "nom": "Borr Drilling Limited"
+    },
+    {
+      "symbole": "TMC",
+      "date": "13/10/2026",
+      "nom": "TMC the metals company Inc."
+    },
+    {
+      "symbole": "ARL",
+      "date": "13/10/2026",
+      "nom": "American Realty Investors, Inc."
     }
   ]
 }
