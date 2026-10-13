@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "3aa4d129e50275b4",
+    "sig": "8e2bdd0966aac566",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Infleqtion, spécialiste de la technologie quantique (atomes neutres), est cotée à la suite d'une fusion avec un SPAC qui la valorisait à 1,8 milliard de dollars. Les titres récents évoquent de fortes variations du cours, dont un bond de 314 %, mais ne donnent aucun détail concret. Le cours (10,38 $) reste nettement sous son plus haut sur 52 semaines (21,28 $) et a perdu 26,5 % en 6 mois.",
+      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires généraux : on y trouve l'entrée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et un article évoquant un bond de 314 %. Aucune information concrète et nouvelle sur l'activité ou les résultats n'apparaît, mais le titre reste très volatil, à 10,38 USD, loin de son plus haut de 21,28.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 156,5 %",
-        "Objectif moyen des analystes (21,83 $) bien au-dessus du cours actuel",
-        "Gamme variée : calcul, capteurs, horloges quantiques"
+        "Croissance du chiffre d'affaires très élevée (1,565, soit environ +156 %)",
+        "Objectifs des analystes (19 à 25 USD) nettement au-dessus du cours actuel",
+        "Activité positionnée sur plusieurs technologies quantiques (calcul, capteurs, horloges)"
       ],
       "risques": [
-        "Volatilité très forte, typique d'une valeur issue d'un SPAC",
-        "Recul de 26,5 % en 6 mois, cours loin de son plus haut",
-        "Secteur quantique encore jeune, avec des valorisations élevées (capitalisation d'environ 2,3 Md$)"
+        "Forte volatilité : -26,5 % sur 6 mois et écart important entre plus haut et plus bas sur 52 semaines",
+        "Entreprise récemment cotée via un SPAC, valorisation élevée pour un secteur encore émergent",
+        "Seulement 6 analystes et aucun avis consensuel clair"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Évolution des avis et objectifs des analystes (6 couvrent le titre)"
+        "Publication des prochains résultats prévue le 2026-11-12",
+        "Évolution de l'engouement général pour le secteur quantique (par exemple IonQ, cité dans l'actualité)"
       ],
-      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires se confirme lors des prochains résultats, et la capacité du cours à se stabiliser après ses fortes variations."
+      "a_surveiller": "Surveille la trajectoire de la croissance du chiffre d'affaires et le niveau de pertes lors des prochains résultats, ainsi que la tenue du cours près du plus bas annuel de 8,52 USD."
     }
   },
   "EIKN": {
@@ -337,27 +337,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "b09e1d65a7157737",
+    "sig": "e0deda19e238f951",
     "analyse": {
       "sentiment": "positif",
-      "importance": 4,
+      "importance": 5,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement injectable de la schizophrénie issu de la technologie de MedinCell. Le titre a bondi d'environ 18 % à la suite de cette annonce. C'est important car cela confirme la technologie de l'entreprise et peut ouvrir de nouvelles sources de revenus, même si l'impact financier reste à voir.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), un deuxième traitement contre la schizophrénie issu de la technologie de Medincell, après UZEDY. Les titres indiquent que l'action a bondi d'environ 18 % à cette annonce. C'est une étape réglementaire majeure pour une entreprise dont le cours dépend beaucoup de ses produits en développement.",
       "points_forts": [
-        "Feu vert FDA pour un deuxième traitement contre la schizophrénie",
-        "Consensus d'analystes très favorable (strong_buy, objectif moyen 35,9 € contre 27,24 € de cours)",
-        "UZEDY déjà commercialisé, ce qui valide la technologie"
+        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
+        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,9 € contre 26,66 € de cours)",
+        "UZEDY déjà commercialisé, ce qui diversifie les produits autorisés"
       ],
       "risques": [
-        "Chiffre d'affaires en recul de 0,446 sur la période indiquée",
-        "Action volatile : la hausse brutale peut se corriger",
-        "Le succès commercial de Weltruza dépend de sa mise en marché, non détaillée dans les données"
+        "Chiffre d'affaires en recul (-0,446 selon les données fournies)",
+        "Forte volatilité après un bond de 18 % : le cours peut corriger",
+        "Les données fournies ne détaillent ni le calendrier de lancement ni les revenus attendus de Weltruza"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis",
-        "Avancement de mdc-CWM (Phase III, douleur post-opératoire)"
+        "Lancement commercial de Weltruza et premiers retours sur les ventes",
+        "Avancement de mdc-CWM (essais de phase III contre la douleur post-opératoire)"
       ],
-      "a_surveiller": "Les détails sur le calendrier de lancement de Weltruza et la façon dont les revenus ou redevances pour MedinCell évolueront, ainsi que la tenue du cours après le fort rebond."
+      "a_surveiller": "Surveiller le calendrier de commercialisation de Weltruza et la capacité de Medincell à convertir cette approbation en revenus, car le titre reste volatil après cette forte hausse."
     }
   },
   "KLRA": {
