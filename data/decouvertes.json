@@ -28,10 +28,6 @@
       "premiere": "2026-10-13T17:09+02:00",
       "nom": "AGI Inc"
     },
-    "VTEX": {
-      "premiere": "2026-10-13T18:44+02:00",
-      "nom": "VTEX"
-    },
     "EVH": {
       "premiere": "2026-10-13T18:44+02:00",
       "nom": "Evolent Health, Inc"
@@ -39,14 +35,13 @@
     "PTLO": {
       "premiere": "2026-10-13T19:07+02:00",
       "nom": "Portillo's Inc."
+    },
+    "SES": {
+      "premiere": "2026-10-13T19:41+02:00",
+      "nom": "SES AI Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "CTNM",
-      "date": "12/10/2026",
-      "nom": "Contineum Therapeutics, Inc."
-    },
     {
       "symbole": "EXK",
       "date": "12/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "SES",
       "date": "13/10/2026",
       "nom": "SES AI Corporation"
+    },
+    {
+      "symbole": "VTEX",
+      "date": "13/10/2026",
+      "nom": "VTEX"
     }
   ]
 }

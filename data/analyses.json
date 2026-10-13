@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "0a24f62d44d1ef8c",
+    "sig": "1b3558c9423acfff",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), deuxième traitement de Medincell contre la schizophrénie, et le titre a bondi d'environ 18 % selon la presse.",
-          "a_surveiller": "La capacité du titre à tenir après une telle hausse en une séance, le succès commercial du lancement et l'évolution du chiffre d'affaires, indiqué en baisse.",
+          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), un deuxième traitement de la schizophrénie issu de la technologie de MedinCell, et le titre a progressé d'environ 18 % à cette annonce.",
+          "a_surveiller": "La réussite du lancement commercial, la volatilité du titre (entre 19,69 € et 39,68 € sur 52 semaines) et la baisse du chiffre d'affaires.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "GOOG",
-          "pourquoi": "Alphabet a publié des résultats trimestriels solides portés par le cloud, avec un bénéfice en forte hausse (+81 % selon Euronews) et un accord important avec Anthropic.",
-          "a_surveiller": "L'effet de la nouvelle hausse des prévisions d'investissements sur les marges et sur le cours, qui est de 350,52 USD contre un plus haut annuel de 404,47 USD.",
+          "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 %, un cloud moteur de la croissance et un accord important avec Anthropic.",
+          "a_surveiller": "La nouvelle hausse des prévisions d'investissements, qui peut peser sur la rentabilité future, et la réaction mitigée du marché (cours à environ 13 % sous son plus haut sur 52 semaines).",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "IREN",
           "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
-          "a_surveiller": "La forte volatilité du titre, le recul du chiffre d'affaires (-26,7 %) et la dispersion des avis d'analystes, dont l'objectif bas est à 40 $.",
+          "a_surveiller": "Le recul du chiffre d'affaires (-26,7 %), la forte volatilité du titre et la grande dispersion des avis d'analystes, avec un objectif bas à 40 $.",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations sont issues de titres de presse et de données partielles, les cours peuvent varier fortement et rien ne garantit une évolution favorable."
+      "prudence": "Ces informations sont données à titre indicatif : les cours peuvent fortement varier à la hausse comme à la baisse et une perte en capital reste possible."
     }
   },
   "SVC": {
@@ -673,27 +673,27 @@
     }
   },
   "BMBL": {
-    "sig": "d138319a9d86e6fe",
+    "sig": "ded72252d684bd80",
     "analyse": {
       "sentiment": "neutre",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Un titre de presse indique que Bumble serait racheté pour 1,3 milliard de dollars et retiré de la Bourse, ce qui changerait fortement la nature de l'investissement. Un autre titre mentionne une dégradation par Goldman Sachs pour visibilité limitée et forte concurrence. Les détails (prix par action, calendrier, conditions) ne figurent pas dans les données fournies, donc il faut les vérifier à la source.",
+      "resume": "Un titre de Zonebourse Suisse indique que Bumble serait racheté pour 1,3 milliard de dollars et retiré de la Bourse. Si cela se confirme, l'action cesserait d'être cotée et son cours serait surtout guidé par le prix de l'offre, pas par les résultats de l'entreprise. Les détails (prix par action, calendrier, conditions) ne figurent pas dans les données fournies.",
       "points_forts": [
-        "Cours en hausse de 45,1 % sur 6 mois, proche du plus haut sur 52 semaines (5,98)",
-        "Un rachat annoncé offrirait une sortie claire aux actionnaires",
-        "Marques connues (Bumble, Badoo, Bumble BFF)"
+        "Une offre de rachat peut offrir une sortie à un prix connu",
+        "Cours en hausse d'environ 45 % sur 6 mois, proche du plus haut annuel (5,98)",
+        "Cours actuel (5,93) au-dessus de l'objectif moyen des analystes (3,79)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse de 15,2 %",
-        "Concurrence forte et visibilité limitée selon Goldman Sachs",
-        "Objectifs des analystes (moyen 3,79) nettement sous le cours de 5,93, et incertitude sur la réalisation du rachat"
+        "Chiffre d'affaires en baisse (-15,2 %)",
+        "Les conditions du rachat sont inconnues et l'opération pourrait ne pas aboutir",
+        "Retrait de la cote : fin de la possibilité de suivre ou d'échanger le titre en Bourse"
       ],
       "catalyseurs": [
-        "Détails et finalisation de l'offre de rachat (accords, approbations, retrait de la cote)",
-        "Publication des résultats prévue le 2026-11-04, si le titre est encore coté"
+        "Confirmation officielle et calendrier de finalisation du rachat (approbations, vote des actionnaires)",
+        "Date de radiation de la cote de l'action"
       ],
-      "a_surveiller": "Le prix exact de l'offre par action comparé au cours actuel de 5,93 USD, et les conditions et délais de clôture de l'opération."
+      "a_surveiller": "Vérifier dans les communiqués officiels le prix par action de l'offre, les conditions de clôture et la date prévue de retrait de la Bourse, car la date de résultats du 2026-11-04 pourrait devenir sans objet."
     }
   },
   "HELE": {
@@ -865,27 +865,27 @@
     }
   },
   "AGBK": {
-    "sig": "e70a76087dd8b8c6",
+    "sig": "f0734f60c7bb27d2",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis portent sur d'autres sociétés (Blackstone, Altaris, Cerebras, Quantinuum, etc.) et ne mentionnent pas AGI Inc. Ils décrivent surtout un marché actif en introductions en bourse et en acquisitions, mais n'apportent aucune information concrète sur AGBK.",
+      "resume": "Les titres d'actualité fournis portent sur d'autres sociétés (Blackstone/Senior plc, Altaris/Simulations Plus, introductions en bourse de Quantinuum, Cerebras et Infracore) et ne mentionnent pas AGI Inc. Ils ne donnent donc aucune information concrète sur l'action. Le suivi repose surtout sur les données de cours, de croissance et sur l'avis des analystes.",
       "points_forts": [
-        "Avis des analystes « strong buy » (11 analystes)",
-        "Objectif moyen (12,60 USD) bien au-dessus du cours de 7,49 USD",
-        "Activité appuyée sur des outils numériques (cloud, IA, mobile)"
+        "Avis analystes strong_buy (11 analystes), objectif moyen 12,60 USD au-dessus du cours de 7,51 USD",
+        "Cours nettement au-dessus du plus bas à 52 semaines (5,28 USD)",
+        "Modèle appuyé sur le numérique, l'automatisation par IA et les applications mobiles"
       ],
       "risques": [
-        "Chiffre d'affaires en recul (-15,2 %)",
-        "Forte volatilité : plage 52 semaines de 5,28 à 12,21 USD",
-        "Exposition au seul marché brésilien, entreprise de taille modeste"
+        "Chiffre d'affaires en baisse (-15,2 %)",
+        "Cours en recul de 3,8 % sur 6 mois et bien sous le plus haut à 52 semaines (12,21 USD)",
+        "Exposition à un seul pays (Brésil) et fourchette d'objectifs large (8,22 à 16,34 USD), signe d'incertitude"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 11 novembre 2026",
-        "Évolution des révisions d'objectifs de cours par les analystes"
+        "Révisions éventuelles des objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Surveillez si le chiffre d'affaires se stabilise lors des prochains résultats, car la baisse actuelle contraste avec l'optimisme des analystes."
+      "a_surveiller": "Regarder si la baisse du chiffre d'affaires se poursuit ou s'inverse lors des prochains résultats, car c'est le point faible principal des données actuelles."
     }
   },
   "QDEL": {
@@ -913,27 +913,26 @@
     }
   },
   "SES": {
-    "sig": "d6ada631a14fc14f",
+    "sig": "4107cf7448789205",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne concernent pas vraiment SES AI : ce sont surtout des pages de cours d'autres sociétés (GOGO, HUCK, AIFC) et un article sur SoftBank. Seule une page de prévisions de cours pour SES en 2027 la mentionne, sans information concrète. Le titre reste donc surtout guidé par ses données de marché, pas par une nouvelle précise.",
+      "resume": "Les titres d'actualité récents ne concernent pas vraiment SES AI : ils portent sur d'autres sociétés (HUCK, AI Financial, Azio AI, SoftBank) ou sur une page générique de prévisions de cours. Aucune information concrète sur l'entreprise ne ressort, donc il n'y a pas de nouvel élément pour changer l'analyse.",
       "points_forts": [
-        "Chiffre d'affaires en hausse de 43,8 %",
-        "Objectif moyen des analystes (2,55 $) bien au-dessus du cours de 0,88 $",
-        "Activité variée : véhicules électriques, drones, robotique, stockage d'énergie"
+        "Chiffre d'affaires en croissance de 43,8 %",
+        "Objectif moyen des analystes (2,55 $) bien au-dessus du cours actuel (0,88 $)"
       ],
       "risques": [
-        "Action très volatile : entre 0,491 $ et 3,73 $ sur 52 semaines",
-        "Baisse de 24,4 % en 6 mois",
-        "Seulement 2 analystes, sans avis consensuel : les objectifs sont peu représentatifs"
+        "Action très volatile : plus bas à 0,491 $ et plus haut à 3,73 $ sur 52 semaines",
+        "Baisse de 24,3 % sur 6 mois",
+        "Très peu d'analystes (2) et aucun avis clair, donc visibilité limitée"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 12 novembre 2026",
-        "Annonces de contrats ou de partenariats avec des constructeurs ou d'autres clients"
+        "Évolution des objectifs de prix et de la couverture par les analystes"
       ],
-      "a_surveiller": "Surveillez les résultats du 12 novembre 2026 : la croissance du chiffre d'affaires se confirme-t-elle, et comment évoluent les dépenses de l'entreprise ?"
+      "a_surveiller": "Attendre une actualité concrète sur SES AI (contrats, production, résultats) et vérifier que les articles parlent bien de cette société, car les titres actuels sont hors sujet."
     }
   },
   "VTEX": {
