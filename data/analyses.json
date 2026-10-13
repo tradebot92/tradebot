@@ -866,27 +866,27 @@
     }
   },
   "AGBK": {
-    "sig": "608cc3b90b828c84",
+    "sig": "9cd34c1ef4381d5d",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne parlent pas d'AGI Inc : ils concernent d'autres sociétés (Blackstone, Cerebras, SoftBank, etc.) ou une simple page de cours. Il n'y a donc aucune information concrète sur l'entreprise elle-même, et le tableau reste celui des données de marché : cours en baisse sur 6 mois, chiffre d'affaires en recul, mais analystes très optimistes.",
+      "resume": "Les titres d'actualité récents ne concernent pas directement AGI Inc : ils portent sur des acquisitions d'autres sociétés (Senior plc, Simulations Plus, DigitalBridge) et sur l'introduction en bourse de Cerebras. Aucune information concrète sur l'entreprise elle-même n'en ressort, donc ces nouvelles ont peu d'impact pour suivre AGBK.",
       "points_forts": [
-        "Avis des analystes « strong_buy » (11 analystes), objectif moyen 12,57 $ contre un cours de 7,4 $",
-        "Activité de services financiers appuyée sur la technologie (logiciels cloud, automatisation par IA, applications mobiles)",
-        "Cours resté nettement au-dessus du plus bas sur 52 semaines (5,28 $)"
+        "Avis moyen des analystes : strong_buy (11 analystes)",
+        "Objectif moyen de 12,57 USD, nettement au-dessus du cours de 7,38 USD",
+        "Modèle technologique (cloud, automatisation par IA, applications mobiles)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse de 15,2 %",
-        "Cours en recul de 5,2 % sur 6 mois et très éloigné du plus haut sur 52 semaines (12,21 $)",
-        "Exposition à un seul pays (Brésil) et forte amplitude de cours, signe d'une action volatile"
+        "Chiffre d'affaires en baisse (-15,2 %)",
+        "Cours volatil : entre 5,28 et 12,21 USD sur 52 semaines, -5,5 % sur 6 mois",
+        "Activité concentrée sur le Brésil, avec un risque lié à l'environnement local"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 11 novembre 2026",
-        "Éventuelles révisions des objectifs de cours par les analystes"
+        "Publication des résultats prévue le 11 novembre 2026",
+        "Révisions éventuelles des objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Surveiller si, lors des prochains résultats, le chiffre d'affaires cesse de reculer, car c'est ce qui déterminera si l'optimisme des analystes se confirme."
+      "a_surveiller": "Surveiller si le chiffre d'affaires cesse de reculer lors des prochains résultats, ainsi que toute annonce propre à l'entreprise, car les titres actuels n'en contiennent aucune."
     }
   },
   "QDEL": {
