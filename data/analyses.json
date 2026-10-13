@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "8e2bdd0966aac566",
+    "sig": "61bf86e1cf151fa1",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires généraux : on y mentionne l'arrivée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et un « bond quantique de 314 % » évoqué sur TradingView. Aucune information concrète nouvelle (résultats, contrat) n'apparaît ; le cours de 10,38 USD reste bien sous son plus haut sur 52 semaines (21,28) et très volatil.",
+      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires généraux, sans information précise sur l'entreprise. Ils rappellent l'entrée en Bourse via un SPAC (valorisation de 1,8 milliard de dollars) et un fort bond évoqué par un auteur sur TradingView. Le cours reste volatil : il est à 10,38 $, soit -26,5 % sur 6 mois et loin du plus haut annuel de 21,28 $.",
       "points_forts": [
-        "Croissance du chiffre d'affaires indiquée à 1,565 (soit +156,5 % si exprimée en ratio)",
-        "Objectifs des analystes (19 à 25 USD) nettement au-dessus du cours actuel",
-        "Activité positionnée sur plusieurs technologies quantiques (calcul, capteurs, horloges)"
+        "Croissance du chiffre d'affaires très élevée (1,565)",
+        "Objectif moyen des analystes (21,83 $) bien au-dessus du cours actuel",
+        "Activité variée dans l'informatique, les capteurs et les horloges quantiques"
       ],
       "risques": [
-        "Forte volatilité : -26,5 % en 6 mois, fourchette 52 sem. de 8,52 à 21,28 USD",
-        "Société récemment cotée via SPAC, historique boursier court",
-        "Secteur quantique très spéculatif, sensible à l'humeur du marché (ex. comparaison avec IonQ)"
+        "Forte volatilité typique d'une petite valeur quantique récemment cotée via SPAC",
+        "Baisse de 26,5 % sur 6 mois et écart important avec le plus haut annuel",
+        "Les objectifs des analystes ne sont pas un avis clair (avis : none) et peuvent changer"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 2026-11-12",
-        "Annonces de contrats ou de produits (capteurs, horloges, calcul quantique)"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Évolution de l'intérêt du marché pour le secteur quantique (par exemple les mouvements de valeurs comme QUBT)"
       ],
-      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires se confirme dans les prochains résultats et l'évolution du cours par rapport au plus bas de 8,52 USD."
+      "a_surveiller": "Surveille la prochaine publication de résultats et la capacité de l'entreprise à transformer sa forte croissance du chiffre d'affaires en résultats solides, sans te fier aux seuls titres de presse."
     }
   },
   "EIKN": {
@@ -673,27 +673,27 @@
     }
   },
   "BMBL": {
-    "sig": "710c05a3448f1fd6",
+    "sig": "c988783c14382da1",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et de consensus d'analystes, sans annonce concrète sur Bumble. Le cours (3,8 USD) se situe près de l'objectif moyen des analystes (3,79 USD), mais le chiffre d'affaires recule de 15,2 %, ce qui reste le point central du dossier.",
+      "resume": "Les titres récents sont surtout des pages de cours et des rappels de l'histoire boursière de Bumble, qui est passée d'environ 14 milliards à environ 1 milliard de dollars de valorisation. Ils n'apportent pas de fait nouveau précis. Le contexte reste celui d'une entreprise dont le chiffre d'affaires recule (-15,2 %) et dont le cours (3,8 $) se situe dans le bas de sa fourchette sur 52 semaines.",
       "points_forts": [
-        "Cours proche de l'objectif moyen des analystes (3,79 USD)",
-        "Marques connues : Bumble, Badoo, Bumble BFF",
-        "Capitalisation modeste (~582 M USD) avec une activité d'abonnements"
+        "Cours proche de l'objectif moyen des analystes (3,79 $)",
+        "Marques connues (Bumble, Badoo, Bumble BFF)",
+        "Cours nettement au-dessus du plus bas sur 52 semaines (2,44 $)"
       ],
       "risques": [
         "Chiffre d'affaires en baisse de 15,2 %",
-        "Forte amplitude sur 52 semaines (2,44 à 5,96 USD)",
-        "Aucun avis d'analystes clair et objectifs très dispersés (3,0 à 5,0 USD)"
+        "Forte volatilité, petite capitalisation (environ 582 M$)",
+        "Aucun avis d'analystes tranché et fourchette d'objectifs large (3 à 5 $)"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 4 novembre 2026",
         "Révisions des objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Surveiller si le recul du chiffre d'affaires ralentit lors des prochains résultats, car c'est ce qui conditionnera la perception du titre, très volatil."
+      "a_surveiller": "Surveillez si la baisse du chiffre d'affaires ralentit lors des prochains résultats, car c'est le point central de la situation actuelle."
     }
   },
   "HELE": {
