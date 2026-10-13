@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "93bec48d6ce5495d",
+    "sig": "7dda8401c4daa941",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les titres indiquent que les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec Medincell. L'action a bondi d'environ 18 % en Bourse après cette annonce. C'est une étape réglementaire importante pour l'entreprise, qui passe d'un projet en développement à un produit commercialisable.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, deuxième traitement de MedinCell contre la schizophrénie, et l'action a bondi d'environ 18 % en Bourse. Cette approbation valide une étape réglementaire clé et élargit la gamme de produits de l'entreprise après UZEDY.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, traitement de la schizophrénie",
-        "Consensus d'analystes très favorable (strong_buy, objectif moyen 35,9 EUR)",
-        "Cours en hausse sur 6 mois (+14,6 %)"
+        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
+        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,91 EUR)",
+        "Pipeline qui continue d'avancer (mdc-CWM en phase III)"
       ],
       "risques": [
-        "Chiffre d'affaires en recul (-0,446 selon les données)",
-        "Forte volatilité après un bond de 18 % en une séance",
-        "Succès commercial du lancement encore à démontrer"
+        "Chiffre d'affaires en baisse (-0,446 selon les données)",
+        "Forte volatilité après un bond de 18 % en une séance, avec risque de repli",
+        "Réussite commerciale du lancement encore incertaine"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis",
-        "Prochains résultats (date non communiquée) et avancement de mdc-CWM en Phase III"
+        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
+        "Avancées cliniques de mdc-CWM (phase III) contre la douleur post-opératoire"
       ],
-      "a_surveiller": "Observer si le cours se stabilise après le bond lié à l'autorisation, ainsi que les informations sur le calendrier de lancement et les revenus attendus."
+      "a_surveiller": "Le calendrier de lancement de Weltruza et la manière dont il se traduira dans le chiffre d'affaires, car aucune date de prochains résultats n'est communiquée."
     }
   },
   "KLRA": {
@@ -625,27 +625,27 @@
     }
   },
   "FIGS": {
-    "sig": "d39ff20e17e641e1",
+    "sig": "dc83cd3a3fb5c116",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne concernent pas vraiment FIGS : ils parlent surtout de Figma (FIG), une autre société, et de pages de cotation génériques. Ils n'apportent donc aucune information concrète sur FIGS. Il faut se fier surtout aux données de marché : le cours est proche de son plus haut sur 52 semaines, avec une croissance du chiffre d'affaires de 28,8 %.",
+      "resume": "Les titres d'actualité récents parlent surtout de Figma (ticker FIG), une autre société, et non de FIGS (scrubwear). Ils ne donnent donc aucune information concrète sur FIGS elle-même. Il faut s'appuyer sur les données de marché : le cours est proche de son plus haut sur 52 semaines, avec une croissance du chiffre d'affaires de 28,8 %.",
       "points_forts": [
         "Croissance du chiffre d'affaires de 28,8 %",
-        "Cours en forte hausse (+22,2 % sur 6 mois), près du plus haut annuel",
-        "Avis moyen des analystes : achat (8 analystes)"
+        "Cours en hausse de 22,2 % sur 6 mois",
+        "Cours proche du plus haut sur 52 semaines (17,98 USD)"
       ],
       "risques": [
-        "Cours déjà proche du plus haut sur 52 semaines (17,98) et au-dessus de l'objectif bas de 15",
-        "Forte volatilité passée : plus bas annuel à 6,96",
-        "Écart limité avec l'objectif moyen (18,625), donc peu de marge selon les analystes"
+        "Cours (17,74) au-dessus de l'objectif bas des analystes (15,0) et proche de leur objectif moyen (18,625)",
+        "Forte volatilité : plus bas à 6,96 USD sur 52 semaines",
+        "Risque de confusion avec Figma (FIG) dans les actualités"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 2026-11-05",
-        "Révisions des objectifs de cours par les analystes"
+        "Révisions des objectifs de cours par les 8 analystes"
       ],
-      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires se maintient lors des prochains résultats et si le cours dépasse durablement son plus haut sur 52 semaines, sans confondre FIGS avec Figma dans les actualités."
+      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires se maintient lors des prochains résultats, et vérifier que les articles lus parlent bien de FIGS et non de Figma."
     }
   },
   "GOGO": {
@@ -673,27 +673,27 @@
     }
   },
   "BMBL": {
-    "sig": "c988783c14382da1",
+    "sig": "6cf45ab148af499c",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et des rappels de l'histoire boursière de Bumble, qui est passée d'environ 14 milliards à environ 1 milliard de dollars de valorisation. Ils n'apportent pas de fait nouveau précis. Le contexte reste celui d'une entreprise dont le chiffre d'affaires recule (-15,2 %) et dont le cours (3,8 $) se situe dans le bas de sa fourchette sur 52 semaines.",
+      "resume": "Les titres récents sont surtout des pages de cours (Zonebourse, TradingView) et des articles généraux sur Bumble, sans information concrète nouvelle. Le chiffre d'affaires recule de 15,2 % et le cours (3,8 $) se situe près de l'objectif moyen des analystes (3,79 $), ce qui reflète une opinion partagée.",
       "points_forts": [
         "Cours proche de l'objectif moyen des analystes (3,79 $)",
-        "Marques connues (Bumble, Badoo, Bumble BFF)",
-        "Cours nettement au-dessus du plus bas sur 52 semaines (2,44 $)"
+        "Cours stable sur 6 mois (+0,8 %)",
+        "Plusieurs applications : Bumble, Badoo, Bumble BFF"
       ],
       "risques": [
         "Chiffre d'affaires en baisse de 15,2 %",
-        "Forte volatilité, petite capitalisation (environ 582 M$)",
-        "Aucun avis d'analystes tranché et fourchette d'objectifs large (3 à 5 $)"
+        "Forte volatilité : de 2,44 $ à 5,96 $ sur 52 semaines",
+        "Petite capitalisation (environ 582 M$) et avis analystes non tranché"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 4 novembre 2026",
         "Révisions des objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Surveillez si la baisse du chiffre d'affaires ralentit lors des prochains résultats, car c'est le point central de la situation actuelle."
+      "a_surveiller": "Surveillez si le recul du chiffre d'affaires ralentit lors des prochains résultats, car c'est le point central pour l'évolution du titre."
     }
   },
   "HELE": {
