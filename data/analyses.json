@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "61bf86e1cf151fa1",
+    "sig": "8e2bdd0966aac566",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Infleqtion, spécialiste des technologies quantiques (calcul, capteurs, horloges atomiques), est cotée depuis peu via un SPAC, avec une valorisation annoncée à 1,8 milliard de dollars. Les titres récents évoquent un bond très fort puis un cours en recul de 26,2 % sur 6 mois, ce qui montre une forte volatilité. Les titres ne donnent aucun détail concret sur les résultats de l'entreprise.",
+      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires généraux : on y mentionne l'arrivée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et un « bond quantique de 314 % » évoqué sur TradingView. Aucune information concrète nouvelle (résultats, contrat) n'apparaît ; le cours de 10,38 USD reste bien sous son plus haut sur 52 semaines (21,28) et très volatil.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 156,5 %",
-        "Objectif moyen des analystes (21,83 $) bien au-dessus du cours (10,42 $)",
-        "Large gamme de produits quantiques (capteurs, horloges, calcul)"
+        "Croissance du chiffre d'affaires indiquée à 1,565 (soit +156,5 % si exprimée en ratio)",
+        "Objectifs des analystes (19 à 25 USD) nettement au-dessus du cours actuel",
+        "Activité positionnée sur plusieurs technologies quantiques (calcul, capteurs, horloges)"
       ],
       "risques": [
-        "Forte volatilité du cours (52 sem. : 8,52 à 21,28 $)",
-        "Cotation récente via SPAC et valorisation élevée (environ 2,3 Md$)",
-        "Secteur quantique spéculatif, sensible à l'actualité des autres valeurs du domaine"
+        "Forte volatilité : -26,5 % en 6 mois, fourchette 52 sem. de 8,52 à 21,28 USD",
+        "Société récemment cotée via SPAC, historique boursier court",
+        "Secteur quantique très spéculatif, sensible à l'humeur du marché (ex. comparaison avec IonQ)"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Évolution de l'engouement du marché pour les valeurs quantiques"
+        "Publication des prochains résultats prévue le 2026-11-12",
+        "Annonces de contrats ou de produits (capteurs, horloges, calcul quantique)"
       ],
-      "a_surveiller": "Voir si la croissance du chiffre d'affaires se confirme lors des prochains résultats et si le cours se stabilise après sa forte baisse depuis le plus haut des 52 semaines."
+      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires se confirme dans les prochains résultats et l'évolution du cours par rapport au plus bas de 8,52 USD."
     }
   },
   "EIKN": {
@@ -742,6 +742,30 @@
         "Toute annonce sur les autorisations ou le calendrier de l'activité d'exploitation"
       ],
       "a_surveiller": "Voir si le cours tient autour du plus bas annuel (2,87 USD) et si de vraies nouvelles de l'entreprise apparaissent, au-delà des simples pages de cotation."
+    }
+  },
+  "ARL": {
+    "sig": "32bb5b8e47f47285",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres d'actualité récents ne parlent pas d'American Realty Investors : ils concernent d'autres sociétés (AGNT, OHI, FRMI) ou des listes d'actions génériques. Il n'y a donc aucune information concrète sur ARL à en tirer. Seules les données de cours donnent un indice : le titre a pris environ 35,7 % en 6 mois et se situe à 19,25 USD, entre son plus bas (12,42) et son plus haut (24,44) sur 52 semaines.",
+      "points_forts": [
+        "Hausse d'environ 35,7 % sur 6 mois",
+        "Croissance du chiffre d'affaires de 9 %",
+        "Activité diversifiée entre résidentiel et commercial"
+      ],
+      "risques": [
+        "Petite capitalisation (environ 311 M USD), potentiellement volatile",
+        "Aucun avis d'analyste ni objectif de cours disponible",
+        "Forte dépendance au marché immobilier du sud des États-Unis"
+      ],
+      "catalyseurs": [
+        "Prochaine publication des résultats (date non communiquée)",
+        "Annonces de cessions ou d'acquisitions de terrains et de propriétés"
+      ],
+      "a_surveiller": "Surveiller la date et le contenu des prochains résultats, ainsi que la capacité du titre à rester éloigné de son plus haut de 52 semaines (24,44 USD) ou à le dépasser."
     }
   }
 }
