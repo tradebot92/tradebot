@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "a8495e06ad6c3da9",
+    "sig": "04bdef4ee60c3620",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, deuxième traitement de la schizophrénie de Medincell, et l'action a bondi d'environ 18 % selon la presse. C'est important car cela confirme l'avancée industrielle de l'entreprise et élargit sa gamme après UZEDY. Un titre aussi volatil peut toutefois corriger rapidement après un tel mouvement.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, deuxième traitement de la schizophrénie de Medincell, et le titre a fortement monté (jusqu'à +18 % selon un titre de presse). C'est une étape réglementaire importante pour une biotech qui dépend de ses traitements injectables à libération prolongée. Le cours reste toutefois sous son plus haut sur 52 semaines (39,68 €).",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza",
-        "Deuxième traitement de la schizophrénie après UZEDY",
-        "Analystes très positifs (strong_buy, objectif moyen 35,9 €)"
+        "Feu vert de la FDA pour Weltruza, 2e traitement contre la schizophrénie",
+        "Avis des analystes strong_buy, objectif moyen 35,91 € contre 26,44 € de cours",
+        "Rupture d'une résistance technique évoquée par la presse"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-0,446)",
-        "Forte volatilité, avec des journées de baisse marquée récentes",
-        "Cours proche du bas de sa fourchette annuelle comparé au plus haut à 39,68 €"
+        "Chiffre d'affaires en baisse de 0,4 % sur la dernière période",
+        "Forte volatilité après un bond de cours, avec un risque de repli",
+        "Le lancement commercial et ses résultats restent à prouver"
       ],
       "catalyseurs": [
         "Lancement commercial de Weltruza aux États-Unis",
-        "Avancée de mdc-CWM (phase III) contre la douleur post-opératoire"
+        "Avancée du programme mdc-CWM, actuellement en phase III, contre la douleur post-opératoire"
       ],
-      "a_surveiller": "Surveille si le cours tient après la hausse de 18 % et comment les revenus évoluent avec le lancement de Weltruza, sachant qu'aucune date de résultats n'est annoncée."
+      "a_surveiller": "Suivez le calendrier de lancement de Weltruza et la capacité du cours à tenir ses niveaux après la hausse, car aucune date de prochains résultats n'est indiquée."
     }
   },
   "KLRA": {
@@ -434,27 +434,26 @@
     }
   },
   "MYN": {
-    "sig": "8b4b37ff1924880e",
+    "sig": "f428ee5f80fdf038",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis ne sont que des pages de cours TradingView, concernant d'autres fonds et sociétés (CION, MYI, PBT, TSLX, VTN), et ne disent rien de concret sur MYN. Le cours (8,78 USD) a reculé de 8,4 % sur 6 mois et se situe près de son plus bas sur 52 semaines (8,58).",
+      "resume": "Les titres d'actualité fournis sont de simples pages de cours TradingView (BBDC, CION, MYI, PBT, TSLX) et ne contiennent aucune information concrète sur MYN. Le fonds, qui investit dans des obligations municipales de New York, cote à 8,78 USD, proche de son plus bas sur 52 semaines (8,58), après une baisse d'environ 8,4 % en 6 mois.",
       "points_forts": [
-        "Fonds investi en obligations municipales de qualité (investment grade)",
-        "Intérêts exonérés d'impôts fédéraux et de New York, selon la description du fonds",
-        "Gestion assurée par BlackRock Advisors"
+        "Fonds géré par BlackRock, investi en obligations municipales de qualité (investment grade)",
+        "Revenus exonérés d'impôt fédéral et de l'État et de la ville de New York, selon la description"
       ],
       "risques": [
-        "Cours proche du plus bas sur 52 semaines",
-        "Tendance baissière sur 6 mois",
-        "Aucun avis d'analyste disponible pour se repérer"
+        "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
+        "Aucun avis d'analystes ni objectif de cours disponible pour éclairer la situation",
+        "Fonds de dette à long terme : valeur potentiellement sensible aux variations des taux d'intérêt"
       ],
       "catalyseurs": [
-        "Aucune date de résultats annoncée",
-        "Évolution des taux d'intérêt, qui influence généralement les fonds obligataires (point général, non issu des données)"
+        "Prochaine publication de résultats ou de rapport du fonds (date non communiquée)",
+        "Évolution des taux d'intérêt, qui influence généralement les fonds obligataires"
       ],
-      "a_surveiller": "Surveiller si le cours passe sous le plus bas de 52 semaines (8,58 USD) et si de vraies informations propres au fonds apparaissent."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas sur 52 semaines (8,58 USD) et l'annonce des prochaines distributions ou du prochain rapport du fonds."
     }
   },
   "AL2SI.PA": {
