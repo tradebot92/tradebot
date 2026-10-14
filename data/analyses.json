@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "787b0fbaa3308c3c",
+    "sig": "04bdef4ee60c3620",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, le deuxième traitement de la schizophrénie de Medincell, et l'action a bondi d'environ 18 % à cette annonce. C'est important car cela confirme que la technologie de l'entreprise peut déboucher sur des produits commercialisés, après UZEDY. Le cours de 26,46 € reste toutefois sous le plus haut sur 52 semaines (39,68 €), et la société est très volatile.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie de MedinCell, son deuxième produit dans cette maladie après UZEDY. L'annonce a fait bondir l'action d'environ 18 % selon la presse. Cela compte car cela valide la technologie de l'entreprise et peut ouvrir de nouvelles sources de revenus.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, 2e traitement contre la schizophrénie",
+        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
         "Consensus des analystes très favorable (strong_buy, objectif moyen ~35,9 €)",
-        "Pipeline élargi, avec notamment mdc-CWM en phase III"
+        "Cours au-dessus de son niveau d'il y a 6 mois (+11 %)"
       ],
       "risques": [
-        "Chiffre d'affaires en recul (-0,446 selon les données)",
-        "Forte volatilité : les hausses brutales peuvent s'inverser",
-        "Dépendance à la réussite commerciale des produits et aux essais cliniques en cours"
+        "Chiffre d'affaires en baisse (-0,446 sur la période indiquée)",
+        "Forte volatilité après l'annonce, avec un risque de repli si l'enthousiasme retombe",
+        "Les données fournies ne précisent ni le calendrier de commercialisation ni les revenus attendus"
       ],
       "catalyseurs": [
         "Lancement commercial et premières ventes de Weltruza",
-        "Avancées des essais cliniques, notamment mdc-CWM en phase III"
+        "Avancée des essais cliniques de mdc-CWM (Phase III, douleur post-opératoire)"
       ],
-      "a_surveiller": "Surveiller si le cours franchit durablement la résistance autour de 28,52 € et comment le marché réagit au calendrier de lancement de Weltruza, aucune date de résultats n'étant annoncée."
+      "a_surveiller": "Surveiller comment le marché digère la hausse brutale et si le chiffre d'affaires reprend grâce à ce nouveau produit, sachant que la date des prochains résultats n'est pas connue."
     }
   },
   "KLRA": {
@@ -674,27 +674,27 @@
     }
   },
   "BMBL": {
-    "sig": "4372a9661a5dc60f",
+    "sig": "80cd60d8c4ae7707",
     "analyse": {
       "sentiment": "neutre",
       "importance": 5,
       "confiance": "moyenne",
-      "resume": "Les titres indiquent que Bumble serait racheté pour 1,3 milliard de dollars et retiré de la cote, ce qui a fait s'envoler l'action. Le cours (5,95 $) est proche du plus haut sur 52 semaines (5,98 $) et au-dessus de l'objectif moyen des analystes (3,8 $), ce qui suggère que le prix reflète surtout les conditions de l'opération. Pour un actionnaire, l'enjeu devient le prix et le calendrier de la transaction plutôt que l'activité elle-même.",
+      "resume": "Les titres indiquent que Bumble va être rachetée pour 1,3 milliard de dollars et retirée de la Bourse, ce qui a fait bondir l'action. Le cours (5,95 USD) est proche de son plus haut sur 52 semaines (5,98) et au-dessus de l'objectif moyen des analystes (3,8). Si l'opération se conclut, l'action ne sera plus cotée : le suivi porte alors surtout sur les conditions du rachat.",
       "points_forts": [
-        "Rachat annoncé à 1,3 Md$ avec un fort bond du cours",
-        "Cours proche du plus haut sur 52 semaines, +45,5 % en 6 mois",
-        "Offre de sortie après un chiffre d'affaires en baisse"
+        "Rachat annoncé à 1,3 milliard de dollars, l'action s'envole",
+        "Cours à 5,95 USD, proche du plus haut sur 52 semaines",
+        "Hausse d'environ 45,5 % sur 6 mois"
       ],
       "risques": [
-        "Chiffre d'affaires en recul de 15,2 %",
-        "Le cours dépasse les objectifs des analystes : l'opération pourrait ne pas aboutir",
-        "Retrait de la cote : fin de la possibilité de profiter d'une hausse future du titre"
+        "Chiffre d'affaires en baisse (-15,2 %)",
+        "Cours au-dessus de l'objectif moyen des analystes (3,8 USD), donc éventuel recul si l'opération échoue",
+        "Retrait de la cote : fin de la possibilité de suivre l'action en Bourse"
       ],
       "catalyseurs": [
-        "Détails et conditions de l'offre de rachat (prix par action, calendrier, approbations)",
-        "Prochains résultats prévus le 2026-11-04, si le titre est encore coté"
+        "Finalisation ou approbation de l'opération de rachat et du retrait de la cote",
+        "Résultats prévus le 2026-11-04 (si l'action est encore cotée)"
       ],
-      "a_surveiller": "Le prix par action de l'offre comparé au cours actuel, ainsi que le calendrier et les approbations nécessaires à la finalisation du rachat."
+      "a_surveiller": "Le prix et les conditions exacts du rachat, le calendrier de clôture et l'écart entre le cours et le prix offert, car les titres fournis ne donnent pas ces détails."
     }
   },
   "HELE": {
