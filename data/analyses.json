@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "787b0fbaa3308c3c",
+    "sig": "a8495e06ad6c3da9",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, deuxième traitement de la schizophrénie issu de la technologie de Medincell, et le titre a bondi d'environ 18 % selon la presse. Cette autorisation diversifie les produits commercialisés (après UZEDY) et renforce la crédibilité industrielle de l'entreprise. Le titre reste toutefois volatil et le chiffre d'affaires est en recul.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, un deuxième traitement de la schizophrénie de Medincell, et le titre a bondi d'environ 18 % en Bourse selon la presse. C'est important car cela renforce la gamme de produits commercialisables de l'entreprise après UZEDY. Un titre peut toutefois être volatil : une journée en forte baisse a aussi été signalée récemment.",
       "points_forts": [
         "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
-        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,91 € contre 26,46 € de cours)",
-        "Portefeuille de produits en développement (mdc-CWM en phase III)"
+        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,9 € vs cours 26,3 €)",
+        "Produit déjà commercialisé (UZEDY) et pipeline avancé (mdc-CWM en phase III)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-0,446 selon les données fournies)",
-        "Forte volatilité après un bond de 18 %, risque de repli",
-        "Résistance technique autour de 28,52 € évoquée par la presse"
+        "Chiffre d'affaires en recul (-0,446 selon les données)",
+        "Forte volatilité du titre, avec de fortes hausses et baisses récentes",
+        "Cours encore éloigné du plus haut sur 52 semaines (39,68 €)"
       ],
       "catalyseurs": [
-        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
-        "Avancement des essais cliniques de phase III de mdc-CWM"
+        "Lancement commercial et premières ventes de Weltruza",
+        "Avancement des essais cliniques de mdc-CWM (phase III)"
       ],
-      "a_surveiller": "La capacité de Medincell à transformer cette autorisation en revenus concrets, ainsi que la tenue du cours au-dessus de la zone de résistance de 28,52 €, sachant qu'aucune date de prochains résultats n'est communiquée."
+      "a_surveiller": "Surveillez la suite donnée à l'autorisation de Weltruza (calendrier de commercialisation) et si le titre garde ses gains après un mouvement aussi brusque."
     }
   },
   "KLRA": {
@@ -577,27 +577,27 @@
     }
   },
   "BBT": {
-    "sig": "95019cf2fa42f19d",
+    "sig": "a39f618d7d22f06c",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Le seul élément concret dans l'actualité est que RBC Capital Markets maintient sa recommandation neutre sur Beacon Financial. Les autres titres concernent d'autres sociétés (Solidion, Banc of California, JPMorgan) et n'apportent rien de précis sur BBT. L'action recule d'environ 13,6 % sur 6 mois et se situe dans la moitié basse de sa fourchette sur 52 semaines.",
+      "resume": "Le seul titre vraiment lié à Beacon Financial est le maintien de la recommandation « neutre » par RBC Capital Markets, ce qui ne change pas grand-chose en soi. Les autres titres concernent d'autres sociétés ou de simples pages de cours, sans information concrète sur l'entreprise. L'action recule d'environ 12 % sur 6 mois, alors que les analystes restent globalement positifs.",
       "points_forts": [
-        "Objectif moyen des analystes (34 USD) nettement au-dessus du cours actuel (26,73 USD)",
-        "Avis global « buy » parmi 6 analystes",
-        "Croissance du chiffre d'affaires indiquée à 1,445 (donnée à interpréter avec prudence)"
+        "Objectif moyen des analystes (34 USD) nettement au-dessus du cours actuel (27,1 USD)",
+        "Avis global « buy » sur 6 analystes",
+        "Croissance du chiffre d'affaires affichée à 1,445 (donnée à interpréter avec prudence)"
       ],
       "risques": [
-        "Tendance baissière sur 6 mois (-13,6 %)",
-        "RBC reste neutre, ce qui nuance l'optimisme des autres analystes",
-        "Secteur des banques régionales américaines sensible aux taux et au crédit"
+        "Baisse de 12,4 % sur 6 mois, cours loin du plus haut annuel (32,83 USD)",
+        "Avis divergents : RBC reste neutre face au consensus favorable",
+        "Secteur des banques régionales américaines sensible à l'environnement économique et aux taux"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 21 octobre 2026",
-        "Nouvelles révisions de recommandations ou d'objectifs de cours par les analystes"
+        "Éventuelles révisions des recommandations ou objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas à 22,81 USD et ce que diront les résultats du 21 octobre 2026 sur la rentabilité et la qualité des prêts."
+      "a_surveiller": "Surveiller si le cours reste au-dessus du plus bas annuel (22,81 USD) et ce que diront les prochains résultats sur la dynamique de l'activité."
     }
   },
   "FOIL": {
@@ -673,27 +673,27 @@
     }
   },
   "BMBL": {
-    "sig": "e6f4d977c4f28927",
+    "sig": "9d71b797dfef1c09",
     "analyse": {
       "sentiment": "neutre",
       "importance": 5,
       "confiance": "moyenne",
-      "resume": "Les titres indiquent que Bumble va être retirée de la cote dans le cadre d'un rachat de 1,3 milliard de dollars, ce qui a fait bondir l'action près de 5,95 USD, proche du plus haut sur 52 semaines. Cela compte beaucoup : si l'opération se conclut, le titre ne sera plus coté et son cours dépendra surtout du prix de rachat, plus que de l'activité de l'entreprise.",
+      "resume": "Les titres indiquent que Bumble va être rachetée pour 1,3 milliard de dollars et retirée de la cote, ce qui a fait bondir l'action. Le cours (5,93 USD) est proche de la fourchette haute des objectifs d'analystes (6,05) et du plus haut sur 52 semaines (5,98), ce qui laisse penser que le marché a déjà largement intégré le prix de l'offre. Pour un actionnaire, l'enjeu devient surtout les conditions et le calendrier de l'opération, plus que les résultats de l'entreprise.",
       "points_forts": [
-        "Hausse de 38,1 % sur 6 mois, cours proche du plus haut sur 52 semaines",
-        "Rachat annoncé à 1,3 milliard de dollars, valorisation de marché d'environ 0,9 milliard",
-        "Cours actuel supérieur à l'objectif moyen des analystes (4,05 USD)"
+        "Rachat annoncé : le cours a fortement progressé (+37,6 % sur 6 mois)",
+        "Cours proche de l'objectif haut des analystes (6,05)",
+        "Valorisation de 1,3 milliard de dollars selon les titres"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse de 15,2 %",
-        "Les détails du prix par action et les conditions de l'opération ne figurent pas dans les titres",
-        "Une fois la sortie de cote réalisée, il ne sera plus possible de suivre ou d'échanger l'action"
+        "Chiffre d'affaires en baisse de 15,2 % sur un an",
+        "Les détails de l'offre (prix par action, conditions) ne figurent pas dans les données fournies",
+        "Le retrait de la cote mettrait fin à la négociation du titre en Bourse"
       ],
       "catalyseurs": [
-        "Approbations et finalisation de l'opération de rachat",
-        "Date de retrait de la cote (non précisée dans les données)"
+        "Approbations réglementaires et vote des actionnaires sur l'opération",
+        "Date de clôture de la transaction et de retrait de la cote"
       ],
-      "a_surveiller": "Le prix de rachat par action comparé au cours actuel, ainsi que le calendrier et les conditions de clôture de l'opération."
+      "a_surveiller": "Le prix par action de l'offre, les conditions de réalisation et l'écart entre ce prix et le cours actuel, qui reflète la confiance du marché dans la conclusion de l'opération."
     }
   },
   "HELE": {
@@ -1104,27 +1104,27 @@
     }
   },
   "ALMR": {
-    "sig": "8ce31395af87cb15",
+    "sig": "0ac90a31e30d8c69",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Le seul titre lié à Alamar Biosciences annonce des changements au sein de sa direction, sans qu'on sache lesquels ni pourquoi. Les autres titres concernent d'autres sociétés et n'apportent rien sur ALMR. Un changement de dirigeants peut compter pour une jeune société cotée, mais les détails manquent pour en juger l'effet.",
+      "resume": "Alamar Biosciences (protéomique, technologie NULISA) a annoncé des changements au sein de sa direction, sans que les titres ne donnent de détails sur les personnes concernées ou les raisons. Les autres titres cités concernent d'autres sociétés et n'apportent rien de concret sur Alamar. L'effet sur le cours reste donc difficile à évaluer.",
       "points_forts": [
-        "Chiffre d'affaires en forte hausse (+82 %)",
-        "Objectif moyen des analystes (35,4 $) au-dessus du cours actuel (25,51 $)",
-        "Technologie NULISA de protéomique à haute sensibilité"
+        "Chiffre d'affaires en forte croissance (+82,1 %)",
+        "Objectif moyen des analystes (35,4 USD) supérieur au cours actuel (25,59 USD)",
+        "Cours en hausse de 16,3 % sur 6 mois"
       ],
       "risques": [
-        "Changements de direction dont la nature n'est pas précisée",
-        "Action volatile, entre 18,85 $ et 39,61 $ sur 52 semaines",
-        "Petite entreprise du secteur des instruments médicaux, avec peu d'analystes (5) et aucun avis consensuel clair"
+        "Changements de direction dont le contexte n'est pas précisé",
+        "Cours encore nettement sous son plus haut sur 52 semaines (39,61 USD), signe de forte volatilité",
+        "Petite capitalisation (environ 1,8 milliard USD) dans un secteur sensible aux financements et à la recherche"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 3 novembre 2026",
+        "Publication des prochains résultats prévue le 2026-11-03",
         "Précisions de l'entreprise sur les nouveaux dirigeants et leur rôle"
       ],
-      "a_surveiller": "Lire le communiqué de l'entreprise pour savoir qui part ou arrive à la direction, puis voir si la croissance du chiffre d'affaires se maintient aux prochains résultats."
+      "a_surveiller": "Surveiller les détails de l'annonce sur la direction (qui part, qui arrive, pourquoi) et la réaction du cours dans les jours suivants."
     }
   },
   "NRG.PA": {

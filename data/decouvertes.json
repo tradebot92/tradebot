@@ -20,10 +20,6 @@
       "premiere": "2026-10-14T11:58+02:00",
       "nom": "EUTELSAT COMMUNIC."
     },
-    "GTN-A": {
-      "premiere": "2026-10-14T15:58+02:00",
-      "nom": "Gray Media, Inc."
-    },
     "EIKN": {
       "premiere": "2026-10-14T15:58+02:00",
       "nom": "Eikon Therapeutics, Inc."
@@ -42,11 +38,6 @@
     }
   },
   "sorties": [
-    {
-      "symbole": "ARL",
-      "date": "13/10/2026",
-      "nom": "American Realty Investors, Inc."
-    },
     {
       "symbole": "EXK",
       "date": "13/10/2026",
@@ -191,6 +182,11 @@
       "symbole": "EXK",
       "date": "14/10/2026",
       "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "GTN-A",
+      "date": "14/10/2026",
+      "nom": "Gray Media, Inc."
     }
   ]
 }
