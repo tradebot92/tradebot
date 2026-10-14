@@ -16,57 +16,32 @@
       "premiere": "2026-10-12T20:46+02:00",
       "nom": "Bumble Inc."
     },
-    "FRMI": {
-      "premiere": "2026-10-13T15:48+02:00",
-      "nom": "Fermi Inc."
-    },
-    "FUN": {
-      "premiere": "2026-10-13T16:46+02:00",
-      "nom": "Six Flags Entertainment Corpora"
-    },
-    "AGBK": {
-      "premiere": "2026-10-13T17:09+02:00",
-      "nom": "AGI Inc"
-    },
-    "SES": {
-      "premiere": "2026-10-13T19:41+02:00",
-      "nom": "SES AI Corporation"
-    },
-    "BORR": {
-      "premiere": "2026-10-13T21:54+02:00",
-      "nom": "Borr Drilling Limited"
-    },
     "ETL.PA": {
       "premiere": "2026-10-14T11:58+02:00",
       "nom": "EUTELSAT COMMUNIC."
+    },
+    "EVO": {
+      "premiere": "2026-10-14T15:58+02:00",
+      "nom": "Evotec SE"
+    },
+    "GTN-A": {
+      "premiere": "2026-10-14T15:58+02:00",
+      "nom": "Gray Media, Inc."
+    },
+    "AADX": {
+      "premiere": "2026-10-14T15:58+02:00",
+      "nom": "Applied Aerospace & Defense, In"
+    },
+    "EIKN": {
+      "premiere": "2026-10-14T15:58+02:00",
+      "nom": "Eikon Therapeutics, Inc."
+    },
+    "BBT": {
+      "premiere": "2026-10-14T15:58+02:00",
+      "nom": "Beacon Financial Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "EXK",
-      "date": "12/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
-    {
-      "symbole": "EIKN",
-      "date": "12/10/2026",
-      "nom": "Eikon Therapeutics, Inc."
-    },
-    {
-      "symbole": "BBT",
-      "date": "12/10/2026",
-      "nom": "Beacon Financial Corporation"
-    },
-    {
-      "symbole": "ALHC",
-      "date": "12/10/2026",
-      "nom": "Alignment Healthcare, Inc."
-    },
-    {
-      "symbole": "TRAX",
-      "date": "12/10/2026",
-      "nom": "First Tracks Biotherapeutics, I"
-    },
     {
       "symbole": "HELE",
       "date": "12/10/2026",
@@ -191,6 +166,31 @@
       "symbole": "EVH",
       "date": "14/10/2026",
       "nom": "Evolent Health, Inc"
+    },
+    {
+      "symbole": "FRMI",
+      "date": "14/10/2026",
+      "nom": "Fermi Inc."
+    },
+    {
+      "symbole": "FUN",
+      "date": "14/10/2026",
+      "nom": "Six Flags Entertainment Corpora"
+    },
+    {
+      "symbole": "AGBK",
+      "date": "14/10/2026",
+      "nom": "AGI Inc"
+    },
+    {
+      "symbole": "SES",
+      "date": "14/10/2026",
+      "nom": "SES AI Corporation"
+    },
+    {
+      "symbole": "BORR",
+      "date": "14/10/2026",
+      "nom": "Borr Drilling Limited"
     }
   ]
 }

@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "2107ff92afbf8b2f",
+    "sig": "956c168a3078749b",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les actualités récentes portent sur des résultats trimestriels solides d'Alphabet, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance. Un accord important avec Anthropic a aussi été annoncé, mais le groupe relève de nouveau ses prévisions d'investissements, ce qui peut peser sur la rentabilité future. Un titre évoque une chute du cours, signe que la réaction du marché reste partagée.",
+      "resume": "Les titres récents évoquent des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de croissance. Alphabet a aussi relevé ses prévisions d'investissements et annoncé un accord important avec Anthropic. Cela compte car cela montre une forte dynamique, mais aussi des dépenses plus lourdes, et un titre XTB mentionne une chute du cours après les résultats.",
       "points_forts": [
         "Bénéfice en hausse de 81 % et chiffre d'affaires en croissance de 24,2 %",
         "Cloud cité comme moteur des résultats",
-        "Avis des analystes strong_buy, objectif moyen 420,36 USD"
+        "Avis des analystes très favorable (strong_buy, objectif moyen 420 USD)"
       ],
       "risques": [
-        "Hausse répétée des prévisions d'investissements",
-        "Cours (351,14 USD) à environ 13 % sous le plus haut sur 52 semaines (404,47 USD)",
-        "Réaction boursière mitigée aux résultats"
+        "Prévisions d'investissements relevées à nouveau, ce qui pèse sur les coûts",
+        "Réaction du cours parfois volatile après les résultats",
+        "Cours déjà proche du haut de sa fourchette sur 52 semaines, avec une capitalisation très élevée"
       ],
       "catalyseurs": [
         "Prochains résultats trimestriels le 28 octobre 2026",
-        "Évolution de l'accord avec Anthropic et de l'activité cloud"
+        "Évolution de l'accord avec Anthropic et de la croissance du cloud"
       ],
-      "a_surveiller": "Surveiller si la hausse des investissements reste compensée par la croissance du cloud et des revenus lors des prochains résultats."
+      "a_surveiller": "Surveillez si la hausse des investissements s'accompagne d'une croissance durable du cloud, et comment le cours évolue par rapport au plus haut de 404,47 USD."
     }
   },
   "GLOO": {
@@ -96,27 +96,27 @@
     }
   },
   "EIKN": {
-    "sig": "f3489f0f81de5b3b",
+    "sig": "d3b03757b4ef8397",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas vraiment d'Eikon : ce sont surtout des pages de cours d'autres sociétés de biotechnologie, sans information concrète sur l'entreprise. Le titre est au plus bas sur 52 semaines (6,95 $ contre 6,94 $) et a reculé d'environ 36 % en 6 mois, ce qui montre une forte pression vendeuse.",
+      "resume": "Les titres récents ne parlent pas directement d'Eikon : ce sont des pages de cours d'autres sociétés biotech (AUTL, GENB, MRNA, SPRY, AGMB). Ils n'apportent donc aucune information concrète sur Eikon. Le titre a perdu environ 40 % en 6 mois et se trouve près de son plus bas sur 52 semaines.",
       "points_forts": [
-        "Portefeuille clinique diversifié (TLR 7/8, inhibiteurs PARP1, inhibiteur WRN)",
-        "Objectif moyen des analystes (24,6 $) très supérieur au cours actuel",
-        "Capitalisation d'environ 376 M$ pour une société en phase clinique"
+        "Portefeuille clinique varié en oncologie (TLR 7/8, PARP1, WRN)",
+        "Objectif moyen des analystes (24,6 USD) très au-dessus du cours actuel",
+        "Capitalisation d'environ 364 M USD"
       ],
       "risques": [
-        "Cours au plus bas sur 52 semaines, tendance baissière marquée",
-        "Très large dispersion des objectifs d'analystes (4 à 32 $), signe d'une forte incertitude",
-        "Aucun chiffre d'affaires communiqué et dépendance aux résultats d'essais cliniques"
+        "Forte baisse sur 6 mois et cours proche du plus bas annuel",
+        "Très grand écart entre les objectifs des analystes (4 à 32 USD), signe d'une forte incertitude",
+        "Société en phase clinique, sans croissance de chiffre d'affaires communiquée"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-12",
-        "Éventuelles données cliniques sur les candidats EIK1001, PARP1 ou WRN (aucune date indiquée)"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Éventuelles données cliniques ou annonces sur les candidats EIK1001, EIK1003, EIK1004 ou EIK1005"
       ],
-      "a_surveiller": "Voir si le cours tient autour de 6,94 $, son plus bas sur 52 semaines, et si l'entreprise communique des données cliniques ou des informations sur sa trésorerie avant les résultats."
+      "a_surveiller": "Surveiller les communiqués officiels de l'entreprise sur ses essais cliniques et sa trésorerie, ainsi que la tenue du cours autour de son plus bas annuel (environ 6,45 USD)."
     }
   },
   "EXK": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "fea7322c451ee09f",
+    "sig": "e2de552c7ea43b70",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
-          "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance, ainsi qu'un accord important avec Anthropic.",
-          "a_surveiller": "La hausse répétée des prévisions d'investissements pourrait peser sur la rentabilité future, et la réaction du marché reste partagée, avec un cours environ 13 % sous son plus haut sur 52 semaines.",
+          "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de croissance, ainsi qu'un accord important avec Anthropic.",
+          "a_surveiller": "Les prévisions d'investissements relevées pèsent sur les coûts, le cours a pu réagir de façon volatile après les résultats et il reste proche du haut de sa fourchette sur 52 semaines.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "MEDCL.PA",
           "pourquoi": "La FDA a autorisé Weltruza, un deuxième traitement de la schizophrénie issu de la technologie de Medincell, et le titre a bondi d'environ 18 % selon la presse.",
-          "a_surveiller": "Le succès commercial de Weltruza reste à démontrer, le titre est très volatil et une résistance technique est citée vers 28,52 €, alors que le chiffre d'affaires est en baisse.",
+          "a_surveiller": "Le succès commercial de Weltruza reste à démontrer, le chiffre d'affaires est en baisse et le titre très volatil approche une résistance technique citée vers 28,52 €.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "IREN",
-          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies avec un objectif de 79 $, sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le chiffre d'affaires recule de 26,7 %, le cours (35,48 $) reste très en dessous de son plus haut sur 52 semaines et les avis des analystes sont très dispersés.",
+          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une nouvelle note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
+          "a_surveiller": "Le chiffre d'affaires recule de 26,7 %, le cours de 35,48 $ reste très en dessous de son plus haut sur 52 semaines (76,87 $) et les avis d'analystes sont très dispersés.",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations sont issues de titres de presse et de données partielles, la bourse comporte toujours un risque de perte en capital et les cours peuvent varier fortement dans les deux sens."
+      "prudence": "Ces informations sont issues de titres de presse et de données partielles, elles ne constituent pas un conseil, et tout investissement en bourse comporte un risque de perte en capital."
     }
   },
   "SVC": {
@@ -577,27 +577,27 @@
     }
   },
   "BBT": {
-    "sig": "a39f618d7d22f06c",
+    "sig": "95019cf2fa42f19d",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Le seul titre vraiment lié à Beacon Financial est le maintien de la recommandation « neutre » par RBC Capital Markets, sans détail sur les raisons ni sur un changement d'objectif. Les autres titres concernent des cours d'autres sociétés ou des pages de cotation génériques et n'apportent rien de concret. Les analystes restent globalement favorables (avis « buy »), mais l'action recule de 12 % sur 6 mois.",
+      "resume": "Le seul élément concret dans l'actualité est que RBC Capital Markets maintient sa recommandation neutre sur Beacon Financial. Les autres titres concernent d'autres sociétés (Solidion, Banc of California, JPMorgan) et n'apportent rien de précis sur BBT. L'action recule d'environ 13,6 % sur 6 mois et se situe dans la moitié basse de sa fourchette sur 52 semaines.",
       "points_forts": [
-        "Objectif moyen des analystes (34 USD) nettement au-dessus du cours de 27,3 USD",
-        "Avis global « buy » sur 6 analystes",
+        "Objectif moyen des analystes (34 USD) nettement au-dessus du cours actuel (26,73 USD)",
+        "Avis global « buy » parmi 6 analystes",
         "Croissance du chiffre d'affaires indiquée à 1,445 (donnée à interpréter avec prudence)"
       ],
       "risques": [
-        "Baisse de 12 % sur 6 mois, cours plus proche du bas que du haut des 52 semaines",
-        "Avis divergent : RBC reste neutre face à un consensus positif",
+        "Tendance baissière sur 6 mois (-13,6 %)",
+        "RBC reste neutre, ce qui nuance l'optimisme des autres analystes",
         "Secteur des banques régionales américaines sensible aux taux et au crédit"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 21 octobre 2026",
-        "Nouvelles révisions de recommandations ou d'objectifs par les analystes"
+        "Nouvelles révisions de recommandations ou d'objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Les résultats du 21 octobre 2026 et d'éventuels changements d'objectifs des analystes, pour voir si l'écart entre le cours et l'objectif moyen se réduit."
+      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas à 22,81 USD et ce que diront les résultats du 21 octobre 2026 sur la rentabilité et la qualité des prêts."
     }
   },
   "FOIL": {
@@ -673,27 +673,27 @@
     }
   },
   "BMBL": {
-    "sig": "9d71b797dfef1c09",
+    "sig": "e6f4d977c4f28927",
     "analyse": {
       "sentiment": "neutre",
       "importance": 5,
       "confiance": "moyenne",
-      "resume": "Selon les titres récents, Bumble va être rachetée pour 1,3 milliard de dollars puis retirée de la cote, et l'action a fortement monté à cette annonce. À 5,95 $, le cours est proche du plus haut sur 52 semaines (5,98 $) et de l'objectif haut des analystes (6,05 $), ce qui laisse penser que l'essentiel de l'opération est déjà intégré dans le prix. Pour un actionnaire, cela signifie que le titre pourrait bientôt cesser d'être négociable en Bourse.",
+      "resume": "Les titres indiquent que Bumble va être retirée de la cote dans le cadre d'un rachat de 1,3 milliard de dollars, ce qui a fait bondir l'action près de 5,95 USD, proche du plus haut sur 52 semaines. Cela compte beaucoup : si l'opération se conclut, le titre ne sera plus coté et son cours dépendra surtout du prix de rachat, plus que de l'activité de l'entreprise.",
       "points_forts": [
-        "Offre de rachat qui valorise l'action nettement au-dessus de son plus bas de 52 semaines (2,44 $)",
-        "Hausse d'environ 45 % sur 6 mois",
-        "Cours proche de l'objectif haut des analystes"
+        "Hausse de 38,1 % sur 6 mois, cours proche du plus haut sur 52 semaines",
+        "Rachat annoncé à 1,3 milliard de dollars, valorisation de marché d'environ 0,9 milliard",
+        "Cours actuel supérieur à l'objectif moyen des analystes (4,05 USD)"
       ],
       "risques": [
-        "Chiffre d'affaires en recul (-15,2 %), signe d'une activité sous pression",
-        "Les titres ne précisent pas le prix par action ni les conditions : l'opération pourrait ne pas aboutir",
-        "Le retrait de la cote met fin à la possibilité de suivre ou de négocier le titre en Bourse"
+        "Chiffre d'affaires en baisse de 15,2 %",
+        "Les détails du prix par action et les conditions de l'opération ne figurent pas dans les titres",
+        "Une fois la sortie de cote réalisée, il ne sera plus possible de suivre ou d'échanger l'action"
       ],
       "catalyseurs": [
-        "Validation de l'opération (approbations, vote des actionnaires) et calendrier de clôture",
-        "Date effective du retrait de la cote"
+        "Approbations et finalisation de l'opération de rachat",
+        "Date de retrait de la cote (non précisée dans les données)"
       ],
-      "a_surveiller": "Le prix exact de l'offre par action, les conditions de clôture et la date de retrait de la cote, à comparer avec le cours actuel de 5,95 $."
+      "a_surveiller": "Le prix de rachat par action comparé au cours actuel, ainsi que le calendrier et les conditions de clôture de l'opération."
     }
   },
   "HELE": {
@@ -1008,51 +1008,99 @@
     }
   },
   "GTN-A": {
-    "sig": "4a1aefd70e5e6a1d",
+    "sig": "c035b53f38cc0b99",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Gray Media a annoncé une hausse de 75 millions de dollars de son prêt à terme et prévoit de rembourser 150 millions de dollars d'obligations de premier rang, ce qui touche la gestion de sa dette. Un autre titre évoque une mise à jour de ses prévisions de bénéfice pour le trimestre clos le 30 septembre 2026, mais les détails ne sont pas fournis. Le cours a fortement reculé sur 6 mois (-48,7 %), ce qui rend le dossier très volatil.",
+      "resume": "Gray Media a annoncé une hausse de 75 millions de dollars de son prêt à terme et prévoit de rembourser 150 millions de dollars d'obligations de premier rang. Une mise à jour de ses prévisions de bénéfice pour le trimestre clos le 30 septembre 2026 est aussi mentionnée, mais les titres n'en donnent pas le détail. L'action a perdu environ 48,5 % en 6 mois, ce qui rend la situation financière et la gestion de la dette importantes à suivre.",
       "points_forts": [
-        "Chiffre d'affaires en croissance de 8,7 %",
-        "Démarche active de refinancement de la dette",
-        "Activité diversifiée (télévisions locales, production, numérique)"
+        "Chiffre d'affaires en croissance (+8,7 %)",
+        "Gestion active de la dette (refinancement)",
+        "Cours proche du bas de sa fourchette sur 52 semaines, ce qui montre un fort recul déjà subi"
       ],
       "risques": [
-        "Cours en forte baisse sur 6 mois, proche du plus bas annuel",
-        "Endettement probablement important pour une petite capitalisation",
-        "Détails des prévisions de bénéfice non précisés dans les titres"
+        "Baisse marquée du cours sur 6 mois",
+        "Dette importante : le refinancement montre un besoin de gérer les échéances",
+        "Détail de la mise à jour des prévisions inconnu, donc direction incertaine"
       ],
       "catalyseurs": [
-        "Détails et chiffres de la mise à jour des prévisions de bénéfice",
+        "Publication des résultats et du détail des prévisions de bénéfice",
         "Finalisation du refinancement et remboursement des obligations de 150 M$"
       ],
-      "a_surveiller": "Surveiller le coût du nouveau financement par rapport aux obligations remboursées, ainsi que le contenu précis des prévisions de bénéfice mises à jour."
+      "a_surveiller": "Le contenu précis de la mise à jour des prévisions de bénéfice et le coût de la nouvelle dette par rapport à l'ancienne."
     }
   },
   "ETL.PA": {
-    "sig": "f1a4d30a30fb6ae8",
+    "sig": "236d498dcb171ed3",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents décrivent un titre très volatil : de fortes hausses liées à la libération de fréquences en bande C (environ 6 milliards de dollars évoqués pour SES et Eutelsat) et à l'activation des systèmes de communication par satellite de l'UE, puis des phases d'essoufflement. Le cours de 1,61 € reste bien en dessous de son plus haut sur 52 semaines (4,556 €) et recule de 40 % sur 6 mois, ce qui montre que les bonnes nouvelles n'ont pas suffi à inverser la tendance.",
+      "resume": "Les titres récents sont contradictoires : d'un côté, l'action a fortement chuté (environ -42 % en 3 mois selon un titre), de l'autre, des articles évoquent un rebond lié à la libération de fréquences en bande C (manne de 6 milliards de dollars citée pour SES et Eutelsat) et à l'activation du système de communications par satellite de l'UE. Le cours (1,68 €) reste bien plus bas que son plus haut sur 52 semaines (4,556 €), et les analystes sont partagés (avis hold, objectifs de 0,3 à 5,22 €).",
       "points_forts": [
-        "Manne potentielle liée à la bande C évoquée dans l'actualité",
-        "Activation des systèmes satellitaires de l'UE perçue positivement par le marché",
-        "Objectif moyen des analystes (2,27 €) supérieur au cours actuel"
+        "Manne liée aux fréquences en bande C évoquée par la presse",
+        "Activation des communications par satellite de l'UE citée comme soutien",
+        "Chiffre d'affaires en légère croissance (+1,1 %)"
       ],
       "risques": [
-        "Volatilité très élevée et forte baisse sur 6 mois (-40,4 %)",
-        "Croissance du chiffre d'affaires quasi nulle (+1,1 %)",
-        "Avis analystes partagés (hold) avec des objectifs très dispersés (0,3 à 5,22 €)"
+        "Forte baisse du cours : -37,9 % sur 6 mois",
+        "Très grande dispersion des objectifs d'analystes (0,3 à 5,22 €)",
+        "Volatilité élevée, cours proche du plus bas annuel (1,35 €)"
       ],
       "catalyseurs": [
-        "Publication des résultats le 7 août 2026",
-        "Concrétisation des revenus liés à la libération de la bande C"
+        "Publication des résultats le 2026-08-07",
+        "Concrétisation des revenus de la libération des fréquences en bande C"
       ],
-      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas annuel de 1,35 € et si les annonces sur la bande C et l'UE se traduisent par des revenus concrets lors des prochains résultats."
+      "a_surveiller": "Voir si le rebond lié à la bande C et au programme européen se confirme dans les résultats du 7 août 2026, ou si la tendance baissière reprend."
+    }
+  },
+  "EVO": {
+    "sig": "aef2d559dea6be9c",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 3,
+      "confiance": "faible",
+      "resume": "Les titres récents sont contrastés : des résultats sur neuf mois supérieurs aux attentes et le maintien d'un avis à l'achat par RBC, mais aussi un article qui s'interroge sur la chute du titre en Bourse. Le cours (1,47 USD) a perdu environ 54 % en six mois et se trouve près de son plus bas sur 52 semaines, ce qui reflète une forte défiance malgré ces nouvelles.",
+      "points_forts": [
+        "Résultats 9 mois supérieurs aux attentes du marché",
+        "Avis analystes à l'achat (objectif moyen 4,19 vs cours 1,47)",
+        "Rebond évoqué dans la presse boursière"
+      ],
+      "risques": [
+        "Chiffre d'affaires en recul (-16,2 %)",
+        "Chute du cours de -54,5 % sur 6 mois, forte volatilité",
+        "Peu d'analystes (3), objectifs très dispersés (1,99 à 6,61)"
+      ],
+      "catalyseurs": [
+        "Prochains résultats prévus le 5 novembre 2026",
+        "Nouvelles révisions d'objectifs ou d'avis des analystes"
+      ],
+      "a_surveiller": "Vérifier si le titre tient au-dessus de son plus bas annuel (1,33 USD) et si la baisse du chiffre d'affaires s'atténue lors des prochains résultats."
+    }
+  },
+  "AADX": {
+    "sig": "b128ee198f64388f",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 3,
+      "confiance": "faible",
+      "resume": "Applied Aerospace & Defense vient d'entrer en bourse sur le NYSE, avec une levée annoncée allant jusqu'à 682,5 M$. Les titres évoquent aussi une hausse du cours un jour donné et l'arrivée d'une nouvelle vice-présidente exécutive au développement commercial. Une introduction récente rend le titre très volatil et l'historique de cours encore court.",
+      "points_forts": [
+        "Croissance du chiffre d'affaires de 47,4 %",
+        "Avis des analystes strong_buy (8 analystes), objectif moyen 23,875 $",
+        "Levée de fonds importante via l'introduction en bourse"
+      ],
+      "risques": [
+        "Cours en baisse de 40,8 % sur 6 mois, proche du plus bas annuel de 10,32 $",
+        "Titre récemment introduit, donc volatilité élevée et peu de recul",
+        "Cours actuel de 11,24 $ très éloigné du plus haut de 24,24 $"
+      ],
+      "catalyseurs": [
+        "Prochains résultats prévus le 11 novembre 2026",
+        "Nouvelles annonces commerciales après la nomination à la direction du développement commercial"
+      ],
+      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas de 10,32 $ et ce que la direction dira sur l'utilisation des fonds levés lors des prochains résultats."
     }
   }
 }
