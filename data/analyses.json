@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "956c168a3078749b",
+    "sig": "714b70f9f2391ac5",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les titres récents évoquent des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de croissance. Alphabet a aussi relevé ses prévisions d'investissements et annoncé un accord important avec Anthropic. Cela compte car cela montre une forte dynamique, mais aussi des dépenses plus lourdes, et un titre XTB mentionne une chute du cours après les résultats.",
+      "resume": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance. L'entreprise relève de nouveau ses prévisions d'investissements et a conclu un accord massif avec Anthropic, ce qui a fait monter le titre d'environ 2 %. Un titre d'actualité évoque toutefois une chute du cours, signe que le marché reste sensible aux dépenses engagées.",
       "points_forts": [
-        "Bénéfice en hausse de 81 % et chiffre d'affaires en croissance de 24,2 %",
-        "Cloud cité comme moteur des résultats",
-        "Avis des analystes très favorable (strong_buy, objectif moyen 420 USD)"
+        "Chiffre d'affaires en hausse de 24,2 %",
+        "Bénéfice en forte hausse (+81 %) porté par le cloud",
+        "Objectif moyen des analystes (420 USD) supérieur au cours actuel, avis strong_buy"
       ],
       "risques": [
-        "Prévisions d'investissements relevées à nouveau, ce qui pèse sur les coûts",
-        "Réaction du cours parfois volatile après les résultats",
-        "Cours déjà proche du haut de sa fourchette sur 52 semaines, avec une capitalisation très élevée"
+        "Hausse répétée des prévisions d'investissements, qui pèse sur la rentabilité",
+        "Cours à 346 USD, nettement sous le plus haut annuel de 404 USD, signe de volatilité",
+        "Objectif bas des analystes (340 USD) proche du cours actuel"
       ],
       "catalyseurs": [
-        "Prochains résultats trimestriels le 28 octobre 2026",
+        "Publication des résultats trimestriels le 28 octobre 2026",
         "Évolution de l'accord avec Anthropic et de la croissance du cloud"
       ],
-      "a_surveiller": "Surveillez si la hausse des investissements s'accompagne d'une croissance durable du cloud, et comment le cours évolue par rapport au plus haut de 404,47 USD."
+      "a_surveiller": "Le rythme des investissements par rapport à la croissance du cloud, car c'est ce qui semble influencer le plus la réaction du cours après les résultats."
     }
   },
   "GLOO": {
@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "3aa4d129e50275b4",
+    "sig": "4b137f6c8f742f51",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents évoquent l'arrivée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et un bond très marqué du cours à un moment donné. Aujourd'hui, l'action cote autour de 10,1 $, en baisse d'environ 33 % sur 6 mois, loin de son plus haut de 21,28 $. Les titres ne donnent pas de détail concret sur une nouvelle précise, d'où une lecture prudente.",
+      "resume": "Les titres récents sont surtout des pages de cotation et un rappel de l'entrée en Bourse d'Infleqtion via un SPAC, avec une valorisation annoncée de 1,8 milliard de dollars. Un article évoque aussi un bond de 314 %, mais sans détail ici. L'action est à 9,31 USD, bien sous son plus haut sur 52 semaines (21,28), ce qui montre une forte volatilité.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (1,565 selon les données)",
-        "Objectifs des analystes (19 à 25 $) nettement au-dessus du cours actuel",
-        "Positionnement dans les technologies quantiques (calcul, capteurs, horloges)"
+        "Croissance du chiffre d'affaires très élevée (1,565, soit environ +157 %)",
+        "Avis des analystes strong_buy, objectif moyen 21,83 USD (6 analystes)",
+        "Présence dans plusieurs technologies quantiques (calcul, capteurs, horloges)"
       ],
       "risques": [
-        "Très forte volatilité (de 8,52 $ à 21,28 $ sur 52 semaines)",
-        "Société récemment cotée via SPAC, historique boursier court",
-        "Tendance baissière sur 6 mois (-32,7 %)"
+        "Forte volatilité : -40,2 % en 6 mois, proche du plus bas sur 52 semaines (8,52)",
+        "Cotation récente via SPAC, souvent associée à des mouvements de cours marqués",
+        "Les titres ne donnent aucun fait concret sur les résultats ou les finances"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 12 novembre 2026",
-        "Mises à jour des analystes sur leurs objectifs de cours"
+        "Prochains résultats prévus le 2026-11-12",
+        "Évolution des objectifs et avis des analystes"
       ],
-      "a_surveiller": "Surveiller si le cours se maintient près du plus bas annuel de 8,52 $ et si les résultats confirment la forte croissance du chiffre d'affaires."
+      "a_surveiller": "Surveiller la publication des résultats du 12 novembre 2026 et voir si la croissance du chiffre d'affaires se confirme, sans oublier que le cours peut varier fortement."
     }
   },
   "EIKN": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "c6c157a4c6baf99b",
+    "sig": "ec9691e5556800f0",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
-          "pourquoi": "Alphabet ressort avec des résultats trimestriels solides, un bénéfice en hausse de 81 %, un cloud moteur de croissance et un accord important avec Anthropic.",
-          "a_surveiller": "La hausse des prévisions d'investissements pèse sur les coûts, le cours peut réagir de façon volatile après les résultats et il se situe déjà proche du haut de sa fourchette sur 52 semaines.",
+          "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 %, un cloud moteur de la croissance et un accord important avec Anthropic.",
+          "a_surveiller": "La hausse répétée des prévisions d'investissements, qui pèse sur la rentabilité, alors que le cours (346 USD) reste sous son plus haut annuel de 404 USD et proche de l'objectif bas des analystes (340 USD).",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de la schizophrénie de Medincell après UZEDY, et le titre a bondi d'environ 18 % selon la presse.",
-          "a_surveiller": "Le chiffre d'affaires est en recul, le titre reste très volatil avec de fortes hausses et baisses récentes, et le cours est encore éloigné de son plus haut sur 52 semaines (39,68 €).",
+          "pourquoi": "La FDA a autorisé Weltruza, un deuxième traitement de la schizophrénie de Medincell après UZEDY, et le titre a bondi d'environ 18 % selon la presse.",
+          "a_surveiller": "La forte volatilité du titre et le recul du chiffre d'affaires, avec un cours encore éloigné du plus haut sur 52 semaines (39,68 €).",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "IREN",
           "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le chiffre d'affaires baisse de 26,7 %, l'action est très volatile et reste bien sous son plus haut sur 52 semaines (76,87 $), avec une forte dispersion des avis d'analystes.",
+          "a_surveiller": "Le chiffre d'affaires en baisse (-26,7 %), la forte volatilité de l'action et la grande dispersion des avis d'analystes, avec un cours (35,48 $) bien sous son plus haut sur 52 semaines (76,87 $).",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations ne sont pas un conseil en investissement : les cours peuvent varier fortement à la hausse comme à la baisse et une perte en capital reste possible."
+      "prudence": "Ces informations sont à but indicatif : les cours peuvent varier fortement à la hausse comme à la baisse et une perte en capital reste possible."
     }
   },
   "SVC": {
@@ -673,27 +673,27 @@
     }
   },
   "BMBL": {
-    "sig": "9d71b797dfef1c09",
+    "sig": "71e02045214a2542",
     "analyse": {
       "sentiment": "neutre",
       "importance": 5,
       "confiance": "moyenne",
-      "resume": "Les titres indiquent que Bumble va être rachetée pour 1,3 milliard de dollars et retirée de la cote, ce qui a fait bondir l'action. Le cours (5,93 USD) est proche de la fourchette haute des objectifs d'analystes (6,05) et du plus haut sur 52 semaines (5,98), ce qui laisse penser que le marché a déjà largement intégré le prix de l'offre. Pour un actionnaire, l'enjeu devient surtout les conditions et le calendrier de l'opération, plus que les résultats de l'entreprise.",
+      "resume": "Les titres indiquent que Bumble va être racheté pour 1,3 milliard de dollars et retiré de la cote, ce qui a fait s'envoler l'action. Le cours (5,94 $) est proche du plus haut sur 52 semaines (5,98 $) et de l'objectif haut des analystes (6,05 $), ce qui suggère que le marché a déjà intégré le prix de l'offre. Pour un actionnaire, l'enjeu devient la conclusion de l'opération plutôt que l'activité, dont le chiffre d'affaires recule (-15,2 %).",
       "points_forts": [
-        "Rachat annoncé : le cours a fortement progressé (+37,6 % sur 6 mois)",
-        "Cours proche de l'objectif haut des analystes (6,05)",
-        "Valorisation de 1,3 milliard de dollars selon les titres"
+        "Offre de rachat de 1,3 Md$ qui a fait bondir le cours",
+        "Cours proche du plus haut sur 52 semaines et de l'objectif haut",
+        "Hausse d'environ 38 % sur 6 mois"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse de 15,2 % sur un an",
-        "Les détails de l'offre (prix par action, conditions) ne figurent pas dans les données fournies",
-        "Le retrait de la cote mettrait fin à la négociation du titre en Bourse"
+        "Chiffre d'affaires en baisse de 15,2 %",
+        "Opération pas encore finalisée : conditions et délais non précisés dans les titres",
+        "Après la radiation de la cote, il ne sera plus possible de suivre ou négocier le titre en Bourse"
       ],
       "catalyseurs": [
-        "Approbations réglementaires et vote des actionnaires sur l'opération",
-        "Date de clôture de la transaction et de retrait de la cote"
+        "Approbations et finalisation du rachat, avec retrait de la cote",
+        "Publication des résultats prévue le 2026-11-04 (si le titre est encore coté)"
       ],
-      "a_surveiller": "Le prix par action de l'offre, les conditions de réalisation et l'écart entre ce prix et le cours actuel, qui reflète la confiance du marché dans la conclusion de l'opération."
+      "a_surveiller": "Les communiqués sur le calendrier de clôture de l'opération et l'écart entre le cours et le prix d'offre, car le détail des conditions n'apparaît pas dans les titres fournis."
     }
   },
   "HELE": {

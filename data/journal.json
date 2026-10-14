@@ -358,5 +358,20 @@
       -16.3
     ],
     "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, un deuxième traitement de la schizophrénie de Medincell, et le titre a bondi d'environ 18 % en Bourse selon la presse. C'est important car cela renforce la gamme de produits commercialisables de l'entreprise après UZEDY. Un titre peut toutefois être volatil : une journée en forte baisse a aussi été signalée récemment."
+  },
+  {
+    "date": "14/10/2026 18:58",
+    "symbole": "GOOG",
+    "sentiment": "positif",
+    "cours": 346.1,
+    "gain": [
+      4.5,
+      21.5
+    ],
+    "perte": [
+      -4.5,
+      -8.9
+    ],
+    "resume": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance. L'entreprise relève de nouveau ses prévisions d'investissements et a conclu un accord massif avec Anthropic, ce qui a fait monter le titre d'environ 2 %. Un titre d'actualité évoque toutefois une chute du cours, signe que le marché reste sensible aux dépenses engagées."
   }
 ]
