@@ -1080,27 +1080,27 @@
     }
   },
   "AADX": {
-    "sig": "b128ee198f64388f",
+    "sig": "3fceed01a8bddd8d",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Applied Aerospace & Defense vient d'entrer en bourse sur le NYSE, avec une levée annoncée allant jusqu'à 682,5 M$. Les titres évoquent aussi une hausse du cours un jour donné et l'arrivée d'une nouvelle vice-présidente exécutive au développement commercial. Une introduction récente rend le titre très volatil et l'historique de cours encore court.",
+      "resume": "Applied Aerospace & Defense vient d'entrer en bourse sur le NYSE, avec une levée annoncée allant jusqu'à 682,5 M$. Le cours (11,35 $) est nettement sous son plus haut des 52 semaines (24,24 $) et affiche -40,3 % sur 6 mois, alors que le chiffre d'affaires progresse de 47,4 % et que les analystes visent en moyenne 23,9 $. Les titres récents restent peu détaillés : on ne connaît ni les causes précises des mouvements de cours ni les résultats de l'entreprise.",
       "points_forts": [
         "Croissance du chiffre d'affaires de 47,4 %",
-        "Avis des analystes strong_buy (8 analystes), objectif moyen 23,875 $",
-        "Levée de fonds importante via l'introduction en bourse"
+        "Avis analystes très favorable (strong_buy, 8 analystes)",
+        "Objectifs de cours (19 à 30 $) bien au-dessus du cours actuel"
       ],
       "risques": [
-        "Cours en baisse de 40,8 % sur 6 mois, proche du plus bas annuel de 10,32 $",
-        "Titre récemment introduit, donc volatilité élevée et peu de recul",
-        "Cours actuel de 11,24 $ très éloigné du plus haut de 24,24 $"
+        "Forte baisse du cours (-40,3 % sur 6 mois) et volatilité probable après l'introduction en bourse",
+        "Cours proche du plus bas des 52 semaines (10,32 $)",
+        "Peu d'historique de cotation et informations concrètes limitées dans l'actualité"
       ],
       "catalyseurs": [
-        "Prochains résultats prévus le 11 novembre 2026",
-        "Nouvelles annonces commerciales après la nomination à la direction du développement commercial"
+        "Publication des résultats prévue le 11 novembre 2026",
+        "Nouvelles annonces commerciales ou contrats suite à la nomination d'Elizabeth Robertson au développement commercial"
       ],
-      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas de 10,32 $ et ce que la direction dira sur l'utilisation des fonds levés lors des prochains résultats."
+      "a_surveiller": "Suivre si le cours tient près du plus bas de 10,32 $ et ce que la direction dira sur la croissance lors des prochains résultats."
     }
   },
   "ALMR": {

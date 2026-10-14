@@ -36,17 +36,12 @@
       "premiere": "2026-10-14T18:02+02:00",
       "nom": "Endeavour Silver Corporation"
     },
-    "PHAT": {
-      "premiere": "2026-10-14T19:23+02:00",
-      "nom": "Phathom Pharmaceuticals, Inc."
+    "AADX": {
+      "premiere": "2026-10-14T21:04+02:00",
+      "nom": "Applied Aerospace & Defense, In"
     }
   },
   "sorties": [
-    {
-      "symbole": "EXK",
-      "date": "13/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
     {
       "symbole": "ARL",
       "date": "13/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "SNDA",
       "date": "14/10/2026",
       "nom": "Sonida Senior Living, Inc."
+    },
+    {
+      "symbole": "PHAT",
+      "date": "14/10/2026",
+      "nom": "Phathom Pharmaceuticals, Inc."
     }
   ]
 }
