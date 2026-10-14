@@ -673,27 +673,27 @@
     }
   },
   "BMBL": {
-    "sig": "00a8ceea35d8149f",
+    "sig": "9d71b797dfef1c09",
     "analyse": {
       "sentiment": "neutre",
       "importance": 5,
       "confiance": "moyenne",
-      "resume": "Les titres indiquent que Bumble va être rachetée pour 1,3 milliard de dollars et retirée de la cote, ce qui a fait bondir l'action à 5,95 USD, près de son plus haut sur 52 semaines (5,98). Le cours reflète désormais surtout le prix de l'offre : le potentiel de mouvement devient limité, et le titre pourrait disparaître de la Bourse.",
+      "resume": "Selon les titres récents, Bumble va être rachetée pour 1,3 milliard de dollars puis retirée de la cote, et l'action a fortement monté à cette annonce. À 5,95 $, le cours est proche du plus haut sur 52 semaines (5,98 $) et de l'objectif haut des analystes (6,05 $), ce qui laisse penser que l'essentiel de l'opération est déjà intégré dans le prix. Pour un actionnaire, cela signifie que le titre pourrait bientôt cesser d'être négociable en Bourse.",
       "points_forts": [
-        "Hausse de 45,5 % en 6 mois portée par l'annonce du rachat",
-        "Cours très au-dessus des objectifs des analystes (moyenne 3,8 USD)",
-        "Offre valorisant l'entreprise malgré une activité en recul"
+        "Offre de rachat qui valorise l'action nettement au-dessus de son plus bas de 52 semaines (2,44 $)",
+        "Hausse d'environ 45 % sur 6 mois",
+        "Cours proche de l'objectif haut des analystes"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse de 15,2 %",
-        "Retrait de la cote : fin de la possibilité de suivre ou d'échanger le titre",
-        "Conditions ou approbations de l'opération non détaillées dans les données : incertitude sur son aboutissement"
+        "Chiffre d'affaires en recul (-15,2 %), signe d'une activité sous pression",
+        "Les titres ne précisent pas le prix par action ni les conditions : l'opération pourrait ne pas aboutir",
+        "Le retrait de la cote met fin à la possibilité de suivre ou de négocier le titre en Bourse"
       ],
       "catalyseurs": [
-        "Approbation de la transaction par les actionnaires et les autorités",
-        "Date de clôture du rachat et retrait effectif de la cote"
+        "Validation de l'opération (approbations, vote des actionnaires) et calendrier de clôture",
+        "Date effective du retrait de la cote"
       ],
-      "a_surveiller": "Vérifier le prix exact par action de l'offre, le calendrier de clôture et les conditions de l'opération, car le cours devrait rester proche de ce prix tant que le rachat n'est pas finalisé."
+      "a_surveiller": "Le prix exact de l'offre par action, les conditions de clôture et la date de retrait de la cote, à comparer avec le cours actuel de 5,95 $."
     }
   },
   "HELE": {
@@ -865,27 +865,27 @@
     }
   },
   "AGBK": {
-    "sig": "57552ab366d26661",
+    "sig": "05fe29c1d44e9c77",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne parlent pas d'AGI Inc : il s'agit surtout d'acquisitions d'autres sociétés (Senior plc, Simulations Plus, DigitalBridge) et d'une introduction en Bourse (Cerebras), plus une simple page de cours. Il n'y a donc aucune information concrète sur l'entreprise elle-même. Le contexte reste mitigé : un chiffre d'affaires en baisse (-15,2 %) face à des analystes très favorables.",
+      "resume": "Les titres d'actualité récents ne parlent pas concrètement d'AGI Inc : ce sont surtout des opérations d'autres sociétés (Blackstone, SoftBank, Altaris) et une page de cours TradingView. Il n'y a donc pas de nouvelle spécifique sur l'entreprise ; seuls les données de marché comptent ici : un cours en repli sur 6 mois et un chiffre d'affaires en baisse.",
       "points_forts": [
-        "Avis des analystes « strong buy » (11 analystes), objectif moyen de 12,56 USD contre un cours de 7,38 USD",
-        "Services reposant sur le cloud, l'IA et le mobile",
-        "Cours nettement au-dessus du plus bas 52 semaines (5,28 USD)"
+        "Avis des analystes très favorable (strong_buy, 11 analystes)",
+        "Objectif moyen (12.51 USD) nettement au-dessus du cours actuel (7.38 USD)",
+        "Modèle appuyé sur le numérique et l'automatisation par IA"
       ],
       "risques": [
-        "Chiffre d'affaires en recul de 15,2 %",
-        "Cours bien en dessous du plus haut 52 semaines (12,21 USD) et en baisse de 5,5 % sur 6 mois",
-        "Exposition au seul marché brésilien et titre potentiellement volatil (capitalisation d'environ 1,9 milliard USD)"
+        "Chiffre d'affaires en baisse (-15,2 %)",
+        "Cours volatil : entre 5.28 et 12.21 USD sur 52 semaines",
+        "Exposition à un seul pays (Brésil) et à un secteur bancaire régional"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 11 novembre 2026",
-        "Éventuelles révisions des objectifs de cours par les analystes"
+        "Évolution des révisions d'objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Surveiller si, lors des prochains résultats, le chiffre d'affaires se stabilise, car c'est le point faible principal face à l'optimisme des analystes."
+      "a_surveiller": "Surveillez si le chiffre d'affaires cesse de reculer lors des prochains résultats, car c'est ce qui pourrait confirmer ou non l'optimisme des analystes."
     }
   },
   "QDEL": {
@@ -1032,27 +1032,27 @@
     }
   },
   "ETL.PA": {
-    "sig": "236d498dcb171ed3",
+    "sig": "f1a4d30a30fb6ae8",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont contrastés : l'action a fortement chuté en quelques mois (-44 % sur 6 mois), mais certaines actualités évoquent un rebond lié à la libération de fréquences en bande C (environ 6 milliards de dollars pour SES et Eutelsat) et à l'activation des systèmes de communications par satellite de l'UE. Cela compte car ces sujets pourraient soutenir l'activité, mais les titres ne donnent pas de chiffres concrets sur l'impact pour Eutelsat.",
+      "resume": "Les titres récents décrivent un titre très volatil : de fortes hausses liées à la libération de fréquences en bande C (environ 6 milliards de dollars évoqués pour SES et Eutelsat) et à l'activation des systèmes de communication par satellite de l'UE, puis des phases d'essoufflement. Le cours de 1,61 € reste bien en dessous de son plus haut sur 52 semaines (4,556 €) et recule de 40 % sur 6 mois, ce qui montre que les bonnes nouvelles n'ont pas suffi à inverser la tendance.",
       "points_forts": [
-        "Manne liée à la bande C évoquée par la presse",
-        "Activation des communications satellite de l'UE citée",
-        "Objectif moyen des analystes (2,27 €) supérieur au cours actuel (1,51 €)"
+        "Manne potentielle liée à la bande C évoquée dans l'actualité",
+        "Activation des systèmes satellitaires de l'UE perçue positivement par le marché",
+        "Objectif moyen des analystes (2,27 €) supérieur au cours actuel"
       ],
       "risques": [
-        "Forte baisse récente et cours proche du plus bas annuel (1,37 €)",
+        "Volatilité très élevée et forte baisse sur 6 mois (-40,4 %)",
         "Croissance du chiffre d'affaires quasi nulle (+1,1 %)",
-        "Avis des analystes partagé : « hold » avec objectifs très dispersés (0,3 à 5,22 €)"
+        "Avis analystes partagés (hold) avec des objectifs très dispersés (0,3 à 5,22 €)"
       ],
       "catalyseurs": [
         "Publication des résultats le 7 août 2026",
-        "Concrétisation des revenus de la bande C et des programmes satellites de l'UE"
+        "Concrétisation des revenus liés à la libération de la bande C"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel de 1,37 € et ce que la direction dira sur les montants réels de la bande C lors des prochains résultats."
+      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas annuel de 1,35 € et si les annonces sur la bande C et l'UE se traduisent par des revenus concrets lors des prochains résultats."
     }
   }
 }
