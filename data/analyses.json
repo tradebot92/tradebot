@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "4b137f6c8f742f51",
+    "sig": "8e2bdd0966aac566",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et un rappel de l'entrée en Bourse d'Infleqtion via un SPAC, avec une valorisation de 1,8 milliard de dollars. Aucune actualité concrète nouvelle n'en ressort. Le cours (9,11 $) est bien sous son plus haut sur 52 semaines (21,28 $), ce qui montre une forte volatilité.",
+      "resume": "Infleqtion, spécialiste des technologies quantiques (atomes neutres, horloges, capteurs), est cotée à la suite d'une fusion avec un SPAC valorisée à 1,8 milliard de dollars. Les titres récents évoquent un bond de 314 % puis un cours qui a nettement reculé (-41,5 % en 6 mois, 9,11 $), sans information concrète nouvelle sur l'activité. Le titre reste très volatil, ce qui appelle à la prudence.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (1,565)",
-        "Avis d'analystes strong_buy (6 analystes)",
-        "Objectifs de cours moyens (21,83 $) bien au-dessus du cours actuel"
+        "Croissance du chiffre d'affaires de 156,5 %",
+        "Avis analystes strong_buy, objectif moyen 21,83 $",
+        "Gamme variée : calcul, capteurs, horloges quantiques"
       ],
       "risques": [
-        "Baisse de 41,5 % en 6 mois et cours proche du plus bas sur 52 semaines (8,52 $)",
-        "Action très volatile, typique d'une petite entreprise issue d'un SPAC",
-        "Objectifs des analystes très éloignés du cours, ce qui peut refléter une forte incertitude"
+        "Forte volatilité, cours proche du plus bas annuel (8,52 $)",
+        "Entreprise récente en Bourse via SPAC, historique court",
+        "Secteur quantique spéculatif, sensible à l'humeur du marché"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 12 novembre 2026",
-        "Nouvelles annonces commerciales ou contrats dans l'informatique et les capteurs quantiques"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Nouveaux contrats ou annonces produits dans le quantique"
       ],
-      "a_surveiller": "Surveillez si le cours tient au-dessus du plus bas des 52 semaines (8,52 $) et ce que révéleront les résultats du 12 novembre 2026 sur la croissance du chiffre d'affaires."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas des 52 semaines (8,52 $) et si la croissance du chiffre d'affaires se confirme aux prochains résultats."
     }
   },
   "EIKN": {
