@@ -313,5 +313,20 @@
       -29.6
     ],
     "resume": "Les titres indiquent que Bumble va être rachetée pour 1,3 milliard de dollars et retirée de la Bourse, ce qui a fait bondir l'action. Le cours (5,95 USD) est proche de son plus haut sur 52 semaines (5,98) et au-dessus de l'objectif moyen des analystes (3,8). Si l'opération se conclut, l'action ne sera plus cotée : le suivi porte alors surtout sur les conditions du rachat."
+  },
+  {
+    "date": "14/10/2026 12:24",
+    "symbole": "MEDCL.PA",
+    "sentiment": "positif",
+    "cours": 26.48,
+    "gain": [
+      8.2,
+      35.6
+    ],
+    "perte": [
+      -8.2,
+      -16.3
+    ],
+    "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, deuxième traitement de la schizophrénie de Medincell, et l'action a bondi d'environ 18 % selon la presse. C'est important car cela confirme l'avancée industrielle de l'entreprise et élargit sa gamme après UZEDY. Un titre aussi volatil peut toutefois corriger rapidement après un tel mouvement."
   }
 ]

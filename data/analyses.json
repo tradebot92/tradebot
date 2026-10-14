@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "4b137f6c8f742f51",
+    "sig": "3aa4d129e50275b4",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et un rappel de l'entrée en Bourse d'Infleqtion via un SPAC, qui valorisait la société à 1,8 milliard de dollars. Un article évoque un bond de 314 %, mais sans détail concret ici. L'action reste très volatile : elle est à 10,1 USD, en baisse de 32,7 % sur 6 mois et loin de son plus haut à 21,28.",
+      "resume": "Les titres récents évoquent l'arrivée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et un bond très marqué du cours à un moment donné. Aujourd'hui, l'action cote autour de 10,1 $, en baisse d'environ 33 % sur 6 mois, loin de son plus haut de 21,28 $. Les titres ne donnent pas de détail concret sur une nouvelle précise, d'où une lecture prudente.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (1,565)",
-        "Objectif moyen des analystes (21,83 USD) bien supérieur au cours actuel",
-        "Activité dans les technologies quantiques (calcul, capteurs, horloges)"
+        "Croissance du chiffre d'affaires élevée (1,565 selon les données)",
+        "Objectifs des analystes (19 à 25 $) nettement au-dessus du cours actuel",
+        "Positionnement dans les technologies quantiques (calcul, capteurs, horloges)"
       ],
       "risques": [
-        "Forte volatilité et recul de 32,7 % sur 6 mois",
-        "Société récemment introduite en Bourse via un SPAC",
-        "Avis des analystes non précisé malgré les objectifs de cours"
+        "Très forte volatilité (de 8,52 $ à 21,28 $ sur 52 semaines)",
+        "Société récemment cotée via SPAC, historique boursier court",
+        "Tendance baissière sur 6 mois (-32,7 %)"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 12 novembre 2026",
-        "Mises à jour des objectifs ou avis des 6 analystes"
+        "Publication des prochains résultats prévue le 12 novembre 2026",
+        "Mises à jour des analystes sur leurs objectifs de cours"
       ],
-      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires se confirme lors des résultats du 12 novembre 2026 et comment le cours évolue par rapport au plus bas annuel de 8,52 USD."
+      "a_surveiller": "Surveiller si le cours se maintient près du plus bas annuel de 8,52 $ et si les résultats confirment la forte croissance du chiffre d'affaires."
     }
   },
   "EIKN": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "ba8540d7e9b3ffb9",
+    "sig": "1517cae471a6b58b",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
           "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance, ainsi qu'un accord important avec Anthropic.",
-          "a_surveiller": "La hausse répétée des prévisions d'investissements pourrait peser sur la rentabilité future, et la réaction boursière reste partagée, le cours (351,14 USD) étant à environ 13 % sous son plus haut sur 52 semaines.",
+          "a_surveiller": "La hausse répétée des prévisions d'investissements peut peser sur la rentabilité future, et la réaction du marché reste partagée avec un cours à environ 13 % sous son plus haut sur 52 semaines.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza, deuxième traitement de MedinCell contre la schizophrénie après UZEDY, ce qui a fait bondir l'action d'environ 18 % selon la presse.",
-          "a_surveiller": "Le chiffre d'affaires est en baisse, la volatilité est forte après l'annonce, et le calendrier de commercialisation comme les revenus attendus ne sont pas précisés.",
+          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de la schizophrénie de Medincell après UZEDY, et l'action a bondi d'environ 18 % selon la presse.",
+          "a_surveiller": "Le titre est très volatil et peut corriger rapidement après un tel mouvement, tandis que le chiffre d'affaires est en baisse.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "IREN",
-          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une nouvelle note d'achat de Jefferies avec un objectif de 79 $, sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le cours (35,48 $) reste bien sous son plus haut sur 52 semaines, le chiffre d'affaires recule de 26,7 % et les avis des analystes sont très dispersés.",
+          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une nouvelle note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
+          "a_surveiller": "Le cours reste bien sous son plus haut sur 52 semaines, le chiffre d'affaires recule de 26,7 % et les avis des analystes sont très dispersés.",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations sont données à titre indicatif, les cours peuvent varier fortement et tout investissement comporte un risque de perte en capital."
+      "prudence": "Ces informations sont données à titre indicatif, ne constituent pas un conseil en investissement, et tout placement en bourse comporte un risque de perte en capital."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "04bdef4ee60c3620",
+    "sig": "a8495e06ad6c3da9",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, un traitement de la schizophrénie de MedinCell, son deuxième produit dans cette maladie après UZEDY. L'annonce a fait bondir l'action d'environ 18 % selon la presse. Cela compte car cela valide la technologie de l'entreprise et peut ouvrir de nouvelles sources de revenus.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, deuxième traitement de la schizophrénie de Medincell, et l'action a bondi d'environ 18 % selon la presse. C'est important car cela confirme l'avancée industrielle de l'entreprise et élargit sa gamme après UZEDY. Un titre aussi volatil peut toutefois corriger rapidement après un tel mouvement.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
-        "Consensus des analystes très favorable (strong_buy, objectif moyen ~35,9 €)",
-        "Cours au-dessus de son niveau d'il y a 6 mois (+11 %)"
+        "Feu vert de la FDA pour Weltruza",
+        "Deuxième traitement de la schizophrénie après UZEDY",
+        "Analystes très positifs (strong_buy, objectif moyen 35,9 €)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-0,446 sur la période indiquée)",
-        "Forte volatilité après l'annonce, avec un risque de repli si l'enthousiasme retombe",
-        "Les données fournies ne précisent ni le calendrier de commercialisation ni les revenus attendus"
+        "Chiffre d'affaires en baisse (-0,446)",
+        "Forte volatilité, avec des journées de baisse marquée récentes",
+        "Cours proche du bas de sa fourchette annuelle comparé au plus haut à 39,68 €"
       ],
       "catalyseurs": [
-        "Lancement commercial et premières ventes de Weltruza",
-        "Avancée des essais cliniques de mdc-CWM (Phase III, douleur post-opératoire)"
+        "Lancement commercial de Weltruza aux États-Unis",
+        "Avancée de mdc-CWM (phase III) contre la douleur post-opératoire"
       ],
-      "a_surveiller": "Surveiller comment le marché digère la hausse brutale et si le chiffre d'affaires reprend grâce à ce nouveau produit, sachant que la date des prochains résultats n'est pas connue."
+      "a_surveiller": "Surveille si le cours tient après la hausse de 18 % et comment les revenus évoluent avec le lancement de Weltruza, sachant qu'aucune date de résultats n'est annoncée."
     }
   },
   "KLRA": {
@@ -434,26 +434,27 @@
     }
   },
   "MYN": {
-    "sig": "f428ee5f80fdf038",
+    "sig": "8b4b37ff1924880e",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont de simples pages de cours TradingView sur d'autres valeurs (BBDC, CION, MYI, PBT, TSLX), sans information concrète sur MYN. Le fonds, qui investit dans des obligations municipales de New York, cote à 8,78 USD, proche de son plus bas sur 52 semaines (8,58), après une baisse d'environ 8 % en 6 mois.",
+      "resume": "Les titres d'actualité fournis ne sont que des pages de cours TradingView, concernant d'autres fonds et sociétés (CION, MYI, PBT, TSLX, VTN), et ne disent rien de concret sur MYN. Le cours (8,78 USD) a reculé de 8,4 % sur 6 mois et se situe près de son plus bas sur 52 semaines (8,58).",
       "points_forts": [
-        "Obligations municipales de qualité exonérées d'impôts fédéraux et new-yorkais",
-        "Géré par BlackRock, un acteur reconnu"
+        "Fonds investi en obligations municipales de qualité (investment grade)",
+        "Intérêts exonérés d'impôts fédéraux et de New York, selon la description du fonds",
+        "Gestion assurée par BlackRock Advisors"
       ],
       "risques": [
-        "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
-        "Sensibilité des obligations longues aux variations de taux d'intérêt",
-        "Aucune donnée sur la décote/prime, le rendement ou les analystes"
+        "Cours proche du plus bas sur 52 semaines",
+        "Tendance baissière sur 6 mois",
+        "Aucun avis d'analyste disponible pour se repérer"
       ],
       "catalyseurs": [
-        "Évolution des taux d'intérêt, qui influence le prix des obligations municipales",
-        "Prochaine publication du fonds (date non communiquée)"
+        "Aucune date de résultats annoncée",
+        "Évolution des taux d'intérêt, qui influence généralement les fonds obligataires (point général, non issu des données)"
       ],
-      "a_surveiller": "Surveiller si le cours passe sous le plus bas de 52 semaines (8,58 USD) et l'évolution des taux d'intérêt, en consultant aussi la décote par rapport à la valeur liquidative et la distribution du fonds."
+      "a_surveiller": "Surveiller si le cours passe sous le plus bas de 52 semaines (8,58 USD) et si de vraies informations propres au fonds apparaissent."
     }
   },
   "AL2SI.PA": {
@@ -769,27 +770,27 @@
     }
   },
   "FRMI": {
-    "sig": "52d22144022a000e",
+    "sig": "c641176dce5df53f",
     "analyse": {
-      "sentiment": "negatif",
+      "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Fermi Inc. développe de grands réseaux électriques privés destinés aux centres de données et à l'IA. L'action est à 3,72 $, très loin de son plus haut sur 52 semaines (31,47 $), et a perdu 36,2 % en 6 mois. Un plan d'obligations convertibles de 350 M$ a pesé sur le cours, et les titres récents ne donnent pas d'information concrète nouvelle.",
+      "resume": "Les titres rappellent l'introduction en bourse récente de Fermi, société qui développe des réseaux électriques privés à très grande échelle pour l'IA, avec des débuts très remarqués et une valorisation évoquée à 14,8 milliards de dollars. Depuis, le cours a fortement reculé : 3,72 $ contre un plus haut annuel de 31,47 $ (-36,2 % sur 6 mois). Les titres ne donnent aucun élément concret récent sur l'activité ou les résultats, donc la situation reste très incertaine.",
       "points_forts": [
-        "Projet ambitieux lié à la demande d'énergie de l'IA (réseau privé de 17 GW visé)",
-        "Objectif moyen des analystes (17,1 $) bien au-dessus du cours actuel",
-        "Équipe dirigeante présentée comme expérimentée"
+        "Thème porteur : énergie et infrastructures pour l'IA",
+        "Projet ambitieux (campus Project Matador, réseau privé de 17 GW visé)",
+        "Objectif moyen des analystes (17,1 $) bien au-dessus du cours actuel"
       ],
       "risques": [
-        "Forte volatilité et chute importante depuis le plus haut",
-        "Dilution possible via les obligations convertibles",
-        "Projets de très grande taille encore à réaliser, croissance du chiffre d'affaires non disponible"
+        "Volatilité extrême : cours proche de son plus bas annuel (3,2 $)",
+        "Aucune croissance du chiffre d'affaires communiquée, entreprise jeune et peu éprouvée",
+        "Grande dispersion des objectifs d'analystes (6 à 35 $), signe de forte incertitude"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-12",
-        "Nouvelles sur l'avancement du projet Matador ou sur son financement"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Annonces d'avancement ou de clients pour le projet Matador"
       ],
-      "a_surveiller": "Surveille l'évolution du financement (dette convertible, dilution) et l'avancement concret du projet Matador, sachant que l'écart entre les objectifs des analystes (6 à 35 $) montre une forte incertitude."
+      "a_surveiller": "Les informations concrètes sur l'avancement du projet et les premiers revenus, plus importantes que l'enthousiasme autour de l'IA, ainsi que la tenue du plus bas annuel à 3,2 $."
     }
   },
   "BBAI": {
