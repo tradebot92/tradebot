@@ -673,27 +673,27 @@
     }
   },
   "BMBL": {
-    "sig": "236845aa10576330",
+    "sig": "71e02045214a2542",
     "analyse": {
       "sentiment": "neutre",
       "importance": 5,
       "confiance": "moyenne",
-      "resume": "Les titres indiquent que Bumble va être rachetée pour 1,3 milliard de dollars et retirée de la cote, ce qui a fait bondir l'action. Le cours (5,97 $) se situe près de son plus haut sur 52 semaines (5,98 $) et proche de l'objectif haut des analystes (6,05 $), ce qui suggère que le marché anticipe un prix de rachat proche de ce niveau. Les détails de l'offre (prix par action, calendrier) ne figurent pas dans les données fournies.",
+      "resume": "Les titres indiquent que Bumble va être racheté pour 1,3 milliard de dollars puis retiré de la Bourse, ce qui a fait bondir l'action. Le cours (5,97 $) est proche du plus haut sur 52 semaines (5,98 $) et de l'objectif haut des analystes (6,05 $), ce qui suggère que le marché a déjà intégré le prix de l'offre. Si la cotation disparaît, le titre ne devrait plus évoluer que dans une fourchette étroite d'ici la clôture de l'opération.",
       "points_forts": [
-        "Offre de rachat de 1,3 Md$ qui valorise le titre",
-        "Cours proche du plus haut sur 52 semaines",
-        "Hausse d'environ 38 % sur 6 mois"
+        "Offre de rachat de 1,3 milliard de dollars",
+        "Forte hausse du cours (+38,5 % en 6 mois)",
+        "Cours proche de l'objectif haut des analystes"
       ],
       "risques": [
-        "Chiffre d'affaires en recul (-15,2 %)",
-        "Retrait de la cote : fin de la négociation en Bourse une fois l'opération conclue",
-        "Détails et conditions de l'opération non précisés dans les données"
+        "Chiffre d'affaires en baisse (-15,2 %)",
+        "Les détails de l'offre ne sont pas précisés dans les titres : prix par action, conditions, calendrier",
+        "Possible retrait de la cote : plus de potentiel de hausse ni de liquidité après l'opération"
       ],
       "catalyseurs": [
-        "Annonce des détails de l'opération, de son calendrier et des approbations nécessaires",
-        "Finalisation du rachat et retrait effectif de la cote"
+        "Validation de l'opération par les actionnaires et les autorités, puis clôture de la transaction",
+        "Publication des détails officiels de l'offre (prix par action, calendrier)"
       ],
-      "a_surveiller": "Le prix d'offre par action comparé au cours actuel, ainsi que les conditions et le calendrier de clôture de la transaction."
+      "a_surveiller": "Le prix par action de l'offre, les conditions de réalisation et la date de retrait de la cote, car ils déterminent l'écart avec le cours actuel."
     }
   },
   "HELE": {
@@ -1176,27 +1176,27 @@
     }
   },
   "ENVX": {
-    "sig": "7448388283aa02b0",
+    "sig": "7795411a000540d0",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et de prévisions (TradingView, Zonebourse, Yahoo Finance) et ne contiennent aucune nouvelle concrète sur l'entreprise. Le cours a pourtant fortement reculé (-62,7 % en 6 mois) et se trouve près de son plus bas sur 52 semaines, ce qui reflète une forte volatilité et beaucoup d'incertitude.",
+      "resume": "Les titres récents sont surtout des pages de cours et de prévisions (TradingView, Zonebourse, Yahoo Finance), sans nouvelle concrète sur l'entreprise. Le fait marquant reste la forte baisse de l'action (-62,7 % en 6 mois), qui se rapproche de son plus bas sur 52 semaines, alors que les analystes restent globalement favorables.",
       "points_forts": [
         "Chiffre d'affaires en hausse de 20,8 %",
-        "Analystes majoritairement à l'achat (10 analystes, objectif moyen 9,75 USD)",
-        "Cours très inférieur à l'objectif moyen des analystes"
+        "Avis moyen des analystes : achat (10 analystes)",
+        "Objectif moyen de 9,75 $, très au-dessus du cours actuel"
       ],
       "risques": [
-        "Chute du cours de 62,7 % en 6 mois, proche du plus bas annuel (2,35 USD)",
-        "Petite capitalisation (environ 535 M USD), donc très volatile",
-        "Grand écart entre les objectifs des analystes (5 à 21 USD), signe d'une forte incertitude"
+        "Chute de 62,7 % en 6 mois, cours proche du plus bas annuel (2,35 $)",
+        "Petite capitalisation (environ 535 M$), donc très volatile",
+        "Grand écart entre les objectifs des analystes (5 à 21 $), signe de forte incertitude"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 12 novembre 2026",
-        "Révision éventuelle des objectifs ou des avis des analystes"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Révisions des objectifs ou des avis des analystes"
       ],
-      "a_surveiller": "Surveillez si le cours tient au-dessus du plus bas annuel de 2,35 USD et ce que diront les prochains résultats sur la croissance du chiffre d'affaires."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas de 52 semaines (2,35 $) et ce que diront les prochains résultats sur la croissance du chiffre d'affaires."
     }
   },
   "HVT-A": {
