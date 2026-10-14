@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "1517cae471a6b58b",
+    "sig": "0b4ad62e9a6fd2a1",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
           "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance, ainsi qu'un accord important avec Anthropic.",
-          "a_surveiller": "La hausse répétée des prévisions d'investissements peut peser sur la rentabilité future, et la réaction du marché reste partagée avec un cours à environ 13 % sous son plus haut sur 52 semaines.",
+          "a_surveiller": "La hausse répétée des prévisions d'investissements pourrait peser sur la rentabilité future, et la réaction du marché reste partagée, le cours étant environ 13 % sous son plus haut sur 52 semaines.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de la schizophrénie de Medincell après UZEDY, et l'action a bondi d'environ 18 % selon la presse.",
-          "a_surveiller": "Le titre est très volatil et peut corriger rapidement après un tel mouvement, tandis que le chiffre d'affaires est en baisse.",
+          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de la schizophrénie de Medincell, et l'action a bondi d'environ 18 % selon la presse.",
+          "a_surveiller": "Le titre reste très volatil après ce bond, le chiffre d'affaires est en recul de 44,6 % et le groupe dépend de la réussite commerciale de ses produits et des étapes cliniques et réglementaires.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "IREN",
-          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une nouvelle note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le cours reste bien sous son plus haut sur 52 semaines, le chiffre d'affaires recule de 26,7 % et les avis des analystes sont très dispersés.",
+          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
+          "a_surveiller": "Le cours (35,48 $) reste bien sous son plus haut sur 52 semaines (76,87 $), le chiffre d'affaires baisse de 26,7 % et les avis d'analystes sont très dispersés.",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations sont données à titre indicatif, ne constituent pas un conseil en investissement, et tout placement en bourse comporte un risque de perte en capital."
+      "prudence": "Ces informations sont données à titre indicatif : les cours peuvent varier fortement à la hausse comme à la baisse et une perte en capital reste possible."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "787b0fbaa3308c3c",
+    "sig": "04bdef4ee60c3620",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, un deuxième traitement de la schizophrénie issu de la technologie de Medincell, et l'action a bondi d'environ 18 % à cette annonce. Cela compte car le groupe passe d'un seul produit commercialisé (UZEDY) à deux, ce qui peut soutenir ses revenus futurs. Le titre reste toutefois volatil et le cours actuel (26,34 €) est encore loin de son plus haut sur 52 semaines (39,68 €).",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, deuxième traitement de la schizophrénie de Medincell, et l'action a bondi d'environ 18 % selon la presse. C'est une étape réglementaire importante qui élargit l'offre commerciale du groupe aux États-Unis, mais le titre reste volatil et le chiffre d'affaires est en recul sur la période.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
-        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,9 €)",
-        "Cours qui s'approche d'une résistance technique vers 28,5 €"
+        "Feu vert de la FDA pour Weltruza, deuxième produit contre la schizophrénie",
+        "Consensus des analystes très favorable (9 avis, strong_buy, objectif moyen 35,9 €)",
+        "Cours au-dessus de plusieurs repères techniques récents et résistance cassée selon la presse"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-44,6 % de croissance)",
-        "Forte volatilité de l'action, typique d'une biotech de taille moyenne",
-        "Réaction à l'annonce déjà en partie intégrée dans le cours, avec un risque de repli"
+        "Croissance du chiffre d'affaires négative (-44,6 %)",
+        "Forte volatilité après un bond de 18 % : un mouvement de reprise de gains reste possible",
+        "Dépendance à la réussite commerciale des produits et aux étapes cliniques et réglementaires"
       ],
       "catalyseurs": [
-        "Lancement commercial et premières ventes de Weltruza",
-        "Résultats de l'essai de phase III de mdc-CWM (douleur post-opératoire)"
+        "Lancement commercial et premiers retours de ventes de Weltruza",
+        "Avancées cliniques du mdc-CWM (phase III) contre la douleur post-opératoire"
       ],
-      "a_surveiller": "Voir si le titre franchit durablement la résistance autour de 28,52 € et comment évoluent les revenus après le lancement de Weltruza."
+      "a_surveiller": "Surveiller les annonces de lancement de Weltruza, l'évolution du chiffre d'affaires et la capacité du cours à se maintenir après la forte hausse, sans date de résultats connue pour l'instant."
     }
   },
   "KLRA": {
@@ -434,26 +434,27 @@
     }
   },
   "MYN": {
-    "sig": "f428ee5f80fdf038",
+    "sig": "8b4b37ff1924880e",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis sont de simples pages de cours TradingView (BBDC, CION, MYI, PBT, TSLX) et ne contiennent aucune information concrète sur MYN. Le fonds, qui investit dans des obligations municipales de New York, cote à 8,78 USD, proche de son plus bas sur 52 semaines (8,58), après une baisse d'environ 8,4 % en 6 mois.",
+      "resume": "Les titres d'actualité récents ne concernent pas vraiment MYN : ce sont surtout des pages de cours TradingView pour d'autres fonds et sociétés (CION, MYI, PBT, TSLX, VTN). Aucune information concrète sur ce fonds de obligations municipales de New York n'en ressort. Le cours (8,78 USD) reste proche de son plus bas sur 52 semaines (8,58), après une baisse d'environ 8 % en 6 mois.",
       "points_forts": [
-        "Fonds géré par BlackRock, investi en obligations municipales de qualité (investment grade)",
-        "Revenus exonérés d'impôt fédéral et de l'État et de la ville de New York, selon la description"
+        "Fonds investi en obligations municipales de qualité (investment grade) exonérées d'impôts fédéraux et new-yorkais",
+        "Géré par BlackRock, un grand gestionnaire d'actifs",
+        "Croissance du chiffre d'affaires indiquée à 1,545 (donnée à interpréter avec prudence)"
       ],
       "risques": [
         "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
-        "Aucun avis d'analystes ni objectif de cours disponible pour éclairer la situation",
-        "Fonds de dette à long terme : valeur potentiellement sensible aux variations des taux d'intérêt"
+        "Fonds concentré sur un seul État, donc sensible à la situation de New York",
+        "Aucune couverture d'analystes ni objectif de cours disponibles"
       ],
       "catalyseurs": [
-        "Prochaine publication de résultats ou de rapport du fonds (date non communiquée)",
-        "Évolution des taux d'intérêt, qui influence généralement les fonds obligataires"
+        "Prochaine communication de distribution ou de résultats du fonds (date non précisée dans les données)",
+        "Évolution des taux d'intérêt, qui influence la valeur des obligations municipales"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas sur 52 semaines (8,58 USD) et l'annonce des prochaines distributions ou du prochain rapport du fonds."
+      "a_surveiller": "Surveiller si le cours passe sous le plus bas de 52 semaines (8,58 USD) et si le fonds publie des informations sur ses distributions."
     }
   },
   "AL2SI.PA": {
@@ -865,27 +866,27 @@
     }
   },
   "AGBK": {
-    "sig": "e18f5a642d34cfc8",
+    "sig": "9f2d3af3cbabe475",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne concernent pas directement AGI Inc : ils parlent d'autres entreprises (Blackstone, Cerebras, Paramount, etc.) ou d'une simple page de cours. Il n'y a donc pas d'information concrète sur l'entreprise elle-même. Le contexte vient surtout des chiffres : un cours en repli sur 6 mois, un chiffre d'affaires en baisse et des analystes très optimistes.",
+      "resume": "Les titres récents ne concernent pas vraiment AGI Inc : ils parlent d'autres sociétés (Blackstone, Cerebras, SoftBank, etc.) ou d'une simple page de cours. Il n'y a donc pas d'information concrète sur l'entreprise. Le contexte reste mitigé : un chiffre d'affaires en baisse, mais des analystes très favorables.",
       "points_forts": [
-        "Avis des analystes « strong buy » (11 analystes), objectif moyen de 12,58 USD contre un cours de 7,38 USD",
-        "Services financiers appuyés par le cloud, l'IA et le mobile",
-        "Cours encore nettement au-dessus du plus bas sur 52 semaines (5,28 USD)"
+        "Avis des analystes : strong_buy (11 analystes)",
+        "Objectif moyen (12,58) nettement au-dessus du cours (7,38)",
+        "Cours bien au-dessus du plus bas sur 52 semaines (5,28)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-15,2 %)",
-        "Cours en recul de 5,5 % sur 6 mois et loin du plus haut sur 52 semaines (12,21 USD)",
-        "Forte volatilité probable (petite capitalisation, exposition au marché brésilien)"
+        "Chiffre d'affaires en recul (-15,2 %)",
+        "Cours en baisse de 5,5 % sur 6 mois et loin du plus haut (12,21)",
+        "Activité concentrée sur le Brésil, avec une forte volatilité possible"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 11 novembre 2026",
-        "Éventuelles révisions des objectifs de cours par les analystes"
+        "Publication des résultats prévue le 2026-11-11",
+        "Révision éventuelle des objectifs ou avis des analystes"
       ],
-      "a_surveiller": "Surveiller si la baisse du chiffre d'affaires se poursuit ou s'inverse lors des prochains résultats, et l'évolution de l'écart entre le cours et les objectifs des analystes."
+      "a_surveiller": "Surveillez si le chiffre d'affaires continue de baisser lors des prochains résultats et si le cours se rapproche ou non des objectifs des analystes."
     }
   },
   "QDEL": {
