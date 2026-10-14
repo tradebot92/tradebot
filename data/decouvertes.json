@@ -36,17 +36,12 @@
       "premiere": "2026-10-14T18:02+02:00",
       "nom": "Endeavour Silver Corporation"
     },
-    "SNDA": {
-      "premiere": "2026-10-14T18:02+02:00",
-      "nom": "Sonida Senior Living, Inc."
+    "PHAT": {
+      "premiere": "2026-10-14T19:23+02:00",
+      "nom": "Phathom Pharmaceuticals, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "ARL",
-      "date": "13/10/2026",
-      "nom": "American Realty Investors, Inc."
-    },
     {
       "symbole": "EXK",
       "date": "13/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "ALMR",
       "date": "14/10/2026",
       "nom": "Alamar Biosciences, Inc."
+    },
+    {
+      "symbole": "SNDA",
+      "date": "14/10/2026",
+      "nom": "Sonida Senior Living, Inc."
     }
   ]
 }

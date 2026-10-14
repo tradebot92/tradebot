@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "ec9691e5556800f0",
+    "sig": "c53b85354102fbf2",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
           "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 %, un cloud moteur de la croissance et un accord important avec Anthropic.",
-          "a_surveiller": "La hausse répétée des prévisions d'investissements, qui pèse sur la rentabilité, alors que le cours (346 USD) reste sous son plus haut annuel de 404 USD et proche de l'objectif bas des analystes (340 USD).",
+          "a_surveiller": "La hausse répétée des prévisions d'investissements pèse sur la rentabilité, et le cours de 346 USD reste sous le plus haut annuel de 404 USD, proche de l'objectif bas des analystes (340 USD).",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza, un deuxième traitement de la schizophrénie de Medincell après UZEDY, et le titre a bondi d'environ 18 % selon la presse.",
-          "a_surveiller": "La forte volatilité du titre et le recul du chiffre d'affaires, avec un cours encore éloigné du plus haut sur 52 semaines (39,68 €).",
+          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de la schizophrénie de MedinCell après UZEDY, et le titre a bondi d'environ 18 % selon la presse.",
+          "a_surveiller": "Le chiffre d'affaires est en recul, le cours reste très volatil et une partie de la bonne nouvelle peut déjà être intégrée dans le prix.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "IREN",
           "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le chiffre d'affaires en baisse (-26,7 %), la forte volatilité de l'action et la grande dispersion des avis d'analystes, avec un cours (35,48 $) bien sous son plus haut sur 52 semaines (76,87 $).",
+          "a_surveiller": "Le chiffre d'affaires baisse de 26,7 %, le cours de 35,48 $ reste bien sous son plus haut sur 52 semaines (76,87 $) et les avis d'analystes sont très dispersés.",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations sont à but indicatif : les cours peuvent varier fortement à la hausse comme à la baisse et une perte en capital reste possible."
+      "prudence": "Ces informations ne constituent pas un conseil : les cours de ces trois valeurs sont volatils et peuvent baisser comme monter, y compris après de bonnes nouvelles."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "a8495e06ad6c3da9",
+    "sig": "45b38c0db12b9fc6",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, un deuxième traitement de la schizophrénie de Medincell, et le titre a bondi d'environ 18 % en Bourse selon la presse. C'est important car cela renforce la gamme de produits commercialisables de l'entreprise après UZEDY. Un titre peut toutefois être volatil : une journée en forte baisse a aussi été signalée récemment.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, deuxième traitement de la schizophrénie de MedinCell, et le titre a bondi d'environ 18 % selon la presse. Cette autorisation compte car elle élargit la gamme commerciale de l'entreprise, qui compte déjà UZEDY. Un titre « en forte baisse » est aussi cité dans les actualités récentes, ce qui montre que le cours reste très volatil.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
-        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,9 € vs cours 26,3 €)",
-        "Produit déjà commercialisé (UZEDY) et pipeline avancé (mdc-CWM en phase III)"
+        "Feu vert de la FDA pour Weltruza, deuxième produit contre la schizophrénie",
+        "Analystes très favorables : avis strong_buy, objectif moyen 35,9 € contre 26,82 € de cours",
+        "Produit UZEDY déjà commercialisé et autres candidats en développement (mdc-CWM en phase III)"
       ],
       "risques": [
-        "Chiffre d'affaires en recul (-0,446 selon les données)",
-        "Forte volatilité du titre, avec de fortes hausses et baisses récentes",
-        "Cours encore éloigné du plus haut sur 52 semaines (39,68 €)"
+        "Chiffre d'affaires en recul (-0,446 selon les données fournies)",
+        "Forte volatilité du cours, avec de fortes hausses comme de fortes baisses récentes",
+        "Après le bond de 18 %, une partie de la bonne nouvelle peut déjà être intégrée dans le cours"
       ],
       "catalyseurs": [
-        "Lancement commercial et premières ventes de Weltruza",
-        "Avancement des essais cliniques de mdc-CWM (phase III)"
+        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
+        "Avancement de mdc-CWM (phase III) et des autres programmes cliniques"
       ],
-      "a_surveiller": "Surveillez la suite donnée à l'autorisation de Weltruza (calendrier de commercialisation) et si le titre garde ses gains après un mouvement aussi brusque."
+      "a_surveiller": "Surveillez la façon dont l'autorisation de Weltruza se traduit en chiffre d'affaires, car la croissance du chiffre d'affaires est actuellement négative et la date des prochains résultats n'est pas connue."
     }
   },
   "KLRA": {
@@ -1128,27 +1128,51 @@
     }
   },
   "NRG.PA": {
-    "sig": "e4ab38a382d333a0",
+    "sig": "5522a72b1d17df97",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Le seul titre vraiment lié à NRJ Group indique que le groupe a été pénalisé par un marché publicitaire difficile au premier semestre. Les autres titres parlent du marché en général ou d'autres sociétés et n'apportent rien de concret sur NRJ. Cela compte car la publicité est une source de revenus clé pour une radio, et le chiffre d'affaires est quasi stable (-0,03).",
+      "resume": "Les titres récents sont mitigés : NRJ Group est pénalisé par un marché publicitaire difficile au premier semestre, mais un gain de 10,3 M€ obtenu contre Fun Radio est attendu seulement à la fin de l'année. Le cours (6,1 €) reste dans le bas de sa fourchette sur 52 semaines, avec un chiffre d'affaires quasi stable.",
       "points_forts": [
-        "Chiffre d'affaires quasi stable (-0,03)",
-        "Objectifs des analystes (9,4 à 10,0 EUR) supérieurs au cours actuel de 6,06 EUR",
-        "Activité diversifiée : radios, digital, podcasts, événements"
+        "Objectif moyen des analystes (9,63 €) nettement au-dessus du cours actuel",
+        "Gain de 10,3 M€ contre Fun Radio à venir",
+        "Chiffre d'affaires stable (-0,03)"
       ],
       "risques": [
-        "Marché publicitaire difficile au premier semestre",
-        "Cours en baisse de 10 % sur 6 mois, proche du plus bas annuel (5,52 EUR)",
-        "Seulement 3 analystes, donc peu de recul sur les prévisions"
+        "Marché publicitaire difficile, cœur de l'activité de la radio",
+        "Cours en baisse de 9,4 % sur 6 mois",
+        "Peu d'analystes (3) et pas d'avis clair, donc visibilité limitée"
       ],
       "catalyseurs": [
-        "Prochaine publication de résultats (date non communiquée)",
-        "Reprise éventuelle du marché publicitaire"
+        "Encaissement du gain de 10,3 M€ lié à l'affaire Fun Radio, attendu en fin d'année",
+        "Prochaine publication de résultats (date non communiquée)"
       ],
-      "a_surveiller": "Surveiller la date des prochains résultats et l'évolution des recettes publicitaires, ainsi que la tenue du cours au-dessus du plus bas annuel de 5,52 EUR."
+      "a_surveiller": "L'évolution du marché publicitaire et la date effective du versement des 10,3 M€, qui pourraient influencer le cours d'une petite capitalisation comme NRJ Group."
+    }
+  },
+  "PHAT": {
+    "sig": "c6f7506ce33ad44f",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 3,
+      "confiance": "faible",
+      "resume": "Phathom a lancé une étude pivot de phase 3 pour VOQUEZNA dans le traitement à la demande du reflux gastro-œsophagien non érosif, ce qui pourrait élargir les usages du produit. Les autres titres sont surtout des pages de cours sans information concrète. L'action reste très en retrait (-39,3 % sur 6 mois), proche de son plus bas sur 52 semaines.",
+      "points_forts": [
+        "Nouvelle étude de phase 3 pouvant élargir les indications de VOQUEZNA",
+        "Croissance du chiffre d'affaires de 0,88 (88 %, si l'unité est bien un ratio)",
+        "Analystes très positifs : avis strong_buy, objectif moyen 20,09 USD"
+      ],
+      "risques": [
+        "Forte baisse du cours sur 6 mois, proche du plus bas annuel (6,52 USD)",
+        "Résultats d'une étude de phase 3 incertains, avec un délai probablement long",
+        "Petite capitalisation (environ 619 M USD), donc très volatile"
+      ],
+      "catalyseurs": [
+        "Publication des prochains résultats trimestriels le 29 octobre 2026",
+        "Avancées ou données de l'étude de phase 3 dans le reflux non érosif"
+      ],
+      "a_surveiller": "Surveillez l'avancement de l'étude de phase 3 et les prochains résultats financiers, en gardant à l'esprit l'écart entre le cours actuel (7,65 USD) et les objectifs des analystes."
     }
   }
 }
