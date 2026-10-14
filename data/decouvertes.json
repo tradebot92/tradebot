@@ -28,10 +28,6 @@
       "premiere": "2026-10-13T17:09+02:00",
       "nom": "AGI Inc"
     },
-    "EVH": {
-      "premiere": "2026-10-13T18:44+02:00",
-      "nom": "Evolent Health, Inc"
-    },
     "SES": {
       "premiere": "2026-10-13T19:41+02:00",
       "nom": "SES AI Corporation"
@@ -39,14 +35,13 @@
     "BORR": {
       "premiere": "2026-10-13T21:54+02:00",
       "nom": "Borr Drilling Limited"
+    },
+    "ETL.PA": {
+      "premiere": "2026-10-14T11:58+02:00",
+      "nom": "EUTELSAT COMMUNIC."
     }
   },
   "sorties": [
-    {
-      "symbole": "GOGO",
-      "date": "12/10/2026",
-      "nom": "Gogo Inc."
-    },
     {
       "symbole": "EXK",
       "date": "12/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "GTN-A",
       "date": "13/10/2026",
       "nom": "Gray Media, Inc."
+    },
+    {
+      "symbole": "EVH",
+      "date": "14/10/2026",
+      "nom": "Evolent Health, Inc"
     }
   ]
 }

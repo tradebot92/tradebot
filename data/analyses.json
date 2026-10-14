@@ -434,27 +434,26 @@
     }
   },
   "MYN": {
-    "sig": "8b4b37ff1924880e",
+    "sig": "f428ee5f80fdf038",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents sont uniquement des pages de cours et de graphiques d'autres fonds ou sociétés (CION, MYI, PBT, TSLX, VTN) sur TradingView, sans information concrète sur MYN. Ce fonds fermé d'obligations municipales de New York cote à 8,78 USD, proche de son plus bas sur 52 semaines (8,58), après une baisse d'environ 8 % en 6 mois.",
+      "resume": "Les titres récents sont de simples pages de cours TradingView sur d'autres valeurs (BBDC, CION, MYI, PBT, TSLX), sans information concrète sur MYN. Le fonds, qui investit dans des obligations municipales de New York, cote à 8,78 USD, proche de son plus bas sur 52 semaines (8,58), après une baisse d'environ 8 % en 6 mois.",
       "points_forts": [
-        "Obligations municipales de qualité investissement exonérées d'impôts fédéraux et de l'État/ville de New York",
-        "Géré par BlackRock, un grand gestionnaire d'actifs",
-        "Fonds ancien, créé en 1992"
+        "Obligations municipales de qualité exonérées d'impôts fédéraux et new-yorkais",
+        "Géré par BlackRock, un acteur reconnu"
       ],
       "risques": [
         "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
-        "Fonds d'obligations à long terme, donc sensible aux variations de taux d'intérêt",
-        "Aucune couverture d'analystes ni information récente spécifique au fonds"
+        "Sensibilité des obligations longues aux variations de taux d'intérêt",
+        "Aucune donnée sur la décote/prime, le rendement ou les analystes"
       ],
       "catalyseurs": [
-        "Évolution des taux d'intérêt, qui influence la valeur des obligations longues",
-        "Prochaines publications du fonds (distributions, valeur liquidative), dates non communiquées"
+        "Évolution des taux d'intérêt, qui influence le prix des obligations municipales",
+        "Prochaine publication du fonds (date non communiquée)"
       ],
-      "a_surveiller": "Surveiller si le cours casse le plus bas des 52 semaines (8,58 USD) et l'évolution de l'écart entre le cours et la valeur liquidative du fonds."
+      "a_surveiller": "Surveiller si le cours passe sous le plus bas de 52 semaines (8,58 USD) et l'évolution des taux d'intérêt, en consultant aussi la décote par rapport à la valeur liquidative et la distribution du fonds."
     }
   },
   "AL2SI.PA": {
@@ -770,27 +769,27 @@
     }
   },
   "FRMI": {
-    "sig": "c641176dce5df53f",
+    "sig": "52d22144022a000e",
     "analyse": {
-      "sentiment": "neutre",
+      "sentiment": "negatif",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents portent surtout sur l'introduction en bourse de Fermi, une société qui développe des réseaux électriques privés pour les centres de données d'IA, et sur ses débuts très remarqués. Depuis, l'action est très éloignée de son plus haut (3,72 USD contre 31,47 USD) et a perdu 36,2 % en 6 mois. Les titres ne donnent aucun chiffre concret sur l'activité, donc la lecture reste incertaine.",
+      "resume": "Fermi Inc. développe de grands réseaux électriques privés destinés aux centres de données et à l'IA. L'action est à 3,72 $, très loin de son plus haut sur 52 semaines (31,47 $), et a perdu 36,2 % en 6 mois. Un plan d'obligations convertibles de 350 M$ a pesé sur le cours, et les titres récents ne donnent pas d'information concrète nouvelle.",
       "points_forts": [
-        "Positionnement sur la demande d'énergie liée à l'IA",
-        "Projet Matador de grande ampleur (gaz, nucléaire)",
-        "Objectif moyen des analystes (17,1 USD) bien supérieur au cours"
+        "Projet ambitieux lié à la demande d'énergie de l'IA (réseau privé de 17 GW visé)",
+        "Objectif moyen des analystes (17,1 $) bien au-dessus du cours actuel",
+        "Équipe dirigeante présentée comme expérimentée"
       ],
       "risques": [
-        "Volatilité extrême : cours proche du plus bas annuel (3,2 USD)",
-        "Aucune croissance du chiffre d'affaires communiquée",
-        "Écart très large entre les objectifs d'analystes (6 à 35 USD), signe de forte incertitude"
+        "Forte volatilité et chute importante depuis le plus haut",
+        "Dilution possible via les obligations convertibles",
+        "Projets de très grande taille encore à réaliser, croissance du chiffre d'affaires non disponible"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Avancées ou annonces sur le projet Matador"
+        "Publication des résultats prévue le 2026-11-12",
+        "Nouvelles sur l'avancement du projet Matador ou sur son financement"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel de 3,2 USD et ce que la direction dit sur l'avancement du projet lors des prochains résultats."
+      "a_surveiller": "Surveille l'évolution du financement (dette convertible, dilution) et l'avancement concret du projet Matador, sachant que l'écart entre les objectifs des analystes (6 à 35 $) montre une forte incertitude."
     }
   },
   "BBAI": {
@@ -1030,6 +1029,30 @@
         "Finalisation du refinancement et remboursement des obligations de 150 M$"
       ],
       "a_surveiller": "Surveiller le coût du nouveau financement par rapport aux obligations remboursées, ainsi que le contenu précis des prévisions de bénéfice mises à jour."
+    }
+  },
+  "ETL.PA": {
+    "sig": "236d498dcb171ed3",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 3,
+      "confiance": "faible",
+      "resume": "Les titres récents sont contrastés : l'action a fortement chuté en quelques mois (-44 % sur 6 mois), mais certaines actualités évoquent un rebond lié à la libération de fréquences en bande C (environ 6 milliards de dollars pour SES et Eutelsat) et à l'activation des systèmes de communications par satellite de l'UE. Cela compte car ces sujets pourraient soutenir l'activité, mais les titres ne donnent pas de chiffres concrets sur l'impact pour Eutelsat.",
+      "points_forts": [
+        "Manne liée à la bande C évoquée par la presse",
+        "Activation des communications satellite de l'UE citée",
+        "Objectif moyen des analystes (2,27 €) supérieur au cours actuel (1,51 €)"
+      ],
+      "risques": [
+        "Forte baisse récente et cours proche du plus bas annuel (1,37 €)",
+        "Croissance du chiffre d'affaires quasi nulle (+1,1 %)",
+        "Avis des analystes partagé : « hold » avec objectifs très dispersés (0,3 à 5,22 €)"
+      ],
+      "catalyseurs": [
+        "Publication des résultats le 7 août 2026",
+        "Concrétisation des revenus de la bande C et des programmes satellites de l'UE"
+      ],
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel de 1,37 € et ce que la direction dira sur les montants réels de la bande C lors des prochains résultats."
     }
   }
 }
