@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "792526d9cdb0459d",
+    "sig": "c6c157a4c6baf99b",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
-          "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 %, un cloud moteur de croissance et un accord important avec Anthropic.",
-          "a_surveiller": "La hausse des prévisions d'investissements, qui pèse sur les coûts, et la réaction parfois volatile du cours alors qu'il est déjà proche du haut de sa fourchette sur 52 semaines.",
+          "pourquoi": "Alphabet ressort avec des résultats trimestriels solides, un bénéfice en hausse de 81 %, un cloud moteur de croissance et un accord important avec Anthropic.",
+          "a_surveiller": "La hausse des prévisions d'investissements pèse sur les coûts, le cours peut réagir de façon volatile après les résultats et il se situe déjà proche du haut de sa fourchette sur 52 semaines.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de la schizophrénie issu de la technologie de Medincell, et le titre a bondi d'environ 18 % selon la presse.",
-          "a_surveiller": "Le chiffre d'affaires en recul, la forte volatilité après ce bond et la résistance technique autour de 28,52 € évoquée par la presse.",
+          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de la schizophrénie de Medincell après UZEDY, et le titre a bondi d'environ 18 % selon la presse.",
+          "a_surveiller": "Le chiffre d'affaires est en recul, le titre reste très volatil avec de fortes hausses et baisses récentes, et le cours est encore éloigné de son plus haut sur 52 semaines (39,68 €).",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "IREN",
           "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le chiffre d'affaires en baisse de 26,7 %, la forte volatilité du titre et la grande dispersion des objectifs d'analystes, avec un cours de 35,48 $ bien sous son plus haut sur 52 semaines.",
+          "a_surveiller": "Le chiffre d'affaires baisse de 26,7 %, l'action est très volatile et reste bien sous son plus haut sur 52 semaines (76,87 $), avec une forte dispersion des avis d'analystes.",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations sont issues de titres de presse et de données partielles, elles ne garantissent aucun résultat et tout investissement comporte un risque de perte en capital."
+      "prudence": "Ces informations ne sont pas un conseil en investissement : les cours peuvent varier fortement à la hausse comme à la baisse et une perte en capital reste possible."
     }
   },
   "SVC": {
@@ -1032,27 +1032,27 @@
     }
   },
   "ETL.PA": {
-    "sig": "b9b5fe4ec818478e",
+    "sig": "a9ebbbf9417bf774",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents montrent un titre très volatil : de forts rebonds liés à des nouvelles sectorielles (restrictions de Starlink en Ukraine, activation des communications satellitaires de l'UE, manne liée à la bande C) alternent avec de fortes baisses (-35 % sur 6 mois). Le cours de 1,75 EUR reste bien en dessous du plus haut annuel de 4,556, et les analystes restent globalement prudents (avis « hold »).",
+      "resume": "Les titres récents montrent un cours très volatil : de fortes hausses ponctuelles liées à l'actualité géopolitique (restrictions de Starlink en Ukraine, activation des communications satellitaires de l'UE) mais aussi une chute marquée sur plusieurs mois. Le cours de 1,69 € reste loin de son plus haut sur 52 semaines (4,556 €), et les analystes restent partagés avec un avis « hold ».",
       "points_forts": [
-        "Actualités sectorielles porteuses (UE, bande C, Ukraine)",
-        "Chiffre d'affaires stable (+1,1 %)",
-        "Objectif moyen des analystes (2,27) au-dessus du cours"
+        "Intérêt marqué pour les satellites européens (actualité UE et Ukraine)",
+        "Objectif moyen des analystes (2,27 €) supérieur au cours actuel",
+        "Chiffre d'affaires en légère croissance (+1,1 %)"
       ],
       "risques": [
-        "Volatilité extrême, rebonds souvent suivis de reculs",
-        "Forte baisse sur 6 mois (-35 %)",
-        "Grande dispersion des objectifs d'analystes (0,3 à 5,22)"
+        "Forte volatilité : hausses et baisses brutales",
+        "Baisse d'environ 37,5 % sur 6 mois",
+        "Fourchette d'objectifs très large (0,3 à 5,22 €), signe d'une forte incertitude"
       ],
       "catalyseurs": [
-        "Résultats attendus le 07/08/2026",
-        "Concrétisation des revenus de la bande C et des programmes satellitaires de l'UE"
+        "Publication des résultats le 7 août 2026",
+        "Nouvelles annonces européennes ou géopolitiques sur les communications par satellite"
       ],
-      "a_surveiller": "Voir si les rebonds liés aux annonces se confirment dans les résultats du 7 août 2026 ou s'ils s'essoufflent comme lors des épisodes précédents."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas annuel (1,35 €) et si les résultats du 7 août 2026 confirment une croissance du chiffre d'affaires."
     }
   },
   "EVO": {

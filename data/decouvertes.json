@@ -28,21 +28,20 @@
       "premiere": "2026-10-14T15:58+02:00",
       "nom": "Beacon Financial Corporation"
     },
-    "ALMR": {
-      "premiere": "2026-10-14T16:23+02:00",
-      "nom": "Alamar Biosciences, Inc."
-    },
     "NRG.PA": {
       "premiere": "2026-10-14T16:57+02:00",
       "nom": "NRJ GROUP"
+    },
+    "EXK": {
+      "premiere": "2026-10-14T18:02+02:00",
+      "nom": "Endeavour Silver Corporation"
+    },
+    "SNDA": {
+      "premiere": "2026-10-14T18:02+02:00",
+      "nom": "Sonida Senior Living, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "EXK",
-      "date": "13/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
     {
       "symbole": "ARL",
       "date": "13/10/2026",
@@ -187,6 +186,11 @@
       "symbole": "GTN-A",
       "date": "14/10/2026",
       "nom": "Gray Media, Inc."
+    },
+    {
+      "symbole": "ALMR",
+      "date": "14/10/2026",
+      "nom": "Alamar Biosciences, Inc."
     }
   ]
 }
