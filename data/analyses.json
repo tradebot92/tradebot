@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "3aa4d129e50275b4",
+    "sig": "4b137f6c8f742f51",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires sur la forte hausse de l'action (+314 % évoqué) après son arrivée en Bourse via un SPAC, valorisée à 1,8 milliard de dollars. Depuis, le cours (10,11 USD) a reculé de 32,6 % en 6 mois et reste loin de son plus haut sur 52 semaines (21,28). Les titres ne donnent aucune information concrète nouvelle sur l'activité ou les résultats.",
+      "resume": "Les titres récents sont surtout des pages de cours et un rappel de l'entrée en Bourse d'Infleqtion via un SPAC, qui valorisait la société à 1,8 milliard de dollars. Un article évoque un bond de 314 %, mais sans détail concret ici. L'action reste très volatile : elle est à 10,1 USD, en baisse de 32,7 % sur 6 mois et loin de son plus haut à 21,28.",
       "points_forts": [
-        "Chiffre d'affaires en forte croissance (+156,5 %)",
-        "Objectif moyen des analystes (21,83 USD) bien au-dessus du cours actuel",
-        "Positionnement dans l'informatique quantique et les capteurs (horloges, GPS-denied)"
+        "Croissance du chiffre d'affaires élevée (1,565)",
+        "Objectif moyen des analystes (21,83 USD) bien supérieur au cours actuel",
+        "Activité dans les technologies quantiques (calcul, capteurs, horloges)"
       ],
       "risques": [
-        "Forte volatilité typique d'une petite valeur issue d'un SPAC",
-        "Baisse de 32,6 % sur 6 mois, cours proche du plus bas annuel (8,52)",
-        "Secteur quantique encore jeune et valorisation élevée (capitalisation ~2,3 Md USD)"
+        "Forte volatilité et recul de 32,7 % sur 6 mois",
+        "Société récemment introduite en Bourse via un SPAC",
+        "Avis des analystes non précisé malgré les objectifs de cours"
       ],
       "catalyseurs": [
         "Publication des prochains résultats le 12 novembre 2026",
-        "Évolution des objectifs et avis des analystes (6 suivent la valeur)"
+        "Mises à jour des objectifs ou avis des 6 analystes"
       ],
-      "a_surveiller": "Surveille si la croissance du chiffre d'affaires se confirme aux prochains résultats et comment le cours réagit près de son plus bas annuel de 8,52 USD."
+      "a_surveiller": "Surveiller si la croissance du chiffre d'affaires se confirme lors des résultats du 12 novembre 2026 et comment le cours évolue par rapport au plus bas annuel de 8,52 USD."
     }
   },
   "EIKN": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "c73362aec1bbbec3",
+    "sig": "ba8540d7e9b3ffb9",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
           "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance, ainsi qu'un accord important avec Anthropic.",
-          "a_surveiller": "La hausse répétée des prévisions d'investissements, qui peut peser sur la rentabilité future, et la réaction boursière mitigée alors que le cours reste environ 13 % sous son plus haut sur 52 semaines.",
+          "a_surveiller": "La hausse répétée des prévisions d'investissements pourrait peser sur la rentabilité future, et la réaction boursière reste partagée, le cours (351,14 USD) étant à environ 13 % sous son plus haut sur 52 semaines.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de la schizophrénie de Medincell après UZEDY, et l'action a bondi d'environ 18 % à l'annonce.",
-          "a_surveiller": "La forte volatilité, qui peut inverser les hausses brutales, le recul du chiffre d'affaires et la réussite commerciale des produits comme des essais cliniques en cours.",
+          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza, deuxième traitement de MedinCell contre la schizophrénie après UZEDY, ce qui a fait bondir l'action d'environ 18 % selon la presse.",
+          "a_surveiller": "Le chiffre d'affaires est en baisse, la volatilité est forte après l'annonce, et le calendrier de commercialisation comme les revenus attendus ne sont pas précisés.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "IREN",
-          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies (objectif de 79 $), mais sans détails chiffrés vérifiables.",
-          "a_surveiller": "La baisse du chiffre d'affaires (-26,7 %), la forte volatilité du cours et la grande dispersion des avis d'analystes, avec un objectif bas à 40 $.",
+          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une nouvelle note d'achat de Jefferies avec un objectif de 79 $, sans détails chiffrés vérifiables.",
+          "a_surveiller": "Le cours (35,48 $) reste bien sous son plus haut sur 52 semaines, le chiffre d'affaires recule de 26,7 % et les avis des analystes sont très dispersés.",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations sont données à titre indicatif, ne constituent pas un conseil et tout investissement en bourse comporte un risque de perte en capital."
+      "prudence": "Ces informations sont données à titre indicatif, les cours peuvent varier fortement et tout investissement comporte un risque de perte en capital."
     }
   },
   "SVC": {
@@ -434,27 +434,27 @@
     }
   },
   "MYN": {
-    "sig": "f428ee5f80fdf038",
+    "sig": "8b4b37ff1924880e",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis sont de simples pages de cours TradingView pour d'autres valeurs (BBDC, CION, MYI, PBT, TSLX) et ne disent rien de concret sur MYN. Ce fonds fermé de BlackRock détient des obligations municipales de New York, et son cours (8,78 USD) reste proche de son plus bas sur 52 semaines (8,58 USD), après un recul de 8,4 % en six mois.",
+      "resume": "Les titres d'actualité récents sont uniquement des pages de cours et de graphiques d'autres fonds ou sociétés (CION, MYI, PBT, TSLX, VTN) sur TradingView, sans information concrète sur MYN. Ce fonds fermé d'obligations municipales de New York cote à 8,78 USD, proche de son plus bas sur 52 semaines (8,58), après une baisse d'environ 8 % en 6 mois.",
       "points_forts": [
-        "Obligations municipales de qualité investissement exemptées d'impôt fédéral et de New York",
-        "Géré par BlackRock Advisors, un gestionnaire reconnu",
+        "Obligations municipales de qualité investissement exonérées d'impôts fédéraux et de l'État/ville de New York",
+        "Géré par BlackRock, un grand gestionnaire d'actifs",
         "Fonds ancien, créé en 1992"
       ],
       "risques": [
         "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
-        "Aucun avis d'analyste ni objectif de cours disponible",
-        "Concentration sur un seul État (New York) et sensibilité aux taux d'intérêt"
+        "Fonds d'obligations à long terme, donc sensible aux variations de taux d'intérêt",
+        "Aucune couverture d'analystes ni information récente spécifique au fonds"
       ],
       "catalyseurs": [
-        "Évolution des taux d'intérêt, qui pèse sur les fonds obligataires",
-        "Prochaines publications du fonds (distributions, valeur liquidative), dates non indiquées"
+        "Évolution des taux d'intérêt, qui influence la valeur des obligations longues",
+        "Prochaines publications du fonds (distributions, valeur liquidative), dates non communiquées"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel de 8,58 USD et comment il évolue par rapport à la valeur liquidative du fonds."
+      "a_surveiller": "Surveiller si le cours casse le plus bas des 52 semaines (8,58 USD) et l'évolution de l'écart entre le cours et la valeur liquidative du fonds."
     }
   },
   "AL2SI.PA": {
@@ -770,27 +770,27 @@
     }
   },
   "FRMI": {
-    "sig": "52d22144022a000e",
+    "sig": "c641176dce5df53f",
     "analyse": {
-      "sentiment": "negatif",
+      "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Fermi Inc. développe de grands réseaux électriques privés pour alimenter l'IA et les centres de données. L'action a fortement reculé : environ -31,6 % en 6 mois, à 3,99 $ contre un plus haut annuel de 31,47 $. Parmi les titres récents, un plan d'obligations convertibles de 350 M$ a fait chuter le cours, ce qui montre que l'entreprise dépend du financement externe.",
+      "resume": "Les titres récents portent surtout sur l'introduction en bourse de Fermi, une société qui développe des réseaux électriques privés pour les centres de données d'IA, et sur ses débuts très remarqués. Depuis, l'action est très éloignée de son plus haut (3,72 USD contre 31,47 USD) et a perdu 36,2 % en 6 mois. Les titres ne donnent aucun chiffre concret sur l'activité, donc la lecture reste incertaine.",
       "points_forts": [
-        "Projet ambitieux : réseau privé de 17 GW pour l'IA",
-        "Objectif moyen des analystes (17,1 $) très supérieur au cours actuel",
-        "Thème porteur : forte demande d'énergie pour l'IA"
+        "Positionnement sur la demande d'énergie liée à l'IA",
+        "Projet Matador de grande ampleur (gaz, nucléaire)",
+        "Objectif moyen des analystes (17,1 USD) bien supérieur au cours"
       ],
       "risques": [
-        "Volatilité extrême : cours très éloigné de son plus haut de 52 semaines",
-        "Dilution possible avec les obligations convertibles et besoin de financement",
-        "Aucune croissance du chiffre d'affaires indiquée, et fourchette d'objectifs analystes très large (6 à 35 $)"
+        "Volatilité extrême : cours proche du plus bas annuel (3,2 USD)",
+        "Aucune croissance du chiffre d'affaires communiquée",
+        "Écart très large entre les objectifs d'analystes (6 à 35 USD), signe de forte incertitude"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 12 novembre 2026",
-        "Avancement du projet Project Matador et nouvelles opérations de financement"
+        "Avancées ou annonces sur le projet Matador"
       ],
-      "a_surveiller": "Suivre les annonces de financement et leur effet de dilution, ainsi que les signes concrets d'avancement du projet et de premiers revenus."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel de 3,2 USD et ce que la direction dit sur l'avancement du projet lors des prochains résultats."
     }
   },
   "BBAI": {
@@ -866,27 +866,27 @@
     }
   },
   "AGBK": {
-    "sig": "a4d04aabe0445114",
+    "sig": "ec0d81e0e67d4223",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne parlent pas d'AGI Inc : ils portent sur d'autres sociétés (Blackstone, Cerebras, SoftBank, etc.) ou sur une simple page de cours. Il n'y a donc aucune information concrète sur l'entreprise elle-même ; l'analyse repose seulement sur les données de marché et le consensus des analystes.",
+      "resume": "Les titres récents ne parlent pas concrètement d'AGI Inc : ils portent sur d'autres sociétés (Blackstone, Cerebras, SoftBank, etc.) et sur une simple page de cours. Il n'y a donc pas d'information nouvelle sur l'entreprise elle-même. Le cours (7,38 USD) reste dans une fourchette large sur 52 semaines (5,28 à 12,21), signe d'une action assez volatile.",
       "points_forts": [
-        "Avis moyen des analystes « strong buy » (11 analystes)",
-        "Objectif moyen de 12,56 USD, nettement au-dessus du cours de 7,38 USD",
-        "Services reposant sur le cloud, l'IA et le mobile"
+        "Avis d'analystes très favorable (strong_buy, 11 analystes)",
+        "Objectif moyen (12,59 USD) nettement au-dessus du cours actuel",
+        "Activité tournée vers la technologie (IA, cloud, mobile)"
       ],
       "risques": [
         "Chiffre d'affaires en baisse (-15,2 %)",
-        "Cours volatil : entre 5,28 et 12,21 USD sur 52 semaines, -5,5 % sur 6 mois",
-        "Activité concentrée sur le Brésil, avec une capitalisation modeste (environ 1,9 milliard USD)"
+        "Forte volatilité du cours sur 12 mois",
+        "Exposition à un seul pays (Brésil) et au crédit, sensible à la conjoncture"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 11 novembre 2026",
-        "Éventuelles révisions des objectifs de cours par les analystes"
+        "Évolution des objectifs et avis des analystes"
       ],
-      "a_surveiller": "Surveiller si le chiffre d'affaires cesse de reculer lors des prochains résultats, car c'est le point faible principal visible dans les données."
+      "a_surveiller": "Surveillez si le chiffre d'affaires se stabilise lors des prochains résultats, car la baisse actuelle contraste avec l'optimisme des analystes."
     }
   },
   "QDEL": {
