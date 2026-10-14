@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "45b38c0db12b9fc6",
+    "sig": "a8495e06ad6c3da9",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, deuxième traitement de la schizophrénie de MedinCell, et le titre a bondi d'environ 18 % selon la presse. Cette autorisation compte car elle élargit la gamme commerciale de l'entreprise, qui compte déjà UZEDY. Un titre « en forte baisse » est aussi cité dans les actualités récentes, ce qui montre que le cours reste très volatil.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, deuxième traitement de la schizophrénie de Medincell, et l'action a gagné jusqu'à 18 % en Bourse selon la presse. Cette approbation compte car elle ajoute un second produit commercialisable aux côtés d'UZEDY. Le titre reste toutefois très volatil, comme le rappelle une récente journée de forte baisse.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, deuxième produit contre la schizophrénie",
-        "Analystes très favorables : avis strong_buy, objectif moyen 35,9 € contre 26,82 € de cours",
-        "Produit UZEDY déjà commercialisé et autres candidats en développement (mdc-CWM en phase III)"
+        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
+        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,9 € contre 26,82 € de cours)",
+        "Produit UZEDY déjà commercialisé et autres candidats en développement (mdc-CWM en Phase III)"
       ],
       "risques": [
+        "Forte volatilité du titre (hausses et baisses brutales)",
         "Chiffre d'affaires en recul (-0,446 selon les données fournies)",
-        "Forte volatilité du cours, avec de fortes hausses comme de fortes baisses récentes",
-        "Après le bond de 18 %, une partie de la bonne nouvelle peut déjà être intégrée dans le cours"
+        "Une partie de la bonne nouvelle peut déjà être intégrée dans le cours après la hausse"
       ],
       "catalyseurs": [
-        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
-        "Avancement de mdc-CWM (phase III) et des autres programmes cliniques"
+        "Lancement commercial et premiers retours de ventes de Weltruza",
+        "Avancée des essais cliniques de mdc-CWM (Phase III) contre la douleur post-opératoire"
       ],
-      "a_surveiller": "Surveillez la façon dont l'autorisation de Weltruza se traduit en chiffre d'affaires, car la croissance du chiffre d'affaires est actuellement négative et la date des prochains résultats n'est pas connue."
+      "a_surveiller": "Surveillez les prochaines publications de résultats (date non communiquée) pour voir si l'approbation de Weltruza se traduit concrètement en chiffre d'affaires, et si le cours se stabilise après le mouvement de +18 %."
     }
   },
   "KLRA": {
