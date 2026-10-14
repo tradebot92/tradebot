@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "04bdef4ee60c3620",
+    "sig": "787b0fbaa3308c3c",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, deuxième traitement de la schizophrénie de Medincell, et le titre a fortement monté (jusqu'à +18 % selon un titre de presse). C'est une étape réglementaire importante pour une biotech qui dépend de ses traitements injectables à libération prolongée. Le cours reste toutefois sous son plus haut sur 52 semaines (39,68 €).",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, un deuxième traitement de la schizophrénie issu de la technologie de Medincell, et l'action a bondi d'environ 18 % à cette annonce. Cela compte car le groupe passe d'un seul produit commercialisé (UZEDY) à deux, ce qui peut soutenir ses revenus futurs. Le titre reste toutefois volatil et le cours actuel (26,34 €) est encore loin de son plus haut sur 52 semaines (39,68 €).",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, 2e traitement contre la schizophrénie",
-        "Avis des analystes strong_buy, objectif moyen 35,91 € contre 26,44 € de cours",
-        "Rupture d'une résistance technique évoquée par la presse"
+        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
+        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,9 €)",
+        "Cours qui s'approche d'une résistance technique vers 28,5 €"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse de 0,4 % sur la dernière période",
-        "Forte volatilité après un bond de cours, avec un risque de repli",
-        "Le lancement commercial et ses résultats restent à prouver"
+        "Chiffre d'affaires en baisse (-44,6 % de croissance)",
+        "Forte volatilité de l'action, typique d'une biotech de taille moyenne",
+        "Réaction à l'annonce déjà en partie intégrée dans le cours, avec un risque de repli"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis",
-        "Avancée du programme mdc-CWM, actuellement en phase III, contre la douleur post-opératoire"
+        "Lancement commercial et premières ventes de Weltruza",
+        "Résultats de l'essai de phase III de mdc-CWM (douleur post-opératoire)"
       ],
-      "a_surveiller": "Suivez le calendrier de lancement de Weltruza et la capacité du cours à tenir ses niveaux après la hausse, car aucune date de prochains résultats n'est indiquée."
+      "a_surveiller": "Voir si le titre franchit durablement la résistance autour de 28,52 € et comment évoluent les revenus après le lancement de Weltruza."
     }
   },
   "KLRA": {
@@ -865,27 +865,27 @@
     }
   },
   "AGBK": {
-    "sig": "ec0d81e0e67d4223",
+    "sig": "e18f5a642d34cfc8",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas concrètement d'AGI Inc : ils portent sur d'autres sociétés (Blackstone, Cerebras, SoftBank, etc.) et sur une simple page de cours. Il n'y a donc pas d'information nouvelle sur l'entreprise elle-même. Le cours (7,38 USD) reste dans une fourchette large sur 52 semaines (5,28 à 12,21), signe d'une action assez volatile.",
+      "resume": "Les titres d'actualité récents ne concernent pas directement AGI Inc : ils parlent d'autres entreprises (Blackstone, Cerebras, Paramount, etc.) ou d'une simple page de cours. Il n'y a donc pas d'information concrète sur l'entreprise elle-même. Le contexte vient surtout des chiffres : un cours en repli sur 6 mois, un chiffre d'affaires en baisse et des analystes très optimistes.",
       "points_forts": [
-        "Avis d'analystes très favorable (strong_buy, 11 analystes)",
-        "Objectif moyen (12,59 USD) nettement au-dessus du cours actuel",
-        "Activité tournée vers la technologie (IA, cloud, mobile)"
+        "Avis des analystes « strong buy » (11 analystes), objectif moyen de 12,58 USD contre un cours de 7,38 USD",
+        "Services financiers appuyés par le cloud, l'IA et le mobile",
+        "Cours encore nettement au-dessus du plus bas sur 52 semaines (5,28 USD)"
       ],
       "risques": [
         "Chiffre d'affaires en baisse (-15,2 %)",
-        "Forte volatilité du cours sur 12 mois",
-        "Exposition à un seul pays (Brésil) et au crédit, sensible à la conjoncture"
+        "Cours en recul de 5,5 % sur 6 mois et loin du plus haut sur 52 semaines (12,21 USD)",
+        "Forte volatilité probable (petite capitalisation, exposition au marché brésilien)"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 11 novembre 2026",
-        "Évolution des objectifs et avis des analystes"
+        "Éventuelles révisions des objectifs de cours par les analystes"
       ],
-      "a_surveiller": "Surveillez si le chiffre d'affaires se stabilise lors des prochains résultats, car la baisse actuelle contraste avec l'optimisme des analystes."
+      "a_surveiller": "Surveiller si la baisse du chiffre d'affaires se poursuit ou s'inverse lors des prochains résultats, et l'évolution de l'écart entre le cours et les objectifs des analystes."
     }
   },
   "QDEL": {
