@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "8e2bdd0966aac566",
+    "sig": "4b137f6c8f742f51",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Infleqtion, spécialiste de l'informatique et des capteurs quantiques, est cotée depuis peu après une fusion avec un SPAC qui la valorisait à 1,8 milliard de dollars. Le cours (9,1 $) a nettement reculé en 6 mois (-41,5 %) et reste proche de son plus bas sur 52 semaines, alors que les analystes visent en moyenne 21,83 $. Les titres d'actualité disponibles ne donnent pas de fait concret nouveau : l'écart entre l'avis des analystes et le cours montre surtout une forte incertitude.",
+      "resume": "Les titres récents sont surtout des pages de cotation et un rappel de l'entrée en Bourse d'Infleqtion via un SPAC, avec une valorisation de 1,8 milliard de dollars. Aucune actualité concrète nouvelle n'en ressort. Le cours (9,11 $) est bien sous son plus haut sur 52 semaines (21,28 $), ce qui montre une forte volatilité.",
       "points_forts": [
-        "Croissance du chiffre d'affaires très élevée (+156,5 %)",
-        "Avis analystes strong_buy, objectif moyen 21,83 $ (6 analystes)",
-        "Gamme variée : ordinateurs, horloges et capteurs quantiques"
+        "Croissance du chiffre d'affaires élevée (1,565)",
+        "Avis d'analystes strong_buy (6 analystes)",
+        "Objectifs de cours moyens (21,83 $) bien au-dessus du cours actuel"
       ],
       "risques": [
-        "Forte volatilité : plus haut 21,28 $, plus bas 8,52 $ en 52 semaines",
-        "Baisse de 41,5 % en 6 mois, cours proche du plus bas annuel",
-        "Secteur quantique très spéculatif, sensible à l'humeur du marché (ex. IonQ)"
+        "Baisse de 41,5 % en 6 mois et cours proche du plus bas sur 52 semaines (8,52 $)",
+        "Action très volatile, typique d'une petite entreprise issue d'un SPAC",
+        "Objectifs des analystes très éloignés du cours, ce qui peut refléter une forte incertitude"
       ],
       "catalyseurs": [
-        "Publication des résultats le 12 novembre 2026",
-        "Annonces de contrats ou de produits (capteurs, horloges atomiques, calcul quantique)"
+        "Publication des prochains résultats le 12 novembre 2026",
+        "Nouvelles annonces commerciales ou contrats dans l'informatique et les capteurs quantiques"
       ],
-      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas annuel de 8,52 $ et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
+      "a_surveiller": "Surveillez si le cours tient au-dessus du plus bas des 52 semaines (8,52 $) et ce que révéleront les résultats du 12 novembre 2026 sur la croissance du chiffre d'affaires."
     }
   },
   "EIKN": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "1e60b9c63b6eebde",
+    "sig": "4875f4f032b860cc",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
-          "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 %, un cloud moteur de la croissance et un accord important conclu avec Anthropic.",
-          "a_surveiller": "La hausse répétée des prévisions d'investissements pèse sur la rentabilité, et le cours (346 USD) reste nettement sous son plus haut annuel de 404 USD, proche de l'objectif bas des analystes (340 USD).",
+          "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 %, un cloud moteur de la croissance et un accord important avec Anthropic, ce qui a fait monter le titre d'environ 2 %.",
+          "a_surveiller": "La hausse répétée des prévisions d'investissements, qui pèse sur la rentabilité, et un cours à 346 USD resté nettement sous le plus haut annuel de 404 USD.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de la schizophrénie de Medincell, qui s'ajoute à UZEDY, et l'action a gagné jusqu'à 18 % selon la presse.",
-          "a_surveiller": "Le titre reste très volatil, le chiffre d'affaires est en recul et une partie de la bonne nouvelle peut déjà être intégrée dans le cours.",
+          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de MedinCell contre la schizophrénie après UZEDY, et le titre a bondi d'environ 18 %.",
+          "a_surveiller": "Le chiffre d'affaires en recul de 0,4 %, la forte volatilité du titre et un succès commercial de Weltruza qui n'est pas garanti ni chiffré.",
           "nom": "MEDINCELL S.A."
         },
         {
-          "symbole": "TRAX",
-          "pourquoi": "L'action de First Tracks Biotherapeutics a bondi d'environ 20 % après des données d'essai clinique jugées encourageantes dans la maladie cœliaque.",
-          "a_surveiller": "Les détails chiffrés des données ne sont pas fournis, et le cours peut se replier si les données détaillées déçoivent, la société dépendant de ses essais et de son financement.",
-          "nom": "First Tracks Biotherapeutics, I"
+          "symbole": "IREN",
+          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies (objectif 79 $), mais sans détails chiffrés vérifiables.",
+          "a_surveiller": "Le chiffre d'affaires en baisse de 26,7 %, un cours de 35,48 $ très en dessous du plus haut de 76,87 $ et la forte dispersion des avis d'analystes.",
+          "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations ne constituent pas un conseil : les cours peuvent varier fortement dans les deux sens et vous pouvez perdre une partie ou la totalité de votre capital investi."
+      "prudence": "Ces informations sont purement indicatives : les cours de ces trois valeurs sont volatils et peuvent évoluer fortement à la hausse comme à la baisse, avec un risque de perte en capital."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "a8495e06ad6c3da9",
+    "sig": "76c4a52951d50a4b",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, deuxième traitement de la schizophrénie de Medincell, et l'action a gagné jusqu'à 18 % en Bourse selon la presse. Cette approbation compte car elle ajoute un second produit commercialisable aux côtés d'UZEDY. Le titre reste toutefois très volatil, comme le rappelle une récente journée de forte baisse.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, le deuxième traitement de MedinCell contre la schizophrénie, et le titre a bondi d'environ 18 % en Bourse. C'est important : cela élargit la gamme commerciale de l'entreprise après UZEDY. Un titre a toutefois aussi signalé une journée de forte baisse, ce qui montre que le cours reste très volatil.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
-        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,9 € contre 26,82 € de cours)",
-        "Produit UZEDY déjà commercialisé et autres candidats en développement (mdc-CWM en Phase III)"
+        "Feu vert de la FDA pour Weltruza, deuxième produit contre la schizophrénie",
+        "Analystes très positifs : avis « strong_buy », objectif moyen 35,9 € contre 26,82 € de cours",
+        "UZEDY déjà commercialisé, ce qui diversifie les sources de revenus potentielles"
       ],
       "risques": [
-        "Forte volatilité du titre (hausses et baisses brutales)",
-        "Chiffre d'affaires en recul (-0,446 selon les données fournies)",
-        "Une partie de la bonne nouvelle peut déjà être intégrée dans le cours après la hausse"
+        "Chiffre d'affaires en recul (-0,4 %) malgré les avancées réglementaires",
+        "Forte volatilité du titre, avec de fortes hausses et baisses",
+        "Le succès commercial de Weltruza n'est pas garanti et les données fournies ne le chiffrent pas"
       ],
       "catalyseurs": [
-        "Lancement commercial et premiers retours de ventes de Weltruza",
-        "Avancée des essais cliniques de mdc-CWM (Phase III) contre la douleur post-opératoire"
+        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
+        "Avancées des autres programmes, comme mdc-CWM en phase III"
       ],
-      "a_surveiller": "Surveillez les prochaines publications de résultats (date non communiquée) pour voir si l'approbation de Weltruza se traduit concrètement en chiffre d'affaires, et si le cours se stabilise après le mouvement de +18 %."
+      "a_surveiller": "Surveillez le calendrier de lancement de Weltruza et la capacité de l'entreprise à relancer son chiffre d'affaires, car la date des prochains résultats n'est pas connue."
     }
   },
   "KLRA": {
@@ -577,27 +577,27 @@
     }
   },
   "BBT": {
-    "sig": "95019cf2fa42f19d",
+    "sig": "a39f618d7d22f06c",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Le seul titre vraiment lié à Beacon Financial est le maintien de la recommandation « neutre » par RBC Capital Markets, ce qui ne change pas grand-chose en soi. Les autres titres concernent d'autres sociétés (Solidion, Banc of California, JPMorgan) et n'apportent rien de concret sur l'action. Le cours recule d'environ 12 % sur 6 mois, alors que les analystes restent globalement favorables.",
+      "resume": "Le seul titre vraiment lié à Beacon Financial est le maintien de la recommandation « neutre » par RBC Capital Markets, sans détail chiffré. Les autres titres concernent d'autres valeurs ou des pages de cotation génériques. Cela compte peu en soi, mais contraste avec l'avis moyen « buy » des 6 analystes.",
       "points_forts": [
-        "Objectif moyen des analystes à 34 USD, au-dessus du cours de 27,13 USD",
-        "Avis global « buy » sur 6 analystes",
-        "Croissance du chiffre d'affaires indiquée à 1,445 (donnée à interpréter avec prudence)"
+        "Objectif moyen des analystes à 34 USD, au-dessus du cours de 27,09 USD",
+        "Avis moyen « buy » sur 6 analystes",
+        "Croissance du chiffre d'affaires indiquée à 1,445"
       ],
       "risques": [
-        "Baisse d'environ 12,3 % sur 6 mois, cours loin du plus haut annuel de 32,83 USD",
-        "RBC reste neutre, ce qui nuance l'optimisme des analystes",
-        "Cours proche du bas de la fourchette 52 semaines (22,81 USD)"
+        "Baisse de 12,5 % sur 6 mois",
+        "RBC reste neutre, donc moins enthousiaste que le consensus",
+        "Actualités récentes peu concrètes, peu de visibilité sur les causes de la baisse"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 21 octobre 2026",
-        "Révisions éventuelles des objectifs ou recommandations d'analystes"
+        "Évolution des objectifs et recommandations des analystes"
       ],
-      "a_surveiller": "Les résultats du 21 octobre 2026 et l'évolution des avis des analystes, notamment après la position neutre de RBC."
+      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas sur 52 semaines (22,81 USD) et ce que diront les prochains résultats sur la croissance."
     }
   },
   "FOIL": {
@@ -673,27 +673,27 @@
     }
   },
   "BMBL": {
-    "sig": "71e02045214a2542",
+    "sig": "236845aa10576330",
     "analyse": {
       "sentiment": "neutre",
       "importance": 5,
       "confiance": "moyenne",
-      "resume": "Les titres indiquent que Bumble va être racheté pour 1,3 milliard de dollars et retiré de la cote, ce qui a fait s'envoler l'action. Le cours (5,94 $) est proche du plus haut sur 52 semaines (5,98 $) et de l'objectif haut des analystes (6,05 $), ce qui suggère que le marché a déjà intégré le prix de l'offre. Pour un actionnaire, l'enjeu devient la conclusion de l'opération plutôt que l'activité, dont le chiffre d'affaires recule (-15,2 %).",
+      "resume": "Les titres indiquent que Bumble va être rachetée pour 1,3 milliard de dollars et retirée de la cote, ce qui a fait bondir l'action. Le cours (5,97 $) se situe près de son plus haut sur 52 semaines (5,98 $) et proche de l'objectif haut des analystes (6,05 $), ce qui suggère que le marché anticipe un prix de rachat proche de ce niveau. Les détails de l'offre (prix par action, calendrier) ne figurent pas dans les données fournies.",
       "points_forts": [
-        "Offre de rachat de 1,3 Md$ qui a fait bondir le cours",
-        "Cours proche du plus haut sur 52 semaines et de l'objectif haut",
+        "Offre de rachat de 1,3 Md$ qui valorise le titre",
+        "Cours proche du plus haut sur 52 semaines",
         "Hausse d'environ 38 % sur 6 mois"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse de 15,2 %",
-        "Opération pas encore finalisée : conditions et délais non précisés dans les titres",
-        "Après la radiation de la cote, il ne sera plus possible de suivre ou négocier le titre en Bourse"
+        "Chiffre d'affaires en recul (-15,2 %)",
+        "Retrait de la cote : fin de la négociation en Bourse une fois l'opération conclue",
+        "Détails et conditions de l'opération non précisés dans les données"
       ],
       "catalyseurs": [
-        "Approbations et finalisation du rachat, avec retrait de la cote",
-        "Publication des résultats prévue le 2026-11-04 (si le titre est encore coté)"
+        "Annonce des détails de l'opération, de son calendrier et des approbations nécessaires",
+        "Finalisation du rachat et retrait effectif de la cote"
       ],
-      "a_surveiller": "Les communiqués sur le calendrier de clôture de l'opération et l'écart entre le cours et le prix d'offre, car le détail des conditions n'apparaît pas dans les titres fournis."
+      "a_surveiller": "Le prix d'offre par action comparé au cours actuel, ainsi que les conditions et le calendrier de clôture de la transaction."
     }
   },
   "HELE": {
@@ -1176,27 +1176,51 @@
     }
   },
   "ENVX": {
-    "sig": "7795411a000540d0",
+    "sig": "7448388283aa02b0",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Les titres récents sont surtout des pages de cotation et de prévisions (TradingView, Zonebourse, Yahoo Finance) et ne contiennent aucune nouvelle concrète sur l'entreprise. Le cours a pourtant fortement reculé (-62,7 % en 6 mois) et se trouve près de son plus bas sur 52 semaines, ce qui reflète une forte volatilité et beaucoup d'incertitude.",
+      "points_forts": [
+        "Chiffre d'affaires en hausse de 20,8 %",
+        "Analystes majoritairement à l'achat (10 analystes, objectif moyen 9,75 USD)",
+        "Cours très inférieur à l'objectif moyen des analystes"
+      ],
+      "risques": [
+        "Chute du cours de 62,7 % en 6 mois, proche du plus bas annuel (2,35 USD)",
+        "Petite capitalisation (environ 535 M USD), donc très volatile",
+        "Grand écart entre les objectifs des analystes (5 à 21 USD), signe d'une forte incertitude"
+      ],
+      "catalyseurs": [
+        "Publication des prochains résultats le 12 novembre 2026",
+        "Révision éventuelle des objectifs ou des avis des analystes"
+      ],
+      "a_surveiller": "Surveillez si le cours tient au-dessus du plus bas annuel de 2,35 USD et ce que diront les prochains résultats sur la croissance du chiffre d'affaires."
+    }
+  },
+  "HVT-A": {
+    "sig": "ca95d8cf94edc1fe",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et de prévisions (TradingView, Zonebourse, Yahoo Finance) qui ne donnent aucune information concrète sur l'entreprise. Le cours reste toutefois très bas à 2,43 USD, près de son plus bas sur 52 semaines (2,35) et en baisse d'environ 63 % en 6 mois, ce qui montre une forte volatilité.",
+      "resume": "Les titres d'actualité récents ne sont que des pages de cours et de graphiques (TradingView, Yahoo Finance), sans information concrète sur Haverty. Rien ne permet de dire qu'un événement précis touche l'entreprise. Le suivi repose donc surtout sur le cours et les chiffres de base.",
       "points_forts": [
-        "Chiffre d'affaires en hausse d'environ 20,8 %",
-        "Avis moyen des analystes : achat (10 analystes)",
-        "Objectif moyen de 9,75 USD, bien au-dessus du cours actuel"
+        "Chiffre d'affaires en hausse de 7,7 %",
+        "Cours en progression d'environ 22,8 % sur 6 mois",
+        "Entreprise ancienne (fondée en 1885) avec des marques reconnues"
       ],
       "risques": [
-        "Chute d'environ 63 % en 6 mois, proche du plus bas annuel",
-        "Petite capitalisation (environ 533 M USD) très volatile",
-        "Écart très large entre les objectifs des analystes (5 à 21 USD), signe d'une grande incertitude"
+        "Cours bien sous le plus haut sur 52 semaines (44,99 USD)",
+        "Secteur de l'ameublement sensible à la conjoncture",
+        "Aucune donnée d'analystes disponible, visibilité limitée"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Éventuelles révisions des objectifs ou des avis des analystes"
+        "Date des prochains résultats non communiquée, à surveiller dès son annonce",
+        "Évolution de la demande de consommation dans l'ameublement"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas de 52 semaines (2,35 USD) et ce que diront les prochains résultats sur la croissance du chiffre d'affaires."
+      "a_surveiller": "Surveiller l'annonce des prochains résultats et la tenue du cours entre le plus bas (20,28 USD) et le plus haut (44,99 USD) sur 52 semaines."
     }
   }
 }
