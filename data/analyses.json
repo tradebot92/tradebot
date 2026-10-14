@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "787b0fbaa3308c3c",
+    "sig": "04bdef4ee60c3620",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, un deuxième traitement de la schizophrénie issu de la technologie de Medincell, et le titre a bondi d'environ 18 % selon la presse. Cette approbation compte car elle élargit l'offre commerciale de la société, qui ne reposait jusqu'ici que sur UZEDY, et valide sa technologie d'injection à libération prolongée.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, un deuxième traitement injectable contre la schizophrénie issu de la technologie de Medincell. Le titre a fortement réagi à la hausse (environ +18 % selon la presse) et se situe autour de 26,5 €. Cette autorisation compte car elle élargit la gamme commerciale de la société, jusqu'ici centrée sur UZEDY.",
       "points_forts": [
-        "Feu vert de la FDA pour un deuxième traitement de la schizophrénie",
-        "Consensus d'analystes très favorable (strong_buy, objectif moyen 35,91 € contre 26,22 € de cours)",
-        "Produit déjà commercialisé (UZEDY) et autres candidats en développement (mdc-CWM en phase III)"
+        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
+        "Consensus des analystes très favorable (strong_buy, objectif moyen ~35,9 €)",
+        "Franchissement d'une résistance technique signalé par la presse"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-0,446 selon les données fournies)",
-        "Titre très volatil : forte hausse récente, résistance technique citée vers 28,52 €",
-        "Le succès commercial de Weltruza reste à démontrer après l'approbation"
+        "Chiffre d'affaires en baisse (-44,6 %) d'après les données fournies",
+        "Titre très volatil, fortes variations après l'annonce",
+        "Dépendance à un petit nombre de produits et à la réussite de leur commercialisation"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis",
-        "Résultats de l'étude de phase III de mdc-CWM (douleur post-opératoire)"
+        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
+        "Avancement de mdc-CWM (essais de phase III contre la douleur post-opératoire)"
       ],
-      "a_surveiller": "Voir si le cours tient après le bond de 18 % et franchit la résistance autour de 28,52 €, ainsi que les premières informations sur le calendrier de commercialisation de Weltruza."
+      "a_surveiller": "Voir si le cours tient après le bond lié à l'annonce et comment évoluent les ventes de UZEDY et de Weltruza, sachant qu'aucune date de résultats n'est communiquée."
     }
   },
   "KLRA": {
@@ -1032,27 +1032,27 @@
     }
   },
   "ETL.PA": {
-    "sig": "236d498dcb171ed3",
+    "sig": "f1a4d30a30fb6ae8",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont contradictoires : d'un côté, l'action a fortement chuté (environ -42 % en 3 mois selon un titre), de l'autre, des articles évoquent un rebond lié à la libération de fréquences en bande C (manne de 6 milliards de dollars citée pour SES et Eutelsat) et à l'activation du système de communications par satellite de l'UE. Le cours (1,68 €) reste bien plus bas que son plus haut sur 52 semaines (4,556 €), et les analystes sont partagés (avis hold, objectifs de 0,3 à 5,22 €).",
+      "resume": "L'action Eutelsat est très volatile : les titres évoquent une forte baisse (-42,5 % en 3 mois), des rebonds brutaux liés à des annonces (systèmes de communications par satellite de l'UE, libération de fréquences en bande C pour environ 6 milliards de dollars) puis des essoufflements. Le cours actuel (1,71 €) est bien en dessous des plus hauts de l'année, et les analystes restent partagés (avis hold, objectif moyen 2,27 €).",
       "points_forts": [
-        "Manne liée aux fréquences en bande C évoquée par la presse",
-        "Activation des communications par satellite de l'UE citée comme soutien",
+        "Annonces sectorielles favorables (satellites UE, bande C)",
+        "Objectif moyen des analystes (2,27 €) supérieur au cours actuel",
         "Chiffre d'affaires en légère croissance (+1,1 %)"
       ],
       "risques": [
-        "Forte baisse du cours : -37,9 % sur 6 mois",
-        "Très grande dispersion des objectifs d'analystes (0,3 à 5,22 €)",
-        "Volatilité élevée, cours proche du plus bas annuel (1,35 €)"
+        "Volatilité extrême, avec des hausses et baisses rapides",
+        "Tendance baissière : -36,9 % sur 6 mois",
+        "Forte dispersion des objectifs des analystes (0,3 à 5,22 €)"
       ],
       "catalyseurs": [
-        "Publication des résultats le 2026-08-07",
-        "Concrétisation des revenus de la libération des fréquences en bande C"
+        "Publication des résultats le 7 août 2026",
+        "Concrétisation des revenus liés à la bande C et aux programmes de satellites de l'UE"
       ],
-      "a_surveiller": "Voir si le rebond lié à la bande C et au programme européen se confirme dans les résultats du 7 août 2026, ou si la tendance baissière reprend."
+      "a_surveiller": "Regarder si le cours se stabilise au-dessus du plus bas annuel (1,35 €) et si les résultats d'août confirment l'impact concret des annonces récentes."
     }
   },
   "EVO": {
@@ -1101,6 +1101,30 @@
         "Nouvelles annonces commerciales après la nomination à la direction du développement commercial"
       ],
       "a_surveiller": "Surveille si le cours tient au-dessus du plus bas de 10,32 $ et ce que la direction dira sur l'utilisation des fonds levés lors des prochains résultats."
+    }
+  },
+  "ALMR": {
+    "sig": "0ac90a31e30d8c69",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Le seul titre concernant Alamar est l'annonce de changements au sein de sa direction, sans détail fourni ici sur les personnes ou les raisons. Les autres titres portent sur d'autres sociétés (NTLA, TRVI, PVLA, Attovia) et n'apportent rien de concret sur Alamar. Un changement de direction peut compter pour une jeune société cotée, mais son impact reste impossible à juger sans plus d'informations.",
+      "points_forts": [
+        "Croissance du chiffre d'affaires élevée (+82,1 %)",
+        "Objectif moyen des analystes (35,4 USD) supérieur au cours actuel (25,44 USD)",
+        "Technologie NULISA de protéomique à haute sensibilité"
+      ],
+      "risques": [
+        "Changements de direction dont les motifs ne sont pas précisés",
+        "Cours volatil : entre 18,85 et 39,61 USD sur 52 semaines",
+        "Petite capitalisation dans un secteur très concurrentiel et sensible aux financements"
+      ],
+      "catalyseurs": [
+        "Prochains résultats prévus le 3 novembre 2026",
+        "Précisions éventuelles sur la nouvelle équipe dirigeante et sa stratégie"
+      ],
+      "a_surveiller": "Lire le communiqué officiel sur les changements de direction pour savoir qui part, qui arrive et si la stratégie ou les prévisions évoluent."
     }
   }
 }

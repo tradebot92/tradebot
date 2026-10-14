@@ -20,17 +20,9 @@
       "premiere": "2026-10-14T11:58+02:00",
       "nom": "EUTELSAT COMMUNIC."
     },
-    "EVO": {
-      "premiere": "2026-10-14T15:58+02:00",
-      "nom": "Evotec SE"
-    },
     "GTN-A": {
       "premiere": "2026-10-14T15:58+02:00",
       "nom": "Gray Media, Inc."
-    },
-    "AADX": {
-      "premiere": "2026-10-14T15:58+02:00",
-      "nom": "Applied Aerospace & Defense, In"
     },
     "EIKN": {
       "premiere": "2026-10-14T15:58+02:00",
@@ -39,19 +31,17 @@
     "BBT": {
       "premiere": "2026-10-14T15:58+02:00",
       "nom": "Beacon Financial Corporation"
+    },
+    "ALMR": {
+      "premiere": "2026-10-14T16:23+02:00",
+      "nom": "Alamar Biosciences, Inc."
+    },
+    "EXK": {
+      "premiere": "2026-10-14T16:23+02:00",
+      "nom": "Endeavour Silver Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "HELE",
-      "date": "12/10/2026",
-      "nom": "Helen of Troy Limited"
-    },
-    {
-      "symbole": "AL2SI.PA",
-      "date": "13/10/2026",
-      "nom": "2CRSI"
-    },
     {
       "symbole": "EXK",
       "date": "13/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "BORR",
       "date": "14/10/2026",
       "nom": "Borr Drilling Limited"
+    },
+    {
+      "symbole": "EVO",
+      "date": "14/10/2026",
+      "nom": "Evotec SE"
+    },
+    {
+      "symbole": "AADX",
+      "date": "14/10/2026",
+      "nom": "Applied Aerospace & Defense, In"
     }
   ]
 }
