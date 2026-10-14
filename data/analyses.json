@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "4b137f6c8f742f51",
+    "sig": "3aa4d129e50275b4",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et un rappel de l'entrée en Bourse d'Infleqtion via un SPAC, avec une valorisation annoncée de 1,8 milliard de dollars. Un article évoque aussi un bond de 314 %, mais sans détail ici. L'action est à 9,31 USD, bien sous son plus haut sur 52 semaines (21,28), ce qui montre une forte volatilité.",
+      "resume": "Les titres récents portent sur la cotation d'Infleqtion (technologie quantique) à la Bourse de New York après une fusion avec un SPAC, qui valorisait l'entreprise à 1,8 milliard de dollars, et sur de très fortes variations du cours. Le titre est aujourd'hui à 9,19 $, soit environ 41 % de moins qu'il y a 6 mois, et loin de son plus haut sur 52 semaines (21,28 $). Les titres ne donnent aucun fait précis sur l'activité, donc ils servent surtout à rappeler que l'action est très volatile.",
       "points_forts": [
-        "Croissance du chiffre d'affaires très élevée (1,565, soit environ +157 %)",
-        "Avis des analystes strong_buy, objectif moyen 21,83 USD (6 analystes)",
-        "Présence dans plusieurs technologies quantiques (calcul, capteurs, horloges)"
+        "Croissance du chiffre d'affaires élevée (1,565, soit +156,5 % si l'on interprète ce chiffre comme un taux)",
+        "Objectif moyen des analystes (21,83 $) bien au-dessus du cours actuel",
+        "Avis analystes « strong buy » (6 analystes)"
       ],
       "risques": [
-        "Forte volatilité : -40,2 % en 6 mois, proche du plus bas sur 52 semaines (8,52)",
-        "Cotation récente via SPAC, souvent associée à des mouvements de cours marqués",
-        "Les titres ne donnent aucun fait concret sur les résultats ou les finances"
+        "Volatilité très forte : hausse de 314 % évoquée, puis repli de 41 % sur 6 mois",
+        "Entrée en Bourse récente via SPAC, avec un historique de cotation court",
+        "Secteur quantique encore jeune, avec une valorisation dépendant des attentes futures"
       ],
       "catalyseurs": [
-        "Prochains résultats prévus le 2026-11-12",
-        "Évolution des objectifs et avis des analystes"
+        "Publication des prochains résultats le 12 novembre 2026",
+        "Mises à jour des objectifs ou avis des analystes"
       ],
-      "a_surveiller": "Surveiller la publication des résultats du 12 novembre 2026 et voir si la croissance du chiffre d'affaires se confirme, sans oublier que le cours peut varier fortement."
+      "a_surveiller": "Surveiller si le cours reste près du plus bas sur 52 semaines (8,52 $) et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
     }
   },
   "EIKN": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "c53b85354102fbf2",
+    "sig": "34b1859947fcb259",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
-          "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 %, un cloud moteur de la croissance et un accord important avec Anthropic.",
-          "a_surveiller": "La hausse répétée des prévisions d'investissements pèse sur la rentabilité, et le cours de 346 USD reste sous le plus haut annuel de 404 USD, proche de l'objectif bas des analystes (340 USD).",
+          "pourquoi": "Alphabet a publié des résultats solides, avec un bénéfice en hausse de 81 %, un cloud moteur de la croissance et un accord important avec Anthropic.",
+          "a_surveiller": "La hausse répétée des prévisions d'investissements, à laquelle le marché reste sensible, et un cours de 346 USD proche de l'objectif bas des analystes (340 USD).",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de la schizophrénie de MedinCell après UZEDY, et le titre a bondi d'environ 18 % selon la presse.",
-          "a_surveiller": "Le chiffre d'affaires est en recul, le cours reste très volatil et une partie de la bonne nouvelle peut déjà être intégrée dans le prix.",
+          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de la schizophrénie de Medincell après UZEDY, et l'action a gagné jusqu'à 18 % selon la presse.",
+          "a_surveiller": "La forte volatilité du titre, le recul du chiffre d'affaires et la possibilité qu'une partie de la bonne nouvelle soit déjà reflétée dans le cours.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "IREN",
-          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le chiffre d'affaires baisse de 26,7 %, le cours de 35,48 $ reste bien sous son plus haut sur 52 semaines (76,87 $) et les avis d'analystes sont très dispersés.",
+          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies (objectif 79 $), mais sans détails chiffrés vérifiables.",
+          "a_surveiller": "Le chiffre d'affaires en baisse de 26,7 %, le cours (35,48 $) très en dessous de son plus haut sur 52 semaines et la forte dispersion des avis d'analystes.",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations ne constituent pas un conseil : les cours de ces trois valeurs sont volatils et peuvent baisser comme monter, y compris après de bonnes nouvelles."
+      "prudence": "Ces informations sont issues d'une veille automatisée et ne constituent pas un conseil : les cours peuvent varier fortement à la hausse comme à la baisse, avec un risque de perte en capital."
     }
   },
   "SVC": {
@@ -1128,27 +1128,27 @@
     }
   },
   "NRG.PA": {
-    "sig": "5522a72b1d17df97",
+    "sig": "f785ebba9504f08b",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont mitigés : NRJ Group est pénalisé par un marché publicitaire difficile au premier semestre, mais un gain de 10,3 M€ obtenu contre Fun Radio est attendu seulement à la fin de l'année. Le cours (6,1 €) reste dans le bas de sa fourchette sur 52 semaines, avec un chiffre d'affaires quasi stable.",
+      "resume": "Les titres récents sont contrastés : le résultat net part du Groupe atteint 83,8 M€, soit un montant multiplié par 2, mais le marché publicitaire difficile pèse sur le premier semestre. Un article parle d'une « grosse décote » sans catalyseurs clairs. Le chiffre d'affaires est quasi stable (-0,03) et le cours (6,1 €) reste sous l'objectif moyen des analystes (9,63 €).",
       "points_forts": [
-        "Objectif moyen des analystes (9,63 €) nettement au-dessus du cours actuel",
-        "Gain de 10,3 M€ contre Fun Radio à venir",
+        "Résultat net part du Groupe de 83,8 M€, multiplié par 2",
+        "Objectif moyen des analystes (9,63 €) nettement au-dessus du cours",
         "Chiffre d'affaires stable (-0,03)"
       ],
       "risques": [
-        "Marché publicitaire difficile, cœur de l'activité de la radio",
-        "Cours en baisse de 9,4 % sur 6 mois",
-        "Peu d'analystes (3) et pas d'avis clair, donc visibilité limitée"
+        "Marché publicitaire difficile au premier semestre",
+        "Peu de catalyseurs identifiés selon la presse",
+        "Cours en baisse de 9,4 % sur 6 mois, proche du plus bas annuel (5,52 €)"
       ],
       "catalyseurs": [
-        "Encaissement du gain de 10,3 M€ lié à l'affaire Fun Radio, attendu en fin d'année",
-        "Prochaine publication de résultats (date non communiquée)"
+        "Prochaine publication de résultats (date non communiquée)",
+        "Amélioration éventuelle du marché publicitaire"
       ],
-      "a_surveiller": "L'évolution du marché publicitaire et la date effective du versement des 10,3 M€, qui pourraient influencer le cours d'une petite capitalisation comme NRJ Group."
+      "a_surveiller": "La tendance du marché publicitaire et la date des prochains résultats, sachant que seuls 3 analystes suivent la valeur et que la capitalisation reste modeste."
     }
   },
   "PHAT": {
