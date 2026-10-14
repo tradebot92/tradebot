@@ -32,26 +32,16 @@
       "premiere": "2026-10-14T16:57+02:00",
       "nom": "NRJ GROUP"
     },
-    "EXK": {
-      "premiere": "2026-10-14T18:02+02:00",
-      "nom": "Endeavour Silver Corporation"
+    "ENVX": {
+      "premiere": "2026-10-14T21:56+02:00",
+      "nom": "Enovix Corporation"
     },
-    "AADX": {
-      "premiere": "2026-10-14T21:04+02:00",
-      "nom": "Applied Aerospace & Defense, In"
+    "TRAX": {
+      "premiere": "2026-10-14T21:56+02:00",
+      "nom": "First Tracks Biotherapeutics, I"
     }
   },
   "sorties": [
-    {
-      "symbole": "ARL",
-      "date": "13/10/2026",
-      "nom": "American Realty Investors, Inc."
-    },
-    {
-      "symbole": "EXK",
-      "date": "13/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
     {
       "symbole": "FIGS",
       "date": "13/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "PHAT",
       "date": "14/10/2026",
       "nom": "Phathom Pharmaceuticals, Inc."
+    },
+    {
+      "symbole": "EXK",
+      "date": "14/10/2026",
+      "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "AADX",
+      "date": "14/10/2026",
+      "nom": "Applied Aerospace & Defense, In"
     }
   ]
 }

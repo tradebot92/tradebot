@@ -373,5 +373,20 @@
       -8.9
     ],
     "resume": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance. L'entreprise relève de nouveau ses prévisions d'investissements et a conclu un accord massif avec Anthropic, ce qui a fait monter le titre d'environ 2 %. Un titre d'actualité évoque toutefois une chute du cours, signe que le marché reste sensible aux dépenses engagées."
+  },
+  {
+    "date": "14/10/2026 21:56",
+    "symbole": "TRAX",
+    "sentiment": "positif",
+    "cours": 34.12,
+    "gain": [
+      18.6,
+      112.5
+    ],
+    "perte": [
+      -18.6,
+      -37.3
+    ],
+    "resume": "Les titres récents indiquent que l'action First Tracks Biotherapeutics a bondi d'environ 20 % après des données d'un essai clinique dans la maladie cœliaque jugées encourageantes. Pour une société de biotechnologie en phase clinique, ce type de résultat compte beaucoup car sa valeur repose sur la réussite de ses traitements. Les détails chiffrés des données ne sont toutefois pas fournis ici."
   }
 ]
