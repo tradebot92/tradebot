@@ -36,17 +36,12 @@
       "premiere": "2026-10-14T16:23+02:00",
       "nom": "Alamar Biosciences, Inc."
     },
-    "EXK": {
-      "premiere": "2026-10-14T16:23+02:00",
-      "nom": "Endeavour Silver Corporation"
+    "NRG.PA": {
+      "premiere": "2026-10-14T16:57+02:00",
+      "nom": "NRJ GROUP"
     }
   },
   "sorties": [
-    {
-      "symbole": "EXK",
-      "date": "13/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
     {
       "symbole": "ARL",
       "date": "13/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "AADX",
       "date": "14/10/2026",
       "nom": "Applied Aerospace & Defense, In"
+    },
+    {
+      "symbole": "EXK",
+      "date": "14/10/2026",
+      "nom": "Endeavour Silver Corporation"
     }
   ]
 }

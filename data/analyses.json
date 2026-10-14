@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "e2de552c7ea43b70",
+    "sig": "792526d9cdb0459d",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
-          "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de croissance, ainsi qu'un accord important avec Anthropic.",
-          "a_surveiller": "Les prévisions d'investissements relevées pèsent sur les coûts, le cours a pu réagir de façon volatile après les résultats et il reste proche du haut de sa fourchette sur 52 semaines.",
+          "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 %, un cloud moteur de croissance et un accord important avec Anthropic.",
+          "a_surveiller": "La hausse des prévisions d'investissements, qui pèse sur les coûts, et la réaction parfois volatile du cours alors qu'il est déjà proche du haut de sa fourchette sur 52 semaines.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza, un deuxième traitement de la schizophrénie issu de la technologie de Medincell, et le titre a bondi d'environ 18 % selon la presse.",
-          "a_surveiller": "Le succès commercial de Weltruza reste à démontrer, le chiffre d'affaires est en baisse et le titre très volatil approche une résistance technique citée vers 28,52 €.",
+          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de la schizophrénie issu de la technologie de Medincell, et le titre a bondi d'environ 18 % selon la presse.",
+          "a_surveiller": "Le chiffre d'affaires en recul, la forte volatilité après ce bond et la résistance technique autour de 28,52 € évoquée par la presse.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "IREN",
-          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une nouvelle note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le chiffre d'affaires recule de 26,7 %, le cours de 35,48 $ reste très en dessous de son plus haut sur 52 semaines (76,87 $) et les avis d'analystes sont très dispersés.",
+          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies avec un objectif de 79 $, mais sans détails chiffrés vérifiables.",
+          "a_surveiller": "Le chiffre d'affaires en baisse de 26,7 %, la forte volatilité du titre et la grande dispersion des objectifs d'analystes, avec un cours de 35,48 $ bien sous son plus haut sur 52 semaines.",
           "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations sont issues de titres de presse et de données partielles, elles ne constituent pas un conseil, et tout investissement en bourse comporte un risque de perte en capital."
+      "prudence": "Ces informations sont issues de titres de presse et de données partielles, elles ne garantissent aucun résultat et tout investissement comporte un risque de perte en capital."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "04bdef4ee60c3620",
+    "sig": "787b0fbaa3308c3c",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, un deuxième traitement injectable contre la schizophrénie issu de la technologie de Medincell. Le titre a fortement réagi à la hausse (environ +18 % selon la presse) et se situe autour de 26,5 €. Cette autorisation compte car elle élargit la gamme commerciale de la société, jusqu'ici centrée sur UZEDY.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, deuxième traitement de la schizophrénie issu de la technologie de Medincell, et le titre a bondi d'environ 18 % selon la presse. Cette autorisation diversifie les produits commercialisés (après UZEDY) et renforce la crédibilité industrielle de l'entreprise. Le titre reste toutefois volatil et le chiffre d'affaires est en recul.",
       "points_forts": [
         "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
-        "Consensus des analystes très favorable (strong_buy, objectif moyen ~35,9 €)",
-        "Franchissement d'une résistance technique signalé par la presse"
+        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,91 € contre 26,46 € de cours)",
+        "Portefeuille de produits en développement (mdc-CWM en phase III)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-44,6 %) d'après les données fournies",
-        "Titre très volatil, fortes variations après l'annonce",
-        "Dépendance à un petit nombre de produits et à la réussite de leur commercialisation"
+        "Chiffre d'affaires en baisse (-0,446 selon les données fournies)",
+        "Forte volatilité après un bond de 18 %, risque de repli",
+        "Résistance technique autour de 28,52 € évoquée par la presse"
       ],
       "catalyseurs": [
         "Lancement commercial et premières ventes de Weltruza aux États-Unis",
-        "Avancement de mdc-CWM (essais de phase III contre la douleur post-opératoire)"
+        "Avancement des essais cliniques de phase III de mdc-CWM"
       ],
-      "a_surveiller": "Voir si le cours tient après le bond lié à l'annonce et comment évoluent les ventes de UZEDY et de Weltruza, sachant qu'aucune date de résultats n'est communiquée."
+      "a_surveiller": "La capacité de Medincell à transformer cette autorisation en revenus concrets, ainsi que la tenue du cours au-dessus de la zone de résistance de 28,52 €, sachant qu'aucune date de prochains résultats n'est communiquée."
     }
   },
   "KLRA": {
@@ -1008,51 +1008,51 @@
     }
   },
   "GTN-A": {
-    "sig": "c035b53f38cc0b99",
+    "sig": "4a1aefd70e5e6a1d",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Gray Media a annoncé une hausse de 75 millions de dollars de son prêt à terme et prévoit de rembourser 150 millions de dollars d'obligations de premier rang. Une mise à jour de ses prévisions de bénéfice pour le trimestre clos le 30 septembre 2026 est aussi mentionnée, mais les titres n'en donnent pas le détail. L'action a perdu environ 48,5 % en 6 mois, ce qui rend la situation financière et la gestion de la dette importantes à suivre.",
+      "resume": "Gray Media a annoncé une hausse de 75 millions de dollars de son prêt à terme et prévoit de rembourser 150 millions de dollars d'obligations de premier rang. Un titre évoque aussi une mise à jour de ses prévisions de bénéfice, sans chiffres précis dans les données disponibles. Les autres titres (FOX, Hologic, TVA Group) ne concernent pas directement l'entreprise.",
       "points_forts": [
-        "Chiffre d'affaires en croissance (+8,7 %)",
-        "Gestion active de la dette (refinancement)",
-        "Cours proche du bas de sa fourchette sur 52 semaines, ce qui montre un fort recul déjà subi"
+        "Croissance du chiffre d'affaires de 8,7 %",
+        "Opération de refinancement de la dette en cours",
+        "Cours déjà très en dessous du plus haut sur 52 semaines (15,33 $)"
       ],
       "risques": [
-        "Baisse marquée du cours sur 6 mois",
-        "Dette importante : le refinancement montre un besoin de gérer les échéances",
-        "Détail de la mise à jour des prévisions inconnu, donc direction incertaine"
+        "Cours en baisse de 48,5 % sur 6 mois, forte volatilité",
+        "Dette importante pour une capitalisation d'environ 598 M$",
+        "Contenu de la mise à jour des prévisions de bénéfice inconnu"
       ],
       "catalyseurs": [
-        "Publication des résultats et du détail des prévisions de bénéfice",
-        "Finalisation du refinancement et remboursement des obligations de 150 M$"
+        "Détails et finalisation du refinancement (prêt à terme et remboursement des obligations)",
+        "Publication des résultats trimestriels et des prévisions de bénéfice mises à jour"
       ],
-      "a_surveiller": "Le contenu précis de la mise à jour des prévisions de bénéfice et le coût de la nouvelle dette par rapport à l'ancienne."
+      "a_surveiller": "Les conditions du refinancement (coût de la dette, échéances) et le sens de la mise à jour des prévisions de bénéfice, qui ne sont pas précisés ici."
     }
   },
   "ETL.PA": {
-    "sig": "f1a4d30a30fb6ae8",
+    "sig": "b9b5fe4ec818478e",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "L'action Eutelsat est très volatile : les titres évoquent une forte baisse (-42,5 % en 3 mois), des rebonds brutaux liés à des annonces (systèmes de communications par satellite de l'UE, libération de fréquences en bande C pour environ 6 milliards de dollars) puis des essoufflements. Le cours actuel (1,71 €) est bien en dessous des plus hauts de l'année, et les analystes restent partagés (avis hold, objectif moyen 2,27 €).",
+      "resume": "Les titres récents montrent un titre très volatil : de forts rebonds liés à des nouvelles sectorielles (restrictions de Starlink en Ukraine, activation des communications satellitaires de l'UE, manne liée à la bande C) alternent avec de fortes baisses (-35 % sur 6 mois). Le cours de 1,75 EUR reste bien en dessous du plus haut annuel de 4,556, et les analystes restent globalement prudents (avis « hold »).",
       "points_forts": [
-        "Annonces sectorielles favorables (satellites UE, bande C)",
-        "Objectif moyen des analystes (2,27 €) supérieur au cours actuel",
-        "Chiffre d'affaires en légère croissance (+1,1 %)"
+        "Actualités sectorielles porteuses (UE, bande C, Ukraine)",
+        "Chiffre d'affaires stable (+1,1 %)",
+        "Objectif moyen des analystes (2,27) au-dessus du cours"
       ],
       "risques": [
-        "Volatilité extrême, avec des hausses et baisses rapides",
-        "Tendance baissière : -36,9 % sur 6 mois",
-        "Forte dispersion des objectifs des analystes (0,3 à 5,22 €)"
+        "Volatilité extrême, rebonds souvent suivis de reculs",
+        "Forte baisse sur 6 mois (-35 %)",
+        "Grande dispersion des objectifs d'analystes (0,3 à 5,22)"
       ],
       "catalyseurs": [
-        "Publication des résultats le 7 août 2026",
-        "Concrétisation des revenus liés à la bande C et aux programmes de satellites de l'UE"
+        "Résultats attendus le 07/08/2026",
+        "Concrétisation des revenus de la bande C et des programmes satellitaires de l'UE"
       ],
-      "a_surveiller": "Regarder si le cours se stabilise au-dessus du plus bas annuel (1,35 €) et si les résultats d'août confirment l'impact concret des annonces récentes."
+      "a_surveiller": "Voir si les rebonds liés aux annonces se confirment dans les résultats du 7 août 2026 ou s'ils s'essoufflent comme lors des épisodes précédents."
     }
   },
   "EVO": {
@@ -1104,27 +1104,51 @@
     }
   },
   "ALMR": {
-    "sig": "0ac90a31e30d8c69",
+    "sig": "8ce31395af87cb15",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Le seul titre concernant Alamar est l'annonce de changements au sein de sa direction, sans détail fourni ici sur les personnes ou les raisons. Les autres titres portent sur d'autres sociétés (NTLA, TRVI, PVLA, Attovia) et n'apportent rien de concret sur Alamar. Un changement de direction peut compter pour une jeune société cotée, mais son impact reste impossible à juger sans plus d'informations.",
+      "resume": "Le seul titre lié à Alamar Biosciences annonce des changements au sein de sa direction, sans qu'on sache lesquels ni pourquoi. Les autres titres concernent d'autres sociétés et n'apportent rien sur ALMR. Un changement de dirigeants peut compter pour une jeune société cotée, mais les détails manquent pour en juger l'effet.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (+82,1 %)",
-        "Objectif moyen des analystes (35,4 USD) supérieur au cours actuel (25,44 USD)",
+        "Chiffre d'affaires en forte hausse (+82 %)",
+        "Objectif moyen des analystes (35,4 $) au-dessus du cours actuel (25,51 $)",
         "Technologie NULISA de protéomique à haute sensibilité"
       ],
       "risques": [
-        "Changements de direction dont les motifs ne sont pas précisés",
-        "Cours volatil : entre 18,85 et 39,61 USD sur 52 semaines",
-        "Petite capitalisation dans un secteur très concurrentiel et sensible aux financements"
+        "Changements de direction dont la nature n'est pas précisée",
+        "Action volatile, entre 18,85 $ et 39,61 $ sur 52 semaines",
+        "Petite entreprise du secteur des instruments médicaux, avec peu d'analystes (5) et aucun avis consensuel clair"
       ],
       "catalyseurs": [
-        "Prochains résultats prévus le 3 novembre 2026",
-        "Précisions éventuelles sur la nouvelle équipe dirigeante et sa stratégie"
+        "Publication des résultats prévue le 3 novembre 2026",
+        "Précisions de l'entreprise sur les nouveaux dirigeants et leur rôle"
       ],
-      "a_surveiller": "Lire le communiqué officiel sur les changements de direction pour savoir qui part, qui arrive et si la stratégie ou les prévisions évoluent."
+      "a_surveiller": "Lire le communiqué de l'entreprise pour savoir qui part ou arrive à la direction, puis voir si la croissance du chiffre d'affaires se maintient aux prochains résultats."
+    }
+  },
+  "NRG.PA": {
+    "sig": "e4ab38a382d333a0",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Le seul titre vraiment lié à NRJ Group indique que le groupe a été pénalisé par un marché publicitaire difficile au premier semestre. Les autres titres parlent du marché en général ou d'autres sociétés et n'apportent rien de concret sur NRJ. Cela compte car la publicité est une source de revenus clé pour une radio, et le chiffre d'affaires est quasi stable (-0,03).",
+      "points_forts": [
+        "Chiffre d'affaires quasi stable (-0,03)",
+        "Objectifs des analystes (9,4 à 10,0 EUR) supérieurs au cours actuel de 6,06 EUR",
+        "Activité diversifiée : radios, digital, podcasts, événements"
+      ],
+      "risques": [
+        "Marché publicitaire difficile au premier semestre",
+        "Cours en baisse de 10 % sur 6 mois, proche du plus bas annuel (5,52 EUR)",
+        "Seulement 3 analystes, donc peu de recul sur les prévisions"
+      ],
+      "catalyseurs": [
+        "Prochaine publication de résultats (date non communiquée)",
+        "Reprise éventuelle du marché publicitaire"
+      ],
+      "a_surveiller": "Surveiller la date des prochains résultats et l'évolution des recettes publicitaires, ainsi que la tenue du cours au-dessus du plus bas annuel de 5,52 EUR."
     }
   }
 }
