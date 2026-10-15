@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "3aa4d129e50275b4",
+    "sig": "aab563939d0ad4c8",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et des articles sur la hausse spectaculaire (+314 %) liée à l'arrivée en Bourse via un SPAC, qui valorisait la société à 1,8 milliard de dollars. Depuis, le cours (9,09 $) a nettement reculé : -47,8 % en 6 mois et proche du plus bas sur 52 semaines (8,52 $). Les titres ne donnent aucune information concrète nouvelle sur l'activité.",
+      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires sur la forte hausse passée (+314 %) et l'entrée en Bourse via un SPAC valorisant l'entreprise à 1,8 milliard de dollars. Ils ne donnent pas d'information concrète nouvelle. Le cours (9,44 $) a reculé d'environ 46 % en 6 mois et reste proche de son plus bas sur 52 semaines (8,52 $), ce qui montre une forte volatilité.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (1,565)",
-        "Avis des analystes : strong_buy, objectif moyen 21,83 $",
-        "Technologies quantiques variées : calcul, capteurs, horloges"
+        "Croissance du chiffre d'affaires élevée (1,565, soit environ +156 %)",
+        "Analystes très favorables : avis strong_buy, objectif moyen 21,83 $",
+        "Technologies quantiques variées : horloges, capteurs, calcul"
       ],
       "risques": [
-        "Forte volatilité après l'entrée en Bourse par SPAC",
-        "Cours proche du plus bas sur 52 semaines",
-        "Secteur quantique spéculatif et valorisation élevée (capitalisation d'environ 2 Md$)"
+        "Forte volatilité et baisse de 45,8 % sur 6 mois",
+        "Entreprise récemment cotée via un SPAC, valorisation élevée et incertaine",
+        "Données insuffisantes sur la rentabilité et la trésorerie"
       ],
       "catalyseurs": [
-        "Publication des résultats le 12 novembre 2026",
-        "Révisions des objectifs ou des avis des analystes"
+        "Publication des résultats prévue le 2026-11-12",
+        "Révisions des objectifs ou avis des analystes"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas annuel de 8,52 $ et si la croissance du chiffre d'affaires se confirme dans les prochains résultats."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas des 52 semaines (8,52 $) et si les résultats du 12 novembre 2026 confirment la croissance du chiffre d'affaires."
     }
   },
   "EIKN": {
@@ -1296,27 +1296,27 @@
     }
   },
   "FMC": {
-    "sig": "b24b05f3a8ef3f7d",
+    "sig": "b53713d88de6c173",
     "analyse": {
       "sentiment": "negatif",
-      "importance": 4,
+      "importance": 5,
       "confiance": "moyenne",
-      "resume": "Les titres évoquent deux nouvelles opposées : une forte hausse de l'action après l'entrée de Tessenderlo à hauteur de 20 % pour 400 M$, et un effondrement après une révision à la baisse des prévisions du troisième trimestre. Le cours à 5,36 USD, en baisse de 68 % sur 6 mois et proche de son plus bas sur 52 semaines, montre une forte pression et une volatilité extrême.",
+      "resume": "Les titres évoquent une révision à la baisse des prévisions du troisième trimestre, qui a fait s'effondrer le cours, puis un renflouement d'urgence accueilli froidement par les investisseurs. Tessenderlo prendrait 20 % du capital pour 400 M$, ce qui a donné un rebond ponctuel. L'action a perdu environ 67 % en 6 mois et se situe près de son plus bas sur 52 semaines, ce qui montre une situation financière fragile.",
       "points_forts": [
-        "Tessenderlo prend 20 % pour 400 M$ (signal de confiance externe)",
-        "16 analystes, avis moyen « buy », objectif moyen 12,8 USD",
-        "Activité diversifiée (insecticides, herbicides, fongicides, biologiques)"
+        "Entrée de Tessenderlo au capital (20 % pour 400 M$)",
+        "Avis moyen des analystes à « buy » (16 analystes)",
+        "Objectif moyen (12,8 $) bien au-dessus du cours actuel (5,57 $)"
       ],
       "risques": [
-        "Prévisions du 3e trimestre revues à la baisse",
-        "Chiffre d'affaires en recul d'environ 17,5 %",
-        "Chute de 68 % en 6 mois, volatilité très élevée"
+        "Prévisions revues à la baisse et chiffre d'affaires en recul (-17,5 %)",
+        "Renflouement d'urgence mal perçu, avec un risque de dilution pour les actionnaires",
+        "Forte volatilité et capitalisation désormais réduite (environ 867 M$)"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 29 octobre 2026",
-        "Précisions sur l'opération avec Tessenderlo et son impact"
+        "Détails et finalisation de l'opération avec Tessenderlo"
       ],
-      "a_surveiller": "Voir si les prochains résultats confirment ou non la baisse des prévisions, et si l'investissement de Tessenderlo stabilise durablement le cours, sachant que les objectifs des analystes restent bien au-dessus du cours actuel et peuvent être revus."
+      "a_surveiller": "Surveille les détails de l'apport de capital (conditions, dilution) et si les prochains résultats confirment ou non la baisse des prévisions."
     }
   },
   "DFH": {
@@ -1439,27 +1439,51 @@
     }
   },
   "RXRX": {
-    "sig": "048b8507d8bf33de",
+    "sig": "1d27148a84255c74",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et de graphiques (TradingView, Yahoo Finance) et une page de prévisions de prix, sans information concrète sur l'entreprise. Ils ne donnent aucun fait nouveau sur les essais cliniques ou les finances de Recursion. Le cours de 4,2 $ se situe entre le plus bas (2,77 $) et le plus haut (7,18 $) sur 52 semaines.",
+      "resume": "Les titres récents sont de simples pages de cours et de prévisions TradingView, sans information concrète sur l'entreprise (pas de résultats d'essais, d'annonce ni de partenariat). Rien de nouveau ne ressort donc de l'actualité ; il faut se référer aux données de marché et à l'avancement des essais cliniques.",
       "points_forts": [
-        "Objectif moyen des analystes (7,22 $) supérieur au cours actuel",
-        "Hausse d'environ 11 % sur 6 mois",
-        "Plusieurs candidats-médicaments en essais cliniques de phase 1 et 2"
+        "Objectif moyen des analystes (7,22 $) nettement au-dessus du cours actuel (4,20 $)",
+        "Cours en hausse d'environ 11 % sur 6 mois",
+        "Plusieurs programmes cliniques en cours (REC-4881, REC-617, REC-1245)"
       ],
       "risques": [
         "Chiffre d'affaires en forte baisse (-60 %)",
-        "Société clinique très volatile, sans avis d'analystes consensuel",
-        "Objectifs d'analystes très dispersés (4 à 10 $)"
+        "Société encore au stade clinique, donc résultats d'essais incertains",
+        "Titre volatil : fourchette sur 52 semaines de 2,77 $ à 7,18 $, et objectif bas des analystes à 4,0 $, proche du cours"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-04",
-        "Données des essais cliniques de REC-4881, REC-617 ou REC-1245"
+        "Publication des résultats trimestriels prévue le 2026-11-04",
+        "Données d'avancement des essais cliniques (Phase 1/2 et 1b/2)"
       ],
-      "a_surveiller": "Surveiller les annonces concrètes sur les essais cliniques et l'évolution du chiffre d'affaires lors des prochains résultats, plutôt que les simples pages de cours."
+      "a_surveiller": "Les prochaines annonces sur les essais cliniques et la publication des résultats du 4 novembre 2026, plus utiles que les pages de cours."
+    }
+  },
+  "OPEN": {
+    "sig": "3c50393a2fdb540d",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Les titres récents sont surtout des pages de cotation et d'analyse technique (TradingView, Yahoo Finance), sans information concrète sur l'entreprise. L'action a perdu environ 55,7 % en 6 mois et se situe à 2,35 $, proche de son plus bas sur 52 semaines (1,93 $), avec un chiffre d'affaires en forte baisse (-43,7 %).",
+      "points_forts": [
+        "Objectif moyen des analystes (4,27 $) supérieur au cours actuel",
+        "Plateforme numérique d'immobilier avec services variés (courtage, titres, assurance)",
+        "Capitalisation d'environ 2,3 milliards $ qui offre une certaine liquidité"
+      ],
+      "risques": [
+        "Chiffre d'affaires en recul de 43,7 %",
+        "Forte volatilité et baisse de 55,7 % en 6 mois",
+        "Avis analystes partagés : objectifs de 1 $ à 7 $, consensus « hold »"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 5 novembre 2026",
+        "Évolution des objectifs et des avis des analystes"
+      ],
+      "a_surveiller": "Le cours par rapport au plus bas de 52 semaines (1,93 $) et la tendance du chiffre d'affaires lors des prochains résultats."
     }
   }
 }

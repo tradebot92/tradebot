@@ -20,43 +20,24 @@
       "premiere": "2026-10-15T16:03+02:00",
       "nom": "FMC Corporation"
     },
-    "DFH": {
-      "premiere": "2026-10-15T16:03+02:00",
-      "nom": "Dream Finders Homes, Inc."
-    },
-    "REAL": {
-      "premiere": "2026-10-15T16:57+02:00",
-      "nom": "The RealReal, Inc."
-    },
     "RXRX": {
       "premiere": "2026-10-15T17:58+02:00",
       "nom": "Recursion Pharmaceuticals, Inc."
     },
-    "EVEX": {
-      "premiere": "2026-10-15T19:00+02:00",
-      "nom": "Eve Holding, Inc."
-    },
     "GLOO": {
       "premiere": "2026-10-15T19:53+02:00",
       "nom": "Gloo Holdings, Inc."
+    },
+    "SES": {
+      "premiere": "2026-10-15T21:53+02:00",
+      "nom": "SES AI Corporation"
+    },
+    "OPEN": {
+      "premiere": "2026-10-15T21:53+02:00",
+      "nom": "Opendoor Technologies Inc"
     }
   },
   "sorties": [
-    {
-      "symbole": "AGBK",
-      "date": "14/10/2026",
-      "nom": "AGI Inc"
-    },
-    {
-      "symbole": "SES",
-      "date": "14/10/2026",
-      "nom": "SES AI Corporation"
-    },
-    {
-      "symbole": "BORR",
-      "date": "14/10/2026",
-      "nom": "Borr Drilling Limited"
-    },
     {
       "symbole": "EVO",
       "date": "14/10/2026",
@@ -191,6 +172,21 @@
       "symbole": "EIKN",
       "date": "15/10/2026",
       "nom": "Eikon Therapeutics, Inc."
+    },
+    {
+      "symbole": "DFH",
+      "date": "15/10/2026",
+      "nom": "Dream Finders Homes, Inc."
+    },
+    {
+      "symbole": "REAL",
+      "date": "15/10/2026",
+      "nom": "The RealReal, Inc."
+    },
+    {
+      "symbole": "EVEX",
+      "date": "15/10/2026",
+      "nom": "Eve Holding, Inc."
     }
   ]
 }
