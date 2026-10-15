@@ -36,17 +36,12 @@
       "premiere": "2026-10-15T16:57+02:00",
       "nom": "The RealReal, Inc."
     },
-    "MITT-PA": {
-      "premiere": "2026-10-15T16:57+02:00",
-      "nom": "TPG Mortgage Investment Trust, "
+    "EVEX": {
+      "premiere": "2026-10-15T17:24+02:00",
+      "nom": "Eve Holding, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "PTLO",
-      "date": "13/10/2026",
-      "nom": "Portillo's Inc."
-    },
     {
       "symbole": "GTN-A",
       "date": "13/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "SAH",
       "date": "15/10/2026",
       "nom": "Sonic Automotive, Inc."
+    },
+    {
+      "symbole": "MITT-PA",
+      "date": "15/10/2026",
+      "nom": "TPG Mortgage Investment Trust, "
     }
   ]
 }

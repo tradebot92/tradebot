@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "a516d33461ced8f6",
+    "sig": "7c291ef26aab8ba7",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec MedinCell, et le titre a fortement progressé (environ +18% selon la presse). C'est une étape réglementaire majeure qui peut ouvrir de nouveaux revenus, mais l'impact réel dépendra du lancement commercial.",
+      "resume": "La FDA américaine a donné son feu vert à Weltruza (TEV-749), le deuxième traitement de Medincell contre la schizophrénie. Les titres indiquent que l'action a bondi d'environ 18 % à cette annonce. L'autorisation compte car elle élargit la gamme commerciale de l'entreprise, mais les détails financiers de l'accord ne figurent pas dans les données fournies.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza (TEV-749)",
-        "Objectif moyen des analystes (35,5 €) supérieur au cours de 26,12 €",
-        "Avis analystes « strong buy » (9 analystes)"
+        "Autorisation FDA obtenue pour Weltruza, deuxième traitement contre la schizophrénie",
+        "Avis des analystes très favorable (strong_buy, 9 analystes)",
+        "Objectif moyen de 35,5 EUR, supérieur au cours de 26,4 EUR"
       ],
       "risques": [
-        "Chiffre d'affaires en recul (-0,446)",
-        "Action volatile : forte hausse d'un jour pouvant être suivie d'un repli",
-        "Succès commercial du lancement encore incertain"
+        "Chiffre d'affaires en baisse (-44,6 %)",
+        "Forte volatilité après un bond de 18 % en une séance",
+        "Dépendance à des produits et partenaires pour la commercialisation"
       ],
       "catalyseurs": [
         "Lancement commercial de Weltruza aux États-Unis",
-        "Avancée des autres programmes (mdc-CWM en phase III, mdc-TJK au stade NDA)"
+        "Avancées de mdc-CWM (Phase III) et de mdc-TJK (stade NDA)"
       ],
-      "a_surveiller": "Surveiller les détails du lancement de Weltruza (calendrier, ventes, redevances) et la réaction du cours dans les prochains jours, après la forte hausse."
+      "a_surveiller": "Le rythme du lancement commercial de Weltruza et son effet sur le chiffre d'affaires, aujourd'hui en repli, ainsi que la tenue du cours après ce bond."
     }
   },
   "KLRA": {
@@ -1224,27 +1224,27 @@
     }
   },
   "GLO.PA": {
-    "sig": "07ac12d8f6b76af0",
+    "sig": "bbcf5f7bbbb62b2a",
     "analyse": {
       "sentiment": "positif",
-      "importance": 3,
+      "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les titres récents évoquent un très bon été pour GL Events, avec un relèvement de ses perspectives annuelles et une forte hausse en Bourse (jusqu'à +23 % sur une séance selon la presse). La société maintient sa guidance de croissance, portée par les activités Live et Venues. Cela compte car les analystes restent très favorables, avec un objectif moyen (37,6 €) supérieur au cours actuel (30,5 €).",
+      "resume": "GL Events a fortement progressé en Bourse (environ +23% sur une séance selon la presse) après un été exceptionnel, porté par des événements comme la visite du pape Léon XIV et des concerts au Stade de France, et après le relèvement de ses perspectives annuelles. Les analystes (5 à l'achat fort) visent un cours moyen de 37,6 EUR, soit au-dessus du cours actuel de 30,65 EUR. Le titre reste néanmoins en baisse de 7,1 % sur 6 mois, ce qui montre une forte volatilité.",
       "points_forts": [
         "Perspectives annuelles relevées après un été exceptionnel",
         "Croissance du chiffre d'affaires de 8,9 %",
-        "Avis analystes très favorable (5 analystes, objectif moyen 37,6 €)"
+        "Objectifs des analystes (37,0 à 38,0 EUR) supérieurs au cours actuel"
       ],
       "risques": [
-        "Après un bond aussi brutal, le titre peut être volatil",
-        "Cours en repli de 7,5 % sur 6 mois malgré la hausse récente",
-        "Activité événementielle sensible au contexte économique et à la saisonnalité"
+        "Forte volatilité : un bond de 23 % en une séance peut s'inverser",
+        "Activité dépendante d'événements ponctuels (sportifs, culturels, institutionnels)",
+        "Cours déjà proche du haut de sa fourchette sur 52 semaines (36,25 EUR) avec un objectif analystes peu éloigné"
       ],
       "catalyseurs": [
         "Prochaine publication de résultats (date non communiquée)",
         "Confirmation ou nouveau relèvement de la guidance annuelle"
       ],
-      "a_surveiller": "Surveiller si le cours tient après le fort rebond et s'il se rapproche du plus haut sur 52 semaines (36,25 €), ainsi que la date des prochains résultats, non communiquée."
+      "a_surveiller": "Voir si le titre se stabilise après ce bond et si les analystes ajustent leurs objectifs de cours, ainsi que la date des prochains résultats, non communiquée pour l'instant."
     }
   },
   "ALPRG.PA": {
@@ -1412,6 +1412,30 @@
         "Évolution de la consolidation dans le secteur des REIT hypothécaires"
       ],
       "a_surveiller": "Surveiller la date des prochains résultats et toute annonce propre à la société, car les actualités actuelles ne la concernent pas directement."
+    }
+  },
+  "EVEX": {
+    "sig": "871ff3f7f765a4c6",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres d'actualité récents ne concernent pas vraiment Eve Holding : ce sont des pages de cours d'autres sociétés (Karman, Leidos, EvoNext, etc.). Il n'y a donc aucune information concrète sur l'entreprise. Le titre reste surtout marqué par sa forte baisse sur 6 mois (-45,7 %), proche de son plus bas sur 52 semaines.",
+      "points_forts": [
+        "Avis moyen des analystes : achat (8 analystes)",
+        "Objectif moyen (6,26 USD) très au-dessus du cours actuel (1,6 USD)",
+        "Soutien de l'actionnaire majoritaire Embraer"
+      ],
+      "risques": [
+        "Forte baisse sur 6 mois, cours près du plus bas annuel (1,41 USD)",
+        "Aucune croissance du chiffre d'affaires communiquée, activité encore en développement",
+        "Petite capitalisation très volatile, dépendante de la certification et du lancement des eVTOL"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 5 novembre 2026",
+        "Éventuelles annonces sur l'avancement du développement ou de la certification de l'eVTOL"
+      ],
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel de 1,41 USD et les prochaines annonces officielles de la société, car les titres actuels n'apportent rien de concret."
     }
   }
 }
