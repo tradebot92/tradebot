@@ -508,5 +508,35 @@
       -24.4
     ],
     "resume": "Les titres évoquent une prise de participation de 20 % de Tessenderlo pour 400 M$ dans FMC, présentée par certains médias comme un « renflouement d'urgence » mal accueilli par les investisseurs. Le cours a fortement chuté (-70 % en 6 mois) et se situe près de son plus bas sur 52 semaines, ce qui montre une situation financière tendue. Les détails de l'opération ne figurent pas dans les données, donc l'impact exact reste incertain."
+  },
+  {
+    "date": "15/10/2026 16:57",
+    "symbole": "MEDCL.PA",
+    "sentiment": "positif",
+    "cours": 26.12,
+    "gain": [
+      8.2,
+      36.0
+    ],
+    "perte": [
+      -8.2,
+      -16.3
+    ],
+    "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec MedinCell, et le titre a fortement progressé (environ +18% selon la presse). C'est une étape réglementaire majeure qui peut ouvrir de nouveaux revenus, mais l'impact réel dépendra du lancement commercial."
+  },
+  {
+    "date": "15/10/2026 16:57",
+    "symbole": "FMC",
+    "sentiment": "negatif",
+    "cours": 5.34,
+    "gain": [
+      12.0,
+      140.2
+    ],
+    "perte": [
+      -12.0,
+      -24.0
+    ],
+    "resume": "FMC a révisé à la baisse ses prévisions pour le troisième trimestre, ce qui a fait chuter le cours. Un renflouement d'urgence a ensuite été mal accueilli par les investisseurs, même si l'action a rebondi quand Tessenderlo a pris 20 % du capital pour 400 M$. L'action reste très fragile : elle a perdu environ 68 % en six mois."
   }
 ]

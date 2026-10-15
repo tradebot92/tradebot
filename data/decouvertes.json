@@ -32,26 +32,16 @@
       "premiere": "2026-10-15T16:03+02:00",
       "nom": "Dream Finders Homes, Inc."
     },
-    "MITT-PB": {
-      "premiere": "2026-10-15T16:03+02:00",
-      "nom": "TPG Mortgage Investment Trust, "
+    "REAL": {
+      "premiere": "2026-10-15T16:57+02:00",
+      "nom": "The RealReal, Inc."
     },
-    "SAH": {
-      "premiere": "2026-10-15T16:03+02:00",
-      "nom": "Sonic Automotive, Inc."
+    "MITT-PA": {
+      "premiere": "2026-10-15T16:57+02:00",
+      "nom": "TPG Mortgage Investment Trust, "
     }
   },
   "sorties": [
-    {
-      "symbole": "SES",
-      "date": "13/10/2026",
-      "nom": "SES AI Corporation"
-    },
-    {
-      "symbole": "VTEX",
-      "date": "13/10/2026",
-      "nom": "VTEX"
-    },
     {
       "symbole": "PTLO",
       "date": "13/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "EXK",
       "date": "15/10/2026",
       "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "MITT-PB",
+      "date": "15/10/2026",
+      "nom": "TPG Mortgage Investment Trust, "
+    },
+    {
+      "symbole": "SAH",
+      "date": "15/10/2026",
+      "nom": "Sonic Automotive, Inc."
     }
   ]
 }

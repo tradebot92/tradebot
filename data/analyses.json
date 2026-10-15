@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "6f6a6faa38b00d6b",
+    "sig": "646862b4f5aeac0b",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA américaine a approuvé Weltruza (TEV-749), deuxième traitement de MedinCell contre la schizophrénie, et le titre a bondi d'environ 18 % selon la presse.",
-          "a_surveiller": "Le lancement commercial et les ventes réelles restent à confirmer, alors que le chiffre d'affaires est en recul (-0,45) et que le titre est très volatil.",
+          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec MedinCell, et le titre a progressé d'environ 18% selon la presse.",
+          "a_surveiller": "Le succès du lancement commercial, encore incertain, et le risque de repli après une forte hausse d'un jour, alors que le chiffre d'affaires est en recul.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "OPK",
           "pourquoi": "L'action a fortement progressé après l'annonce de la cession des actifs BioReference pour 722 M$, ce qui peut renforcer la trésorerie et recentrer l'entreprise.",
-          "a_surveiller": "Le cours (1,64 $) est proche du plus haut sur 52 semaines (1,75 $), et l'usage des fonds ainsi que l'effet sur les revenus futurs ne sont pas précisés.",
+          "a_surveiller": "L'usage des fonds et l'effet sur les revenus futurs, alors que le cours (1,64 $) est proche du plus haut sur 52 semaines (1,75 $) et que le titre, suivi par seulement 4 analystes, peut être très volatil.",
           "nom": "Opko Health, Inc."
         },
         {
           "symbole": "GOOG",
-          "pourquoi": "Les titres évoquent un bénéfice en hausse de 81 %, la progression du cloud et un accord important avec Anthropic, mais le marché reste partagé.",
-          "a_surveiller": "Le cours (346,27 USD) reste nettement sous son plus haut sur 52 semaines (404,47) et proche de l'objectif bas des analystes (340 USD).",
+          "pourquoi": "Les titres évoquent un bénéfice en hausse de 81 %, la progression du cloud et un accord avec Anthropic, dans un contexte où Alphabet pèse environ 4 200 milliards USD en Bourse.",
+          "a_surveiller": "Le cours de 346,27 USD, nettement sous le plus haut sur 52 semaines (404,47), reste proche de l'objectif bas des analystes (340 USD), avec un marché qui paraît partagé.",
           "nom": "Alphabet Inc."
         }
       ],
-      "prudence": "Ces informations sont issues de la presse et de données partielles, les cours peuvent varier fortement et rien ne garantit une évolution future : il convient de vérifier par soi-même avant toute décision."
+      "prudence": "Ces éléments sont purement informatifs : les cours peuvent varier fortement à la hausse comme à la baisse et aucun résultat n'est garanti."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "7c291ef26aab8ba7",
+    "sig": "a516d33461ced8f6",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a donné son feu vert à Weltruza (TEV-749), le deuxième traitement de MedinCell contre la schizophrénie, et le titre a bondi d'environ 18 % en Bourse selon la presse. Cette approbation valide la technologie d'injection à libération prolongée de l'entreprise et peut ouvrir de nouvelles sources de revenus. Le chiffre d'affaires reste toutefois en recul (-0,45) et le titre est très volatil.",
+      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec MedinCell, et le titre a fortement progressé (environ +18% selon la presse). C'est une étape réglementaire majeure qui peut ouvrir de nouveaux revenus, mais l'impact réel dépendra du lancement commercial.",
       "points_forts": [
-        "Approbation FDA de Weltruza, deuxième traitement contre la schizophrénie",
-        "Avis des analystes très favorable (strong_buy, 9 analystes)",
-        "Objectif moyen des analystes (35,5 €) supérieur au cours actuel (26,3 €)"
+        "Feu vert de la FDA pour Weltruza (TEV-749)",
+        "Objectif moyen des analystes (35,5 €) supérieur au cours de 26,12 €",
+        "Avis analystes « strong buy » (9 analystes)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-0,45)",
-        "Forte volatilité après un bond de 18 % en une séance",
-        "Le lancement commercial et les ventes réelles restent à confirmer"
+        "Chiffre d'affaires en recul (-0,446)",
+        "Action volatile : forte hausse d'un jour pouvant être suivie d'un repli",
+        "Succès commercial du lancement encore incertain"
       ],
       "catalyseurs": [
         "Lancement commercial de Weltruza aux États-Unis",
-        "Avancées de mdc-CWM (essai de phase III contre la douleur post-opératoire)"
+        "Avancée des autres programmes (mdc-CWM en phase III, mdc-TJK au stade NDA)"
       ],
-      "a_surveiller": "Surveiller si le titre conserve son élan après le bond de 18 % et ce que la direction dira sur le calendrier de commercialisation et les futurs revenus."
+      "a_surveiller": "Surveiller les détails du lancement de Weltruza (calendrier, ventes, redevances) et la réaction du cours dans les prochains jours, après la forte hausse."
     }
   },
   "KLRA": {
@@ -1224,27 +1224,27 @@
     }
   },
   "GLO.PA": {
-    "sig": "163869dda9f88a86",
+    "sig": "07ac12d8f6b76af0",
     "analyse": {
       "sentiment": "positif",
       "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres récents évoquent un été très porteur pour GL Events (grands événements, concerts au Stade de France) et un relèvement des perspectives annuelles, qui avait fait bondir l'action de 23 % lors d'une séance. D'autres articles indiquent que le groupe maintient sa guidance de croissance, portée par les activités Live et Venues. Cela compte car les analystes restent très favorables, avec des objectifs de cours (36 à 38 €) au-dessus du cours actuel de 30,75 €.",
+      "resume": "Les titres récents évoquent un très bon été pour GL Events, avec un relèvement de ses perspectives annuelles et une forte hausse en Bourse (jusqu'à +23 % sur une séance selon la presse). La société maintient sa guidance de croissance, portée par les activités Live et Venues. Cela compte car les analystes restent très favorables, avec un objectif moyen (37,6 €) supérieur au cours actuel (30,5 €).",
       "points_forts": [
-        "Perspectives annuelles relevées et guidance de croissance maintenue",
-        "Chiffre d'affaires en hausse de 8,9 %",
-        "Avis analystes strong_buy, objectifs entre 36 et 38 €"
+        "Perspectives annuelles relevées après un été exceptionnel",
+        "Croissance du chiffre d'affaires de 8,9 %",
+        "Avis analystes très favorable (5 analystes, objectif moyen 37,6 €)"
       ],
       "risques": [
-        "Action volatile : un bond de 23 % en une séance peut s'inverser",
-        "Cours en baisse de 6,8 % sur 6 mois malgré les bonnes nouvelles",
-        "Activité liée aux grands événements, donc sensible au contexte économique"
+        "Après un bond aussi brutal, le titre peut être volatil",
+        "Cours en repli de 7,5 % sur 6 mois malgré la hausse récente",
+        "Activité événementielle sensible au contexte économique et à la saisonnalité"
       ],
       "catalyseurs": [
         "Prochaine publication de résultats (date non communiquée)",
         "Confirmation ou nouveau relèvement de la guidance annuelle"
       ],
-      "a_surveiller": "Surveille si le cours se rapproche des objectifs des analystes (36 à 38 €) ou s'il reste proche de ses niveaux récents, et la date des prochains résultats, pas encore connue."
+      "a_surveiller": "Surveiller si le cours tient après le fort rebond et s'il se rapproche du plus haut sur 52 semaines (36,25 €), ainsi que la date des prochains résultats, non communiquée."
     }
   },
   "ALPRG.PA": {
@@ -1296,27 +1296,27 @@
     }
   },
   "FMC": {
-    "sig": "e6fd1328b6358997",
+    "sig": "b53713d88de6c173",
     "analyse": {
       "sentiment": "negatif",
-      "importance": 4,
+      "importance": 5,
       "confiance": "moyenne",
-      "resume": "Les titres évoquent une prise de participation de 20 % de Tessenderlo pour 400 M$ dans FMC, présentée par certains médias comme un « renflouement d'urgence » mal accueilli par les investisseurs. Le cours a fortement chuté (-70 % en 6 mois) et se situe près de son plus bas sur 52 semaines, ce qui montre une situation financière tendue. Les détails de l'opération ne figurent pas dans les données, donc l'impact exact reste incertain.",
+      "resume": "FMC a révisé à la baisse ses prévisions pour le troisième trimestre, ce qui a fait chuter le cours. Un renflouement d'urgence a ensuite été mal accueilli par les investisseurs, même si l'action a rebondi quand Tessenderlo a pris 20 % du capital pour 400 M$. L'action reste très fragile : elle a perdu environ 68 % en six mois.",
       "points_forts": [
-        "Apport de 400 M$ par Tessenderlo (20 % du capital) qui apporte des liquidités",
-        "Les analystes restent globalement à l'achat (16 avis, objectif moyen 12,8 $)",
-        "Gamme diversifiée : insecticides, herbicides, fongicides, biologiques"
+        "Entrée de Tessenderlo à 20 % pour 400 M$",
+        "Les 16 analystes restent globalement à l'achat (objectif moyen 12,8 $ contre 5,34 $ de cours)",
+        "Activité diversifiée (insecticides, herbicides, fongicides, biologiques) et présence mondiale"
       ],
       "risques": [
-        "Chute du cours de 70 % en 6 mois, proche du plus bas annuel",
-        "Chiffre d'affaires en baisse (-17,5 %)",
-        "Renflouement perçu comme un signe de fragilité financière, avec risque de dilution"
+        "Prévisions revues à la baisse et chiffre d'affaires en recul (-17,5 %)",
+        "Renflouement d'urgence mal perçu, avec un risque de dilution",
+        "Forte volatilité : cours proche du plus bas sur 52 semaines (4,845 $) et capitalisation réduite (~830 M$)"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 29 octobre 2026",
+        "Publication des résultats le 29 octobre 2026",
         "Précisions sur les conditions et l'utilisation des 400 M$ de Tessenderlo"
       ],
-      "a_surveiller": "Surveillez les détails de l'accord avec Tessenderlo (dilution, usage des fonds) et si le chiffre d'affaires cesse de reculer lors des prochains résultats, sachant que le titre reste très volatil."
+      "a_surveiller": "Surveiller si la nouvelle entrée de capital stabilise la situation financière et si les prévisions cessent d'être révisées à la baisse lors des prochains résultats."
     }
   },
   "DFH": {
@@ -1364,6 +1364,54 @@
         "Nouvelles révisions d'objectifs ou d'avis par les analystes"
       ],
       "a_surveiller": "Surveiller si le détail de l'avis d'UBS et les prochains résultats confirment une amélioration, ou si le cours casse son plus bas annuel de 54,11 $."
+    }
+  },
+  "REAL": {
+    "sig": "c82f2c12e24ead3b",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Les titres récents évoquent le refinancement des obligations 2029 de The RealReal par de nouvelles facilités de crédit, ainsi que l'extension de son agent d'achat IA, Ask TRR, avec Gemini Enterprise de Google Cloud. Un article plus général présente la seconde main comme un possible relais de croissance pour le luxe. Les titres restent peu détaillés : on ne connaît ni les conditions du refinancement ni l'impact concret de ces annonces sur les résultats.",
+      "points_forts": [
+        "Chiffre d'affaires en hausse de 16,6 %",
+        "Refinancement de la dette 2029 (détails non précisés)",
+        "Avis moyen des analystes : strong_buy, objectif moyen 18 $ contre 10,09 $ de cours"
+      ],
+      "risques": [
+        "Cours en baisse de 16,5 % sur 6 mois, proche du bas annuel (8,05 $)",
+        "Petite capitalisation (environ 1,2 Md$), donc potentiellement très volatile",
+        "Conditions du refinancement inconnues, impact sur le coût de la dette incertain"
+      ],
+      "catalyseurs": [
+        "Prochains résultats prévus le 29 octobre 2026",
+        "Déploiement et adoption de l'agent IA Ask TRR"
+      ],
+      "a_surveiller": "Les détails du refinancement (coût, échéances) et la capacité de l'entreprise à maintenir sa croissance du chiffre d'affaires lors des prochains résultats."
+    }
+  },
+  "MITT-PA": {
+    "sig": "50dd79d06d0385cf",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres d'actualité fournis concernent surtout d'autres sociétés du secteur (REFI, CHMI, IVR, Western Asset Mortgage Capital) et ne disent rien de concret sur TPG Mortgage Investment Trust. Seule information sectorielle : une offre d'acquisition d'AG Mortgage Investment Trust sur Western Asset Mortgage Capital, qui évoque un possible mouvement de consolidation chez les REIT hypothécaires. Le cours de MITT-PA (18,96 USD) est en baisse de 11,4 % sur 6 mois, proche du bas de sa fourchette annuelle.",
+      "points_forts": [
+        "Croissance du chiffre d'affaires indiquée à 0,537 (donnée brute, sans détail)",
+        "Portefeuille diversifié de prêts résidentiels et commerciaux",
+        "Statut de REIT avec distribution d'au moins 90 % du revenu imposable"
+      ],
+      "risques": [
+        "Cours en recul de 11,4 % sur 6 mois",
+        "Aucune donnée d'analystes ni de capitalisation disponible",
+        "Aucune actualité directe sur la société dans les titres fournis"
+      ],
+      "catalyseurs": [
+        "Prochaine publication de résultats (date non communiquée)",
+        "Évolution de la consolidation dans le secteur des REIT hypothécaires"
+      ],
+      "a_surveiller": "Surveiller la date des prochains résultats et toute annonce propre à la société, car les actualités actuelles ne la concernent pas directement."
     }
   }
 }
