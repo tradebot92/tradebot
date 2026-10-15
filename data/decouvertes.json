@@ -28,21 +28,20 @@
       "premiere": "2026-10-15T19:53+02:00",
       "nom": "Gloo Holdings, Inc."
     },
-    "SES": {
-      "premiere": "2026-10-15T21:53+02:00",
-      "nom": "SES AI Corporation"
-    },
     "OPEN": {
       "premiere": "2026-10-15T21:53+02:00",
       "nom": "Opendoor Technologies Inc"
+    },
+    "BMBL": {
+      "premiere": "2026-10-15T22:55+02:00",
+      "nom": "Bumble Inc."
+    },
+    "EVEX": {
+      "premiere": "2026-10-15T22:55+02:00",
+      "nom": "Eve Holding, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "EVO",
-      "date": "14/10/2026",
-      "nom": "Evotec SE"
-    },
     {
       "symbole": "AADX",
       "date": "14/10/2026",
@@ -187,6 +186,11 @@
       "symbole": "EVEX",
       "date": "15/10/2026",
       "nom": "Eve Holding, Inc."
+    },
+    {
+      "symbole": "SES",
+      "date": "15/10/2026",
+      "nom": "SES AI Corporation"
     }
   ]
 }
