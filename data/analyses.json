@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "3a7d9fe2a717b8da",
+    "sig": "2ccdc740afc84a6f",
     "analyse": {
       "sentiment": "positif",
       "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres récents évoquent un bénéfice en hausse de 81 %, la progression du cloud et un accord important avec Anthropic qui a fait monter l'action d'environ 2 %. Un titre mentionne aussi une chute du cours, ce qui montre que le marché reste partagé. Cela compte car Alphabet pèse très lourd en Bourse (environ 4 200 milliards USD) et ses résultats influencent tout le secteur technologique.",
+      "resume": "Les titres récents évoquent un bénéfice en forte hausse (+81 %) pour Alphabet, des résultats liés notamment au cloud, ainsi qu'un accord important avec Anthropic qui a fait monter l'action d'environ 2 %. Le cours reste toutefois sous son plus haut sur 52 semaines, et un article mentionne aussi une chute du cours, ce qui montre que le marché réagit de façon contrastée.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 24,2 %",
-        "Bénéfice en forte hausse (+81 % selon les titres)",
-        "Avis des analystes : strong_buy, objectif moyen 420,79 USD"
+        "Bénéfice en forte hausse (+81 % d'après un titre)",
+        "Chiffre d'affaires en croissance de 24,2 %",
+        "Analystes très favorables : avis strong_buy, objectif moyen 420,79 USD"
       ],
       "risques": [
-        "Cours à 346,27 USD, nettement sous le plus haut sur 52 semaines (404,47)",
-        "Hausse limitée sur 6 mois (+2,2 %) malgré de bons résultats",
+        "Cours (345,25 USD) environ 15 % sous le plus haut sur 52 semaines (404,47)",
+        "Performance modeste sur 6 mois (+1,9 %)",
         "Objectif bas des analystes (340 USD) proche du cours actuel"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 28 octobre 2026",
-        "Suites de l'accord avec Anthropic et évolution du cloud"
+        "Évolution de l'accord avec Anthropic et de l'activité cloud"
       ],
-      "a_surveiller": "Surveillez si le cloud continue d'accélérer lors des prochains résultats et si le cours parvient à se rapprocher de son plus haut des 52 dernières semaines."
+      "a_surveiller": "Surveillez si la croissance du cloud et l'accord avec Anthropic se traduisent dans les prochains résultats du 28 octobre 2026, et si le cours reste au-dessus de l'objectif bas des analystes (340 USD)."
     }
   },
   "GLOO": {
@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "aab563939d0ad4c8",
+    "sig": "3aa4d129e50275b4",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et des commentaires sur la forte hausse passée d'Infleqtion (+314 % évoqués), après son entrée en Bourse via un SPAC valorisant la société à 1,8 milliard de dollars. Aucune actualité concrète nouvelle n'est détaillée. Le cours à 9,11 USD a nettement reculé (-41,5 % sur 6 mois) et se situe près de son plus bas sur 52 semaines (8,52).",
+      "resume": "Infleqtion, spécialiste de la technologie quantique, est cotée en Bourse après une fusion avec un SPAC valorisant l'entreprise à 1,8 milliard de dollars. Les titres récents évoquent de fortes hausses passées (un bond de 314 % est mentionné), mais le cours actuel de 9,24 $ a perdu 47 % en 6 mois. Les titres ne donnent pas de détail concret sur les résultats ou les contrats, donc le signal reste flou.",
       "points_forts": [
         "Croissance du chiffre d'affaires élevée (1,565, soit environ +156 %)",
-        "Analystes très favorables (avis strong_buy, objectif moyen 21,83 USD)",
-        "Positionnement en technologies quantiques (calcul, horloges, capteurs)"
+        "Avis des analystes : strong_buy, objectif moyen 21,83 $",
+        "Gamme variée : informatique quantique, horloges et capteurs quantiques"
       ],
       "risques": [
-        "Forte volatilité et baisse marquée depuis le plus haut de 21,28 USD",
-        "Petite entreprise issue d'un SPAC, valorisation spéculative",
-        "Titres d'actualité peu informatifs, peu d'éléments concrets sur les résultats ou la rentabilité"
+        "Forte volatilité : -47 % sur 6 mois, proche du plus bas annuel de 8,52 $",
+        "Titre récent issu d'un SPAC, souvent très spéculatif",
+        "Les objectifs des analystes sont très éloignés du cours actuel, ce qui souligne l'incertitude"
       ],
       "catalyseurs": [
         "Publication des prochains résultats le 12 novembre 2026",
-        "Révisions des objectifs ou avis des analystes"
+        "Annonces de contrats ou de produits quantiques (capteurs, horloges, ordinateurs)"
       ],
-      "a_surveiller": "Vérifier si le cours tient au-dessus du plus bas de 52 semaines (8,52 USD) et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas de 52 semaines (8,52 $) et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
     }
   },
   "EIKN": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "7c291ef26aab8ba7",
+    "sig": "5fa835ec0c9793a3",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a donné son feu vert à Weltruza (TEV-749), le deuxième traitement de Medincell contre la schizophrénie. Les titres indiquent que l'action a bondi d'environ 18 % à cette annonce. L'autorisation compte car elle élargit la gamme commerciale de l'entreprise, mais les détails financiers de l'accord ne figurent pas dans les données fournies.",
+      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec MedinCell. Le titre a bondi d'environ 18 % en Bourse à cette annonce. C'est important car cela valide une étape réglementaire clé pour un produit lié à la technologie de la société.",
       "points_forts": [
-        "Autorisation FDA obtenue pour Weltruza, deuxième traitement contre la schizophrénie",
-        "Avis des analystes très favorable (strong_buy, 9 analystes)",
-        "Objectif moyen de 35,5 EUR, supérieur au cours de 26,4 EUR"
+        "Feu vert de la FDA pour Weltruza dans la schizophrénie",
+        "Avis des analystes très favorable (strong buy, 9 analystes)",
+        "Objectif moyen des analystes à 35,5 € contre un cours de 26,32 €"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-44,6 %)",
-        "Forte volatilité après un bond de 18 % en une séance",
-        "Dépendance à des produits et partenaires pour la commercialisation"
+        "Chiffre d'affaires en baisse (-0,446)",
+        "Titre très volatil : forte hausse après l'annonce, risque de retour en arrière",
+        "Cours encore éloigné du plus haut sur 52 semaines (39,68 €)"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis",
-        "Avancées de mdc-CWM (Phase III) et de mdc-TJK (stade NDA)"
+        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
+        "Avancées des autres programmes (mdc-CWM en phase III)"
       ],
-      "a_surveiller": "Le rythme du lancement commercial de Weltruza et son effet sur le chiffre d'affaires, aujourd'hui en repli, ainsi que la tenue du cours après ce bond."
+      "a_surveiller": "Surveiller si le cours se maintient après le bond de 18 % et les informations sur le calendrier de commercialisation de Weltruza, sans se fier uniquement à l'élan du jour."
     }
   },
   "KLRA": {
@@ -1224,27 +1224,27 @@
     }
   },
   "GLO.PA": {
-    "sig": "bbcf5f7bbbb62b2a",
+    "sig": "07ac12d8f6b76af0",
     "analyse": {
       "sentiment": "positif",
-      "importance": 4,
+      "importance": 3,
       "confiance": "moyenne",
-      "resume": "GL Events a fortement progressé en Bourse (environ +23% sur une séance selon la presse) après un été exceptionnel, porté par des événements comme la visite du pape Léon XIV et des concerts au Stade de France, et après le relèvement de ses perspectives annuelles. Les analystes (5 à l'achat fort) visent un cours moyen de 37,6 EUR, soit au-dessus du cours actuel de 30,65 EUR. Le titre reste néanmoins en baisse de 7,1 % sur 6 mois, ce qui montre une forte volatilité.",
+      "resume": "Les titres rapportent un bond de 23 % de GL Events en Bourse après un été exceptionnel (événements comme la visite du pape Léon XIV ou des concerts au Stade de France) et un relèvement des perspectives annuelles. La croissance est portée par les activités Live et Venues, et les analystes visent un cours supérieur au niveau actuel. Cela compte car le titre a réagi fortement, ce qui peut aussi traduire une volatilité importante.",
       "points_forts": [
         "Perspectives annuelles relevées après un été exceptionnel",
         "Croissance du chiffre d'affaires de 8,9 %",
-        "Objectifs des analystes (37,0 à 38,0 EUR) supérieurs au cours actuel"
+        "Avis analystes strong_buy, objectifs 37-38 € au-dessus du cours de 31,2 €"
       ],
       "risques": [
-        "Forte volatilité : un bond de 23 % en une séance peut s'inverser",
-        "Activité dépendante d'événements ponctuels (sportifs, culturels, institutionnels)",
-        "Cours déjà proche du haut de sa fourchette sur 52 semaines (36,25 EUR) avec un objectif analystes peu éloigné"
+        "Forte volatilité : hausse de 23 % en une séance, titre encore -5,4 % sur 6 mois",
+        "Activité dépendant de grands événements ponctuels, pas forcément récurrents",
+        "Contexte économique évoqué comme incertain (croissance « malgré le contexte »)"
       ],
       "catalyseurs": [
         "Prochaine publication de résultats (date non communiquée)",
         "Confirmation ou nouveau relèvement de la guidance annuelle"
       ],
-      "a_surveiller": "Voir si le titre se stabilise après ce bond et si les analystes ajustent leurs objectifs de cours, ainsi que la date des prochains résultats, non communiquée pour l'instant."
+      "a_surveiller": "Surveiller si le titre consolide après ce bond et si la société confirme sa guidance lors de ses prochaines publications, la date des résultats n'étant pas encore connue."
     }
   },
   "ALPRG.PA": {
@@ -1436,6 +1436,30 @@
         "Éventuelles annonces sur l'avancement du développement ou de la certification de l'eVTOL"
       ],
       "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel de 1,41 USD et les prochaines annonces officielles de la société, car les titres actuels n'apportent rien de concret."
+    }
+  },
+  "RXRX": {
+    "sig": "2c4e7e589c17e859",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres récents sont des pages de cours et de graphiques (TradingView, Yahoo Finance) sans information concrète sur l'entreprise : pas de résultats d'essais, ni d'annonce de partenariat. Rien dans l'actualité ne change à lui seul le dossier de Recursion, une biotech en phase clinique dont le titre est très volatil.",
+      "points_forts": [
+        "Cours en hausse d'environ 14,7 % sur 6 mois",
+        "Objectif moyen des analystes (7,22 $) nettement au-dessus du cours (4,34 $)",
+        "Plusieurs candidats-médicaments en essais cliniques (REC-4881, REC-617, REC-1245)"
+      ],
+      "risques": [
+        "Chiffre d'affaires en forte baisse (-60,1 %)",
+        "Écart important entre le plus haut (7,18 $) et le plus bas (2,77 $) sur 52 semaines, signe d'une forte volatilité",
+        "Objectifs d'analystes très dispersés (de 4 à 10 $) et aucun avis consensuel"
+      ],
+      "catalyseurs": [
+        "Publication des prochains résultats prévue le 2026-11-04",
+        "Données d'avancement des essais cliniques en cours (phases 1/2)"
+      ],
+      "a_surveiller": "Surveille la publication des résultats du 4 novembre 2026 et toute annonce sur les essais cliniques, plus informatifs que les simples pages de cours."
     }
   }
 }

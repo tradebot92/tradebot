@@ -36,17 +36,12 @@
       "premiere": "2026-10-15T16:57+02:00",
       "nom": "The RealReal, Inc."
     },
-    "EVEX": {
-      "premiere": "2026-10-15T17:24+02:00",
-      "nom": "Eve Holding, Inc."
+    "RXRX": {
+      "premiere": "2026-10-15T17:58+02:00",
+      "nom": "Recursion Pharmaceuticals, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "GTN-A",
-      "date": "13/10/2026",
-      "nom": "Gray Media, Inc."
-    },
     {
       "symbole": "EVH",
       "date": "14/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "MITT-PA",
       "date": "15/10/2026",
       "nom": "TPG Mortgage Investment Trust, "
+    },
+    {
+      "symbole": "EVEX",
+      "date": "15/10/2026",
+      "nom": "Eve Holding, Inc."
     }
   ]
 }
