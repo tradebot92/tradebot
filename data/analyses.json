@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "5fa835ec0c9793a3",
+    "sig": "38a169a5ec3052c9",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec MedinCell. Selon la presse, l'action a bondi d'environ 18 % après cette annonce. C'est une étape réglementaire importante, car elle ouvre la voie à une commercialisation aux États-Unis.",
+      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec la technologie de Medincell. Le titre a réagi par une hausse d'environ 18 % en Bourse selon la presse. C'est important car cela valide la technologie de l'entreprise et ouvre la voie à de futurs revenus, même si le chiffre d'affaires reste en recul (-44,6 %).",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza contre la schizophrénie",
-        "Objectif moyen des analystes (35,5 €) au-dessus du cours actuel (26,32 €)",
-        "Avis des 9 analystes : « strong buy »"
+        "Feu vert de la FDA pour Weltruza (schizophrénie)",
+        "Analystes très favorables : avis strong_buy, objectif moyen 35,5 € contre 26,32 € de cours",
+        "Produit UZEDY déjà commercialisé et autres candidats en développement (mdc-CWM en phase III)"
       ],
       "risques": [
-        "Titre très volatil : une forte hausse peut être suivie d'un repli",
-        "Chiffre d'affaires en baisse (-0,4 %)",
-        "Le succès commercial du produit reste à démontrer"
+        "Chiffre d'affaires en baisse de 44,6 %",
+        "Action volatile après un bond de 18 %, risque de prises de bénéfices",
+        "Dépendance à des partenaires et à des étapes cliniques et réglementaires incertaines"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis",
-        "Avancées des autres programmes, comme mdc-CWM en phase III"
+        "Lancement commercial de Weltruza et premiers chiffres de ventes",
+        "Résultats de l'essai de phase III de mdc-CWM"
       ],
-      "a_surveiller": "Surveiller si le cours se maintient après le bond lié à l'autorisation de la FDA, ainsi que les informations sur le calendrier de lancement et les revenus attendus."
+      "a_surveiller": "Le rythme du lancement commercial de Weltruza et la capacité de l'entreprise à convertir cette autorisation en revenus, alors que la date des prochains résultats n'est pas connue."
     }
   },
   "KLRA": {
@@ -1415,51 +1415,51 @@
     }
   },
   "EVEX": {
-    "sig": "40d806ee142bd921",
+    "sig": "871ff3f7f765a4c6",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont des pages de cours d'autres sociétés (Karman, Leidos, Cirrus Aircraft, etc.) et ne donnent aucune information concrète sur Eve. Le cours a toutefois reculé de 44 % en six mois et se trouve près de son plus bas sur 52 semaines (1,64 $ contre 1,41 $). Cela montre une forte pression sur le titre, sans explication dans les actualités fournies.",
+      "resume": "Les titres d'actualité fournis ne concernent pas vraiment Eve Holding : ce sont des pages de cours d'autres sociétés (Karman, Leidos, EvoNext, etc.), sans information concrète sur l'entreprise. Le titre a toutefois fortement baissé (-43 % sur 6 mois) et se trouve près de son plus bas sur 52 semaines, ce qui reflète une forte volatilité.",
       "points_forts": [
-        "Avis moyen des analystes : achat (8 analystes)",
-        "Objectif moyen (6,26 $) bien au-dessus du cours actuel",
-        "Soutien de l'actionnaire majoritaire Embraer"
+        "Objectif moyen des analystes (6,26 USD) très supérieur au cours actuel",
+        "Avis global « buy » de 8 analystes",
+        "Filiale d'Embraer, ce qui offre un soutien industriel"
       ],
       "risques": [
-        "Baisse de 44 % en 6 mois, tendance fortement négative",
-        "Action très volatile, société de petite taille",
-        "Aucune croissance du chiffre d'affaires renseignée"
+        "Baisse marquée du cours (-43 % sur 6 mois)",
+        "Données de croissance du chiffre d'affaires non disponibles",
+        "Entreprise de développement d'eVTOL, donc très volatile et exposée à des retards"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 5 novembre 2026",
-        "Révision des objectifs ou des avis par les analystes"
+        "Éventuelles avancées de développement ou de certification de l'eVTOL (non précisées dans les données)"
       ],
-      "a_surveiller": "Regarder si le cours tient au-dessus du plus bas annuel de 1,41 $ et ce que dira la direction sur le développement de l'eVTOL lors des prochains résultats."
+      "a_surveiller": "Surveille le niveau du plus bas sur 52 semaines (1,41 USD), le cours actuel (1,67 USD) en étant proche, ainsi que les prochaines annonces officielles de l'entreprise."
     }
   },
   "RXRX": {
-    "sig": "d75c27577fa48909",
+    "sig": "048b8507d8bf33de",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et de graphiques (TradingView) ou des prévisions de prix, sans nouvelle concrète sur l'entreprise. Ils ne permettent pas de dire si quelque chose a changé pour Recursion. Le contexte reste celui d'une biotech en phase clinique, au chiffre d'affaires en forte baisse et au cours volatil.",
+      "resume": "Les titres récents sont surtout des pages de cours et de graphiques (TradingView, Yahoo Finance) et une page de prévisions de prix, sans information concrète sur l'entreprise. Ils ne donnent aucun fait nouveau sur les essais cliniques ou les finances de Recursion. Le cours de 4,2 $ se situe entre le plus bas (2,77 $) et le plus haut (7,18 $) sur 52 semaines.",
       "points_forts": [
-        "Objectif moyen des analystes (7,22 USD) nettement au-dessus du cours (4,24 USD)",
-        "Plusieurs programmes cliniques en cours (REC-4881, REC-617, REC-1245)",
-        "Cours en hausse de 12 % sur 6 mois"
+        "Objectif moyen des analystes (7,22 $) supérieur au cours actuel",
+        "Hausse d'environ 11 % sur 6 mois",
+        "Plusieurs candidats-médicaments en essais cliniques de phase 1 et 2"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse de 60 %",
-        "Fourchette d'objectifs très large (4 à 10 USD), signe d'une forte incertitude",
-        "Cours volatil, entre 2,77 et 7,18 USD sur 52 semaines"
+        "Chiffre d'affaires en forte baisse (-60 %)",
+        "Société clinique très volatile, sans avis d'analystes consensuel",
+        "Objectifs d'analystes très dispersés (4 à 10 $)"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 4 novembre 2026",
-        "Avancées ou données des essais cliniques en cours"
+        "Publication des résultats prévue le 2026-11-04",
+        "Données des essais cliniques de REC-4881, REC-617 ou REC-1245"
       ],
-      "a_surveiller": "Surveillez les annonces officielles de l'entreprise sur ses essais cliniques et les prochains résultats, plus utiles que les simples pages de cours."
+      "a_surveiller": "Surveiller les annonces concrètes sur les essais cliniques et l'évolution du chiffre d'affaires lors des prochains résultats, plutôt que les simples pages de cours."
     }
   }
 }
