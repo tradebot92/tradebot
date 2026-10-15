@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "8afb4ed95612b9ab",
+    "sig": "3a7d9fe2a717b8da",
     "analyse": {
       "sentiment": "positif",
       "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres récents évoquent un bénéfice d'Alphabet en hausse de 81 %, la croissance du cloud et un accord important avec Anthropic qui a fait grimper l'action d'environ 2 %. Un article mentionne aussi une chute du cours, ce qui montre que le titre reste mouvementé. Le cours actuel (343,65 $) se situe sous le plus haut sur 52 semaines (404,47 $) et près de l'objectif bas des analystes (340 $).",
+      "resume": "Les titres récents évoquent un bénéfice en hausse de 81 %, la progression du cloud et un accord important avec Anthropic qui a fait monter l'action d'environ 2 %. Un titre mentionne aussi une chute du cours, ce qui montre que le marché reste partagé. Cela compte car Alphabet pèse très lourd en Bourse (environ 4 200 milliards USD) et ses résultats influencent tout le secteur technologique.",
       "points_forts": [
         "Croissance du chiffre d'affaires de 24,2 %",
-        "Bénéfice en hausse de 81 % selon les titres",
-        "Avis des analystes : strong_buy (14 analystes), objectif moyen 420,43 $"
+        "Bénéfice en forte hausse (+81 % selon les titres)",
+        "Avis des analystes : strong_buy, objectif moyen 420,79 USD"
       ],
       "risques": [
-        "Cours en retrait d'environ 15 % par rapport au plus haut sur 52 semaines",
-        "Titre sensible aux annonces, avec des variations marquées évoquées dans l'actualité",
-        "Valorisation élevée (capitalisation d'environ 4 200 Md$) qui laisse peu de marge à la déception"
+        "Cours à 346,27 USD, nettement sous le plus haut sur 52 semaines (404,47)",
+        "Hausse limitée sur 6 mois (+2,2 %) malgré de bons résultats",
+        "Objectif bas des analystes (340 USD) proche du cours actuel"
       ],
       "catalyseurs": [
-        "Prochains résultats le 28 octobre 2026",
-        "Évolution de l'accord avec Anthropic et de l'activité Google Cloud"
+        "Publication des résultats prévue le 28 octobre 2026",
+        "Suites de l'accord avec Anthropic et évolution du cloud"
       ],
-      "a_surveiller": "Surveillez si le cours reste au-dessus de l'objectif bas des analystes (340 $) et ce que révéleront les résultats du 28 octobre 2026 sur le cloud et la croissance."
+      "a_surveiller": "Surveillez si le cloud continue d'accélérer lors des prochains résultats et si le cours parvient à se rapprocher de son plus haut des 52 dernières semaines."
     }
   },
   "GLOO": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "186bbf9f837cbefd",
+    "sig": "6f6a6faa38b00d6b",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a approuvé Weltruza (TEV-749), deuxième traitement de MedinCell contre la schizophrénie, ce qui valide sa technologie d'injection à libération prolongée et a fait bondir le titre d'environ 18 %.",
-          "a_surveiller": "Le chiffre d'affaires reste en recul (-0,45), le titre est très volatil et le lancement commercial ainsi que les ventes réelles restent à confirmer.",
+          "pourquoi": "La FDA américaine a approuvé Weltruza (TEV-749), deuxième traitement de MedinCell contre la schizophrénie, et le titre a bondi d'environ 18 % selon la presse.",
+          "a_surveiller": "Le lancement commercial et les ventes réelles restent à confirmer, alors que le chiffre d'affaires est en recul (-0,45) et que le titre est très volatil.",
           "nom": "MEDINCELL S.A."
         },
         {
-          "symbole": "GOOG",
-          "pourquoi": "Les actualités évoquent un bénéfice d'Alphabet en hausse de 81 %, la croissance du cloud et un accord important avec Anthropic, qui a fait monter l'action d'environ 2 %.",
-          "a_surveiller": "Le cours de 343,65 $ est environ 15 % sous son plus haut sur 52 semaines, proche de l'objectif bas des analystes (340 $), et la valorisation élevée laisse peu de marge à la déception.",
-          "nom": "Alphabet Inc."
+          "symbole": "OPK",
+          "pourquoi": "L'action a fortement progressé après l'annonce de la cession des actifs BioReference pour 722 M$, ce qui peut renforcer la trésorerie et recentrer l'entreprise.",
+          "a_surveiller": "Le cours (1,64 $) est proche du plus haut sur 52 semaines (1,75 $), et l'usage des fonds ainsi que l'effet sur les revenus futurs ne sont pas précisés.",
+          "nom": "Opko Health, Inc."
         },
         {
-          "symbole": "GLO.PA",
-          "pourquoi": "GL Events profite d'un été porteur et d'un relèvement de ses perspectives annuelles, avec des analystes favorables dont les objectifs (36 à 38 €) dépassent le cours actuel de 30,75 €.",
-          "a_surveiller": "L'action est volatile (un bond de 23 % en une séance peut s'inverser), recule de 6,8 % sur 6 mois et dépend du contexte économique via les grands événements.",
-          "nom": "GL EVENTS"
+          "symbole": "GOOG",
+          "pourquoi": "Les titres évoquent un bénéfice en hausse de 81 %, la progression du cloud et un accord important avec Anthropic, mais le marché reste partagé.",
+          "a_surveiller": "Le cours (346,27 USD) reste nettement sous son plus haut sur 52 semaines (404,47) et proche de l'objectif bas des analystes (340 USD).",
+          "nom": "Alphabet Inc."
         }
       ],
-      "prudence": "Ces informations ne constituent pas un conseil : les cours peuvent varier fortement à la hausse comme à la baisse et une perte en capital est possible."
+      "prudence": "Ces informations sont issues de la presse et de données partielles, les cours peuvent varier fortement et rien ne garantit une évolution future : il convient de vérifier par soi-même avant toute décision."
     }
   },
   "SVC": {
@@ -1269,6 +1269,101 @@
         "Prochaine publication de résultats (date non communiquée)"
       ],
       "a_surveiller": "Vérifier auprès de ton courtier comment seront traités les rompus et surveiller que le cours et l'objectif de l'analyste soient bien ajustés après le regroupement, car les chiffres actuels ne seront alors plus comparables."
+    }
+  },
+  "OPK": {
+    "sig": "80aeecaaa51a09cb",
+    "analyse": {
+      "sentiment": "positif",
+      "importance": 4,
+      "confiance": "moyenne",
+      "resume": "Un titre récent indique que l'action Opko Health a fortement progressé après l'annonce de la cession des actifs BioReference pour 722 M$. Cette vente peut renforcer la trésorerie et recentrer l'entreprise, mais les détails (usage des fonds, impact sur les revenus) ne figurent pas dans les données fournies.",
+      "points_forts": [
+        "Cession d'actifs BioReference pour 722 M$ (soit environ 59 % de la capitalisation)",
+        "Objectif moyen des analystes (4,375 $) bien au-dessus du cours de 1,64 $",
+        "Croissance du chiffre d'affaires positive (+4,3 %)"
+      ],
+      "risques": [
+        "Après la hausse, le cours (1,64 $) est proche du plus haut sur 52 semaines (1,75 $)",
+        "Perte d'une partie de l'activité diagnostics, effet sur les revenus futurs incertain",
+        "Titre de petite capitalisation, potentiellement très volatil, avec seulement 4 analystes"
+      ],
+      "catalyseurs": [
+        "Résultats prévus le 28 octobre 2026",
+        "Précisions sur l'utilisation du produit de la cession et sur les essais cliniques en phase 1"
+      ],
+      "a_surveiller": "Comment l'entreprise compte employer les 722 M$ et comment le cours se comporte près de son plus haut annuel de 1,75 $."
+    }
+  },
+  "FMC": {
+    "sig": "e6fd1328b6358997",
+    "analyse": {
+      "sentiment": "negatif",
+      "importance": 4,
+      "confiance": "moyenne",
+      "resume": "Les titres évoquent une prise de participation de 20 % de Tessenderlo pour 400 M$ dans FMC, présentée par certains médias comme un « renflouement d'urgence » mal accueilli par les investisseurs. Le cours a fortement chuté (-70 % en 6 mois) et se situe près de son plus bas sur 52 semaines, ce qui montre une situation financière tendue. Les détails de l'opération ne figurent pas dans les données, donc l'impact exact reste incertain.",
+      "points_forts": [
+        "Apport de 400 M$ par Tessenderlo (20 % du capital) qui apporte des liquidités",
+        "Les analystes restent globalement à l'achat (16 avis, objectif moyen 12,8 $)",
+        "Gamme diversifiée : insecticides, herbicides, fongicides, biologiques"
+      ],
+      "risques": [
+        "Chute du cours de 70 % en 6 mois, proche du plus bas annuel",
+        "Chiffre d'affaires en baisse (-17,5 %)",
+        "Renflouement perçu comme un signe de fragilité financière, avec risque de dilution"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 29 octobre 2026",
+        "Précisions sur les conditions et l'utilisation des 400 M$ de Tessenderlo"
+      ],
+      "a_surveiller": "Surveillez les détails de l'accord avec Tessenderlo (dilution, usage des fonds) et si le chiffre d'affaires cesse de reculer lors des prochains résultats, sachant que le titre reste très volatil."
+    }
+  },
+  "DFH": {
+    "sig": "ba95d44126d33deb",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Les titres récents sont de simples pages de cours et de graphiques (DFH et concurrents comme GRBK, MHO, KBH), sans information concrète sur l'entreprise. Le cours a toutefois reculé d'environ 43 % en 6 mois et se situe près de son plus bas sur 52 semaines, avec un chiffre d'affaires en légère baisse (-7,6 %).",
+      "points_forts": [
+        "Activité diversifiée : plusieurs marques et segments, dont les services financiers",
+        "Cours bien en dessous du plus haut annuel (24,28), ce qui reflète un pessimisme déjà marqué"
+      ],
+      "risques": [
+        "Forte baisse du cours sur 6 mois et tendance négative",
+        "Chiffre d'affaires en recul de 7,6 %",
+        "Capitalisation modérée (environ 765 M USD) : action potentiellement très volatile"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 29 octobre 2026",
+        "Évolution du secteur de la construction résidentielle américaine, suivie via les concurrents (GRBK, MHO, KBH)"
+      ],
+      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas de 7,3 USD et ce que les prochains résultats diront sur l'évolution des ventes."
+    }
+  },
+  "SAH": {
+    "sig": "87a54341543e571f",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Le seul titre vraiment lié à Sonic Automotive indique qu'UBS est favorable au dossier, sans détail chiffré dans les données fournies. Les autres titres sont des pages de cours d'autres sociétés et n'apportent rien de concret sur SAH. L'action reste nettement sous son plus haut sur 52 semaines (65,21 $ contre 113,67 $), alors que les analystes affichent un avis globalement « buy ».",
+      "points_forts": [
+        "Avis moyen des analystes « buy » (11 analystes)",
+        "Objectif moyen (88,9 $) bien au-dessus du cours actuel",
+        "Chiffre d'affaires en hausse de 7,6 %"
+      ],
+      "risques": [
+        "Cours proche du bas des 52 semaines (54,11 $)",
+        "Baisse de 6,8 % sur 6 mois",
+        "Large écart entre objectifs bas (57 $) et haut (139 $), signe d'incertitude"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 29 octobre 2026",
+        "Nouvelles révisions d'objectifs ou d'avis par les analystes"
+      ],
+      "a_surveiller": "Surveiller si le détail de l'avis d'UBS et les prochains résultats confirment une amélioration, ou si le cours casse son plus bas annuel de 54,11 $."
     }
   }
 }

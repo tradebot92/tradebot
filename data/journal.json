@@ -478,5 +478,35 @@
       -10.3
     ],
     "resume": "Les titres évoquent un été exceptionnel pour GL Events (événements comme la visite du pape Léon XIV ou des concerts au Stade de France) et un relèvement de ses perspectives annuelles. L'action aurait bondi d'environ 23 % lors d'une séance, la meilleure en 25 ans, ce qui montre un fort changement de perception du marché. D'autres articles parlent toutefois du maintien de la guidance de croissance, donc le détail des prévisions reste à vérifier."
+  },
+  {
+    "date": "15/10/2026 16:03",
+    "symbole": "OPK",
+    "sentiment": "positif",
+    "cours": 1.64,
+    "gain": [
+      8.3,
+      166.8
+    ],
+    "perte": [
+      -8.3,
+      -16.7
+    ],
+    "resume": "Un titre récent indique que l'action Opko Health a fortement progressé après l'annonce de la cession des actifs BioReference pour 722 M$. Cette vente peut renforcer la trésorerie et recentrer l'entreprise, mais les détails (usage des fonds, impact sur les revenus) ne figurent pas dans les données fournies."
+  },
+  {
+    "date": "15/10/2026 16:03",
+    "symbole": "FMC",
+    "sentiment": "negatif",
+    "cours": 5.04,
+    "gain": [
+      12.2,
+      154.5
+    ],
+    "perte": [
+      -12.2,
+      -24.4
+    ],
+    "resume": "Les titres évoquent une prise de participation de 20 % de Tessenderlo pour 400 M$ dans FMC, présentée par certains médias comme un « renflouement d'urgence » mal accueilli par les investisseurs. Le cours a fortement chuté (-70 % en 6 mois) et se situe près de son plus bas sur 52 semaines, ce qui montre une situation financière tendue. Les détails de l'opération ne figurent pas dans les données, donc l'impact exact reste incertain."
   }
 ]

@@ -12,66 +12,36 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "BMBL": {
-      "premiere": "2026-10-12T20:46+02:00",
-      "nom": "Bumble Inc."
-    },
-    "EIKN": {
-      "premiere": "2026-10-14T15:58+02:00",
-      "nom": "Eikon Therapeutics, Inc."
-    },
-    "BBT": {
-      "premiere": "2026-10-14T15:58+02:00",
-      "nom": "Beacon Financial Corporation"
-    },
-    "ENVX": {
-      "premiere": "2026-10-14T21:56+02:00",
-      "nom": "Enovix Corporation"
-    },
-    "HVT-A": {
-      "premiere": "2026-10-14T22:19+02:00",
-      "nom": "Haverty Furniture Companies, In"
-    },
     "GLO.PA": {
       "premiere": "2026-10-15T09:29+02:00",
       "nom": "GL EVENTS"
     },
-    "EXK": {
-      "premiere": "2026-10-15T11:00+02:00",
-      "nom": "Endeavour Silver Corporation"
+    "OPK": {
+      "premiere": "2026-10-15T16:03+02:00",
+      "nom": "Opko Health, Inc."
+    },
+    "ETL.PA": {
+      "premiere": "2026-10-15T16:03+02:00",
+      "nom": "EUTELSAT COMMUNIC."
+    },
+    "FMC": {
+      "premiere": "2026-10-15T16:03+02:00",
+      "nom": "FMC Corporation"
+    },
+    "DFH": {
+      "premiere": "2026-10-15T16:03+02:00",
+      "nom": "Dream Finders Homes, Inc."
+    },
+    "MITT-PB": {
+      "premiere": "2026-10-15T16:03+02:00",
+      "nom": "TPG Mortgage Investment Trust, "
+    },
+    "SAH": {
+      "premiere": "2026-10-15T16:03+02:00",
+      "nom": "Sonic Automotive, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "IDIP.PA",
-      "date": "13/10/2026",
-      "nom": "IDI"
-    },
-    {
-      "symbole": "SNDA",
-      "date": "13/10/2026",
-      "nom": "Sonida Senior Living, Inc."
-    },
-    {
-      "symbole": "EXK",
-      "date": "13/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
-    {
-      "symbole": "EIKN",
-      "date": "13/10/2026",
-      "nom": "Eikon Therapeutics, Inc."
-    },
-    {
-      "symbole": "BBT",
-      "date": "13/10/2026",
-      "nom": "Beacon Financial Corporation"
-    },
-    {
-      "symbole": "QDEL",
-      "date": "13/10/2026",
-      "nom": "QuidelOrtho Corporation"
-    },
     {
       "symbole": "SES",
       "date": "13/10/2026",
@@ -191,6 +161,36 @@
       "symbole": "ALPRG.PA",
       "date": "15/10/2026",
       "nom": "PROLOGUE"
+    },
+    {
+      "symbole": "BMBL",
+      "date": "15/10/2026",
+      "nom": "Bumble Inc."
+    },
+    {
+      "symbole": "EIKN",
+      "date": "15/10/2026",
+      "nom": "Eikon Therapeutics, Inc."
+    },
+    {
+      "symbole": "BBT",
+      "date": "15/10/2026",
+      "nom": "Beacon Financial Corporation"
+    },
+    {
+      "symbole": "ENVX",
+      "date": "15/10/2026",
+      "nom": "Enovix Corporation"
+    },
+    {
+      "symbole": "HVT-A",
+      "date": "15/10/2026",
+      "nom": "Haverty Furniture Companies, In"
+    },
+    {
+      "symbole": "EXK",
+      "date": "15/10/2026",
+      "nom": "Endeavour Silver Corporation"
     }
   ]
 }
