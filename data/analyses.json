@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "38a169a5ec3052c9",
+    "sig": "7c291ef26aab8ba7",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec MedinCell. Le titre a bondi d'environ 18% en Bourse à cette annonce. C'est une étape réglementaire importante pour une biotech dont le chiffre d'affaires est en recul (-0,4).",
+      "resume": "La FDA américaine a donné son feu vert à Weltruza (TEV-749), le deuxième traitement de MedinCell contre la schizophrénie, et le titre a bondi d'environ 18 % en Bourse selon la presse. Cette approbation valide la technologie d'injection à libération prolongée de l'entreprise et peut ouvrir de nouvelles sources de revenus. Le chiffre d'affaires reste toutefois en recul (-0,45) et le titre est très volatil.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza contre la schizophrénie",
-        "Analystes très favorables : avis « strong_buy », objectif moyen 35,5 € (cours 26,5 €)",
-        "Produit déjà commercialisé (UZEDY) et autres candidats en développement (mdc-CWM en phase III)"
+        "Approbation FDA de Weltruza, deuxième traitement contre la schizophrénie",
+        "Avis des analystes très favorable (strong_buy, 9 analystes)",
+        "Objectif moyen des analystes (35,5 €) supérieur au cours actuel (26,3 €)"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-0,446)",
-        "Titre volatil : forte variation possible après une annonce, avec un cours encore loin du plus haut 52 semaines (39,68 €)",
-        "Dépendance aux résultats cliniques et réglementaires d'un nombre limité de produits"
+        "Chiffre d'affaires en baisse (-0,45)",
+        "Forte volatilité après un bond de 18 % en une séance",
+        "Le lancement commercial et les ventes réelles restent à confirmer"
       ],
       "catalyseurs": [
-        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
-        "Avancement de l'essai de phase III de mdc-CWM (douleur post-opératoire)"
+        "Lancement commercial de Weltruza aux États-Unis",
+        "Avancées de mdc-CWM (essai de phase III contre la douleur post-opératoire)"
       ],
-      "a_surveiller": "Surveillez la suite donnée à l'autorisation (calendrier de commercialisation, revenus attendus) et la capacité du titre à tenir son rebond après la hausse de 18%, sans date de résultats connue pour l'instant."
+      "a_surveiller": "Surveiller si le titre conserve son élan après le bond de 18 % et ce que la direction dira sur le calendrier de commercialisation et les futurs revenus."
     }
   },
   "KLRA": {
@@ -434,27 +434,26 @@
     }
   },
   "MYN": {
-    "sig": "f428ee5f80fdf038",
+    "sig": "faef9ca759c0926d",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne concernent pas vraiment MYN : ce sont des pages de cours TradingView d'autres fonds et sociétés (BBDC, CION, MYI, PBT, TSLX). Ils n'apportent donc aucune information concrète sur ce fonds de obligations municipales de New York. Le cours (8,73 USD) se situe près de son plus bas sur 52 semaines (8,58) et recule d'environ 9,4 % sur 6 mois.",
+      "resume": "Les titres d'actualité fournis sont des pages de cours TradingView sur d'autres valeurs (BBDC, CION, PBT, TSLX, VTN) et ne parlent pas concrètement de MYN. Aucune information propre à ce fonds municipal de New York n'en ressort. Le cours (8,73 USD) est proche de son plus bas sur 52 semaines (8,58), après une baisse d'environ 9 % en 6 mois.",
       "points_forts": [
-        "Fonds investi en obligations municipales de qualité (investment grade) exonérées d'impôts fédéraux et de New York",
-        "Géré par BlackRock, un grand acteur de la gestion d'actifs",
-        "Croissance du chiffre d'affaires indiquée à 1,545 (donnée à interpréter avec prudence)"
+        "Fonds investi en obligations municipales de qualité (investment grade) exonérées d'impôts fédéraux et new-yorkais",
+        "Géré par BlackRock Advisors, un gestionnaire reconnu"
       ],
       "risques": [
-        "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
-        "Fonds concentré sur un seul État, donc sensible à la situation locale",
-        "Pas d'avis ni d'objectif d'analystes disponibles pour éclairer la valorisation"
+        "Cours proche du plus bas sur 52 semaines, avec une tendance baissière sur 6 mois",
+        "Aucun avis ni objectif d'analystes disponible pour s'appuyer",
+        "Fonds fermé : le cours peut s'écarter de la valeur de ses actifs et il est exposé à une seule région (New York)"
       ],
       "catalyseurs": [
         "Prochaine publication de résultats ou de rapport du fonds (date non communiquée)",
-        "Évolution des taux d'intérêt, qui influence le prix des obligations municipales"
+        "Évolution des taux d'intérêt, qui pèse généralement sur les fonds obligataires"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas de 52 semaines (8,58 USD) et suivre l'évolution des taux d'intérêt."
+      "a_surveiller": "Surveiller si le cours passe sous le plus bas sur 52 semaines (8,58 USD) et chercher des informations propres au fonds, comme le dividende ou la décote par rapport à sa valeur liquidative."
     }
   },
   "AL2SI.PA": {
@@ -1225,27 +1224,27 @@
     }
   },
   "GLO.PA": {
-    "sig": "d7a2d1c7e513a749",
+    "sig": "da9620bc8a95d7da",
     "analyse": {
       "sentiment": "positif",
-      "importance": 3,
+      "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les titres récents évoquent un bond de 23 % en Bourse pour GL Events, avec des analystes qui visent un cours plus élevé. Le groupe maintient aussi sa guidance de croissance, portée par les activités Live et Venues. Cela compte car le titre reste sous son plus haut sur 52 semaines, et l'écart avec les objectifs des analystes est important.",
+      "resume": "Les titres évoquent un été exceptionnel pour GL Events (événements comme la visite du pape Léon XIV ou des concerts au Stade de France) et un relèvement de ses perspectives annuelles. L'action aurait bondi d'environ 23 % lors d'une séance, la meilleure en 25 ans, ce qui montre un fort changement de perception du marché. D'autres articles parlent toutefois du maintien de la guidance de croissance, donc le détail des prévisions reste à vérifier.",
       "points_forts": [
-        "Guidance de croissance maintenue (Live et Venues)",
-        "Chiffre d'affaires en hausse de 8,9 %",
-        "Objectifs des analystes (36 à 38 €) au-dessus du cours de 30,2 €"
+        "Perspectives annuelles relevées après un été exceptionnel",
+        "Croissance du chiffre d'affaires de 8,9 %",
+        "Objectifs des analystes (36 à 38 €) au-dessus du cours de 29,7 €, avis strong_buy"
       ],
       "risques": [
-        "Forte volatilité : hausse de 23 % en une séance, puis possible retour en arrière",
-        "Cours en baisse de 8,4 % sur 6 mois malgré le rebond",
-        "Avis des analystes très favorables mais seulement 5 analystes"
+        "Forte volatilité : un bond de 23 % en une séance peut s'inverser",
+        "Activité événementielle dépendante de rendez-vous ponctuels",
+        "Cours encore en baisse de 10 % sur 6 mois selon les données"
       ],
       "catalyseurs": [
         "Prochaine publication de résultats (date non communiquée)",
-        "Confirmation de la guidance sur les activités Live et Venues"
+        "Confirmation ou nouveau relèvement des perspectives annuelles"
       ],
-      "a_surveiller": "Voir si le cours se stabilise après le fort rebond et si la date des prochains résultats confirme la trajectoire de croissance annoncée."
+      "a_surveiller": "Voir si le cours se stabilise après ce bond exceptionnel et si les analystes ajustent leurs objectifs en cohérence avec les nouvelles perspectives."
     }
   },
   "ALPRG.PA": {

@@ -463,5 +463,20 @@
       -16.3
     ],
     "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, le deuxième traitement de MedinCell contre la schizophrénie, et le titre a bondi d'environ 18 % en Bourse selon la presse. C'est important car cela élargit l'offre commerciale de l'entreprise après UZEDY. Les détails financiers (ventes attendues, redevances) ne figurent pas dans les titres fournis."
+  },
+  {
+    "date": "15/10/2026 12:21",
+    "symbole": "GLO.PA",
+    "sentiment": "positif",
+    "cours": 29.7,
+    "gain": [
+      5.2,
+      24.6
+    ],
+    "perte": [
+      -5.2,
+      -10.3
+    ],
+    "resume": "Les titres évoquent un été exceptionnel pour GL Events (événements comme la visite du pape Léon XIV ou des concerts au Stade de France) et un relèvement de ses perspectives annuelles. L'action aurait bondi d'environ 23 % lors d'une séance, la meilleure en 25 ans, ce qui montre un fort changement de perception du marché. D'autres articles parlent toutefois du maintien de la guidance de croissance, donc le détail des prévisions reste à vérifier."
   }
 ]
