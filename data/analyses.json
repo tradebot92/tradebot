@@ -48,27 +48,27 @@
     }
   },
   "GLOO": {
-    "sig": "d5e6ae6c0b5dbf08",
+    "sig": "54ca41cdcffd78d7",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne contiennent aucune information concrète sur Gloo : ce sont des pages de cours génériques (TradingView, Yahoo), dont certaines concernent d'autres sociétés. Le titre a toutefois fortement reculé (-59,2 % en 6 mois) et se trouve proche de son plus bas sur 52 semaines (2,9 $), ce qui reflète une forte volatilité et une perte de confiance du marché.",
+      "resume": "Les titres d'actualité récents sont de simples pages de cours et de graphiques (TradingView, Yahoo Finance), dont une concerne d'autres sociétés (MNTN, SPIR). Ils n'apportent aucune information concrète sur Gloo. Ce qui compte surtout ici, c'est la forte baisse du cours (-59,2 % en 6 mois), proche de son plus bas sur 52 semaines.",
       "points_forts": [
-        "Chiffre d'affaires en forte croissance (+1,88, soit environ +188 % selon la donnée fournie)",
-        "Objectif moyen des analystes (11,17 $) très supérieur au cours actuel (3,26 $)",
-        "Plateforme d'outils IA pour un marché de niche (communautés de foi)"
+        "Croissance du chiffre d'affaires de 1,88 (soit +188 % si exprimée en pourcentage)",
+        "Objectifs d'analystes (7 à 17 USD) bien au-dessus du cours actuel de 3,26 USD",
+        "Activité centrée sur une niche (plateforme technologique pour le milieu confessionnel)"
       ],
       "risques": [
-        "Baisse marquée du cours sur 6 mois et forte volatilité",
-        "Petite capitalisation (environ 302 M$), donc titre sensible aux mouvements brusques",
-        "Écart important entre les objectifs des analystes (7 à 17 $) et le cours, signe d'incertitude sur la valorisation"
+        "Forte volatilité : cours proche du plus bas annuel (2,9) après un plus haut à 9,98",
+        "Petite capitalisation (environ 302 M USD), donc mouvements de cours potentiellement brusques",
+        "Avis des analystes non renseigné et écart important avec les objectifs, à interpréter avec prudence"
       ],
       "catalyseurs": [
         "Publication des prochains résultats le 2026-09-09",
-        "Éventuelles révisions des objectifs ou avis des 6 analystes qui suivent le titre"
+        "Révision éventuelle des objectifs ou des avis des analystes"
       ],
-      "a_surveiller": "Suivre les résultats du 9 septembre 2026 et voir si le cours tient au-dessus du plus bas annuel de 2,9 $, sans tirer de conclusion d'actualités qui ne parlent pas de l'entreprise."
+      "a_surveiller": "Les résultats du 9 septembre 2026 : évolution de la croissance du chiffre d'affaires et capacité à stabiliser le cours après la forte baisse."
     }
   },
   "INFQ": {
@@ -434,27 +434,27 @@
     }
   },
   "MYN": {
-    "sig": "faef9ca759c0926d",
+    "sig": "79061a5cdb563fde",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis sont de simples pages de cours TradingView d'autres fonds et sociétés (BBDC, CION, PBT, TSLX, VTN), sans lien concret avec MYN. Ils n'apportent aucune information sur ce fonds de obligations municipales de New York. Seules les données de cours montrent un titre en recul, à 8,86 USD, proche de son plus bas sur 52 semaines.",
+      "resume": "Les titres d'actualité fournis sont des pages génériques de cours TradingView sur d'autres valeurs (BBDC, PBT, TSLX, VTN, DXYZ) et ne concernent pas MYN. Aucune information concrète sur ce fonds n'en ressort. Le cours (8,86 USD) reste proche de son plus bas sur 52 semaines (8,58), après une baisse d'environ 8,5 % en 6 mois.",
       "points_forts": [
-        "Fonds investi en obligations municipales de qualité exonérées d'impôts fédéraux et de l'État/ville de New York",
-        "Géré par BlackRock, un gestionnaire reconnu",
-        "Capitalisation d'environ 834 M USD"
+        "Fonds investi en obligations municipales de qualité (investment grade) de New York",
+        "Revenus exonérés d'impôt fédéral et de New York, selon la description du fonds",
+        "Géré par BlackRock, un grand gestionnaire d'actifs"
       ],
       "risques": [
-        "Cours en baisse de 8,5 % sur 6 mois, proche du plus bas de 52 semaines (8,58 USD)",
-        "Aucun avis d'analyste ni objectif de cours disponible",
-        "Pas de date de résultats ni d'actualité spécifique pour éclairer la tendance"
+        "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
+        "Aucun avis ni objectif d'analystes disponible",
+        "Fonds concentré sur un seul État, donc moins diversifié"
       ],
       "catalyseurs": [
-        "Évolution des taux d'intérêt, qui influence généralement la valeur des obligations",
-        "Prochaines publications du fonds (distributions, rapports), dates non précisées"
+        "Prochaine publication des résultats ou du rapport du fonds (date non communiquée)",
+        "Évolution des taux d'intérêt, qui pèse généralement sur le prix des obligations"
       ],
-      "a_surveiller": "Surveille si le cours casse le plus bas de 52 semaines (8,58 USD) ou s'il rebondit durablement, ainsi que les prochaines communications officielles du fonds."
+      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas des 52 semaines (8,58 USD) et attends des informations propres au fonds, comme la distribution et la décote par rapport à la valeur liquidative, qui ne figurent pas dans ces données."
     }
   },
   "AL2SI.PA": {
