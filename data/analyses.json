@@ -96,27 +96,27 @@
     }
   },
   "EIKN": {
-    "sig": "24f73b5f7bbd34d0",
+    "sig": "2d3a849c66faaf8f",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas vraiment d'Eikon : ce sont surtout des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, SPRY, AUTL, CAPR). Ils n'apportent donc aucune information concrète sur l'entreprise. Le cours a reculé d'environ 37,6 % en 6 mois et reste proche de son plus bas sur 52 semaines, ce qui reflète une forte volatilité.",
+      "resume": "Les titres récents ne concernent pas directement Eikon Therapeutics : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, NVAX, SPRY, AGMB). Il n'y a donc aucune nouvelle concrète sur EIKN. L'action a reculé d'environ 37,6 % en 6 mois et cote près de son plus bas sur 52 semaines.",
       "points_forts": [
-        "Plusieurs candidats en développement clinique (EIK1001, EIK1003, EIK1004, EIK1005)",
-        "Objectif moyen des analystes (24,6 USD) bien au-dessus du cours actuel (7,01 USD)",
-        "Capitalisation d'environ 380 M USD"
+        "Portefeuille clinique varié en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)",
+        "Objectif moyen des analystes (24,6 $) bien supérieur au cours actuel (7,01 $)",
+        "Capitalisation d'environ 380 M$ pour une société en phase clinique"
       ],
       "risques": [
-        "Forte baisse du cours (-37,6 % sur 6 mois) et volatilité élevée",
-        "Aucun chiffre d'affaires communiqué, société encore au stade clinique",
-        "Grand écart entre les objectifs des analystes (4,0 à 32,0 USD), signe de forte incertitude"
+        "Forte baisse du cours sur 6 mois, proche du plus bas sur 52 semaines",
+        "Fourchette d'objectifs très large (4 à 32 $), signe d'une grande incertitude",
+        "Aucun chiffre d'affaires communiqué : résultats cliniques et financement déterminants"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Annonces de données cliniques sur les produits en développement (aucune date précisée)"
+        "Résultats trimestriels prévus le 12 novembre 2026",
+        "Éventuelles données cliniques sur les programmes EIK1001, PARP1 ou WRN (aucune date indiquée)"
       ],
-      "a_surveiller": "Surveiller les communiqués propres à Eikon (données cliniques, financement) et la tenue du cours autour du plus bas annuel de 6,45 USD."
+      "a_surveiller": "Surveillez les annonces de données cliniques et la situation de trésorerie de la société, car les titres actuels n'apportent aucune information propre à EIKN."
     }
   },
   "EXK": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "9f5e79bedcd89c62",
+    "sig": "652dae41f822b5cc",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec MedinCell, et le titre a bondi d'environ 18 % après l'annonce.",
-          "a_surveiller": "La baisse du chiffre d'affaires (-0,446), la volatilité du titre, encore loin de son plus haut 52 semaines (39,68 €), et la dépendance à un nombre limité de produits.",
+          "pourquoi": "La FDA a approuvé Weltruza (TEV-749), deuxième traitement de MedinCell contre la schizophrénie, et le titre a progressé d'environ 18 % en Bourse.",
+          "a_surveiller": "Le chiffre d'affaires reste en recul (-0,45), le titre est très volatil et le lancement commercial ainsi que les ventes réelles restent à confirmer.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "GOOG",
-          "pourquoi": "Les titres évoquent un bénéfice en forte hausse (+81 %), la dynamique du cloud et un accord important avec Anthropic, qui a fait progresser l'action d'environ 2 %.",
-          "a_surveiller": "Le cours reste environ 15 % sous son plus haut sur 52 semaines, proche de l'objectif analyste bas (340 $), avec une valorisation très élevée (environ 4 200 Md$) sensible aux déceptions.",
+          "pourquoi": "Les titres évoquent un bénéfice en forte hausse (+81 %), la dynamique du cloud et un accord important avec Anthropic, qui a fait monter l'action d'environ 2 %.",
+          "a_surveiller": "Le cours est environ 15 % sous son plus haut sur 52 semaines (404,47 $), proche de l'objectif analyste bas (340 $), et la valorisation élevée (environ 4 200 Md$) le rend sensible aux déceptions.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "GLO.PA",
-          "pourquoi": "GL Events a bondi de 23 % en Bourse, avec des analystes visant un cours plus élevé et une guidance de croissance maintenue, portée par les activités Live et Venues.",
-          "a_surveiller": "Un possible retour en arrière après une hausse de 23 % en une séance, une baisse de 8,4 % sur 6 mois et un avis favorable reposant sur seulement 5 analystes.",
+          "pourquoi": "Les articles évoquent un été porteur, des perspectives annuelles relevées, une guidance de croissance maintenue (Live et Venues) et un bond de 23 % en une séance.",
+          "a_surveiller": "Un bond de 23 % en une séance peut s'inverser, l'activité dépend d'événements ponctuels et le titre reste en recul de 9,7 % sur 6 mois, loin de son plus haut de 36,25 EUR.",
           "nom": "GL EVENTS"
         }
       ],
-      "prudence": "Ces éléments sont purement informatifs : les cours peuvent varier fortement à la hausse comme à la baisse, et une actualité positive ne garantit aucun résultat futur."
+      "prudence": "Ces éléments sont donnés à titre informatif : les cours peuvent varier fortement à la hausse comme à la baisse et une actualité positive ne garantit aucun résultat futur."
     }
   },
   "SVC": {
@@ -1200,27 +1200,27 @@
     }
   },
   "HVT-A": {
-    "sig": "ca95d8cf94edc1fe",
+    "sig": "605f99866f11389f",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne sont que des pages de cours et de graphiques (TradingView, Yahoo Finance), sans information concrète sur Haverty. Rien ne permet de dire qu'un événement précis touche l'entreprise. Le suivi repose donc surtout sur le cours et les chiffres de base.",
+      "resume": "Les titres récents sont surtout des pages de cours et de graphiques (TradingView, Yahoo Finance) et n'apportent aucune information concrète sur Haverty. Le titre cote 28,61 USD, en hausse de 22,8 % sur 6 mois, mais reste nettement sous son plus haut sur 52 semaines (44,99). Sans résultats annoncés ni avis d'analystes, il y a peu d'éléments pour se faire une opinion.",
       "points_forts": [
-        "Chiffre d'affaires en hausse de 7,7 %",
-        "Cours en progression d'environ 22,8 % sur 6 mois",
-        "Entreprise ancienne (fondée en 1885) avec des marques reconnues"
+        "Chiffre d'affaires en croissance de 7,7 %",
+        "Rebond de 22,8 % sur 6 mois",
+        "Marque ancienne (fondée en 1885) avec vente en magasin et en ligne"
       ],
       "risques": [
-        "Cours bien sous le plus haut sur 52 semaines (44,99 USD)",
         "Secteur de l'ameublement sensible à la conjoncture",
-        "Aucune donnée d'analystes disponible, visibilité limitée"
+        "Cours encore bien sous le plus haut sur 52 semaines (44,99)",
+        "Petite capitalisation (environ 446 M USD), donc potentiellement volatile"
       ],
       "catalyseurs": [
-        "Date des prochains résultats non communiquée, à surveiller dès son annonce",
-        "Évolution de la demande de consommation dans l'ameublement"
+        "Prochaine publication de résultats (date non communiquée)",
+        "Évolution de la demande dans l'ameublement et l'équipement de la maison"
       ],
-      "a_surveiller": "Surveiller l'annonce des prochains résultats et la tenue du cours entre le plus bas (20,28 USD) et le plus haut (44,99 USD) sur 52 semaines."
+      "a_surveiller": "Surveiller la date des prochains résultats et si la croissance du chiffre d'affaires se maintient autour de 7 %."
     }
   },
   "GLO.PA": {
