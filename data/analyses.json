@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "3a7d9fe2a717b8da",
+    "sig": "6f166cb4c1597204",
     "analyse": {
       "sentiment": "positif",
       "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres récents évoquent un bénéfice en forte hausse (+81 % selon Euronews) et un accord important avec Anthropic qui a fait progresser l'action d'environ 2 %. Un article mentionne aussi une chute du cours, ce qui montre que le titre reste volatil. Cela compte car la croissance du cloud et de l'IA semble soutenir les résultats de l'entreprise.",
+      "resume": "Les titres récents évoquent surtout des cotations et des prévisions pour Alphabet, ainsi qu'un bénéfice en forte hausse (+81 % selon Euronews). Un article mentionne aussi une chute du cours liée aux résultats et au cloud. Les titres restent peu détaillés, donc le message reste mitigé : de bons chiffres, mais une réaction boursière qui n'a pas toujours suivi.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 24,2 %",
-        "Bénéfice en forte hausse (+81 %)",
-        "Avis des analystes : strong_buy, objectif moyen d'environ 421 USD"
+        "Chiffre d'affaires en hausse de 24,2 %",
+        "Bénéfice en forte progression (+81 % d'après un titre)",
+        "Analystes très favorables : objectif moyen 420,79 USD, avis strong_buy"
       ],
       "risques": [
-        "Cours à 343 USD, nettement sous le plus haut sur 52 semaines (404,47 USD)",
-        "Objectif bas des analystes (340 USD) très proche du cours actuel",
-        "Évolution du cours volatile, avec une chute évoquée récemment"
+        "Cours à 345,47 USD, nettement sous le plus haut sur 52 semaines (404,47)",
+        "Un titre évoque une chute du cours après les résultats",
+        "Valorisation élevée (capitalisation d'environ 4 225 milliards USD) qui laisse peu de marge à la déception"
       ],
       "catalyseurs": [
-        "Publication des résultats le 28 octobre 2026",
-        "Détails et avancement de l'accord avec Anthropic et de l'activité Cloud"
+        "Publication des résultats prévue le 28 octobre 2026",
+        "Évolution de l'activité Google Cloud et des revisions d'objectifs des analystes"
       ],
-      "a_surveiller": "Surveillez la croissance du cloud et la réaction du cours lors des prochains résultats du 28 octobre 2026, ainsi que l'écart entre le cours et l'objectif moyen des analystes."
+      "a_surveiller": "Surveiller si la croissance du cloud et des revenus se confirme lors des prochains résultats, et si le cours reste au-dessus de l'objectif bas des analystes (340 USD)."
     }
   },
   "GLOO": {
@@ -96,27 +96,27 @@
     }
   },
   "EIKN": {
-    "sig": "6927eaaf9358b05f",
+    "sig": "d3b03757b4ef8397",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne concernent pas directement Eikon Therapeutics : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, NVAX, AUTL, AGMB). Il n'y a donc aucune information concrète sur l'entreprise. Le cours (7,01 USD) a reculé d'environ 37,6 % en 6 mois et se situe près du bas de sa fourchette sur 52 semaines.",
+      "resume": "Les titres récents ne parlent pas d'Eikon : ce sont des pages de cours d'autres sociétés (AUTL, GENB, MRNA, SPRY, AGMB), sans information concrète sur l'entreprise. Eikon est une biotech cliniques à un stade précoce, dont l'action a reculé d'environ 37 % en 6 mois et se situe près de son plus bas sur 52 semaines (6,45 $).",
       "points_forts": [
-        "Portefeuille clinique diversifié (EIK1001, EIK1003, EIK1004, EIK1005) dans des domaines de cancer à fort besoin médical",
-        "Objectif moyen des analystes (24,6 USD) très supérieur au cours actuel",
-        "Capitalisation d'environ 380 M USD pour une société en phase clinique"
+        "Portefeuille varié de candidats en oncologie (TLR 7/8, PARP1, WRN)",
+        "Objectif moyen des analystes (24,6 $) très supérieur au cours actuel",
+        "Capitalisation d'environ 409 M$"
       ],
       "risques": [
-        "Forte volatilité : cours en baisse de 37,6 % sur 6 mois, entre 6,45 et 17,4 USD sur 52 semaines",
-        "Écart très large entre les objectifs des analystes (4,0 à 32,0 USD), signe d'une grande incertitude",
-        "Pas de chiffre d'affaires communiqué : dépendance aux résultats d'essais cliniques et au financement"
+        "Pas de chiffre d'affaires communiqué : valeur liée aux résultats d'essais cliniques",
+        "Forte volatilité (plage 52 sem. de 6,45 à 17,4 $) et baisse de 36,6 % en 6 mois",
+        "Avis d'analystes très dispersés (objectifs de 4 à 32 $), signe d'une forte incertitude"
       ],
       "catalyseurs": [
-        "Publication des résultats trimestriels prévue le 2026-11-12",
-        "Éventuelles données d'essais cliniques sur les candidats en développement (non datées dans les informations fournies)"
+        "Publication des résultats trimestriels prévue le 12 novembre 2026",
+        "Données cliniques à venir sur les candidats (EIK1001, EIK1003/1004, EIK1005), dates non précisées"
       ],
-      "a_surveiller": "Surveiller les communiqués officiels de la société sur les avancées cliniques et sa situation de trésorerie, car les titres actuels ne la concernent pas."
+      "a_surveiller": "Surveillez les annonces officielles de l'entreprise sur ses essais cliniques et sa trésorerie, car les titres actuels n'apportent aucune information concrète."
     }
   },
   "EXK": {
@@ -1296,27 +1296,27 @@
     }
   },
   "FMC": {
-    "sig": "b53713d88de6c173",
+    "sig": "56f29557ba7f475a",
     "analyse": {
-      "sentiment": "negatif",
-      "importance": 5,
+      "sentiment": "neutre",
+      "importance": 4,
       "confiance": "moyenne",
-      "resume": "FMC a révisé à la baisse ses prévisions du troisième trimestre, ce qui a fait s'effondrer le cours. Un renflouement d'urgence a ensuite été annoncé, avec Tessenderlo qui prend 20 % du capital pour 400 M$, et les investisseurs l'ont plutôt mal accueilli. L'action a perdu environ 67 % en six mois et se traite près de son plus bas sur 52 semaines, ce qui reflète de fortes tensions financières.",
+      "resume": "Deux titres s'opposent : le cours a bondi après l'annonce d'une prise de participation de 20 % par Tessenderlo pour 400 M$, mais il s'est aussi effondré après une révision à la baisse des prévisions du troisième trimestre. L'action a perdu environ 68,5 % en six mois et se trouve près de son plus bas sur 52 semaines, ce qui reflète de fortes inquiétudes sur l'entreprise.",
       "points_forts": [
-        "Entrée de Tessenderlo au capital (20 % pour 400 M$) qui apporte des liquidités",
-        "Avis moyen des analystes à « buy » (16 analystes), objectif moyen 12,8 $ contre 5,47 $ de cours",
-        "Activité diversifiée : insecticides, herbicides, fungicides, biologiques"
+        "Tessenderlo prend 20 % pour 400 M$, un signe d'intérêt d'un investisseur",
+        "Avis moyen des analystes : achat (16 analystes), objectif moyen 12,8 $ contre un cours de 5,32 $",
+        "Gamme variée : insecticides, herbicides, fungicides, produits biologiques"
       ],
       "risques": [
-        "Prévisions revues à la baisse et chiffre d'affaires en recul (-17,5 %)",
-        "Renflouement d'urgence mal perçu, avec un risque de dilution pour les actionnaires actuels",
-        "Très forte volatilité et cours proche du plus bas sur 52 semaines (4,845 $)"
+        "Prévisions du 3e trimestre révisées à la baisse",
+        "Chiffre d'affaires en recul (-17,5 %)",
+        "Forte volatilité et chute du cours de 68,5 % en six mois, capitalisation d'environ 829 M$"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 29 octobre 2026",
-        "Détails et conditions de l'opération avec Tessenderlo, et réaction des analystes"
+        "Précisions sur la participation de Tessenderlo et ses conséquences pour l'entreprise"
       ],
-      "a_surveiller": "Surveille si l'apport de 400 M$ suffit à stabiliser la situation financière et si les prochains résultats confirment ou non la baisse des prévisions."
+      "a_surveiller": "Voir si les prochains résultats confirment ou non la baisse des prévisions, et si le cours se maintient au-dessus du plus bas de 4,845 $."
     }
   },
   "DFH": {
@@ -1415,27 +1415,27 @@
     }
   },
   "EVEX": {
-    "sig": "871ff3f7f765a4c6",
+    "sig": "40d806ee142bd921",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne concernent pas vraiment Eve Holding : ce sont des pages de cours d'autres sociétés (Karman, Leidos, EvoNext, etc.). Il n'y a donc aucune information concrète sur l'entreprise. Le titre reste surtout marqué par sa forte baisse sur 6 mois (-45,7 %), proche de son plus bas sur 52 semaines.",
+      "resume": "Les titres récents sont des pages de cours d'autres sociétés (Karman, Leidos, Cirrus Aircraft, etc.) et ne contiennent aucune information concrète sur Eve Holding. Le cours de 1,63 USD a perdu 44,4 % en 6 mois et se trouve proche de son plus bas sur 52 semaines (1,41 USD), ce qui montre une forte volatilité.",
       "points_forts": [
-        "Avis moyen des analystes : achat (8 analystes)",
-        "Objectif moyen (6,26 USD) très au-dessus du cours actuel (1,6 USD)",
-        "Soutien de l'actionnaire majoritaire Embraer"
+        "Avis des analystes : achat (8 analystes), objectif moyen 6,26 USD",
+        "Filiale d'Embraer, un acteur établi de l'aéronautique",
+        "Activité large : eVTOL, services de support et système de trafic aérien Vector"
       ],
       "risques": [
-        "Forte baisse sur 6 mois, cours près du plus bas annuel (1,41 USD)",
-        "Aucune croissance du chiffre d'affaires communiquée, activité encore en développement",
-        "Petite capitalisation très volatile, dépendante de la certification et du lancement des eVTOL"
+        "Baisse de 44,4 % en 6 mois, cours proche du plus bas sur 52 semaines",
+        "Aucune donnée de croissance du chiffre d'affaires disponible",
+        "Écart très important entre le cours actuel et les objectifs des analystes, ce qui reflète une forte incertitude"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 5 novembre 2026",
-        "Éventuelles annonces sur l'avancement du développement ou de la certification de l'eVTOL"
+        "Toute annonce sur l'avancement de l'eVTOL ou du système Vector (aucune n'est mentionnée pour l'instant)"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel de 1,41 USD et les prochaines annonces officielles de la société, car les titres actuels n'apportent rien de concret."
+      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas sur 52 semaines (1,41 USD) et attends des actualités propres à Eve avant d'en tirer des conclusions."
     }
   },
   "RXRX": {

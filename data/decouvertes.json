@@ -1,9 +1,5 @@
 {
   "actuel": {
-    "GLOO": {
-      "premiere": "2026-10-10T17:46+02:00",
-      "nom": "Gloo Holdings, Inc."
-    },
     "INFQ": {
       "premiere": "2026-10-10T17:46+02:00",
       "nom": "Infleqtion, Inc."
@@ -39,14 +35,13 @@
     "EVEX": {
       "premiere": "2026-10-15T19:00+02:00",
       "nom": "Eve Holding, Inc."
+    },
+    "EIKN": {
+      "premiere": "2026-10-15T19:26+02:00",
+      "nom": "Eikon Therapeutics, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "FRMI",
-      "date": "14/10/2026",
-      "nom": "Fermi Inc."
-    },
     {
       "symbole": "FUN",
       "date": "14/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "ETL.PA",
       "date": "15/10/2026",
       "nom": "EUTELSAT COMMUNIC."
+    },
+    {
+      "symbole": "GLOO",
+      "date": "15/10/2026",
+      "nom": "Gloo Holdings, Inc."
     }
   ]
 }
