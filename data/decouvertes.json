@@ -36,17 +36,12 @@
       "premiere": "2026-10-15T19:00+02:00",
       "nom": "Eve Holding, Inc."
     },
-    "EIKN": {
-      "premiere": "2026-10-15T19:26+02:00",
-      "nom": "Eikon Therapeutics, Inc."
+    "GLOO": {
+      "premiere": "2026-10-15T19:53+02:00",
+      "nom": "Gloo Holdings, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "FUN",
-      "date": "14/10/2026",
-      "nom": "Six Flags Entertainment Corpora"
-    },
     {
       "symbole": "AGBK",
       "date": "14/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "GLOO",
       "date": "15/10/2026",
       "nom": "Gloo Holdings, Inc."
+    },
+    {
+      "symbole": "EIKN",
+      "date": "15/10/2026",
+      "nom": "Eikon Therapeutics, Inc."
     }
   ]
 }
