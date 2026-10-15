@@ -1,26 +1,26 @@
 {
   "IREN": {
-    "sig": "0a7b626ebd262e58",
+    "sig": "ca38812e578bd084",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia dans IREN, qui aurait fait grimper l'action, ainsi qu'une nouvelle note d'achat de Jefferies avec un objectif de 79 $. Malgré ces nouvelles, le cours (35,48 $) reste bien en dessous de son plus haut sur 52 semaines (76,87 $) et a baissé d'environ 25 % en 6 mois. Les titres restent sommaires et ne donnent pas de détails chiffrés vérifiables.",
+      "resume": "Les titres signalent un contrat pluriannuel de services cloud avec Anthropic, qui a fait remonter l'action, et une nouvelle note d'achat de Jefferies (objectif 79 $). Le cours reste pourtant à 30,56 $, près de son plus bas sur 52 semaines (28,93 $) et en baisse de 35,9 % sur 6 mois, avec un chiffre d'affaires en recul de 26,7 %. Les détails du contrat (montant, durée) ne figurent pas dans les données fournies.",
       "points_forts": [
-        "Investissement de Nvidia de 2,1 Md$ évoqué dans l'actualité",
-        "Consensus des 18 analystes : « buy », objectif moyen 78,14 $",
-        "Nouvelle note d'achat de Jefferies (objectif 79 $)"
+        "Contrat cloud pluriannuel annoncé avec Anthropic",
+        "18 analystes, avis moyen « buy », objectif moyen 78,14 $",
+        "Activité intégrée : centres de données et capacité de calcul IA"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-26,7 %)",
-        "Action très volatile (de 28,93 $ à 76,87 $ sur 52 semaines)",
-        "Objectif bas des analystes à 40 $, au-dessus du cours actuel : forte dispersion des avis"
+        "Chiffre d'affaires en baisse de 26,7 %",
+        "Forte volatilité : de 76,87 $ à 30,56 $ en moins d'un an",
+        "Fourchette d'objectifs très large (40 $ à 139 $), signe d'une forte incertitude"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 5 novembre 2026",
-        "Nouvelles annonces liées au partenariat ou aux investissements dans l'IA"
+        "Publication des résultats prévue le 2026-11-05",
+        "Précisions sur le contrat avec Anthropic et sa mise en œuvre"
       ],
-      "a_surveiller": "Surveiller si l'investissement annoncé se traduit par une reprise de la croissance du chiffre d'affaires lors des prochains résultats, et si le cours se maintient au-dessus du plus bas annuel de 28,93 $."
+      "a_surveiller": "Vérifier si le contrat Anthropic se traduit par une reprise du chiffre d'affaires lors des prochains résultats, et si le cours se maintient au-dessus du plus bas annuel de 28,93 $."
     }
   },
   "GOOG": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "5a10c598c6621915",
+    "sig": "0812ab497e3898fb",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de MedinCell contre la schizophrénie après UZEDY, et le titre a bondi d'environ 18 % selon la presse.",
-          "a_surveiller": "L'impact commercial réel de Weltruza reste à démontrer, le chiffre d'affaires est en baisse de 44,6 % et un bond de 18 % en une séance peut s'inverser.",
+          "pourquoi": "La FDA a approuvé Weltruza (TEV-749), deuxième traitement de MedinCell contre la schizophrénie, et le titre a fortement progressé (environ +18 %).",
+          "a_surveiller": "Le chiffre d'affaires est en recul de 44,6 %, l'action est très volatile et les revenus futurs que Weltruza pourrait générer ne sont pas détaillés.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "GOOG",
-          "pourquoi": "Les titres évoquent un bénéfice en hausse de 81 %, la dynamique du cloud et un accord avec Anthropic qui a fait progresser l'action d'environ 2 %.",
-          "a_surveiller": "Le cours reste environ 15 % sous son plus haut sur 52 semaines, proche de l'objectif analyste bas (340 $), avec une valorisation d'environ 4 200 Md$ sensible aux déceptions.",
+          "pourquoi": "Les titres récents évoquent un bénéfice en forte hausse (+81 %), la dynamique du cloud et un accord important avec Anthropic qui a fait monter l'action d'environ 2 %.",
+          "a_surveiller": "Le cours reste environ 15 % sous son plus haut sur 52 semaines, proche de l'objectif analyste bas (340 $), avec une valorisation très élevée (environ 4 200 Md$) sensible aux déceptions.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "GLO.PA",
           "pourquoi": "GL Events a fortement progressé en Bourse (+23 % évoqué), maintient sa guidance de croissance et les analystes visent 36 à 38 € contre un cours actuel de 30 €.",
-          "a_surveiller": "Après une hausse aussi brutale, le titre peut connaître des prises de bénéfices, il reste en baisse de 10,5 % sur 6 mois et l'activité événementielle dépend du contexte économique.",
+          "a_surveiller": "Après une hausse aussi brutale, un risque de prises de bénéfices existe, le cours reste en baisse de 10,5 % sur 6 mois et l'activité événementielle dépend du contexte économique.",
           "nom": "GL EVENTS"
         }
       ],
-      "prudence": "Ces éléments sont issus de titres de presse sans détails chiffrés complets, les cours restent volatils et rien ne garantit une évolution future : cela ne constitue pas un conseil d'investissement."
+      "prudence": "Ces éléments sont informatifs et non des conseils : les cours peuvent varier fortement à la hausse comme à la baisse et toute perte en capital reste possible."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "4d6555353167a8ac",
+    "sig": "7c291ef26aab8ba7",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, le deuxième traitement de MedinCell contre la schizophrénie, et le titre a bondi d'environ 18 % en Bourse selon la presse. C'est important car cela élargit l'offre commerciale de l'entreprise après UZEDY. Les détails financiers (ventes attendues, redevances) ne figurent pas dans les titres fournis.",
+      "resume": "La FDA américaine a donné son feu vert à Weltruza (TEV-749), deuxième traitement de MedinCell contre la schizophrénie, et le titre a fortement progressé (environ +18 % selon BFM Bourse). Cette autorisation compte car elle élargit la gamme commerciale de l'entreprise après UZEDY et valide sa technologie d'injection à libération prolongée.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
-        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,5 € contre un cours de 26,5 €)",
-        "Produit déjà commercialisé : UZEDY"
+        "Deuxième traitement contre la schizophrénie autorisé aux États-Unis",
+        "Objectif moyen des analystes (35,51 €) nettement au-dessus du cours de 26,52 €",
+        "Avis « strong buy » de 9 analystes"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-44,6 %)",
-        "Titre volatil : un bond de 18 % en une séance peut s'inverser",
-        "Impact commercial réel de Weltruza encore à démontrer"
+        "Chiffre d'affaires en recul (-44,6 %)",
+        "Action très volatile (plus bas 19,69 €, plus haut 39,68 € sur 52 semaines)",
+        "Les données fournies ne détaillent pas les revenus futurs que Weltruza pourrait générer"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis et premières ventes",
-        "Avancement des autres programmes (mdc-CWM en phase III)"
+        "Lancement commercial de Weltruza et premiers chiffres de ventes",
+        "Avancée de mdc-CWM (Phase III) contre la douleur post-opératoire"
       ],
-      "a_surveiller": "Surveillez les prochaines publications de résultats (date non communiquée) et la façon dont le cours se stabilise après ce fort mouvement."
+      "a_surveiller": "Surveille si le cours se maintient après le bond lié à l'annonce, ainsi que l'évolution du chiffre d'affaires, la date des prochains résultats n'étant pas communiquée."
     }
   },
   "KLRA": {

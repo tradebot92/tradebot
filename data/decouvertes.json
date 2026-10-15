@@ -36,17 +36,12 @@
       "premiere": "2026-10-15T09:29+02:00",
       "nom": "GL EVENTS"
     },
-    "ALPRG.PA": {
-      "premiere": "2026-10-15T10:04+02:00",
-      "nom": "PROLOGUE"
+    "EXK": {
+      "premiere": "2026-10-15T11:00+02:00",
+      "nom": "Endeavour Silver Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "BBAI",
-      "date": "13/10/2026",
-      "nom": "BigBear.ai, Inc."
-    },
     {
       "symbole": "IDIP.PA",
       "date": "13/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "EXK",
       "date": "15/10/2026",
       "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "ALPRG.PA",
+      "date": "15/10/2026",
+      "nom": "PROLOGUE"
     }
   ]
 }
