@@ -72,51 +72,51 @@
     }
   },
   "INFQ": {
-    "sig": "aab563939d0ad4c8",
+    "sig": "3aa4d129e50275b4",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires sur la forte hausse passée de l'action après son entrée en Bourse via un SPAC (valorisation de 1,8 milliard de dollars). Ils ne donnent aucune information concrète nouvelle sur l'activité. Le cours (9,11 $) a pourtant reculé de 41,5 % en 6 mois et se situe près de son plus bas sur 52 semaines (8,52 $).",
+      "resume": "Les titres récents évoquent surtout l'arrivée en Bourse d'Infleqtion via un SPAC (valorisation de 1,8 milliard de dollars) et de fortes variations du cours, dont un bond de 314 % cité par TradingView. Ils ne donnent pas de nouvelle concrète sur l'activité. Le cours (9,11 $) est loin de son plus haut sur 52 semaines (21,28 $) et a reculé d'environ 41,5 % en 6 mois, ce qui montre une forte volatilité.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (+156,5 %)",
-        "Avis des analystes très favorable (6 analystes, strong_buy)",
-        "Objectif moyen des analystes (21,83 $) bien supérieur au cours actuel"
+        "Croissance du chiffre d'affaires élevée (1,565 selon les données)",
+        "Avis des analystes strong_buy, objectif moyen 21,83 $ (6 analystes)",
+        "Activité dans les technologies quantiques (capteurs, horloges, calcul)"
       ],
       "risques": [
-        "Forte volatilité : très forte hausse puis net recul depuis le plus haut (21,28 $)",
-        "Société récente issue d'un SPAC, secteur quantique encore jeune et spéculatif",
-        "Les données fournies ne permettent pas de juger de la rentabilité ni de la trésorerie"
+        "Très forte volatilité typique d'une petite société cotée via SPAC",
+        "Cours proche du plus bas sur 52 semaines (8,52 $) après une forte baisse",
+        "Aucun détail dans les titres sur la rentabilité ou la trésorerie"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 12 novembre 2026",
-        "Révisions des objectifs ou avis des analystes"
+        "Publication des résultats prévue le 2026-11-12",
+        "Évolution des objectifs et avis des analystes"
       ],
-      "a_surveiller": "Surveillez si le cours tient au-dessus du plus bas sur 52 semaines (8,52 $) et la capacité de l'entreprise à maintenir sa croissance lors des prochains résultats."
+      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas sur 52 semaines (8,52 $) et ce que la société annoncera lors des prochains résultats, sans te fier aux seuls mouvements de court terme."
     }
   },
   "EIKN": {
-    "sig": "2d3a849c66faaf8f",
+    "sig": "6927eaaf9358b05f",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne concernent pas directement Eikon Therapeutics : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, NVAX, SPRY, AGMB). Aucune actualité concrète sur Eikon n'apparaît, donc rien ne permet de tirer une conclusion nouvelle. L'action reste surtout à suivre à travers son cours, en baisse d'environ 37,6 % sur 6 mois.",
+      "resume": "Les titres d'actualité fournis ne concernent pas Eikon Therapeutics : ce sont des pages de cours d'autres sociétés (OVID, GENB, NVAX, AUTL, AGMB). Ils n'apportent aucune information concrète sur l'entreprise. Le titre cote 7,01 USD, en baisse d'environ 37,6 % sur 6 mois, proche du bas de sa fourchette sur 52 semaines.",
       "points_forts": [
-        "Plusieurs candidats en développement clinique (EIK1001, EIK1003, EIK1004, EIK1005)",
-        "Objectif moyen des analystes (24,6 USD) très au-dessus du cours actuel (7,01 USD)",
-        "Pipeline ciblant plusieurs cancers à besoins médicaux importants"
+        "Pipeline clinique diversifié (EIK1001, inhibiteurs PARP1, inhibiteur WRN)",
+        "Objectif moyen des analystes (24,6 USD) très supérieur au cours actuel",
+        "Capitalisation d'environ 380 M USD"
       ],
       "risques": [
-        "Forte baisse du cours sur 6 mois, proche du plus bas sur 52 semaines (6,45 USD)",
-        "Écart très large entre les objectifs d'analystes (4,0 à 32,0 USD), signe d'une forte incertitude",
-        "Société clinique de petite taille, sans croissance de chiffre d'affaires indiquée et très volatile"
+        "Forte baisse du cours sur 6 mois",
+        "Très grande dispersion des objectifs d'analystes (4,0 à 32,0 USD), signe d'une forte incertitude",
+        "Société clinique sans chiffre d'affaires communiqué, donc dépendante des résultats d'essais et du financement"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 12 novembre 2026",
-        "Éventuelles annonces sur l'avancement des essais cliniques du pipeline (aucune date donnée dans les informations fournies)"
+        "Prochains résultats prévus le 12 novembre 2026",
+        "Éventuelles données d'essais cliniques sur ses candidats (aucune date fournie)"
       ],
-      "a_surveiller": "Surveillez les communiqués officiels d'Eikon sur ses essais cliniques et le comportement du cours près de son plus bas annuel de 6,45 USD."
+      "a_surveiller": "Attendre des informations propres à Eikon (données cliniques, financement, publications trimestrielles), car les titres actuels ne la concernent pas et le cours reste très volatil."
     }
   },
   "EXK": {
@@ -1224,27 +1224,27 @@
     }
   },
   "GLO.PA": {
-    "sig": "da9620bc8a95d7da",
+    "sig": "323c388faf6c508f",
     "analyse": {
       "sentiment": "positif",
-      "importance": 4,
+      "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres évoquent un été exceptionnel pour GL Events (événements comme la visite du pape Léon XIV ou des concerts au Stade de France) et un relèvement de ses perspectives annuelles. L'action aurait bondi d'environ 23 % lors d'une séance, la meilleure en 25 ans, ce qui montre un fort changement de perception du marché. D'autres articles parlent toutefois du maintien de la guidance de croissance, donc le détail des prévisions reste à vérifier.",
+      "resume": "Les titres récents évoquent un été très porteur pour GL Events (événements de grande ampleur, concerts au Stade de France), un relèvement des perspectives annuelles et un bond de 23% en une séance. D'autres articles indiquent que le groupe maintient sa guidance de croissance, portée par les activités Live et Venues. Cela compte car les analystes visent des cours supérieurs au niveau actuel (29,8 EUR), même si le titre reste en baisse sur 6 mois (-9,7%).",
       "points_forts": [
         "Perspectives annuelles relevées après un été exceptionnel",
-        "Croissance du chiffre d'affaires de 8,9 %",
-        "Objectifs des analystes (36 à 38 €) au-dessus du cours de 29,7 €, avis strong_buy"
+        "Croissance du chiffre d'affaires de 8,9%",
+        "Objectifs des analystes (36 à 38 EUR) au-dessus du cours actuel"
       ],
       "risques": [
-        "Forte volatilité : un bond de 23 % en une séance peut s'inverser",
-        "Activité événementielle dépendante de rendez-vous ponctuels",
-        "Cours encore en baisse de 10 % sur 6 mois selon les données"
+        "Forte volatilité : un bond de 23% en une séance peut s'inverser",
+        "Dépendance à des événements ponctuels et au contexte économique",
+        "Titre en recul de 9,7% sur 6 mois, loin de son plus haut de 36,25 EUR"
       ],
       "catalyseurs": [
         "Prochaine publication de résultats (date non communiquée)",
-        "Confirmation ou nouveau relèvement des perspectives annuelles"
+        "Confirmation ou nouveau relèvement de la guidance annuelle"
       ],
-      "a_surveiller": "Voir si le cours se stabilise après ce bond exceptionnel et si les analystes ajustent leurs objectifs en cohérence avec les nouvelles perspectives."
+      "a_surveiller": "Vérifier si le cours se stabilise après la forte hausse et si la guidance annuelle est de nouveau confirmée lors des prochaines publications."
     }
   },
   "ALPRG.PA": {
