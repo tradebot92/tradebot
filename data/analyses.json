@@ -1,26 +1,26 @@
 {
   "IREN": {
-    "sig": "ca38812e578bd084",
+    "sig": "0a7b626ebd262e58",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres signalent un contrat pluriannuel de services cloud avec Anthropic, qui a fait remonter l'action, et une nouvelle note d'achat de Jefferies (objectif 79 $). Le cours reste pourtant à 30,56 $, près de son plus bas sur 52 semaines (28,93 $) et en baisse de 35,9 % sur 6 mois, avec un chiffre d'affaires en recul de 26,7 %. Les détails du contrat (montant, durée) ne figurent pas dans les données fournies.",
+      "resume": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia dans IREN, qui aurait fait bondir l'action, ainsi qu'une nouvelle recommandation d'achat de Jefferies (objectif 79 $). Pourtant, le cours (30,56 $) reste bien en dessous de son plus haut sur 52 semaines (76,87 $) et a reculé d'environ 36 % en 6 mois, avec un chiffre d'affaires en baisse de 26,7 %.",
       "points_forts": [
-        "Contrat cloud pluriannuel annoncé avec Anthropic",
-        "18 analystes, avis moyen « buy », objectif moyen 78,14 $",
-        "Activité intégrée : centres de données et capacité de calcul IA"
+        "Investissement de 2,1 Md$ de Nvidia évoqué dans les titres",
+        "Avis d'analystes 'buy' (18 analystes), objectif moyen 78,14 $",
+        "Activité d'infrastructure et de cloud IA intégrée verticalement"
       ],
       "risques": [
         "Chiffre d'affaires en baisse de 26,7 %",
-        "Forte volatilité : de 76,87 $ à 30,56 $ en moins d'un an",
-        "Fourchette d'objectifs très large (40 $ à 139 $), signe d'une forte incertitude"
+        "Forte volatilité : cours proche du plus bas annuel (28,93 $)",
+        "Écart très large entre les objectifs d'analystes (40 $ à 139 $), signe d'une grande incertitude"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-05",
-        "Précisions sur le contrat avec Anthropic et sa mise en œuvre"
+        "Publication des résultats prévue le 5 novembre 2026",
+        "Détails et suites de l'investissement de Nvidia dans l'IA"
       ],
-      "a_surveiller": "Vérifier si le contrat Anthropic se traduit par une reprise du chiffre d'affaires lors des prochains résultats, et si le cours se maintient au-dessus du plus bas annuel de 28,93 $."
+      "a_surveiller": "Vérifier si la hausse liée à l'annonce de Nvidia se confirme dans la durée et si la croissance du chiffre d'affaires repart lors des prochains résultats."
     }
   },
   "GOOG": {
@@ -96,27 +96,27 @@
     }
   },
   "EIKN": {
-    "sig": "d3b03757b4ef8397",
+    "sig": "2d3a849c66faaf8f",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas directement d'Eikon : ce sont des pages de cours d'autres sociétés biotech (AUTL, GENB, MRNA, SPRY, AGMB). Ils n'apportent donc aucune information concrète sur Eikon. Le titre a perdu environ 40 % en 6 mois et se trouve près de son plus bas sur 52 semaines.",
+      "resume": "Les titres récents ne concernent pas directement Eikon Therapeutics : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, NVAX, SPRY, AGMB). Aucune actualité concrète sur Eikon n'apparaît, donc rien ne permet de tirer une conclusion nouvelle. L'action reste surtout à suivre à travers son cours, en baisse d'environ 37,6 % sur 6 mois.",
       "points_forts": [
-        "Portefeuille clinique varié en oncologie (TLR 7/8, PARP1, WRN)",
-        "Objectif moyen des analystes (24,6 USD) très au-dessus du cours actuel",
-        "Capitalisation d'environ 364 M USD"
+        "Plusieurs candidats en développement clinique (EIK1001, EIK1003, EIK1004, EIK1005)",
+        "Objectif moyen des analystes (24,6 USD) très au-dessus du cours actuel (7,01 USD)",
+        "Pipeline ciblant plusieurs cancers à besoins médicaux importants"
       ],
       "risques": [
-        "Forte baisse sur 6 mois et cours proche du plus bas annuel",
-        "Très grand écart entre les objectifs des analystes (4 à 32 USD), signe d'une forte incertitude",
-        "Société en phase clinique, sans croissance de chiffre d'affaires communiquée"
+        "Forte baisse du cours sur 6 mois, proche du plus bas sur 52 semaines (6,45 USD)",
+        "Écart très large entre les objectifs d'analystes (4,0 à 32,0 USD), signe d'une forte incertitude",
+        "Société clinique de petite taille, sans croissance de chiffre d'affaires indiquée et très volatile"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Éventuelles données cliniques ou annonces sur les candidats EIK1001, EIK1003, EIK1004 ou EIK1005"
+        "Publication des prochains résultats prévue le 12 novembre 2026",
+        "Éventuelles annonces sur l'avancement des essais cliniques du pipeline (aucune date donnée dans les informations fournies)"
       ],
-      "a_surveiller": "Surveiller les communiqués officiels de l'entreprise sur ses essais cliniques et sa trésorerie, ainsi que la tenue du cours autour de son plus bas annuel (environ 6,45 USD)."
+      "a_surveiller": "Surveillez les communiqués officiels d'Eikon sur ses essais cliniques et le comportement du cours près de son plus bas annuel de 6,45 USD."
     }
   },
   "EXK": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "0812ab497e3898fb",
+    "sig": "9f5e79bedcd89c62",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a approuvé Weltruza (TEV-749), deuxième traitement de MedinCell contre la schizophrénie, et le titre a fortement progressé (environ +18 %).",
-          "a_surveiller": "Le chiffre d'affaires est en recul de 44,6 %, l'action est très volatile et les revenus futurs que Weltruza pourrait générer ne sont pas détaillés.",
+          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec MedinCell, et le titre a bondi d'environ 18 % après l'annonce.",
+          "a_surveiller": "La baisse du chiffre d'affaires (-0,446), la volatilité du titre, encore loin de son plus haut 52 semaines (39,68 €), et la dépendance à un nombre limité de produits.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "GOOG",
-          "pourquoi": "Les titres récents évoquent un bénéfice en forte hausse (+81 %), la dynamique du cloud et un accord important avec Anthropic qui a fait monter l'action d'environ 2 %.",
+          "pourquoi": "Les titres évoquent un bénéfice en forte hausse (+81 %), la dynamique du cloud et un accord important avec Anthropic, qui a fait progresser l'action d'environ 2 %.",
           "a_surveiller": "Le cours reste environ 15 % sous son plus haut sur 52 semaines, proche de l'objectif analyste bas (340 $), avec une valorisation très élevée (environ 4 200 Md$) sensible aux déceptions.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "GLO.PA",
-          "pourquoi": "GL Events a fortement progressé en Bourse (+23 % évoqué), maintient sa guidance de croissance et les analystes visent 36 à 38 € contre un cours actuel de 30 €.",
-          "a_surveiller": "Après une hausse aussi brutale, un risque de prises de bénéfices existe, le cours reste en baisse de 10,5 % sur 6 mois et l'activité événementielle dépend du contexte économique.",
+          "pourquoi": "GL Events a bondi de 23 % en Bourse, avec des analystes visant un cours plus élevé et une guidance de croissance maintenue, portée par les activités Live et Venues.",
+          "a_surveiller": "Un possible retour en arrière après une hausse de 23 % en une séance, une baisse de 8,4 % sur 6 mois et un avis favorable reposant sur seulement 5 analystes.",
           "nom": "GL EVENTS"
         }
       ],
-      "prudence": "Ces éléments sont informatifs et non des conseils : les cours peuvent varier fortement à la hausse comme à la baisse et toute perte en capital reste possible."
+      "prudence": "Ces éléments sont purement informatifs : les cours peuvent varier fortement à la hausse comme à la baisse, et une actualité positive ne garantit aucun résultat futur."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "7c291ef26aab8ba7",
+    "sig": "38a169a5ec3052c9",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a donné son feu vert à Weltruza (TEV-749), deuxième traitement de MedinCell contre la schizophrénie, et le titre a fortement progressé (environ +18 % selon BFM Bourse). Cette autorisation compte car elle élargit la gamme commerciale de l'entreprise après UZEDY et valide sa technologie d'injection à libération prolongée.",
+      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec MedinCell. Le titre a bondi d'environ 18% en Bourse à cette annonce. C'est une étape réglementaire importante pour une biotech dont le chiffre d'affaires est en recul (-0,4).",
       "points_forts": [
-        "Deuxième traitement contre la schizophrénie autorisé aux États-Unis",
-        "Objectif moyen des analystes (35,51 €) nettement au-dessus du cours de 26,52 €",
-        "Avis « strong buy » de 9 analystes"
+        "Feu vert de la FDA pour Weltruza contre la schizophrénie",
+        "Analystes très favorables : avis « strong_buy », objectif moyen 35,5 € (cours 26,5 €)",
+        "Produit déjà commercialisé (UZEDY) et autres candidats en développement (mdc-CWM en phase III)"
       ],
       "risques": [
-        "Chiffre d'affaires en recul (-44,6 %)",
-        "Action très volatile (plus bas 19,69 €, plus haut 39,68 € sur 52 semaines)",
-        "Les données fournies ne détaillent pas les revenus futurs que Weltruza pourrait générer"
+        "Chiffre d'affaires en baisse (-0,446)",
+        "Titre volatil : forte variation possible après une annonce, avec un cours encore loin du plus haut 52 semaines (39,68 €)",
+        "Dépendance aux résultats cliniques et réglementaires d'un nombre limité de produits"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza et premiers chiffres de ventes",
-        "Avancée de mdc-CWM (Phase III) contre la douleur post-opératoire"
+        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
+        "Avancement de l'essai de phase III de mdc-CWM (douleur post-opératoire)"
       ],
-      "a_surveiller": "Surveille si le cours se maintient après le bond lié à l'annonce, ainsi que l'évolution du chiffre d'affaires, la date des prochains résultats n'étant pas communiquée."
+      "a_surveiller": "Surveillez la suite donnée à l'autorisation (calendrier de commercialisation, revenus attendus) et la capacité du titre à tenir son rebond après la hausse de 18%, sans date de résultats connue pour l'instant."
     }
   },
   "KLRA": {
@@ -434,27 +434,27 @@
     }
   },
   "MYN": {
-    "sig": "faef9ca759c0926d",
+    "sig": "f428ee5f80fdf038",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis ne concernent pas MYN : ce sont des pages de cours TradingView d'autres valeurs (BBDC, CION, PBT, TSLX, VTN). Ils n'apportent aucune information concrète sur ce fonds municipal new-yorkais. Le cours (8,73 USD) reste proche de son plus bas sur 52 semaines après une baisse d'environ 9 % en 6 mois.",
+      "resume": "Les titres d'actualité récents ne concernent pas vraiment MYN : ce sont des pages de cours TradingView d'autres fonds et sociétés (BBDC, CION, MYI, PBT, TSLX). Ils n'apportent donc aucune information concrète sur ce fonds de obligations municipales de New York. Le cours (8,73 USD) se situe près de son plus bas sur 52 semaines (8,58) et recule d'environ 9,4 % sur 6 mois.",
       "points_forts": [
-        "Obligations municipales de qualité exemptes d'impôts fédéraux et new-yorkais",
-        "Gestion assurée par BlackRock, acteur majeur du secteur",
-        "Fonds ancien, créé en 1992"
+        "Fonds investi en obligations municipales de qualité (investment grade) exonérées d'impôts fédéraux et de New York",
+        "Géré par BlackRock, un grand acteur de la gestion d'actifs",
+        "Croissance du chiffre d'affaires indiquée à 1,545 (donnée à interpréter avec prudence)"
       ],
       "risques": [
-        "Cours proche du plus bas sur 52 semaines (8,58 USD)",
-        "Tendance baissière sur 6 mois (-9,4 %)",
-        "Aucun avis d'analystes ni objectif de cours disponible"
+        "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
+        "Fonds concentré sur un seul État, donc sensible à la situation locale",
+        "Pas d'avis ni d'objectif d'analystes disponibles pour éclairer la valorisation"
       ],
       "catalyseurs": [
-        "Prochaine annonce de distribution ou de dividende (date non communiquée)",
-        "Évolution des taux d'intérêt, qui influence le prix des obligations"
+        "Prochaine publication de résultats ou de rapport du fonds (date non communiquée)",
+        "Évolution des taux d'intérêt, qui influence le prix des obligations municipales"
       ],
-      "a_surveiller": "Surveiller si le cours passe sous le plus bas annuel de 8,58 USD et les prochaines communications du fonds sur ses distributions."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas de 52 semaines (8,58 USD) et suivre l'évolution des taux d'intérêt."
     }
   },
   "AL2SI.PA": {
@@ -1225,27 +1225,27 @@
     }
   },
   "GLO.PA": {
-    "sig": "e452d050d83c9ed6",
+    "sig": "d7a2d1c7e513a749",
     "analyse": {
       "sentiment": "positif",
       "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres récents sont plutôt favorables : GL Events a fortement progressé en Bourse (+23 % évoqué) et maintient sa guidance de croissance, portée par les activités Live et Venues. Les analystes sont très positifs, avec des objectifs de cours (36 à 38 €) supérieurs au cours actuel de 30 €. Les détails chiffrés manquent, donc il faut rester prudent.",
+      "resume": "Les titres récents évoquent un bond de 23 % en Bourse pour GL Events, avec des analystes qui visent un cours plus élevé. Le groupe maintient aussi sa guidance de croissance, portée par les activités Live et Venues. Cela compte car le titre reste sous son plus haut sur 52 semaines, et l'écart avec les objectifs des analystes est important.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de +8,9 %",
         "Guidance de croissance maintenue (Live et Venues)",
-        "Avis analystes « strong buy » avec objectifs de 36 à 38 €"
+        "Chiffre d'affaires en hausse de 8,9 %",
+        "Objectifs des analystes (36 à 38 €) au-dessus du cours de 30,2 €"
       ],
       "risques": [
-        "Cours en baisse de 10,5 % sur 6 mois malgré le rebond évoqué",
-        "Hausse brutale de 23 % : volatilité et risque de reprise de bénéfices",
-        "Activité événementielle sensible au contexte économique"
+        "Forte volatilité : hausse de 23 % en une séance, puis possible retour en arrière",
+        "Cours en baisse de 8,4 % sur 6 mois malgré le rebond",
+        "Avis des analystes très favorables mais seulement 5 analystes"
       ],
       "catalyseurs": [
         "Prochaine publication de résultats (date non communiquée)",
-        "Confirmation de la guidance de croissance dans les prochaines communications"
+        "Confirmation de la guidance sur les activités Live et Venues"
       ],
-      "a_surveiller": "Surveillez si le cours tient après le fort rebond et si la guidance de croissance est confirmée lors de la prochaine publication, dont la date n'est pas encore connue."
+      "a_surveiller": "Voir si le cours se stabilise après le fort rebond et si la date des prochains résultats confirme la trajectoire de croissance annoncée."
     }
   },
   "ALPRG.PA": {
