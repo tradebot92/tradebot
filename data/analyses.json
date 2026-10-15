@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "714b70f9f2391ac5",
+    "sig": "8afb4ed95612b9ab",
     "analyse": {
       "sentiment": "positif",
-      "importance": 4,
+      "importance": 3,
       "confiance": "moyenne",
-      "resume": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance. L'entreprise relève de nouveau ses prévisions d'investissements et a conclu un accord massif avec Anthropic, ce qui a fait monter le titre d'environ 2 %. Un titre d'actualité évoque toutefois une chute du cours, signe que le marché reste sensible aux dépenses engagées.",
+      "resume": "Les titres récents évoquent un bénéfice en forte hausse (+81 %), la dynamique du cloud et un accord important avec Anthropic qui a fait grimper l'action d'environ 2 %. Un article mentionne aussi une chute du cours, ce qui montre que le titre reste volatil. Cela compte car l'action se situe entre son plus bas (244,67 $) et son plus haut (404,47 $) sur 52 semaines.",
       "points_forts": [
-        "Chiffre d'affaires en hausse de 24,2 %",
-        "Bénéfice en forte hausse (+81 %) porté par le cloud",
-        "Objectif moyen des analystes (420 USD) supérieur au cours actuel, avis strong_buy"
+        "Croissance du chiffre d'affaires de 24,2 %",
+        "Bénéfice en hausse de 81 % selon la presse",
+        "Avis des analystes : strong_buy (14 analystes)"
       ],
       "risques": [
-        "Hausse répétée des prévisions d'investissements, qui pèse sur la rentabilité",
-        "Cours à 346 USD, nettement sous le plus haut annuel de 404 USD, signe de volatilité",
-        "Objectif bas des analystes (340 USD) proche du cours actuel"
+        "Cours ~15 % sous le plus haut sur 52 semaines, après une chute récente évoquée",
+        "Cours proche de l'objectif analyste bas (340 $), ce qui laisse peu de marge de lecture prudente",
+        "Valorisation très élevée (capitalisation d'environ 4 200 Md$), donc sensible aux déceptions"
       ],
       "catalyseurs": [
-        "Publication des résultats trimestriels le 28 octobre 2026",
-        "Évolution de l'accord avec Anthropic et de la croissance du cloud"
+        "Publication des résultats prévue le 28 octobre 2026",
+        "Évolutions du cloud et de l'accord avec Anthropic"
       ],
-      "a_surveiller": "Le rythme des investissements par rapport à la croissance du cloud, car c'est ce qui semble influencer le plus la réaction du cours après les résultats."
+      "a_surveiller": "Surveiller la croissance du cloud et la réaction du cours à la publication des résultats du 28 octobre 2026, par rapport à l'objectif moyen des analystes (420 $)."
     }
   },
   "GLOO": {
@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "8e2bdd0966aac566",
+    "sig": "aab563939d0ad4c8",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Infleqtion, spécialiste des technologies quantiques (atomes neutres, horloges, capteurs), est cotée à la suite d'une fusion avec un SPAC valorisée à 1,8 milliard de dollars. Les titres récents évoquent un bond de 314 % puis un cours qui a nettement reculé (-41,5 % en 6 mois, 9,11 $), sans information concrète nouvelle sur l'activité. Le titre reste très volatil, ce qui appelle à la prudence.",
+      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires sur la forte hausse passée de l'action après son entrée en Bourse via un SPAC (valorisation de 1,8 milliard de dollars). Ils ne donnent aucune information concrète nouvelle sur l'activité. Le cours (9,11 $) a pourtant reculé de 41,5 % en 6 mois et se situe près de son plus bas sur 52 semaines (8,52 $).",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 156,5 %",
-        "Avis analystes strong_buy, objectif moyen 21,83 $",
-        "Gamme variée : calcul, capteurs, horloges quantiques"
+        "Croissance du chiffre d'affaires élevée (+156,5 %)",
+        "Avis des analystes très favorable (6 analystes, strong_buy)",
+        "Objectif moyen des analystes (21,83 $) bien supérieur au cours actuel"
       ],
       "risques": [
-        "Forte volatilité, cours proche du plus bas annuel (8,52 $)",
-        "Entreprise récente en Bourse via SPAC, historique court",
-        "Secteur quantique spéculatif, sensible à l'humeur du marché"
+        "Forte volatilité : très forte hausse puis net recul depuis le plus haut (21,28 $)",
+        "Société récente issue d'un SPAC, secteur quantique encore jeune et spéculatif",
+        "Les données fournies ne permettent pas de juger de la rentabilité ni de la trésorerie"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Nouveaux contrats ou annonces produits dans le quantique"
+        "Publication des prochains résultats prévue le 12 novembre 2026",
+        "Révisions des objectifs ou avis des analystes"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas des 52 semaines (8,52 $) et si la croissance du chiffre d'affaires se confirme aux prochains résultats."
+      "a_surveiller": "Surveillez si le cours tient au-dessus du plus bas sur 52 semaines (8,52 $) et la capacité de l'entreprise à maintenir sa croissance lors des prochains résultats."
     }
   },
   "EIKN": {
@@ -120,27 +120,27 @@
     }
   },
   "EXK": {
-    "sig": "66b7ca0a995212b8",
+    "sig": "41622ea1e98abe68",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne sont que des pages de cours et de données (extraETF, TradingView, Yahoo Finance) et n'annoncent aucun fait concret sur Endeavour Silver. L'action cote 8,65 USD, soit environ 10 % de moins qu'il y a 6 mois et bien en dessous du plus haut sur 52 semaines (15,15), alors que les analystes restent très positifs.",
+      "resume": "Les titres récents sont de simples pages de cotation (extraETF, Zonebourse, TradingView, Yahoo Finance) et ne contiennent aucune information concrète sur l'entreprise. Ils ne permettent donc pas de savoir si un événement particulier touche Endeavour Silver. Le contexte chiffré reste le principal repère : un cours en recul sur 6 mois, mais une forte croissance du chiffre d'affaires.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (1,394)",
-        "Objectifs des analystes (14 à 17 USD) bien au-dessus du cours actuel",
-        "Avis moyen des analystes : strong_buy"
+        "Croissance du chiffre d'affaires de 139 %",
+        "Objectifs des analystes (14 à 17 USD) bien au-dessus du cours de 7,83 USD",
+        "Avis moyen des analystes : strong_buy (seulement 3 analystes)"
       ],
       "risques": [
-        "Action volatile, repli de 10 % sur 6 mois",
-        "Seulement 3 analystes, ce qui limite la portée de leur consensus",
-        "Aucune information concrète dans l'actualité récente"
+        "Cours en baisse de 19,4 % sur 6 mois, proche du plus bas annuel de 6,6 USD",
+        "Action de petite capitalisation, de l'argent et de l'or : volatilité élevée",
+        "Peu d'analystes (3), donc consensus peu représentatif"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 9 novembre 2026",
-        "Évolution des cours de l'argent et de l'or (non précisée dans les données fournies)"
+        "Évolution du cours de l'argent et de l'or"
       ],
-      "a_surveiller": "Les résultats du 9 novembre 2026, pour voir si la croissance du chiffre d'affaires se confirme et si le cours se rapproche des objectifs des analystes."
+      "a_surveiller": "Surveiller les résultats du 9 novembre 2026 et voir si la forte croissance du chiffre d'affaires se confirme, tout en gardant en tête que les objectifs des analystes restent des avis, pas des certitudes."
     }
   },
   "SNDA": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "4875f4f032b860cc",
+    "sig": "fea425fb142b05c4",
     "contenu": {
       "points": [
         {
-          "symbole": "GOOG",
-          "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 %, un cloud moteur de la croissance et un accord important avec Anthropic, ce qui a fait monter le titre d'environ 2 %.",
-          "a_surveiller": "La hausse répétée des prévisions d'investissements, qui pèse sur la rentabilité, et un cours à 346 USD resté nettement sous le plus haut annuel de 404 USD.",
-          "nom": "Alphabet Inc."
-        },
-        {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de MedinCell contre la schizophrénie après UZEDY, et le titre a bondi d'environ 18 %.",
-          "a_surveiller": "Le chiffre d'affaires en recul de 0,4 %, la forte volatilité du titre et un succès commercial de Weltruza qui n'est pas garanti ni chiffré.",
+          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), deuxième traitement de la schizophrénie issu de la technologie de Medincell, et le titre a progressé d'environ 18 %.",
+          "a_surveiller": "Le succès commercial de Weltruza reste à prouver, le chiffre d'affaires est en baisse de 0,4 % et la hausse peut être suivie d'un reflux.",
           "nom": "MEDINCELL S.A."
         },
         {
-          "symbole": "IREN",
-          "pourquoi": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies (objectif 79 $), mais sans détails chiffrés vérifiables.",
-          "a_surveiller": "Le chiffre d'affaires en baisse de 26,7 %, un cours de 35,48 $ très en dessous du plus haut de 76,87 $ et la forte dispersion des avis d'analystes.",
-          "nom": "IREN LIMITED"
+          "symbole": "GOOG",
+          "pourquoi": "Les titres évoquent un bénéfice en hausse de 81 %, la dynamique du cloud et un accord avec Anthropic qui a fait monter l'action d'environ 2 %.",
+          "a_surveiller": "Le cours reste environ 15 % sous son plus haut sur 52 semaines, proche de l'objectif analyste bas de 340 $, avec une valorisation très élevée sensible aux déceptions.",
+          "nom": "Alphabet Inc."
+        },
+        {
+          "symbole": "GLO.PA",
+          "pourquoi": "GL Events maintient sa guidance de croissance, portée par les activités Live et Venues, et conserve le soutien des analystes (objectif moyen de 37 € contre un cours de 28,8 €).",
+          "a_surveiller": "Le cours recule de 14,1 % sur 6 mois et l'activité événementielle est sensible au contexte économique, pour une petite capitalisation potentiellement plus volatile.",
+          "nom": "GL EVENTS"
         }
       ],
-      "prudence": "Ces informations sont purement indicatives : les cours de ces trois valeurs sont volatils et peuvent évoluer fortement à la hausse comme à la baisse, avec un risque de perte en capital."
+      "prudence": "Ces éléments sont donnés à titre d'information uniquement : les cours peuvent varier fortement à la hausse comme à la baisse et aucun résultat n'est garanti."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "ae020ba93605cc1e",
+    "sig": "3c5a569ef17a87c6",
     "analyse": {
       "sentiment": "positif",
-      "importance": 4,
+      "importance": 5,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, un deuxième traitement contre la schizophrénie lié à Medincell, et le titre a bondi d'environ 18 % selon la presse. C'est important car cela élargit l'offre commerciale de la société, qui commercialise déjà UZEDY. Une journée de forte baisse a aussi été signalée récemment, ce qui montre que le titre reste très volatil.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), deuxième traitement de la schizophrénie issu de la technologie de Medincell, après UZEDY. Le titre a réagi par une hausse d'environ 18 % en Bourse. Cette approbation valide la technologie de l'entreprise et élargit ses sources de revenus potentielles.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
-        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,5 € contre 26,82 € de cours)",
-        "Cours encore nettement sous le plus haut sur 52 semaines (39,68 €)"
+        "Feu vert de la FDA pour Weltruza, un deuxième traitement contre la schizophrénie",
+        "Consensus d'analystes « strong buy » (9 analystes), objectif moyen de 35,5 € contre 26,26 € de cours actuel",
+        "Autres programmes en développement, dont mdc-CWM en phase III"
       ],
       "risques": [
-        "Chiffre d'affaires en recul (-0,446 de croissance selon les données)",
-        "Forte volatilité du titre, avec de fortes hausses et baisses en peu de temps",
-        "Rien dans les données ne précise le calendrier ni l'ampleur des ventes futures de Weltruza"
+        "Chiffre d'affaires en baisse (-0,4 %) malgré les avancées réglementaires",
+        "Forte volatilité : fourchette sur 52 semaines de 19,69 à 39,69 €, et hausse de 18 % qui peut être suivie d'un reflux",
+        "Le succès commercial de Weltruza reste à prouver, les données fournies n'en disent rien"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis",
-        "Avancement de mdc-CWM (phase III, douleur post-opératoire)"
+        "Lancement commercial de Weltruza et premiers chiffres de ventes",
+        "Avancées de mdc-CWM (phase III) et publication des prochains résultats (date non communiquée)"
       ],
-      "a_surveiller": "Surveillez si la hausse liée à l'annonce de la FDA se maintient et si les prochains communiqués de la société donnent des précisions sur le calendrier de lancement et les revenus attendus."
+      "a_surveiller": "Surveillez si le titre maintient son niveau après le bond de 18 % et les premières indications sur le rythme de commercialisation de Weltruza."
     }
   },
   "KLRA": {
@@ -434,26 +434,27 @@
     }
   },
   "MYN": {
-    "sig": "f428ee5f80fdf038",
+    "sig": "faef9ca759c0926d",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne concernent pas vraiment MYN : ce sont des pages de cours TradingView pour d'autres valeurs (BBDC, CION, MYI, PBT, TSLX). Ils n'apportent aucune information concrète sur ce fonds d'obligations municipales de New York. Le cours (8.78 USD) se situe près de son plus bas sur 52 semaines (8.58), après une baisse d'environ 8 % sur 6 mois.",
+      "resume": "Les titres d'actualité fournis ne concernent pas MYN : ce sont des pages de cours TradingView d'autres valeurs (BBDC, CION, PBT, TSLX, VTN). Ils n'apportent aucune information concrète sur ce fonds municipal new-yorkais. Le cours (8,73 USD) reste proche de son plus bas sur 52 semaines après une baisse d'environ 9 % en 6 mois.",
       "points_forts": [
-        "Fonds investi en obligations municipales de qualité (investment grade), exonérées d'impôt fédéral et de New York",
-        "Géré par BlackRock, un grand acteur du secteur"
+        "Obligations municipales de qualité exemptes d'impôts fédéraux et new-yorkais",
+        "Gestion assurée par BlackRock, acteur majeur du secteur",
+        "Fonds ancien, créé en 1992"
       ],
       "risques": [
-        "Cours proche du plus bas sur 52 semaines, avec une tendance baissière sur 6 mois",
-        "Fonds fermé : le cours peut s'écarter de la valeur des actifs détenus",
-        "Aucune couverture d'analystes ni objectif de cours disponible"
+        "Cours proche du plus bas sur 52 semaines (8,58 USD)",
+        "Tendance baissière sur 6 mois (-9,4 %)",
+        "Aucun avis d'analystes ni objectif de cours disponible"
       ],
       "catalyseurs": [
-        "Évolution des taux d'intérêt, qui influence le prix des obligations longues",
-        "Publication de la valeur liquidative et des distributions du fonds (date non communiquée)"
+        "Prochaine annonce de distribution ou de dividende (date non communiquée)",
+        "Évolution des taux d'intérêt, qui influence le prix des obligations"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel de 8.58 USD et l'évolution des taux d'intérêt."
+      "a_surveiller": "Surveiller si le cours passe sous le plus bas annuel de 8,58 USD et les prochaines communications du fonds sur ses distributions."
     }
   },
   "AL2SI.PA": {
@@ -577,27 +578,27 @@
     }
   },
   "BBT": {
-    "sig": "a39f618d7d22f06c",
+    "sig": "d730769c02ec791f",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Le seul titre vraiment lié à Beacon Financial est le maintien de la recommandation « neutre » par RBC Capital Markets, sans détail chiffré. Les autres titres concernent d'autres valeurs ou des pages de cotation génériques. Cela compte peu en soi, mais contraste avec l'avis moyen « buy » des 6 analystes.",
+      "resume": "Le seul titre concret concerne RBC Capital Markets, qui maintient sa recommandation « neutre » sur Beacon Financial. Les autres titres sont des pages de cotations générales, sans information précise sur l'entreprise. L'action recule d'environ 12,5 % sur 6 mois, alors que les analystes restent globalement favorables.",
       "points_forts": [
-        "Objectif moyen des analystes à 34 USD, au-dessus du cours de 27,09 USD",
-        "Avis moyen « buy » sur 6 analystes",
-        "Croissance du chiffre d'affaires indiquée à 1,445"
+        "Avis moyen des analystes : « buy » (6 analystes)",
+        "Objectif moyen de 34 $, au-dessus du cours de 27,09 $",
+        "Croissance du chiffre d'affaires indiquée à 1,445 (donnée à interpréter avec prudence)"
       ],
       "risques": [
         "Baisse de 12,5 % sur 6 mois",
-        "RBC reste neutre, donc moins enthousiaste que le consensus",
-        "Actualités récentes peu concrètes, peu de visibilité sur les causes de la baisse"
+        "Avis neutre de RBC, moins enthousiaste que le consensus",
+        "Cours plus proche du bas des 52 semaines (22,81 $) que du haut (32,83 $)"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 21 octobre 2026",
-        "Évolution des objectifs et recommandations des analystes"
+        "Publication des résultats le 21 octobre 2026",
+        "Éventuelles révisions des objectifs ou recommandations des analystes"
       ],
-      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas sur 52 semaines (22,81 USD) et ce que diront les prochains résultats sur la croissance."
+      "a_surveiller": "Les résultats du 21 octobre 2026 et l'évolution des recommandations des analystes, notamment l'écart entre l'avis neutre de RBC et le consensus « buy »."
     }
   },
   "FOIL": {
@@ -1176,27 +1177,27 @@
     }
   },
   "ENVX": {
-    "sig": "7795411a000540d0",
+    "sig": "7448388283aa02b0",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et de prévisions (TradingView, Zonebourse, Yahoo Finance), sans nouvelle concrète sur l'entreprise. Le fait marquant reste la forte baisse de l'action (-62,7 % en 6 mois), qui se rapproche de son plus bas sur 52 semaines, alors que les analystes restent globalement favorables.",
+      "resume": "Les titres récents sont surtout des pages génériques (cours, graphique, objectifs de prix, ventilation des revenus) et ne rapportent aucun événement concret sur Enovix. Le cours à 2,44 USD est proche de son plus bas sur 52 semaines (2,35) et a reculé d'environ 63 % en six mois, ce qui montre une forte pression et une grande volatilité.",
       "points_forts": [
         "Chiffre d'affaires en hausse de 20,8 %",
-        "Avis moyen des analystes : achat (10 analystes)",
-        "Objectif moyen de 9,75 $, très au-dessus du cours actuel"
+        "Objectif moyen des analystes (9,75 USD) très supérieur au cours actuel",
+        "Avis global des 10 analystes : buy"
       ],
       "risques": [
-        "Chute de 62,7 % en 6 mois, cours proche du plus bas annuel (2,35 $)",
-        "Petite capitalisation (environ 535 M$), donc très volatile",
-        "Grand écart entre les objectifs des analystes (5 à 21 $), signe de forte incertitude"
+        "Chute de 62,7 % en 6 mois, cours près du plus bas annuel",
+        "Forte volatilité typique d'une petite capitalisation (environ 535 M USD)",
+        "Large dispersion des objectifs (5 à 21 USD), signe d'une grande incertitude"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 12 novembre 2026",
-        "Révisions des objectifs ou des avis des analystes"
+        "Révisions des objectifs ou des avis par les analystes"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas de 52 semaines (2,35 $) et ce que diront les prochains résultats sur la croissance du chiffre d'affaires."
+      "a_surveiller": "Regarder si le cours tient au-dessus du plus bas de 2,35 USD et ce que diront les prochains résultats sur la croissance du chiffre d'affaires."
     }
   },
   "HVT-A": {
@@ -1221,6 +1222,30 @@
         "Évolution de la demande de consommation dans l'ameublement"
       ],
       "a_surveiller": "Surveiller l'annonce des prochains résultats et la tenue du cours entre le plus bas (20,28 USD) et le plus haut (44,99 USD) sur 52 semaines."
+    }
+  },
+  "GLO.PA": {
+    "sig": "00898c7d7e97a49a",
+    "analyse": {
+      "sentiment": "positif",
+      "importance": 2,
+      "confiance": "moyenne",
+      "resume": "Les articles récents sont plutôt favorables : GL Events maintient sa guidance de croissance, portée par les activités Live et Venues, et garde le soutien des analystes. Le cours (28,8 €) reste toutefois en baisse de 14,1 % sur 6 mois, alors que l'objectif moyen des analystes est de 37 €. Les titres restent généraux et ne donnent pas de nouveau chiffre précis.",
+      "points_forts": [
+        "Guidance de croissance maintenue (Live et Venues)",
+        "Chiffre d'affaires en hausse de 8,9 %",
+        "Avis des analystes : strong_buy, objectif moyen 37 €"
+      ],
+      "risques": [
+        "Cours en baisse de 14,1 % sur 6 mois",
+        "Activité événementielle sensible au contexte économique (les articles évoquent un « contexte » sans le détailler)",
+        "Petite capitalisation (environ 845 M€), potentiellement plus volatile"
+      ],
+      "catalyseurs": [
+        "Prochaine publication de résultats (date non communiquée)",
+        "Confirmation ou révision de la guidance de croissance"
+      ],
+      "a_surveiller": "Surveiller si le cours se rapproche des objectifs des analystes (36 à 38 €) ou s'il retourne vers son plus bas annuel de 23,4 €, ainsi que la date des prochains résultats."
     }
   }
 }

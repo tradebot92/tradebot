@@ -16,10 +16,6 @@
       "premiere": "2026-10-12T20:46+02:00",
       "nom": "Bumble Inc."
     },
-    "ETL.PA": {
-      "premiere": "2026-10-14T11:58+02:00",
-      "nom": "EUTELSAT COMMUNIC."
-    },
     "EIKN": {
       "premiere": "2026-10-14T15:58+02:00",
       "nom": "Eikon Therapeutics, Inc."
@@ -28,10 +24,6 @@
       "premiere": "2026-10-14T15:58+02:00",
       "nom": "Beacon Financial Corporation"
     },
-    "NRG.PA": {
-      "premiere": "2026-10-14T16:57+02:00",
-      "nom": "NRJ GROUP"
-    },
     "ENVX": {
       "premiere": "2026-10-14T21:56+02:00",
       "nom": "Enovix Corporation"
@@ -39,19 +31,17 @@
     "HVT-A": {
       "premiere": "2026-10-14T22:19+02:00",
       "nom": "Haverty Furniture Companies, In"
+    },
+    "GLO.PA": {
+      "premiere": "2026-10-15T09:29+02:00",
+      "nom": "GL EVENTS"
+    },
+    "EXK": {
+      "premiere": "2026-10-15T09:29+02:00",
+      "nom": "Endeavour Silver Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "BORR",
-      "date": "13/10/2026",
-      "nom": "Borr Drilling Limited"
-    },
-    {
-      "symbole": "TMC",
-      "date": "13/10/2026",
-      "nom": "TMC the metals company Inc."
-    },
     {
       "symbole": "ARL",
       "date": "13/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "TRAX",
       "date": "14/10/2026",
       "nom": "First Tracks Biotherapeutics, I"
+    },
+    {
+      "symbole": "ETL.PA",
+      "date": "15/10/2026",
+      "nom": "EUTELSAT COMMUNIC."
+    },
+    {
+      "symbole": "NRG.PA",
+      "date": "15/10/2026",
+      "nom": "NRJ GROUP"
     }
   ]
 }
