@@ -28,10 +28,6 @@
       "premiere": "2026-10-15T19:53+02:00",
       "nom": "Gloo Holdings, Inc."
     },
-    "OPEN": {
-      "premiere": "2026-10-15T21:53+02:00",
-      "nom": "Opendoor Technologies Inc"
-    },
     "BMBL": {
       "premiere": "2026-10-15T22:55+02:00",
       "nom": "Bumble Inc."
@@ -42,11 +38,6 @@
     }
   },
   "sorties": [
-    {
-      "symbole": "AADX",
-      "date": "14/10/2026",
-      "nom": "Applied Aerospace & Defense, In"
-    },
     {
       "symbole": "EXK",
       "date": "14/10/2026",
@@ -191,6 +182,11 @@
       "symbole": "SES",
       "date": "15/10/2026",
       "nom": "SES AI Corporation"
+    },
+    {
+      "symbole": "OPEN",
+      "date": "15/10/2026",
+      "nom": "Opendoor Technologies Inc"
     }
   ]
 }
