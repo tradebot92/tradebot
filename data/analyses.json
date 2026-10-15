@@ -48,51 +48,51 @@
     }
   },
   "GLOO": {
-    "sig": "d5e6ae6c0b5dbf08",
+    "sig": "54ca41cdcffd78d7",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents sont uniquement des pages de cours et de graphiques (TradingView, Yahoo Finance), dont certaines concernent d'autres sociétés. Ils ne donnent aucune information concrète sur Gloo. Ce qui compte surtout, c'est la forte baisse du cours sur 6 mois (-59,1 %), qui le place près de son plus bas sur 52 semaines.",
+      "resume": "Les titres récents sont de simples pages de cours et de graphiques (TradingView, Yahoo Finance), dont deux concernent d'autres sociétés (MNTN, SPIR). Ils n'apportent aucune information concrète sur Gloo. Le cours a nettement reculé (-59,4 % en 6 mois) et reste proche de son plus bas sur 52 semaines, ce qui reflète une forte volatilité.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 1,88 (donnée fournie, unité non précisée)",
-        "Objectif moyen des analystes (11,17 USD) très supérieur au cours actuel (3,27 USD)",
-        "Plateforme de niche tournée vers l'écosystème de la foi, avec des outils d'IA"
+        "Croissance du chiffre d'affaires de 1,88 (à confirmer selon la définition de l'indicateur)",
+        "Objectifs des analystes (moyen 11,17 $) bien au-dessus du cours actuel de 3,24 $",
+        "Plateforme logicielle de niche pour l'écosystème de la foi, avec des produits IA"
       ],
       "risques": [
-        "Forte volatilité : cours à 3,27 USD, contre un plus haut sur 52 semaines de 9,98 USD",
-        "Petite capitalisation (environ 303 M USD), donc plus sensible aux mouvements brusques",
-        "Aucun avis d'analyste clair malgré 6 analystes, et des objectifs très dispersés (7 à 17 USD)"
+        "Forte baisse du cours et volatilité élevée pour une petite capitalisation (~300 M$)",
+        "Aucun avis consensuel clair des analystes (avis : none) malgré l'écart des objectifs (7 à 17 $)",
+        "Aucune actualité concrète permettant d'expliquer la baisse"
       ],
       "catalyseurs": [
         "Publication des prochains résultats le 9 septembre 2026",
-        "Révision éventuelle des objectifs ou des avis des analystes"
+        "Éventuelles révisions des objectifs ou avis par les 6 analystes"
       ],
-      "a_surveiller": "Surveille les résultats du 9 septembre 2026 et la capacité du cours à se stabiliser au-dessus de son plus bas sur 52 semaines (2,90 USD)."
+      "a_surveiller": "Surveiller les résultats du 9 septembre 2026 et le maintien du cours au-dessus du plus bas des 52 semaines (2,90 $)."
     }
   },
   "INFQ": {
-    "sig": "aab563939d0ad4c8",
+    "sig": "3aa4d129e50275b4",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires sur la forte hausse passée (+314 % évoquée) après l'entrée en Bourse via un SPAC, valorisant l'entreprise à 1,8 milliard de dollars. Aucune information concrète et nouvelle sur l'activité n'apparaît. Le cours (9,15 $) a pourtant reculé d'environ 47,5 % en 6 mois, ce qui illustre une forte volatilité.",
+      "resume": "Les titres récents sont surtout des pages de cotation et des articles sur la hausse spectaculaire (+314 %) liée à l'arrivée en Bourse via un SPAC, qui valorisait la société à 1,8 milliard de dollars. Depuis, le cours (9,09 $) a nettement reculé : -47,8 % en 6 mois et proche du plus bas sur 52 semaines (8,52 $). Les titres ne donnent aucune information concrète nouvelle sur l'activité.",
       "points_forts": [
-        "Croissance du chiffre d'affaires très élevée (+156,5 %)",
-        "Avis des analystes : strong_buy, objectif moyen 21,83 $ très au-dessus du cours",
-        "Positionnement dans les technologies quantiques (horloges, capteurs, calcul)"
+        "Croissance du chiffre d'affaires élevée (1,565)",
+        "Avis des analystes : strong_buy, objectif moyen 21,83 $",
+        "Technologies quantiques variées : calcul, capteurs, horloges"
       ],
       "risques": [
-        "Forte volatilité : -47,5 % en 6 mois, proche du plus bas annuel de 8,52 $",
-        "Société récemment cotée via SPAC, historique boursier court",
-        "Valorisation élevée (capitalisation d'environ 2,06 Md$) pour un secteur encore émergent"
+        "Forte volatilité après l'entrée en Bourse par SPAC",
+        "Cours proche du plus bas sur 52 semaines",
+        "Secteur quantique spéculatif et valorisation élevée (capitalisation d'environ 2 Md$)"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 12 novembre 2026",
-        "Éventuelles révisions des objectifs ou avis des analystes"
+        "Publication des résultats le 12 novembre 2026",
+        "Révisions des objectifs ou des avis des analystes"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel de 8,52 $ et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas annuel de 8,52 $ et si la croissance du chiffre d'affaires se confirme dans les prochains résultats."
     }
   },
   "EIKN": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "a5eeed3b72668f5a",
+    "sig": "06f82a03cdfbdb61",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza (TEV-749), traitement de la schizophrénie, et le titre a bondi d'environ 18 %.",
-          "a_surveiller": "Après cette forte hausse, des prises de bénéfices restent possibles, et le chiffre d'affaires est en baisse sur la période.",
+          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza (TEV-749), traitement de la schizophrénie développé avec MedinCell, et l'action a bondi d'environ 18 % selon la presse.",
+          "a_surveiller": "La volatilité du titre après cette forte hausse, la baisse du chiffre d'affaires (-0,4 %) et la capacité du produit à réussir commercialement.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "OPK",
-          "pourquoi": "L'action a fortement progressé après l'annonce de la cession des actifs BioReference pour 722 M$.",
-          "a_surveiller": "Les détails sur l'usage des fonds et l'effet sur les revenus futurs ne sont pas connus, et le cours (1,64 $) est proche du plus haut sur 52 semaines (1,75 $).",
+          "pourquoi": "L'action a fortement progressé après l'annonce de la cession des actifs BioReference pour 722 M$, ce qui peut renforcer la trésorerie et recentrer l'entreprise.",
+          "a_surveiller": "L'usage des fonds et l'effet sur les revenus futurs, alors que le cours (1,64 $) est proche du plus haut sur 52 semaines (1,75 $).",
           "nom": "Opko Health, Inc."
         },
         {
           "symbole": "GLO.PA",
-          "pourquoi": "Le titre a fortement monté (jusqu'à +23 % sur une séance selon la presse) après un été jugé exceptionnel et un relèvement des perspectives annuelles.",
-          "a_surveiller": "Une hausse aussi brutale peut s'inverser, et l'activité dépend du calendrier des événements, avec un cours de 31,2 € encore en baisse de 5,4 % sur 6 mois.",
+          "pourquoi": "GL Events a bondi jusqu'à +23 % sur une séance après un été jugé exceptionnel et un relèvement de ses perspectives annuelles, avec un objectif moyen des analystes de 37,6 € contre un cours de 31,2 €.",
+          "a_surveiller": "Un possible repli après un tel bond, ainsi que la dépendance de l'activité au calendrier des événements et au contexte.",
           "nom": "GL EVENTS"
         }
       ],
-      "prudence": "Ces informations sont purement indicatives : les titres cités sont volatils après de fortes hausses et tout investissement comporte un risque de perte en capital."
+      "prudence": "Ces trois titres ont connu de fortes hausses récentes et restent très volatils : l'information fournie n'est pas un conseil et ne garantit aucun gain, une baisse étant toujours possible."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "38a169a5ec3052c9",
+    "sig": "5fa835ec0c9793a3",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les États-Unis ont autorisé la mise sur le marché de Weltruza (TEV-749), traitement de la schizophrénie développé par MedinCell, et le titre a bondi d'environ 18 % en Bourse. Cette autorisation de la FDA est une étape clé : elle ouvre la voie à une commercialisation d'un second produit de l'entreprise dans la schizophrénie, après UZEDY.",
+      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec MedinCell. Selon la presse, l'action a bondi d'environ 18 % après cette annonce. C'est une étape réglementaire importante, car elle ouvre la voie à une commercialisation aux États-Unis.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza (TEV-749)",
-        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,5 €)",
-        "Cours actuel inférieur à l'objectif bas des analystes (31 €)"
+        "Feu vert de la FDA pour Weltruza contre la schizophrénie",
+        "Objectif moyen des analystes (35,5 €) au-dessus du cours actuel (26,32 €)",
+        "Avis des 9 analystes : « strong buy »"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-0,446 sur la période)",
-        "Titre très volatil, avec un fort écart entre plus haut (39,68 €) et plus bas (19,69 €) sur 52 semaines",
-        "Après un bond de 18 %, risque de prises de bénéfices"
+        "Titre très volatil : une forte hausse peut être suivie d'un repli",
+        "Chiffre d'affaires en baisse (-0,4 %)",
+        "Le succès commercial du produit reste à démontrer"
       ],
       "catalyseurs": [
         "Lancement commercial de Weltruza aux États-Unis",
-        "Avancement de l'essai de phase III de mdc-CWM contre la douleur post-opératoire"
+        "Avancées des autres programmes, comme mdc-CWM en phase III"
       ],
-      "a_surveiller": "Surveillez si le titre garde ses gains après le bond lié à la FDA et ce que l'entreprise annoncera sur le calendrier de commercialisation et les revenus attendus (pas de date de résultats connue)."
+      "a_surveiller": "Surveiller si le cours se maintient après le bond lié à l'autorisation de la FDA, ainsi que les informations sur le calendrier de lancement et les revenus attendus."
     }
   },
   "KLRA": {
@@ -1296,27 +1296,27 @@
     }
   },
   "FMC": {
-    "sig": "b53713d88de6c173",
+    "sig": "b24b05f3a8ef3f7d",
     "analyse": {
       "sentiment": "negatif",
-      "importance": 5,
+      "importance": 4,
       "confiance": "moyenne",
-      "resume": "FMC a révisé à la baisse ses prévisions du troisième trimestre, ce qui a fait chuter le cours. Le groupe a ensuite reçu un apport d'urgence : Tessenderlo prend 20 % du capital pour 400 M$. Les investisseurs ont plutôt mal accueilli ce renflouement, même si le titre a rebondi après l'annonce. Le cours reste très bas, à 5,37 $, soit -68 % en 6 mois.",
+      "resume": "Les titres évoquent deux nouvelles opposées : une forte hausse de l'action après l'entrée de Tessenderlo à hauteur de 20 % pour 400 M$, et un effondrement après une révision à la baisse des prévisions du troisième trimestre. Le cours à 5,36 USD, en baisse de 68 % sur 6 mois et proche de son plus bas sur 52 semaines, montre une forte pression et une volatilité extrême.",
       "points_forts": [
-        "Entrée de Tessenderlo au capital (20 % pour 400 M$), qui apporte des liquidités",
-        "Les 16 analystes restent à l'achat, avec un objectif moyen de 12,8 $ très supérieur au cours",
-        "Rebond du titre à l'annonce de l'investissement"
+        "Tessenderlo prend 20 % pour 400 M$ (signal de confiance externe)",
+        "16 analystes, avis moyen « buy », objectif moyen 12,8 USD",
+        "Activité diversifiée (insecticides, herbicides, fongicides, biologiques)"
       ],
       "risques": [
-        "Chiffre d'affaires en recul de 17,5 %",
-        "Prévisions abaissées et renflouement d'urgence, signe de tensions financières",
-        "Forte volatilité, cours proche du plus bas sur 52 semaines (4,845 $)"
+        "Prévisions du 3e trimestre revues à la baisse",
+        "Chiffre d'affaires en recul d'environ 17,5 %",
+        "Chute de 68 % en 6 mois, volatilité très élevée"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 29 octobre 2026",
-        "Détails et conditions de l'accord avec Tessenderlo, et ses effets sur la situation financière"
+        "Précisions sur l'opération avec Tessenderlo et son impact"
       ],
-      "a_surveiller": "Vérifier si la baisse des ventes ralentit et si l'apport de 400 M$ suffit à stabiliser la situation financière, tout en gardant en tête que les objectifs des analystes ont pu être fixés avant ces événements."
+      "a_surveiller": "Voir si les prochains résultats confirment ou non la baisse des prévisions, et si l'investissement de Tessenderlo stabilise durablement le cours, sachant que les objectifs des analystes restent bien au-dessus du cours actuel et peuvent être revus."
     }
   },
   "DFH": {
@@ -1415,51 +1415,51 @@
     }
   },
   "EVEX": {
-    "sig": "871ff3f7f765a4c6",
+    "sig": "40d806ee142bd921",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents ne parlent pas vraiment d'Eve Holding : ce sont des pages de cours d'autres sociétés (Karman, Leidos, EvoNext, etc.). Ils n'apportent aucune information concrète sur EVEX. Le contexte reste celui d'une action en forte baisse (-44 % en 6 mois), proche de son plus bas sur 52 semaines.",
+      "resume": "Les titres récents sont des pages de cours d'autres sociétés (Karman, Leidos, Cirrus Aircraft, etc.) et ne donnent aucune information concrète sur Eve. Le cours a toutefois reculé de 44 % en six mois et se trouve près de son plus bas sur 52 semaines (1,64 $ contre 1,41 $). Cela montre une forte pression sur le titre, sans explication dans les actualités fournies.",
       "points_forts": [
-        "Avis moyen des analystes à « buy » (8 analystes)",
-        "Objectif moyen (6,26 USD) bien au-dessus du cours actuel (1,64 USD)",
-        "Soutien de l'actionnaire principal Embraer"
+        "Avis moyen des analystes : achat (8 analystes)",
+        "Objectif moyen (6,26 $) bien au-dessus du cours actuel",
+        "Soutien de l'actionnaire majoritaire Embraer"
       ],
       "risques": [
-        "Forte baisse du cours, proche du plus bas annuel (1,41 USD)",
-        "Aucune croissance du chiffre d'affaires communiquée",
-        "Valeur très volatile, liée à une technologie (eVTOL) encore en développement"
+        "Baisse de 44 % en 6 mois, tendance fortement négative",
+        "Action très volatile, société de petite taille",
+        "Aucune croissance du chiffre d'affaires renseignée"
       ],
       "catalyseurs": [
-        "Prochains résultats prévus le 5 novembre 2026",
-        "Éventuelles mises à jour des analystes sur les objectifs de cours"
+        "Publication des résultats prévue le 5 novembre 2026",
+        "Révision des objectifs ou des avis par les analystes"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas des 52 semaines (1,41 USD) et ce que diront les résultats du 5 novembre 2026."
+      "a_surveiller": "Regarder si le cours tient au-dessus du plus bas annuel de 1,41 $ et ce que dira la direction sur le développement de l'eVTOL lors des prochains résultats."
     }
   },
   "RXRX": {
-    "sig": "4f570a3769084d5d",
+    "sig": "d75c27577fa48909",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont des pages génériques de prix et de graphiques (TradingView) et une page de prévisions pour 2027, sans annonce concrète sur l'entreprise. Ils ne permettent pas de tirer de conclusion nouvelle. Le contexte reste celui d'une biotech cotée à environ 4,24 USD, avec un chiffre d'affaires en forte baisse.",
+      "resume": "Les titres récents sont surtout des pages de cours et de graphiques (TradingView) ou des prévisions de prix, sans nouvelle concrète sur l'entreprise. Ils ne permettent pas de dire si quelque chose a changé pour Recursion. Le contexte reste celui d'une biotech en phase clinique, au chiffre d'affaires en forte baisse et au cours volatil.",
       "points_forts": [
-        "Plusieurs candidats en essais cliniques (REC-4881, REC-617, REC-1245)",
-        "Objectif moyen des analystes (7,22 USD) nettement au-dessus du cours actuel",
-        "Cours en hausse de 12,3 % sur 6 mois"
+        "Objectif moyen des analystes (7,22 USD) nettement au-dessus du cours (4,24 USD)",
+        "Plusieurs programmes cliniques en cours (REC-4881, REC-617, REC-1245)",
+        "Cours en hausse de 12 % sur 6 mois"
       ],
       "risques": [
         "Chiffre d'affaires en baisse de 60 %",
-        "Entreprise encore au stade clinique, résultats d'essais incertains",
-        "Forte volatilité : écart entre plus bas (2,77) et plus haut (7,18) sur 52 semaines, et objectifs d'analystes très dispersés (4 à 10)"
+        "Fourchette d'objectifs très large (4 à 10 USD), signe d'une forte incertitude",
+        "Cours volatil, entre 2,77 et 7,18 USD sur 52 semaines"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 4 novembre 2026",
-        "Données d'essais cliniques sur les programmes en phase 1/2"
+        "Avancées ou données des essais cliniques en cours"
       ],
-      "a_surveiller": "Les prochaines annonces cliniques et les résultats trimestriels, plus informatifs que ces pages de cours génériques."
+      "a_surveiller": "Surveillez les annonces officielles de l'entreprise sur ses essais cliniques et les prochains résultats, plus utiles que les simples pages de cours."
     }
   }
 }
