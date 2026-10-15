@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "cd6c8f19ee24a119",
+    "sig": "8afb4ed95612b9ab",
     "analyse": {
       "sentiment": "positif",
       "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres récents évoquent un bénéfice en forte hausse (+81 % selon Euronews), des résultats portés par le cloud et un accord important avec Anthropic qui a fait grimper l'action d'environ 2 %. À 343,65 USD, le cours reste sous son plus haut sur 52 semaines (404,47), ce qui montre que le marché reste partagé malgré ces bonnes nouvelles.",
+      "resume": "Les titres récents évoquent un bénéfice d'Alphabet en hausse de 81 %, la croissance du cloud et un accord important avec Anthropic qui a fait grimper l'action d'environ 2 %. Un article mentionne aussi une chute du cours, ce qui montre que le titre reste mouvementé. Le cours actuel (343,65 $) se situe sous le plus haut sur 52 semaines (404,47 $) et près de l'objectif bas des analystes (340 $).",
       "points_forts": [
-        "Chiffre d'affaires en hausse de 24,2 %",
-        "Bénéfice en forte progression (+81 % d'après les titres)",
-        "Avis analystes très favorable (strong_buy, objectif moyen 420,43 USD)"
+        "Croissance du chiffre d'affaires de 24,2 %",
+        "Bénéfice en hausse de 81 % selon les titres",
+        "Avis des analystes : strong_buy (14 analystes), objectif moyen 420,43 $"
       ],
       "risques": [
-        "Cours environ 15 % sous son plus haut sur 52 semaines",
-        "Un titre évoque une « chute du cours » après les résultats",
-        "Objectif bas des analystes (340 USD) très proche du cours actuel"
+        "Cours en retrait d'environ 15 % par rapport au plus haut sur 52 semaines",
+        "Titre sensible aux annonces, avec des variations marquées évoquées dans l'actualité",
+        "Valorisation élevée (capitalisation d'environ 4 200 Md$) qui laisse peu de marge à la déception"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 28 octobre 2026",
-        "Évolution de l'accord avec Anthropic et de l'activité cloud"
+        "Prochains résultats le 28 octobre 2026",
+        "Évolution de l'accord avec Anthropic et de l'activité Google Cloud"
       ],
-      "a_surveiller": "Surveillez si le cours parvient à se rapprocher de l'objectif moyen des analystes ou s'il retombe vers le bas de sa fourchette annuelle (244,67 USD), notamment autour des prochains résultats."
+      "a_surveiller": "Surveillez si le cours reste au-dessus de l'objectif bas des analystes (340 $) et ce que révéleront les résultats du 28 octobre 2026 sur le cloud et la croissance."
     }
   },
   "GLOO": {
@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "3aa4d129e50275b4",
+    "sig": "aab563939d0ad4c8",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et des commentaires sur la forte hausse passée d'Infleqtion, entrée en Bourse via un SPAC valorisé à 1,8 milliard de dollars. Aucune annonce concrète (contrat, résultats) n'apparaît. Le cours de 9,11 $ reste bien sous son plus haut de 52 semaines (21,28 $) et a perdu 41,5 % en 6 mois, signe d'une forte volatilité.",
+      "resume": "Les titres récents sont surtout des pages de cours et des commentaires sur la forte hausse passée d'Infleqtion (+314 % évoqués), après son entrée en Bourse via un SPAC valorisant la société à 1,8 milliard de dollars. Aucune actualité concrète nouvelle n'est détaillée. Le cours à 9,11 USD a nettement reculé (-41,5 % sur 6 mois) et se situe près de son plus bas sur 52 semaines (8,52).",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (1,565)",
-        "Avis des analystes : strong_buy, objectif moyen 21,83 $",
-        "Technologies quantiques variées : horloges, capteurs, informatique"
+        "Croissance du chiffre d'affaires élevée (1,565, soit environ +156 %)",
+        "Analystes très favorables (avis strong_buy, objectif moyen 21,83 USD)",
+        "Positionnement en technologies quantiques (calcul, horloges, capteurs)"
       ],
       "risques": [
-        "Forte volatilité et baisse de 41,5 % en 6 mois",
-        "Cours proche du plus bas de 52 semaines (8,52 $)",
-        "Société récente issue d'un SPAC, modèle encore jeune"
+        "Forte volatilité et baisse marquée depuis le plus haut de 21,28 USD",
+        "Petite entreprise issue d'un SPAC, valorisation spéculative",
+        "Titres d'actualité peu informatifs, peu d'éléments concrets sur les résultats ou la rentabilité"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Éventuelles révisions des objectifs des analystes"
+        "Publication des prochains résultats le 12 novembre 2026",
+        "Révisions des objectifs ou avis des analystes"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas de 52 semaines (8,52 $) et les prochains résultats pour confirmer la croissance du chiffre d'affaires."
+      "a_surveiller": "Vérifier si le cours tient au-dessus du plus bas de 52 semaines (8,52 USD) et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
     }
   },
   "EIKN": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "07b1b2c2e1ff628e",
+    "sig": "186bbf9f837cbefd",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA américaine a approuvé Weltruza (TEV-749), deuxième traitement de MedinCell contre la schizophrénie, et le titre a bondi d'environ 18 % selon la presse.",
-          "a_surveiller": "Le chiffre d'affaires est en recul (-0,45), le titre est très volatil et le lancement commercial ainsi que les ventes réelles restent à confirmer.",
+          "pourquoi": "La FDA a approuvé Weltruza (TEV-749), deuxième traitement de MedinCell contre la schizophrénie, ce qui valide sa technologie d'injection à libération prolongée et a fait bondir le titre d'environ 18 %.",
+          "a_surveiller": "Le chiffre d'affaires reste en recul (-0,45), le titre est très volatil et le lancement commercial ainsi que les ventes réelles restent à confirmer.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "GOOG",
-          "pourquoi": "Les titres évoquent un bénéfice en forte hausse (+81 % selon Euronews), des résultats portés par le cloud et un accord important avec Anthropic qui a fait progresser l'action d'environ 2 %.",
-          "a_surveiller": "À 343,65 USD, le cours reste environ 15 % sous son plus haut sur 52 semaines (404,47) et l'objectif bas des analystes (340 USD) est très proche du cours actuel.",
+          "pourquoi": "Les actualités évoquent un bénéfice d'Alphabet en hausse de 81 %, la croissance du cloud et un accord important avec Anthropic, qui a fait monter l'action d'environ 2 %.",
+          "a_surveiller": "Le cours de 343,65 $ est environ 15 % sous son plus haut sur 52 semaines, proche de l'objectif bas des analystes (340 $), et la valorisation élevée laisse peu de marge à la déception.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "GLO.PA",
-          "pourquoi": "Les articles évoquent un été porteur, un relèvement des perspectives annuelles et un bond de 23 % en une séance, avec des analystes visant des cours supérieurs au niveau actuel (29,8 EUR).",
-          "a_surveiller": "Le titre reste en recul de 9,7 % sur 6 mois, loin de son plus haut de 36,25 EUR, et dépend d'événements ponctuels et du contexte économique.",
+          "pourquoi": "GL Events profite d'un été porteur et d'un relèvement de ses perspectives annuelles, avec des analystes favorables dont les objectifs (36 à 38 €) dépassent le cours actuel de 30,75 €.",
+          "a_surveiller": "L'action est volatile (un bond de 23 % en une séance peut s'inverser), recule de 6,8 % sur 6 mois et dépend du contexte économique via les grands événements.",
           "nom": "GL EVENTS"
         }
       ],
-      "prudence": "Ces informations ne sont pas un conseil : après de fortes hausses en une séance, les cours peuvent s'inverser et toute décision comporte un risque de perte en capital."
+      "prudence": "Ces informations ne constituent pas un conseil : les cours peuvent varier fortement à la hausse comme à la baisse et une perte en capital est possible."
     }
   },
   "SVC": {
@@ -673,27 +673,27 @@
     }
   },
   "BMBL": {
-    "sig": "d846c74722ebda36",
+    "sig": "8043748ae09b2f77",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 4,
+      "importance": 5,
       "confiance": "moyenne",
-      "resume": "Un titre de Zonebourse Suisse indique que Bumble serait racheté pour 1,3 milliard de dollars et retiré de la Bourse. Le cours (5,97 $) est collé à son plus haut sur 52 semaines (5,98 $) et proche de l'objectif analyste le plus haut (6,05 $), ce qui est cohérent avec un prix de rachat déjà en grande partie intégré. Les détails (prix par action, calendrier, conditions) ne figurent pas dans les données fournies.",
+      "resume": "Les titres indiquent que Bumble va être rachetée pour 1,3 milliard de dollars et retirée de la cote, ce qui a fait bondir l'action. Le cours (5,97 USD) est proche du plus haut sur 52 semaines et de la fourchette haute des objectifs d'analystes (6,05), donc le marché intègre déjà l'opération. Pour un actionnaire, l'enjeu est surtout le prix de l'offre et le calendrier, plus que les résultats de l'entreprise.",
       "points_forts": [
-        "Rachat annoncé : sortie possible pour les actionnaires",
-        "Cours en hausse de 38,5 % sur 6 mois",
-        "Valorisation proche de l'objectif haut des analystes"
+        "Offre de rachat de 1,3 Md$ qui valorise le titre",
+        "Cours proche du plus haut sur 52 semaines (5,98)",
+        "Hausse d'environ 38,5 % sur 6 mois"
       ],
       "risques": [
-        "Conditions et calendrier de l'opération non précisés",
-        "Chiffre d'affaires en baisse de 15,2 %",
-        "Si l'opération échoue, le cours pourrait fortement reculer"
+        "Chiffre d'affaires en baisse de 15,2 % sur un an",
+        "Opération pouvant échouer ou être retardée (conditions non précisées dans les titres)",
+        "Retrait de la cote : fin de la possibilité de suivre ou de conserver l'action en Bourse"
       ],
       "catalyseurs": [
-        "Validation de l'opération par les actionnaires et les autorités",
-        "Finalisation du rachat et retrait de la cote"
+        "Détails et calendrier de la transaction (vote des actionnaires, approbations)",
+        "Date effective du retrait de la cote"
       ],
-      "a_surveiller": "Le prix exact par action offert et les étapes d'approbation, car le cours devrait rester proche de ce prix tant que l'opération est jugée probable."
+      "a_surveiller": "Le prix par action de l'offre comparé au cours actuel, ainsi que les conditions et la date de finalisation du rachat, sachant que les résultats du 2026-11-04 pourraient perdre de leur importance si le retrait de la cote a lieu avant."
     }
   },
   "HELE": {
@@ -1200,51 +1200,51 @@
     }
   },
   "HVT-A": {
-    "sig": "ca95d8cf94edc1fe",
+    "sig": "605f99866f11389f",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont de simples pages de cotation (TradingView, Yahoo Finance) et ne contiennent aucune information concrète sur Haverty. Le cours est à 28,61 USD, nettement sous son plus haut sur 52 semaines (44,99) mais bien au-dessus du plus bas (20,28), avec une hausse d'environ 22,8 % sur 6 mois. Le chiffre d'affaires progresse de 7,7 %, ce qui est un signal positif sans être décisif.",
+      "resume": "Les titres d'actualité fournis sont surtout des pages de cours et de graphiques (TradingView, Yahoo Finance), sans information concrète sur Haverty. Ils ne permettent pas de savoir si un événement particulier touche l'entreprise. Le cours de 28,61 USD reste nettement sous son plus haut sur 52 semaines (44,99).",
       "points_forts": [
-        "Chiffre d'affaires en croissance de 7,7 %",
-        "Cours en hausse d'environ 22,8 % sur 6 mois",
-        "Marque et activité établies depuis 1885"
+        "Chiffre d'affaires en hausse de 7,7 %",
+        "Cours en progression d'environ 22,8 % sur 6 mois",
+        "Marque ancienne (1885) avec ventes en magasins et en ligne"
       ],
       "risques": [
-        "Secteur de l'ameublement sensible à la conjoncture et à la consommation",
-        "Cours encore bien en dessous du plus haut sur 52 semaines (44,99)",
-        "Peu de données disponibles : pas d'avis d'analystes ni de date de résultats"
+        "Cours bien en dessous du plus haut sur 52 semaines (44,99 USD)",
+        "Secteur du meuble sensible à la conjoncture économique",
+        "Aucun avis d'analystes disponible pour se repérer"
       ],
       "catalyseurs": [
-        "Prochaine publication de résultats (date non communiquée)",
-        "Évolution de la demande de meubles et du marché immobilier américain"
+        "Prochaine publication des résultats (date non communiquée)",
+        "Évolution de la demande dans l'ameublement aux États-Unis"
       ],
-      "a_surveiller": "Surveiller l'annonce de la prochaine date de résultats et la tendance du chiffre d'affaires, car les données actuelles ne permettent pas de conclure."
+      "a_surveiller": "Surveiller la date des prochains résultats et si la croissance du chiffre d'affaires de 7,7 % se confirme, car l'actualité actuelle n'apporte aucun fait concret."
     }
   },
   "GLO.PA": {
-    "sig": "323c388faf6c508f",
+    "sig": "163869dda9f88a86",
     "analyse": {
       "sentiment": "positif",
       "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres récents évoquent un été très porteur pour GL Events (événements de grande ampleur, concerts au Stade de France), un relèvement des perspectives annuelles et un bond de 23% en une séance. D'autres articles indiquent que le groupe maintient sa guidance de croissance, portée par les activités Live et Venues. Cela compte car les analystes visent des cours supérieurs au niveau actuel (29,8 EUR), même si le titre reste en baisse sur 6 mois (-9,7%).",
+      "resume": "Les titres récents évoquent un été très porteur pour GL Events (grands événements, concerts au Stade de France) et un relèvement des perspectives annuelles, qui avait fait bondir l'action de 23 % lors d'une séance. D'autres articles indiquent que le groupe maintient sa guidance de croissance, portée par les activités Live et Venues. Cela compte car les analystes restent très favorables, avec des objectifs de cours (36 à 38 €) au-dessus du cours actuel de 30,75 €.",
       "points_forts": [
-        "Perspectives annuelles relevées après un été exceptionnel",
-        "Croissance du chiffre d'affaires de 8,9%",
-        "Objectifs des analystes (36 à 38 EUR) au-dessus du cours actuel"
+        "Perspectives annuelles relevées et guidance de croissance maintenue",
+        "Chiffre d'affaires en hausse de 8,9 %",
+        "Avis analystes strong_buy, objectifs entre 36 et 38 €"
       ],
       "risques": [
-        "Forte volatilité : un bond de 23% en une séance peut s'inverser",
-        "Dépendance à des événements ponctuels et au contexte économique",
-        "Titre en recul de 9,7% sur 6 mois, loin de son plus haut de 36,25 EUR"
+        "Action volatile : un bond de 23 % en une séance peut s'inverser",
+        "Cours en baisse de 6,8 % sur 6 mois malgré les bonnes nouvelles",
+        "Activité liée aux grands événements, donc sensible au contexte économique"
       ],
       "catalyseurs": [
         "Prochaine publication de résultats (date non communiquée)",
         "Confirmation ou nouveau relèvement de la guidance annuelle"
       ],
-      "a_surveiller": "Vérifier si le cours se stabilise après la forte hausse et si la guidance annuelle est de nouveau confirmée lors des prochaines publications."
+      "a_surveiller": "Surveille si le cours se rapproche des objectifs des analystes (36 à 38 €) ou s'il reste proche de ses niveaux récents, et la date des prochains résultats, pas encore connue."
     }
   },
   "ALPRG.PA": {
