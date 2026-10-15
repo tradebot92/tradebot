@@ -24,75 +24,75 @@
     }
   },
   "GOOG": {
-    "sig": "2ccdc740afc84a6f",
+    "sig": "3a7d9fe2a717b8da",
     "analyse": {
       "sentiment": "positif",
       "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres récents évoquent un bénéfice en forte hausse (+81 %) pour Alphabet, des résultats liés notamment au cloud, ainsi qu'un accord important avec Anthropic qui a fait monter l'action d'environ 2 %. Le cours reste toutefois sous son plus haut sur 52 semaines, et un article mentionne aussi une chute du cours, ce qui montre que le marché réagit de façon contrastée.",
+      "resume": "Les titres récents évoquent un bénéfice en forte hausse (+81 % selon Euronews) et un accord important avec Anthropic qui a fait progresser l'action d'environ 2 %. Un article mentionne aussi une chute du cours, ce qui montre que le titre reste volatil. Cela compte car la croissance du cloud et de l'IA semble soutenir les résultats de l'entreprise.",
       "points_forts": [
-        "Bénéfice en forte hausse (+81 % d'après un titre)",
-        "Chiffre d'affaires en croissance de 24,2 %",
-        "Analystes très favorables : avis strong_buy, objectif moyen 420,79 USD"
+        "Croissance du chiffre d'affaires de 24,2 %",
+        "Bénéfice en forte hausse (+81 %)",
+        "Avis des analystes : strong_buy, objectif moyen d'environ 421 USD"
       ],
       "risques": [
-        "Cours (345,25 USD) environ 15 % sous le plus haut sur 52 semaines (404,47)",
-        "Performance modeste sur 6 mois (+1,9 %)",
-        "Objectif bas des analystes (340 USD) proche du cours actuel"
+        "Cours à 343 USD, nettement sous le plus haut sur 52 semaines (404,47 USD)",
+        "Objectif bas des analystes (340 USD) très proche du cours actuel",
+        "Évolution du cours volatile, avec une chute évoquée récemment"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 28 octobre 2026",
-        "Évolution de l'accord avec Anthropic et de l'activité cloud"
+        "Publication des résultats le 28 octobre 2026",
+        "Détails et avancement de l'accord avec Anthropic et de l'activité Cloud"
       ],
-      "a_surveiller": "Surveillez si la croissance du cloud et l'accord avec Anthropic se traduisent dans les prochains résultats du 28 octobre 2026, et si le cours reste au-dessus de l'objectif bas des analystes (340 USD)."
+      "a_surveiller": "Surveillez la croissance du cloud et la réaction du cours lors des prochains résultats du 28 octobre 2026, ainsi que l'écart entre le cours et l'objectif moyen des analystes."
     }
   },
   "GLOO": {
-    "sig": "d5e6ae6c0b5dbf08",
+    "sig": "54ca41cdcffd78d7",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis sont des pages génériques de cours (TradingView, Yahoo Finance) et concernent en partie d'autres sociétés (MNTN, CRNC, SPIR). Ils n'apportent aucune information concrète sur Gloo. Le contexte reste celui d'une petite capitalisation (environ 352 M USD) qui a baissé d'environ 38 % en 6 mois et se traite près de son plus bas sur 52 semaines (2,9 USD).",
+      "resume": "Les titres récents sont des pages génériques de cours et de graphiques (TradingView, Yahoo Finance), dont certaines concernent d'autres sociétés. Ils n'apportent aucune information concrète sur Gloo. Le contexte reste celui d'une action très volatile, en baisse d'environ 59 % sur 6 mois et proche de son plus bas sur 52 semaines.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 1,88 (valeur indiquée dans les données)",
-        "Objectif moyen des analystes (11,17 USD) nettement au-dessus du cours de 3,8 USD",
-        "Plateforme technologique spécialisée sur un créneau précis (communautés de foi)"
+        "Croissance du chiffre d'affaires indiquée à 1,88 (à vérifier, la donnée n'est pas détaillée)",
+        "Objectif moyen des analystes (11,17 USD) bien au-dessus du cours actuel (3,27 USD)",
+        "Plateforme tournée vers une niche précise (écosystème de la foi) avec des outils d'IA"
       ],
       "risques": [
-        "Forte baisse sur 6 mois et cours proche du plus bas annuel",
-        "Petite capitalisation, probablement très volatile",
-        "Écart important entre les objectifs des analystes (7 à 17 USD), donc forte incertitude"
+        "Forte volatilité et chute de 59 % en 6 mois sur une petite capitalisation (~302 M USD)",
+        "Cours proche du plus bas sur 52 semaines (2,9 USD), après un plus haut à 9,98 USD",
+        "Écart important entre objectifs d'analystes (7 à 17 USD) et cours, qui peut signaler un fort désaccord ou des attentes dépassées"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 2026-09-09",
-        "Révision des objectifs ou des avis des analystes après les résultats"
+        "Publication des prochains résultats prévue le 2026-09-09",
+        "Éventuelles révisions des objectifs ou avis des analystes après ces résultats"
       ],
-      "a_surveiller": "Les résultats du 9 septembre 2026 et toute actualité propre à Gloo, car les titres actuels n'apportent rien de concret."
+      "a_surveiller": "Surveille la publication des résultats du 9 septembre 2026 et vérifie si le cours tient au-dessus du plus bas annuel de 2,9 USD."
     }
   },
   "INFQ": {
-    "sig": "3aa4d129e50275b4",
+    "sig": "aab563939d0ad4c8",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Infleqtion, spécialiste de la technologie quantique, est cotée en Bourse après une fusion avec un SPAC valorisant l'entreprise à 1,8 milliard de dollars. Les titres récents évoquent de fortes hausses passées (un bond de 314 % est mentionné), mais le cours actuel de 9,24 $ a perdu 47 % en 6 mois. Les titres ne donnent pas de détail concret sur les résultats ou les contrats, donc le signal reste flou.",
+      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires sur la forte hausse passée (+314 % évoquée) après l'entrée en Bourse via un SPAC, valorisant l'entreprise à 1,8 milliard de dollars. Aucune information concrète et nouvelle sur l'activité n'apparaît. Le cours (9,15 $) a pourtant reculé d'environ 47,5 % en 6 mois, ce qui illustre une forte volatilité.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (1,565, soit environ +156 %)",
-        "Avis des analystes : strong_buy, objectif moyen 21,83 $",
-        "Gamme variée : informatique quantique, horloges et capteurs quantiques"
+        "Croissance du chiffre d'affaires très élevée (+156,5 %)",
+        "Avis des analystes : strong_buy, objectif moyen 21,83 $ très au-dessus du cours",
+        "Positionnement dans les technologies quantiques (horloges, capteurs, calcul)"
       ],
       "risques": [
-        "Forte volatilité : -47 % sur 6 mois, proche du plus bas annuel de 8,52 $",
-        "Titre récent issu d'un SPAC, souvent très spéculatif",
-        "Les objectifs des analystes sont très éloignés du cours actuel, ce qui souligne l'incertitude"
+        "Forte volatilité : -47,5 % en 6 mois, proche du plus bas annuel de 8,52 $",
+        "Société récemment cotée via SPAC, historique boursier court",
+        "Valorisation élevée (capitalisation d'environ 2,06 Md$) pour un secteur encore émergent"
       ],
       "catalyseurs": [
         "Publication des prochains résultats le 12 novembre 2026",
-        "Annonces de contrats ou de produits quantiques (capteurs, horloges, ordinateurs)"
+        "Éventuelles révisions des objectifs ou avis des analystes"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas de 52 semaines (8,52 $) et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel de 8,52 $ et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
     }
   },
   "EIKN": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "646862b4f5aeac0b",
+    "sig": "05aeb20fbd4edd90",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec MedinCell, et le titre a progressé d'environ 18% selon la presse.",
-          "a_surveiller": "Le succès du lancement commercial, encore incertain, et le risque de repli après une forte hausse d'un jour, alors que le chiffre d'affaires est en recul.",
+          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie développé avec MedinCell, et le titre a progressé d'environ 18 % à cette annonce.",
+          "a_surveiller": "Le titre est très volatil, le chiffre d'affaires est en baisse et le cours reste éloigné du plus haut sur 52 semaines (39,68 €).",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "OPK",
-          "pourquoi": "L'action a fortement progressé après l'annonce de la cession des actifs BioReference pour 722 M$, ce qui peut renforcer la trésorerie et recentrer l'entreprise.",
-          "a_surveiller": "L'usage des fonds et l'effet sur les revenus futurs, alors que le cours (1,64 $) est proche du plus haut sur 52 semaines (1,75 $) et que le titre, suivi par seulement 4 analystes, peut être très volatil.",
+          "pourquoi": "L'action Opko Health a fortement progressé après l'annonce de la cession des actifs BioReference pour 722 M$, ce qui peut renforcer la trésorerie et recentrer l'entreprise.",
+          "a_surveiller": "L'usage des fonds et l'effet de la perte d'une partie des diagnostics sur les revenus ne sont pas précisés, et le cours (1,64 $) est proche de son plus haut sur 52 semaines (1,75 $).",
           "nom": "Opko Health, Inc."
         },
         {
-          "symbole": "GOOG",
-          "pourquoi": "Les titres évoquent un bénéfice en hausse de 81 %, la progression du cloud et un accord avec Anthropic, dans un contexte où Alphabet pèse environ 4 200 milliards USD en Bourse.",
-          "a_surveiller": "Le cours de 346,27 USD, nettement sous le plus haut sur 52 semaines (404,47), reste proche de l'objectif bas des analystes (340 USD), avec un marché qui paraît partagé.",
-          "nom": "Alphabet Inc."
+          "symbole": "GLO.PA",
+          "pourquoi": "GL Events a bondi en Bourse (jusqu'à +23 % sur une séance) après un été jugé exceptionnel et un relèvement de ses perspectives annuelles, avec un objectif moyen des analystes de 37,6 € contre un cours de 31,2 €.",
+          "a_surveiller": "Une hausse aussi forte peut s'inverser, le titre reste en baisse de 5,4 % sur 6 mois et l'activité dépend du calendrier des événements.",
+          "nom": "GL EVENTS"
         }
       ],
-      "prudence": "Ces éléments sont purement informatifs : les cours peuvent varier fortement à la hausse comme à la baisse et aucun résultat n'est garanti."
+      "prudence": "Ces informations sont données à titre indicatif : les forts mouvements de cours récents peuvent s'inverser rapidement et aucun gain n'est garanti."
     }
   },
   "SVC": {
@@ -1224,27 +1224,27 @@
     }
   },
   "GLO.PA": {
-    "sig": "07ac12d8f6b76af0",
+    "sig": "bbcf5f7bbbb62b2a",
     "analyse": {
       "sentiment": "positif",
-      "importance": 3,
+      "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les titres rapportent un bond de 23 % de GL Events en Bourse après un été exceptionnel (événements comme la visite du pape Léon XIV ou des concerts au Stade de France) et un relèvement des perspectives annuelles. La croissance est portée par les activités Live et Venues, et les analystes visent un cours supérieur au niveau actuel. Cela compte car le titre a réagi fortement, ce qui peut aussi traduire une volatilité importante.",
+      "resume": "GL Events a fortement progressé en Bourse (jusqu'à +23 % sur une séance selon la presse) après un été jugé exceptionnel, porté par des événements comme la venue du pape Léon XIV et des concerts au Stade de France, et un relèvement de ses perspectives annuelles. D'autres articles évoquent une guidance de croissance maintenue, portée par les activités Live et Venues. Les analystes restent très favorables, avec un objectif moyen de 37,6 € contre un cours actuel de 31,2 €.",
       "points_forts": [
         "Perspectives annuelles relevées après un été exceptionnel",
         "Croissance du chiffre d'affaires de 8,9 %",
-        "Avis analystes strong_buy, objectifs 37-38 € au-dessus du cours de 31,2 €"
+        "Avis unanime 'strong_buy' (5 analystes), objectifs de 37 à 38 €"
       ],
       "risques": [
-        "Forte volatilité : hausse de 23 % en une séance, titre encore -5,4 % sur 6 mois",
-        "Activité dépendant de grands événements ponctuels, pas forcément récurrents",
-        "Contexte économique évoqué comme incertain (croissance « malgré le contexte »)"
+        "Forte volatilité : un bond de 23 % en une séance peut s'inverser",
+        "Cours (31,2 €) déjà proche des objectifs bas des analystes (37 €) après la hausse récente, et sur 6 mois il reste en baisse de 5,4 %",
+        "Activité liée à des événements ponctuels, donc dépendante du calendrier et du contexte"
       ],
       "catalyseurs": [
         "Prochaine publication de résultats (date non communiquée)",
-        "Confirmation ou nouveau relèvement de la guidance annuelle"
+        "Confirmation ou nouveau relèvement des objectifs annuels"
       ],
-      "a_surveiller": "Surveiller si le titre consolide après ce bond et si la société confirme sa guidance lors de ses prochaines publications, la date des résultats n'étant pas encore connue."
+      "a_surveiller": "Observer si le cours se stabilise après ce bond et si la date des prochains résultats confirme la trajectoire annoncée, sachant que le titre reste volatil et que seuls 5 analystes le suivent."
     }
   },
   "ALPRG.PA": {
@@ -1296,27 +1296,27 @@
     }
   },
   "FMC": {
-    "sig": "b53713d88de6c173",
+    "sig": "56f29557ba7f475a",
     "analyse": {
-      "sentiment": "negatif",
-      "importance": 5,
-      "confiance": "moyenne",
-      "resume": "FMC a révisé à la baisse ses prévisions pour le troisième trimestre, ce qui a fait chuter le cours. Un renflouement d'urgence a ensuite été mal accueilli par les investisseurs, même si l'action a rebondi quand Tessenderlo a pris 20 % du capital pour 400 M$. L'action reste très fragile : elle a perdu environ 68 % en six mois.",
+      "sentiment": "neutre",
+      "importance": 4,
+      "confiance": "faible",
+      "resume": "Les titres récents sont contradictoires : FMC a bondi après l'annonce d'une prise de participation de 20 % par Tessenderlo pour 400 M$, mais le titre s'était aussi effondré après une révision à la baisse des prévisions du troisième trimestre. L'action a perdu environ 67 % en 6 mois et se situe près de son plus bas sur 52 semaines, ce qui reflète de fortes difficultés et une grande volatilité.",
       "points_forts": [
-        "Entrée de Tessenderlo à 20 % pour 400 M$",
-        "Les 16 analystes restent globalement à l'achat (objectif moyen 12,8 $ contre 5,34 $ de cours)",
-        "Activité diversifiée (insecticides, herbicides, fongicides, biologiques) et présence mondiale"
+        "Entrée de Tessenderlo au capital (20 % pour 400 M$)",
+        "Objectif moyen des analystes (12,8 $) bien au-dessus du cours actuel",
+        "Avis global des 16 analystes : buy"
       ],
       "risques": [
-        "Prévisions revues à la baisse et chiffre d'affaires en recul (-17,5 %)",
-        "Renflouement d'urgence mal perçu, avec un risque de dilution",
-        "Forte volatilité : cours proche du plus bas sur 52 semaines (4,845 $) et capitalisation réduite (~830 M$)"
+        "Prévisions revisées à la baisse pour le 3e trimestre",
+        "Chiffre d'affaires en recul d'environ 17,5 %",
+        "Forte volatilité et capitalisation réduite (environ 853 M$)"
       ],
       "catalyseurs": [
-        "Publication des résultats le 29 octobre 2026",
-        "Précisions sur les conditions et l'utilisation des 400 M$ de Tessenderlo"
+        "Publication des résultats prévue le 29 octobre 2026",
+        "Suites de l'accord avec Tessenderlo et de ses effets sur le bilan"
       ],
-      "a_surveiller": "Surveiller si la nouvelle entrée de capital stabilise la situation financière et si les prévisions cessent d'être révisées à la baisse lors des prochains résultats."
+      "a_surveiller": "Voir si les résultats du 29 octobre 2026 confirment une stabilisation du chiffre d'affaires et des prévisions après la forte baisse du cours."
     }
   },
   "DFH": {
@@ -1439,27 +1439,27 @@
     }
   },
   "RXRX": {
-    "sig": "2c4e7e589c17e859",
+    "sig": "d75c27577fa48909",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont des pages de cours et de graphiques (TradingView, Yahoo Finance) sans information concrète sur l'entreprise : pas de résultats d'essais, ni d'annonce de partenariat. Rien dans l'actualité ne change à lui seul le dossier de Recursion, une biotech en phase clinique dont le titre est très volatil.",
+      "resume": "Les titres récents sont surtout des pages de cours et de graphiques (TradingView) pour RXRX et d'autres valeurs, sans information concrète sur l'entreprise. Ils ne permettent pas de tirer de conclusion sur l'évolution de l'activité. Le contexte reste celui d'une biotech clinique volatile, dont le cours (4,26 USD) se situe entre son plus bas (2,77) et son plus haut (7,18) sur 52 semaines.",
       "points_forts": [
-        "Cours en hausse d'environ 14,7 % sur 6 mois",
-        "Objectif moyen des analystes (7,22 $) nettement au-dessus du cours (4,34 $)",
-        "Plusieurs candidats-médicaments en essais cliniques (REC-4881, REC-617, REC-1245)"
+        "Plusieurs candidats-médicaments en essais cliniques de phase 1/2",
+        "Objectif moyen des analystes (7,22 USD) nettement au-dessus du cours actuel",
+        "Cours en hausse d'environ 12,8 % sur 6 mois"
       ],
       "risques": [
-        "Chiffre d'affaires en forte baisse (-60,1 %)",
-        "Écart important entre le plus haut (7,18 $) et le plus bas (2,77 $) sur 52 semaines, signe d'une forte volatilité",
-        "Objectifs d'analystes très dispersés (de 4 à 10 $) et aucun avis consensuel"
+        "Chiffre d'affaires en forte baisse (-60 %)",
+        "Forte volatilité typique d'une biotech au stade clinique",
+        "Fourchette d'objectifs très large (4 à 10 USD) et aucun avis tranché des analystes"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 2026-11-04",
-        "Données d'avancement des essais cliniques en cours (phases 1/2)"
+        "Publication des prochains résultats prévue le 4 novembre 2026",
+        "Nouvelles données d'essais cliniques sur REC-4881, REC-617 ou REC-1245"
       ],
-      "a_surveiller": "Surveille la publication des résultats du 4 novembre 2026 et toute annonce sur les essais cliniques, plus informatifs que les simples pages de cours."
+      "a_surveiller": "Surveiller les annonces d'avancement des essais cliniques et la trajectoire du chiffre d'affaires lors des prochains résultats, plutôt que les simples pages de cours."
     }
   }
 }
