@@ -48,27 +48,27 @@
     }
   },
   "GLOO": {
-    "sig": "54ca41cdcffd78d7",
+    "sig": "d5e6ae6c0b5dbf08",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont des pages génériques de cours et de graphiques (TradingView, Yahoo Finance), dont certaines concernent d'autres sociétés. Ils n'apportent aucune information concrète sur Gloo. Le contexte reste celui d'une action très volatile, en baisse d'environ 59 % sur 6 mois et proche de son plus bas sur 52 semaines.",
+      "resume": "Les titres d'actualité récents sont uniquement des pages de cours et de graphiques (TradingView, Yahoo Finance), dont certaines concernent d'autres sociétés. Ils ne donnent aucune information concrète sur Gloo. Ce qui compte surtout, c'est la forte baisse du cours sur 6 mois (-59,1 %), qui le place près de son plus bas sur 52 semaines.",
       "points_forts": [
-        "Croissance du chiffre d'affaires indiquée à 1,88 (à vérifier, la donnée n'est pas détaillée)",
-        "Objectif moyen des analystes (11,17 USD) bien au-dessus du cours actuel (3,27 USD)",
-        "Plateforme tournée vers une niche précise (écosystème de la foi) avec des outils d'IA"
+        "Croissance du chiffre d'affaires de 1,88 (donnée fournie, unité non précisée)",
+        "Objectif moyen des analystes (11,17 USD) très supérieur au cours actuel (3,27 USD)",
+        "Plateforme de niche tournée vers l'écosystème de la foi, avec des outils d'IA"
       ],
       "risques": [
-        "Forte volatilité et chute de 59 % en 6 mois sur une petite capitalisation (~302 M USD)",
-        "Cours proche du plus bas sur 52 semaines (2,9 USD), après un plus haut à 9,98 USD",
-        "Écart important entre objectifs d'analystes (7 à 17 USD) et cours, qui peut signaler un fort désaccord ou des attentes dépassées"
+        "Forte volatilité : cours à 3,27 USD, contre un plus haut sur 52 semaines de 9,98 USD",
+        "Petite capitalisation (environ 303 M USD), donc plus sensible aux mouvements brusques",
+        "Aucun avis d'analyste clair malgré 6 analystes, et des objectifs très dispersés (7 à 17 USD)"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 2026-09-09",
-        "Éventuelles révisions des objectifs ou avis des analystes après ces résultats"
+        "Publication des prochains résultats le 9 septembre 2026",
+        "Révision éventuelle des objectifs ou des avis des analystes"
       ],
-      "a_surveiller": "Surveille la publication des résultats du 9 septembre 2026 et vérifie si le cours tient au-dessus du plus bas annuel de 2,9 USD."
+      "a_surveiller": "Surveille les résultats du 9 septembre 2026 et la capacité du cours à se stabiliser au-dessus de son plus bas sur 52 semaines (2,90 USD)."
     }
   },
   "INFQ": {
@@ -1296,27 +1296,27 @@
     }
   },
   "FMC": {
-    "sig": "56f29557ba7f475a",
+    "sig": "b53713d88de6c173",
     "analyse": {
-      "sentiment": "neutre",
-      "importance": 4,
-      "confiance": "faible",
-      "resume": "Les titres récents sont contradictoires : FMC a bondi après l'annonce d'une prise de participation de 20 % par Tessenderlo pour 400 M$, mais le titre s'était aussi effondré après une révision à la baisse des prévisions du troisième trimestre. L'action a perdu environ 67 % en 6 mois et se situe près de son plus bas sur 52 semaines, ce qui reflète de fortes difficultés et une grande volatilité.",
+      "sentiment": "negatif",
+      "importance": 5,
+      "confiance": "moyenne",
+      "resume": "FMC a révisé à la baisse ses prévisions du troisième trimestre, ce qui a fait s'effondrer le cours. Un renflouement d'urgence a ensuite été annoncé, avec Tessenderlo qui prend 20 % du capital pour 400 M$, et les investisseurs l'ont plutôt mal accueilli. L'action a perdu environ 67 % en six mois et se traite près de son plus bas sur 52 semaines, ce qui reflète de fortes tensions financières.",
       "points_forts": [
-        "Entrée de Tessenderlo au capital (20 % pour 400 M$)",
-        "Objectif moyen des analystes (12,8 $) bien au-dessus du cours actuel",
-        "Avis global des 16 analystes : buy"
+        "Entrée de Tessenderlo au capital (20 % pour 400 M$) qui apporte des liquidités",
+        "Avis moyen des analystes à « buy » (16 analystes), objectif moyen 12,8 $ contre 5,47 $ de cours",
+        "Activité diversifiée : insecticides, herbicides, fungicides, biologiques"
       ],
       "risques": [
-        "Prévisions revisées à la baisse pour le 3e trimestre",
-        "Chiffre d'affaires en recul d'environ 17,5 %",
-        "Forte volatilité et capitalisation réduite (environ 853 M$)"
+        "Prévisions revues à la baisse et chiffre d'affaires en recul (-17,5 %)",
+        "Renflouement d'urgence mal perçu, avec un risque de dilution pour les actionnaires actuels",
+        "Très forte volatilité et cours proche du plus bas sur 52 semaines (4,845 $)"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 29 octobre 2026",
-        "Suites de l'accord avec Tessenderlo et de ses effets sur le bilan"
+        "Détails et conditions de l'opération avec Tessenderlo, et réaction des analystes"
       ],
-      "a_surveiller": "Voir si les résultats du 29 octobre 2026 confirment une stabilisation du chiffre d'affaires et des prévisions après la forte baisse du cours."
+      "a_surveiller": "Surveille si l'apport de 400 M$ suffit à stabiliser la situation financière et si les prochains résultats confirment ou non la baisse des prévisions."
     }
   },
   "DFH": {
