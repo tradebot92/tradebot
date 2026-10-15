@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "fea425fb142b05c4",
+    "sig": "5a10c598c6621915",
     "contenu": {
       "points": [
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), deuxième traitement de la schizophrénie issu de la technologie de Medincell, et le titre a progressé d'environ 18 %.",
-          "a_surveiller": "Le succès commercial de Weltruza reste à prouver, le chiffre d'affaires est en baisse de 0,4 % et la hausse peut être suivie d'un reflux.",
+          "pourquoi": "La FDA a autorisé Weltruza, deuxième traitement de MedinCell contre la schizophrénie après UZEDY, et le titre a bondi d'environ 18 % selon la presse.",
+          "a_surveiller": "L'impact commercial réel de Weltruza reste à démontrer, le chiffre d'affaires est en baisse de 44,6 % et un bond de 18 % en une séance peut s'inverser.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "GOOG",
-          "pourquoi": "Les titres évoquent un bénéfice en hausse de 81 %, la dynamique du cloud et un accord avec Anthropic qui a fait monter l'action d'environ 2 %.",
-          "a_surveiller": "Le cours reste environ 15 % sous son plus haut sur 52 semaines, proche de l'objectif analyste bas de 340 $, avec une valorisation très élevée sensible aux déceptions.",
+          "pourquoi": "Les titres évoquent un bénéfice en hausse de 81 %, la dynamique du cloud et un accord avec Anthropic qui a fait progresser l'action d'environ 2 %.",
+          "a_surveiller": "Le cours reste environ 15 % sous son plus haut sur 52 semaines, proche de l'objectif analyste bas (340 $), avec une valorisation d'environ 4 200 Md$ sensible aux déceptions.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "GLO.PA",
-          "pourquoi": "GL Events maintient sa guidance de croissance, portée par les activités Live et Venues, et conserve le soutien des analystes (objectif moyen de 37 € contre un cours de 28,8 €).",
-          "a_surveiller": "Le cours recule de 14,1 % sur 6 mois et l'activité événementielle est sensible au contexte économique, pour une petite capitalisation potentiellement plus volatile.",
+          "pourquoi": "GL Events a fortement progressé en Bourse (+23 % évoqué), maintient sa guidance de croissance et les analystes visent 36 à 38 € contre un cours actuel de 30 €.",
+          "a_surveiller": "Après une hausse aussi brutale, le titre peut connaître des prises de bénéfices, il reste en baisse de 10,5 % sur 6 mois et l'activité événementielle dépend du contexte économique.",
           "nom": "GL EVENTS"
         }
       ],
-      "prudence": "Ces éléments sont donnés à titre d'information uniquement : les cours peuvent varier fortement à la hausse comme à la baisse et aucun résultat n'est garanti."
+      "prudence": "Ces éléments sont issus de titres de presse sans détails chiffrés complets, les cours restent volatils et rien ne garantit une évolution future : cela ne constitue pas un conseil d'investissement."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "3c5a569ef17a87c6",
+    "sig": "4d6555353167a8ac",
     "analyse": {
       "sentiment": "positif",
-      "importance": 5,
+      "importance": 4,
       "confiance": "moyenne",
-      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), deuxième traitement de la schizophrénie issu de la technologie de Medincell, après UZEDY. Le titre a réagi par une hausse d'environ 18 % en Bourse. Cette approbation valide la technologie de l'entreprise et élargit ses sources de revenus potentielles.",
+      "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, le deuxième traitement de MedinCell contre la schizophrénie, et le titre a bondi d'environ 18 % en Bourse selon la presse. C'est important car cela élargit l'offre commerciale de l'entreprise après UZEDY. Les détails financiers (ventes attendues, redevances) ne figurent pas dans les titres fournis.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza, un deuxième traitement contre la schizophrénie",
-        "Consensus d'analystes « strong buy » (9 analystes), objectif moyen de 35,5 € contre 26,26 € de cours actuel",
-        "Autres programmes en développement, dont mdc-CWM en phase III"
+        "Feu vert de la FDA pour Weltruza, deuxième traitement contre la schizophrénie",
+        "Consensus des analystes très favorable (strong_buy, objectif moyen 35,5 € contre un cours de 26,5 €)",
+        "Produit déjà commercialisé : UZEDY"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-0,4 %) malgré les avancées réglementaires",
-        "Forte volatilité : fourchette sur 52 semaines de 19,69 à 39,69 €, et hausse de 18 % qui peut être suivie d'un reflux",
-        "Le succès commercial de Weltruza reste à prouver, les données fournies n'en disent rien"
+        "Chiffre d'affaires en baisse (-44,6 %)",
+        "Titre volatil : un bond de 18 % en une séance peut s'inverser",
+        "Impact commercial réel de Weltruza encore à démontrer"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza et premiers chiffres de ventes",
-        "Avancées de mdc-CWM (phase III) et publication des prochains résultats (date non communiquée)"
+        "Lancement commercial de Weltruza aux États-Unis et premières ventes",
+        "Avancement des autres programmes (mdc-CWM en phase III)"
       ],
-      "a_surveiller": "Surveillez si le titre maintient son niveau après le bond de 18 % et les premières indications sur le rythme de commercialisation de Weltruza."
+      "a_surveiller": "Surveillez les prochaines publications de résultats (date non communiquée) et la façon dont le cours se stabilise après ce fort mouvement."
     }
   },
   "KLRA": {
@@ -1225,27 +1225,51 @@
     }
   },
   "GLO.PA": {
-    "sig": "00898c7d7e97a49a",
+    "sig": "e452d050d83c9ed6",
     "analyse": {
       "sentiment": "positif",
-      "importance": 2,
+      "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les articles récents sont plutôt favorables : GL Events maintient sa guidance de croissance, portée par les activités Live et Venues, et garde le soutien des analystes. Le cours (28,8 €) reste toutefois en baisse de 14,1 % sur 6 mois, alors que l'objectif moyen des analystes est de 37 €. Les titres restent généraux et ne donnent pas de nouveau chiffre précis.",
+      "resume": "Les titres récents sont plutôt favorables : GL Events a fortement progressé en Bourse (+23 % évoqué) et maintient sa guidance de croissance, portée par les activités Live et Venues. Les analystes sont très positifs, avec des objectifs de cours (36 à 38 €) supérieurs au cours actuel de 30 €. Les détails chiffrés manquent, donc il faut rester prudent.",
       "points_forts": [
+        "Croissance du chiffre d'affaires de +8,9 %",
         "Guidance de croissance maintenue (Live et Venues)",
-        "Chiffre d'affaires en hausse de 8,9 %",
-        "Avis des analystes : strong_buy, objectif moyen 37 €"
+        "Avis analystes « strong buy » avec objectifs de 36 à 38 €"
       ],
       "risques": [
-        "Cours en baisse de 14,1 % sur 6 mois",
-        "Activité événementielle sensible au contexte économique (les articles évoquent un « contexte » sans le détailler)",
-        "Petite capitalisation (environ 845 M€), potentiellement plus volatile"
+        "Cours en baisse de 10,5 % sur 6 mois malgré le rebond évoqué",
+        "Hausse brutale de 23 % : volatilité et risque de reprise de bénéfices",
+        "Activité événementielle sensible au contexte économique"
       ],
       "catalyseurs": [
         "Prochaine publication de résultats (date non communiquée)",
-        "Confirmation ou révision de la guidance de croissance"
+        "Confirmation de la guidance de croissance dans les prochaines communications"
       ],
-      "a_surveiller": "Surveiller si le cours se rapproche des objectifs des analystes (36 à 38 €) ou s'il retourne vers son plus bas annuel de 23,4 €, ainsi que la date des prochains résultats."
+      "a_surveiller": "Surveillez si le cours tient après le fort rebond et si la guidance de croissance est confirmée lors de la prochaine publication, dont la date n'est pas encore connue."
+    }
+  },
+  "ALPRG.PA": {
+    "sig": "d9cfad48ae839de4",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 3,
+      "confiance": "faible",
+      "resume": "Les titres annoncent un regroupement d'actions de 100 pour 1 prévu le 14 septembre 2026 chez Prologue. Cette opération technique réduit le nombre de titres et multiplie le cours par 100, sans changer la valeur de l'entreprise en soi. Elle compte surtout pour les actionnaires, qui devront gérer les rompus (fractions de titres) et leurs droits.",
+      "points_forts": [
+        "Objectif de cours d'un analyste à 45 EUR, au-dessus du cours de 28.5 EUR",
+        "Cours en hausse de 13.5 % sur 6 mois",
+        "Activités variées : cloud, cybersécurité, IA"
+      ],
+      "risques": [
+        "Chiffre d'affaires en recul (-0.538)",
+        "Un seul analyste, donc avis peu représentatif",
+        "Regroupement parfois associé à une volatilité accrue et à des rompus à gérer"
+      ],
+      "catalyseurs": [
+        "Regroupement d'actions 100 pour 1 du 14 septembre 2026",
+        "Prochaine publication de résultats (date non communiquée)"
+      ],
+      "a_surveiller": "Vérifier auprès de ton courtier comment seront traités les rompus et surveiller que le cours et l'objectif de l'analyste soient bien ajustés après le regroupement, car les chiffres actuels ne seront alors plus comparables."
     }
   }
 }

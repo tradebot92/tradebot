@@ -448,5 +448,20 @@
       -16.3
     ],
     "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), deuxième traitement de la schizophrénie issu de la technologie de Medincell, après UZEDY. Le titre a réagi par une hausse d'environ 18 % en Bourse. Cette approbation valide la technologie de l'entreprise et élargit ses sources de revenus potentielles."
+  },
+  {
+    "date": "15/10/2026 10:04",
+    "symbole": "MEDCL.PA",
+    "sentiment": "positif",
+    "cours": 26.5,
+    "gain": [
+      8.2,
+      34.0
+    ],
+    "perte": [
+      -8.2,
+      -16.3
+    ],
+    "resume": "La FDA américaine a autorisé la mise sur le marché de Weltruza, le deuxième traitement de MedinCell contre la schizophrénie, et le titre a bondi d'environ 18 % en Bourse selon la presse. C'est important car cela élargit l'offre commerciale de l'entreprise après UZEDY. Les détails financiers (ventes attendues, redevances) ne figurent pas dans les titres fournis."
   }
 ]

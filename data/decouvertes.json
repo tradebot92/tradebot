@@ -36,17 +36,12 @@
       "premiere": "2026-10-15T09:29+02:00",
       "nom": "GL EVENTS"
     },
-    "EXK": {
-      "premiere": "2026-10-15T09:29+02:00",
-      "nom": "Endeavour Silver Corporation"
+    "ALPRG.PA": {
+      "premiere": "2026-10-15T10:04+02:00",
+      "nom": "PROLOGUE"
     }
   },
   "sorties": [
-    {
-      "symbole": "ARL",
-      "date": "13/10/2026",
-      "nom": "American Realty Investors, Inc."
-    },
     {
       "symbole": "BBAI",
       "date": "13/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "NRG.PA",
       "date": "15/10/2026",
       "nom": "NRJ GROUP"
+    },
+    {
+      "symbole": "EXK",
+      "date": "15/10/2026",
+      "nom": "Endeavour Silver Corporation"
     }
   ]
 }
