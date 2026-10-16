@@ -1,26 +1,26 @@
 {
   "IREN": {
-    "sig": "b7ab4aa8eea7c6db",
+    "sig": "2ec23fe5647b6f69",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia dans IREN, une hausse du titre ce jour-là et une nouvelle note à l'achat de Jefferies (objectif 79 $). Pourtant, l'action cote 27,3 $, environ 44 % plus bas qu'il y a 6 mois et près de son plus bas sur 52 semaines, avec un chiffre d'affaires en recul de 26,7 %. Les signaux sont donc contradictoires et les détails des annonces ne sont pas précisés dans les titres.",
+      "resume": "Les titres récents sont surtout des pages de prévisions et de cours, avec une note d'analyste positive (Jefferies, objectif de 79 $) et un article sur une hausse du jour. Rien de concret ne ressort sur l'activité elle-même. L'action reste très en retrait, à 27,29 $ contre un plus haut annuel de 76,87 $, ce qui montre une forte volatilité.",
       "points_forts": [
-        "Investissement annoncé de 2,1 Md$ de Nvidia dans l'IA",
-        "Avis analystes 'buy' (18 analystes), objectif moyen ~77,8 $",
-        "Jefferies relève ou confirme un objectif de 79 $"
+        "Avis moyen des analystes à l'achat (18 analystes)",
+        "Objectif moyen (77,8 $) très au-dessus du cours actuel",
+        "Activité de cloud IA et de centres de données intégrée verticalement"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse de 26,7 %",
-        "Forte chute du cours (-44 % sur 6 mois), volatilité élevée",
-        "Écart important entre le cours et les objectifs, qui pourraient être révisés"
+        "Chiffre d'affaires en baisse (-26,7 %)",
+        "Cours en baisse de 44 % sur 6 mois, proche du plus bas annuel",
+        "Grand écart entre les objectifs d'analystes (37 à 139 $), signe d'incertitude"
       ],
       "catalyseurs": [
-        "Publication des résultats le 5 novembre 2026",
-        "Précisions sur l'accord avec Nvidia et son déploiement"
+        "Publication des résultats prévue le 5 novembre 2026",
+        "Révisions d'objectifs ou de notes par les analystes"
       ],
-      "a_surveiller": "Voir si le cours tient près du plus bas de 52 semaines (26,6 $) et si l'accord Nvidia se traduit en revenus concrets."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel (26,6 $) et si le chiffre d'affaires cesse de reculer lors des prochains résultats."
     }
   },
   "GOOG": {

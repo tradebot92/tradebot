@@ -703,5 +703,20 @@
       -23.6
     ],
     "resume": "FMC a fortement réduit ses prévisions de chiffre d'affaires pour le troisième trimestre, et l'action a plongé. Un renflouement d'urgence, avec Tessenderlo qui prend 20 % du capital pour 400 M$, a été mal accueilli par les investisseurs malgré un rebond ponctuel du titre. Cela compte car l'action a perdu environ 65 % en 6 mois et la situation financière de l'entreprise semble fragile."
+  },
+  {
+    "date": "16/10/2026 20:14",
+    "symbole": "OPK",
+    "sentiment": "positif",
+    "cours": 1.6,
+    "gain": [
+      8.2,
+      189.1
+    ],
+    "perte": [
+      -8.2,
+      -16.5
+    ],
+    "resume": "Selon un titre d'Investing.com France, l'action OPKO Health a bondi après l'annonce de la cession des actifs BioReference pour 722 M$. Cette vente pourrait donner à l'entreprise plus de moyens financiers et lui permettre de se concentrer sur son activité pharmaceutique. Les détails de l'opération (utilisation du produit, conditions) ne figurent pas dans les données fournies."
   }
 ]
