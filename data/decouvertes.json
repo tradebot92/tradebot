@@ -8,10 +8,6 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "GLO.PA": {
-      "premiere": "2026-10-15T09:29+02:00",
-      "nom": "GL EVENTS"
-    },
     "OPK": {
       "premiere": "2026-10-15T16:03+02:00",
       "nom": "Opko Health, Inc."
@@ -35,14 +31,13 @@
     "EVEX": {
       "premiere": "2026-10-15T22:55+02:00",
       "nom": "Eve Holding, Inc."
+    },
+    "OPEN": {
+      "premiere": "2026-10-16T09:26+02:00",
+      "nom": "Opendoor Technologies Inc"
     }
   },
   "sorties": [
-    {
-      "symbole": "EXK",
-      "date": "14/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
     {
       "symbole": "GTN-A",
       "date": "14/10/2026",
@@ -187,6 +182,11 @@
       "symbole": "OPEN",
       "date": "15/10/2026",
       "nom": "Opendoor Technologies Inc"
+    },
+    {
+      "symbole": "GLO.PA",
+      "date": "16/10/2026",
+      "nom": "GL EVENTS"
     }
   ]
 }
