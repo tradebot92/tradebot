@@ -72,51 +72,51 @@
     }
   },
   "INFQ": {
-    "sig": "e59640348d0e6758",
+    "sig": "42c42ebd2e510031",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Infleqtion, spécialiste des technologies quantiques (calcul, capteurs, horloges atomiques), est cotée via une fusion avec un SPAC qui la valorisait à 1,8 milliard de dollars. Les titres évoquent un bond spectaculaire du cours, mais l'action a ensuite reculé d'environ 45 % en 6 mois et se situe près de son plus bas sur 52 semaines. Les titres ne donnent aucun fait précis sur la cause des mouvements récents.",
+      "resume": "Les titres récents sont surtout des pages de cours et un article sur l'entrée en Bourse d'Infleqtion via un SPAC, avec une valorisation de 1,8 milliard de dollars. Un autre titre évoque un bond de 314 %, mais sans détails concrets. Le cours (8,71 $) est proche de son plus bas sur 52 semaines, après une baisse de 45,6 % en 6 mois, ce qui montre une forte volatilité.",
       "points_forts": [
-        "Croissance du chiffre d'affaires très forte (+156,5 %)",
-        "Avis moyen des analystes « strong buy » (7 analystes)",
-        "Gamme variée : calcul, capteurs, horloges quantiques"
+        "Croissance du chiffre d'affaires de 156,5 %",
+        "Avis des analystes : strong_buy (7 analystes)",
+        "Objectif moyen des analystes à 20,43 $, bien au-dessus du cours"
       ],
       "risques": [
-        "Volatilité extrême (plus haut 21,28 $, plus bas 8,52 $)",
-        "Cours proche du plus bas annuel, tendance baissière sur 6 mois",
-        "Entreprise récemment introduite via SPAC, valorisation élevée pour une technologie encore jeune"
+        "Forte volatilité : -45,6 % en 6 mois, proche du plus bas sur 52 semaines",
+        "Petite entreprise issue d'un SPAC, secteur quantique encore spéculatif",
+        "Les objectifs des analystes peuvent être très éloignés du cours actuel"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Annonces de contrats ou de produits (capteurs, horloges, calcul quantique)"
+        "Publication des résultats prévue le 2026-11-12",
+        "Éventuelles révisions des objectifs ou des avis des analystes"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel de 8,52 $ et comment le chiffre d'affaires évolue aux prochains résultats, sachant que l'écart entre le cours actuel et les objectifs des analystes (12 à 25 $) reste une simple opinion, pas une certitude."
+      "a_surveiller": "Surveille si le cours se maintient au-dessus du plus bas annuel de 8,52 $ et ce que diront les prochains résultats sur la croissance du chiffre d'affaires."
     }
   },
   "EIKN": {
-    "sig": "f3489f0f81de5b3b",
+    "sig": "1797d10c7b9e5d68",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas vraiment d'Eikon : ce sont surtout des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, MRNA, SPRY, AGMB). Aucune information concrète sur Eikon n'en ressort. L'action recule d'environ 36 % sur 6 mois, à 7,41 USD, et reste une petite biotech clinique très volatile.",
+      "resume": "Les titres récents sont des pages de cours d'autres sociétés de biotechnologie (SPRY, GENB, MRNA, OVID, AGMB) et ne parlent pas concrètement d'Eikon Therapeutics. Aucune information propre à l'entreprise n'en ressort. L'action reste volatile : elle a perdu environ 37 % en 6 mois et se trouve près de son plus bas sur 52 semaines.",
       "points_forts": [
-        "Portefeuille de candidats-médicaments en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)",
-        "Objectif moyen des analystes (24,6 USD) très au-dessus du cours actuel",
-        "Capitalisation d'environ 401 M USD"
+        "Pipeline clinique varié en oncologie (EIK1001, PARP1, WRN)",
+        "Objectif moyen des analystes (24,6 $) très au-dessus du cours actuel (7,32 $)",
+        "Capitalisation d'environ 396 M$ pour une société encore au stade clinique"
       ],
       "risques": [
-        "Entreprise en phase clinique, résultats incertains",
-        "Forte volatilité : cours proche du bas de la fourchette sur 52 semaines (6,45 - 17,4 USD)",
-        "Écart très large entre objectifs d'analystes (4,0 à 32,0 USD), signe d'un fort désaccord"
+        "Forte baisse sur 6 mois (-36,7 %) et cours proche du plus bas annuel",
+        "Écart très large entre les objectifs des analystes (4 à 32 $), signe d'une grande incertitude",
+        "Pas de chiffre d'affaires communiqué, résultats dépendants des essais cliniques"
       ],
       "catalyseurs": [
-        "Publication des résultats trimestriels prévue le 12 novembre 2026",
-        "Éventuelles données cliniques sur les candidats-médicaments (dates non précisées)"
+        "Prochains résultats trimestriels prévus le 12 novembre 2026",
+        "Données ou avancées des essais cliniques sur les candidats du pipeline (aucune date précisée)"
       ],
-      "a_surveiller": "Surveiller les annonces officielles de l'entreprise sur ses essais cliniques et le niveau du cours par rapport au plus bas de 52 semaines (6,45 USD)."
+      "a_surveiller": "Surveille les communiqués officiels de l'entreprise sur ses essais cliniques et sa trésorerie, car les titres actuels ne donnent aucune information concrète sur Eikon."
     }
   },
   "EXK": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "1e35743590a849ce",
+    "sig": "2ff65a011c96ccbc",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
-      "confiance": "moyenne",
-      "resume": "Les titres sont contrastés : un feu vert de l'autorité sanitaire américaine pour le traitement TEV-749 (schizophrénie) a fait grimper le titre, mais les résultats annuels montrent des pertes plus lourdes malgré la hausse des redevances d'Uzedy, avec une chute de 15 % en Bourse à l'annonce. Le dernier titre signale un léger repli de 1,86 %. Cela compte car l'action dépend fortement des décisions réglementaires et des ventes d'Uzedy.",
+      "importance": 4,
+      "confiance": "faible",
+      "resume": "Les titres récents sont contrastés : une décision de la FDA sur le TEV-749 (schizophrénie sévère) était attendue, la cotation a été suspendue temporairement sur Euronext Paris, et l'entreprise a creusé ses pertes annuelles malgré la hausse des redevances d'Uzedy. Une décision réglementaire de ce type peut fortement faire bouger une petite biotech, mais les titres ne disent pas quel en est le résultat.",
       "points_forts": [
-        "Feu vert de la FDA évoqué pour le traitement contre la schizophrénie",
-        "Redevances d'Uzedy en hausse",
-        "Analystes très positifs (avis strong_buy, objectif moyen 35,5 EUR)"
+        "Redevances en hausse grâce aux ventes d'Uzedy",
+        "Avis moyen des analystes très favorable (strong_buy, 9 analystes)",
+        "Objectif moyen de 35,51 € au-dessus du cours de 25,72 €"
       ],
       "risques": [
         "Pertes annuelles en hausse",
-        "Chiffre d'affaires en baisse (-0,45 %)",
-        "Titre volatil (fourchette 19,69 à 39,68 EUR sur 52 semaines)"
+        "Chiffre d'affaires en baisse (-44,6 %)",
+        "Forte volatilité autour des décisions réglementaires et suspension de cotation"
       ],
       "catalyseurs": [
-        "Suites commerciales du TEV-749 après la décision de la FDA",
-        "Évolution des ventes d'Uzedy et des redevances associées"
+        "Annonce de la décision de la FDA sur le TEV-749 (mdc-TJK)",
+        "Avancée de l'essai de phase III du mdc-CWM contre la douleur post-opératoire"
       ],
-      "a_surveiller": "Surveiller la trajectoire des redevances d'Uzedy et l'évolution des pertes, car la date des prochains résultats n'est pas communiquée."
+      "a_surveiller": "Le communiqué officiel de MedinCell sur la décision de la FDA et les mouvements du cours à la reprise de la cotation, sans tirer de conclusion des seuls titres."
     }
   },
   "KLRA": {
@@ -818,27 +818,27 @@
     }
   },
   "IDIP.PA": {
-    "sig": "38a637be192a72ea",
+    "sig": "d7fea82b1cfa0a54",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
-      "confiance": "faible",
-      "resume": "Les titres récents portent sur le rapport financier semestriel d'IDI et sur une progression de l'actif net réévalué au 1er semestre. Un dividende de 2,9 € par action a aussi été proposé, avec mise en paiement le 28 mai 2026. Les titres ne donnent pas de chiffres précis, donc l'impact concret sur le cours reste difficile à mesurer.",
+      "confiance": "moyenne",
+      "resume": "Les titres récents portent sur le rapport financier semestriel au 30 juin 2026, avec un actif net réévalué (ANR) en progression au 1er semestre selon Fortuneo. IDI propose aussi un dividende de 2,9 € par action, versé le 28 mai 2026. Le cours, à 66,6 €, reste proche de son plus bas sur 52 semaines (65,8 €), sous les objectifs des analystes.",
       "points_forts": [
-        "Actif net réévalué en progression au 1er semestre",
+        "ANR en progression au 1er semestre",
         "Dividende proposé de 2,9 € par action",
-        "Objectifs d'analystes (74 à 85 €) au-dessus du cours de 66,6 €"
+        "Objectifs d'analystes (74 à 85 €) au-dessus du cours"
       ],
       "risques": [
-        "Cours proche du plus bas sur 52 semaines (65,8 €)",
-        "Seulement 2 analystes, avis peu représentatif",
-        "Petite capitalisation, valeur potentiellement peu liquide et volatile"
+        "Cours proche du plus bas sur 52 semaines",
+        "Croissance du chiffre d'affaires modeste (1,37)",
+        "Très peu d'analystes (2), donc consensus fragile"
       ],
       "catalyseurs": [
-        "Prochaine publication de l'actif net réévalué (date non communiquée)",
-        "Détachement et paiement du dividende"
+        "Prochaine publication de l'ANR ou des résultats (date non communiquée)",
+        "Cessions ou valorisations d'actifs du portefeuille de private equity"
       ],
-      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas annuel de 65,8 € et l'évolution de l'écart entre le cours et l'actif net réévalué."
+      "a_surveiller": "L'écart entre le cours et l'actif net réévalué, ainsi que la capacité de l'ANR à continuer de progresser au-delà du premier semestre."
     }
   },
   "FUN": {
