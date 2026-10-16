@@ -1,26 +1,26 @@
 {
   "IREN": {
-    "sig": "2ec23fe5647b6f69",
+    "sig": "b7ab4aa8eea7c6db",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et de prévisions, avec une mention d'une hausse du jour et d'une note « achat » de Jefferies (objectif de 79 $), sans information concrète sur l'activité. Le titre à 27,65 $ a perdu environ 43 % en 6 mois et se trouve près de son plus bas sur 52 semaines (26,6 $), alors que les analystes restent très optimistes en moyenne.",
+      "resume": "Les titres évoquent un investissement de 2,1 milliards de dollars de Nvidia dans IREN, une hausse du titre ce jour-là et une nouvelle note à l'achat de Jefferies (objectif 79 $). Pourtant, l'action cote 27,3 $, environ 44 % plus bas qu'il y a 6 mois et près de son plus bas sur 52 semaines, avec un chiffre d'affaires en recul de 26,7 %. Les signaux sont donc contradictoires et les détails des annonces ne sont pas précisés dans les titres.",
       "points_forts": [
-        "Avis moyen des 18 analystes : achat, objectif moyen de 77,8 $",
-        "Activité dans le cloud pour l'IA et les centres de données",
-        "Jefferies maintient une note positive (79 $)"
+        "Investissement annoncé de 2,1 Md$ de Nvidia dans l'IA",
+        "Avis analystes 'buy' (18 analystes), objectif moyen ~77,8 $",
+        "Jefferies relève ou confirme un objectif de 79 $"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-26,7 %)",
-        "Forte volatilité : -43 % en 6 mois, près du plus bas annuel",
-        "Très grand écart entre les objectifs des analystes (37 $ à 139 $)"
+        "Chiffre d'affaires en baisse de 26,7 %",
+        "Forte chute du cours (-44 % sur 6 mois), volatilité élevée",
+        "Écart important entre le cours et les objectifs, qui pourraient être révisés"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 5 novembre 2026",
-        "Nouvelles révisions d'objectifs ou de notes par les analystes"
+        "Publication des résultats le 5 novembre 2026",
+        "Précisions sur l'accord avec Nvidia et son déploiement"
       ],
-      "a_surveiller": "Regarder si le cours tient au-dessus du plus bas annuel de 26,6 $ et si le chiffre d'affaires repart lors des prochains résultats."
+      "a_surveiller": "Voir si le cours tient près du plus bas de 52 semaines (26,6 $) et si l'accord Nvidia se traduit en revenus concrets."
     }
   },
   "GOOG": {
@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "e59640348d0e6758",
+    "sig": "6f7633869c6fa837",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et des articles sur la forte hausse passée du titre après son entrée en Bourse par SPAC (valorisation de 1,8 milliard de dollars). Le cours actuel (8,66 $) est très loin de son plus haut sur 52 semaines (21,28 $) et proche de son plus bas (8,52 $). Aucune information concrète sur l'activité n'apparaît dans ces titres, d'où une lecture prudente.",
+      "resume": "Les titres récents sont surtout des pages de cours et un rappel de l'entrée en Bourse d'Infleqtion via un SPAC, avec une valorisation de 1,8 milliard de dollars. Ils ne donnent pas d'information nouvelle et concrète sur l'entreprise. Le cours (8,59 $) est proche de son plus bas sur 52 semaines, après un recul d'environ 46 % en 6 mois, ce qui montre une forte volatilité.",
       "points_forts": [
-        "Chiffre d'affaires en forte croissance (+156,5 %)",
-        "Avis des analystes : strong_buy (7 analystes)",
-        "Objectif moyen des analystes (20,43 $) bien au-dessus du cours"
+        "Croissance du chiffre d'affaires élevée (1,565, soit environ +156 %)",
+        "Avis moyen des analystes « strong buy » (7 analystes)",
+        "Objectif moyen de 20,43 $, bien au-dessus du cours actuel"
       ],
       "risques": [
-        "Forte volatilité : -45,8 % en 6 mois",
-        "Cours proche du plus bas annuel",
-        "Société issue d'un SPAC dans un secteur quantique encore jeune"
+        "Forte volatilité : cours proche du plus bas annuel (8,52 $) après un plus haut à 21,28 $",
+        "Valorisation élevée (environ 1,9 milliard de dollars) pour une entreprise de technologie quantique encore jeune",
+        "Titre issu d'un SPAC, souvent sujet à de fortes variations"
       ],
       "catalyseurs": [
         "Prochains résultats prévus le 12 novembre 2026",
-        "Éventuelles révisions des objectifs de cours des analystes"
+        "Révisions des objectifs ou des avis des analystes"
       ],
-      "a_surveiller": "Regarder si le cours tient au-dessus du plus bas annuel (8,52 $) et si la croissance du chiffre d'affaires se confirme dans les prochains résultats."
+      "a_surveiller": "Regarder si le cours tient au-dessus du plus bas des 52 semaines (8,52 $) et si la croissance du chiffre d'affaires se confirme dans les prochains résultats."
     }
   },
   "EIKN": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "59e393f4bc6db580",
+    "sig": "ae589e91abf8d351",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
-          "pourquoi": "Alphabet publie des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance.",
-          "a_surveiller": "La hausse des prévisions d'investissements et un cours de 344,91 $, en retrait du plus haut annuel de 404,47 $ et proche de l'objectif bas des analystes (340 $).",
+          "pourquoi": "Alphabet ressort avec des résultats trimestriels solides, un bénéfice en hausse de 81 % et un cloud moteur de la croissance.",
+          "a_surveiller": "La nouvelle hausse des prévisions d'investissements, et un cours de 344,91 $ en retrait par rapport au plus haut annuel de 404,47 $ et proche de l'objectif bas des analystes (340 $).",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "Une décision de la FDA sur le TEV-749 (schizophrénie sévère) était attendue et la cotation a été suspendue temporairement, alors que les pertes annuelles se creusent malgré la hausse des redevances d'Uzedy.",
-          "a_surveiller": "Le résultat de la décision réglementaire, que les titres ne précisent pas, et la forte volatilité qui peut en découler.",
+          "pourquoi": "Une décision de la FDA sur le TEV-749 (schizophrénie sévère) était attendue et la cotation a été suspendue temporairement sur Euronext Paris.",
+          "a_surveiller": "Le résultat de la décision réglementaire, que les titres ne précisent pas, ainsi que les pertes annuelles en hausse et le chiffre d'affaires en baisse de 44,6 %.",
           "nom": "MEDINCELL S.A."
         },
         {
-          "symbole": "ETL.PA",
-          "pourquoi": "L'action est très volatile, avec des hausses liées au contexte géopolitique (Starlink restreint en Ukraine, communications satellite de l'UE) et un recul de 38,6 % sur 6 mois.",
-          "a_surveiller": "Les nouvelles géopolitiques et l'écart entre le cours de 1,78 € et le plus haut annuel de 4,556 €, avec des analystes partagés (objectifs de 0,3 à 5,22 €).",
-          "nom": "EUTELSAT COMMUNIC."
+          "symbole": "IREN",
+          "pourquoi": "Les titres mentionnent un investissement de 2,1 milliards de dollars de Nvidia et une note à l'achat de Jefferies (objectif 79 $), mais l'action reste environ 44 % plus bas qu'il y a 6 mois.",
+          "a_surveiller": "Les détails des annonces, qui ne sont pas précisés, le chiffre d'affaires en recul de 26,7 % et l'écart entre le cours de 27,3 $ et les objectifs, qui pourraient être révisés.",
+          "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces éléments sont donnés à titre d'information uniquement : les marchés restent incertains et tout investissement comporte un risque de perte en capital."
+      "prudence": "Ces informations sont issues de titres d'actualité et ne garantissent rien : les cours peuvent varier fortement à la hausse comme à la baisse, avec un risque de perte en capital."
     }
   },
   "SVC": {
@@ -1010,27 +1010,27 @@
     }
   },
   "GTN-A": {
-    "sig": "4a1aefd70e5e6a1d",
+    "sig": "d6803a34eec2fbdd",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Gray Media a annoncé une hausse de 75 millions de dollars de son prêt à terme et prévoit de rembourser 150 millions de dollars d'obligations de premier rang. Un titre évoque aussi une mise à jour de ses prévisions de bénéfice, sans chiffres précis dans les données disponibles. Les autres titres (FOX, Hologic, TVA Group) ne concernent pas directement l'entreprise.",
+      "resume": "Gray Media a annoncé une hausse de 75 M$ de son prêt à terme et prévoit de rembourser 150 M$ d'obligations de premier rang, ce qui touche à la gestion de sa dette. Un titre évoque aussi une mise à jour de ses prévisions de bénéfice pour le trimestre clos le 30 septembre 2026, mais le contenu n'est pas précisé. L'action a perdu environ 49 % en 6 mois et se situe près de son plus bas sur 52 semaines, ce qui montre une forte pression sur le titre.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 8,7 %",
-        "Opération de refinancement de la dette en cours",
-        "Cours déjà très en dessous du plus haut sur 52 semaines (15,33 $)"
+        "Chiffre d'affaires en hausse de 8,7 %",
+        "Démarche active de refinancement de la dette",
+        "Nouveau partenariat annoncé avec Joy 101"
       ],
       "risques": [
-        "Cours en baisse de 48,5 % sur 6 mois, forte volatilité",
-        "Dette importante pour une capitalisation d'environ 598 M$",
-        "Contenu de la mise à jour des prévisions de bénéfice inconnu"
+        "Cours en forte baisse (-48,6 % sur 6 mois)",
+        "Endettement probablement important, détails non fournis",
+        "Mise à jour des prévisions de bénéfice dont le sens n'est pas connu"
       ],
       "catalyseurs": [
-        "Détails et finalisation du refinancement (prêt à terme et remboursement des obligations)",
-        "Publication des résultats trimestriels et des prévisions de bénéfice mises à jour"
+        "Publication des prochains résultats trimestriels (date non communiquée)",
+        "Détails et conditions du refinancement de la dette"
       ],
-      "a_surveiller": "Les conditions du refinancement (coût de la dette, échéances) et le sens de la mise à jour des prévisions de bénéfice, qui ne sont pas précisés ici."
+      "a_surveiller": "Le contenu exact de la mise à jour des prévisions de bénéfice et les conditions du nouveau prêt, car ils détermineront si la pression sur le titre persiste."
     }
   },
   "ETL.PA": {
