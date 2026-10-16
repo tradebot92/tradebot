@@ -688,5 +688,20 @@
       -23.6
     ],
     "resume": "FMC a révisé à la baisse ses prévisions du troisième trimestre, ce qui a fait chuter l'action. Tessenderlo prend ensuite 20 % du capital pour 400 M$, une opération qualifiée de renflouement d'urgence par la presse et accueillie avec méfiance par les investisseurs, même si le titre a rebondi à l'annonce. Le cours a perdu environ 67 % en 6 mois et se situe près de son plus bas sur 52 semaines, ce qui montre une forte tension financière."
+  },
+  {
+    "date": "16/10/2026 18:57",
+    "symbole": "FMC",
+    "sentiment": "negatif",
+    "cours": 5.89,
+    "gain": [
+      11.8,
+      88.7
+    ],
+    "perte": [
+      -11.8,
+      -23.6
+    ],
+    "resume": "FMC a fortement réduit ses prévisions de chiffre d'affaires pour le troisième trimestre, et l'action a plongé. Un renflouement d'urgence, avec Tessenderlo qui prend 20 % du capital pour 400 M$, a été mal accueilli par les investisseurs malgré un rebond ponctuel du titre. Cela compte car l'action a perdu environ 65 % en 6 mois et la situation financière de l'entreprise semble fragile."
   }
 ]

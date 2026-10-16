@@ -1,26 +1,26 @@
 {
   "IREN": {
-    "sig": "b7ab4aa8eea7c6db",
+    "sig": "2ec23fe5647b6f69",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres évoquent une hausse récente de l'action après l'annonce d'un investissement de 2,1 milliards de dollars de Nvidia dans l'IA, ainsi qu'une note « achat » de Jefferies avec un objectif de 79 $. Pourtant, le cours (27,97 $) reste très en dessous de son plus haut sur 52 semaines (76,87 $) et a perdu 42,6 % en six mois. Les titres ne donnent pas de détails chiffrés sur l'accord, donc l'impact réel reste difficile à mesurer.",
+      "resume": "Les titres récents sont surtout des pages de cours et de prévisions, avec une mention d'une hausse du jour et d'une note « achat » de Jefferies (objectif de 79 $), sans information concrète sur l'activité. Le titre à 27,65 $ a perdu environ 43 % en 6 mois et se trouve près de son plus bas sur 52 semaines (26,6 $), alors que les analystes restent très optimistes en moyenne.",
       "points_forts": [
-        "Avis moyen des analystes « achat » (18 analystes), objectif moyen 77,8 $ très au-dessus du cours",
-        "Investissement de Nvidia cité dans l'actualité récente",
-        "Note positive de Jefferies avec objectif à 79 $"
+        "Avis moyen des 18 analystes : achat, objectif moyen de 77,8 $",
+        "Activité dans le cloud pour l'IA et les centres de données",
+        "Jefferies maintient une note positive (79 $)"
       ],
       "risques": [
-        "Chiffre d'affaires en recul de 26,7 %",
-        "Forte volatilité : -42,6 % en 6 mois, proche du plus bas annuel (26,6 $)",
-        "Écart énorme entre les objectifs des analystes (37 $ à 139 $), signe de grande incertitude"
+        "Chiffre d'affaires en baisse (-26,7 %)",
+        "Forte volatilité : -43 % en 6 mois, près du plus bas annuel",
+        "Très grand écart entre les objectifs des analystes (37 $ à 139 $)"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 5 novembre 2026",
-        "Nouveaux détails ou suites concrètes de l'investissement de Nvidia dans l'IA"
+        "Nouvelles révisions d'objectifs ou de notes par les analystes"
       ],
-      "a_surveiller": "Voir si la hausse liée aux annonces se confirme dans la durée et si le chiffre d'affaires repart lors des prochains résultats, sachant que le cours reste proche de son plus bas sur 52 semaines."
+      "a_surveiller": "Regarder si le cours tient au-dessus du plus bas annuel de 26,6 $ et si le chiffre d'affaires repart lors des prochains résultats."
     }
   },
   "GOOG": {
@@ -72,51 +72,51 @@
     }
   },
   "INFQ": {
-    "sig": "42c42ebd2e510031",
+    "sig": "e59640348d0e6758",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et un article sur l'entrée en Bourse d'Infleqtion via un SPAC, avec une valorisation de 1,8 milliard de dollars. Un autre titre évoque un bond de 314 %, mais sans détails concrets. Le cours (8,71 $) est proche de son plus bas sur 52 semaines, après une baisse de 45,6 % en 6 mois, ce qui montre une forte volatilité.",
+      "resume": "Les titres récents sont surtout des pages de cotation et des articles sur la forte hausse passée du titre après son entrée en Bourse par SPAC (valorisation de 1,8 milliard de dollars). Le cours actuel (8,66 $) est très loin de son plus haut sur 52 semaines (21,28 $) et proche de son plus bas (8,52 $). Aucune information concrète sur l'activité n'apparaît dans ces titres, d'où une lecture prudente.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 156,5 %",
+        "Chiffre d'affaires en forte croissance (+156,5 %)",
         "Avis des analystes : strong_buy (7 analystes)",
-        "Objectif moyen des analystes à 20,43 $, bien au-dessus du cours"
+        "Objectif moyen des analystes (20,43 $) bien au-dessus du cours"
       ],
       "risques": [
-        "Forte volatilité : -45,6 % en 6 mois, proche du plus bas sur 52 semaines",
-        "Petite entreprise issue d'un SPAC, secteur quantique encore spéculatif",
-        "Les objectifs des analystes peuvent être très éloignés du cours actuel"
+        "Forte volatilité : -45,8 % en 6 mois",
+        "Cours proche du plus bas annuel",
+        "Société issue d'un SPAC dans un secteur quantique encore jeune"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-12",
-        "Éventuelles révisions des objectifs ou des avis des analystes"
+        "Prochains résultats prévus le 12 novembre 2026",
+        "Éventuelles révisions des objectifs de cours des analystes"
       ],
-      "a_surveiller": "Surveille si le cours se maintient au-dessus du plus bas annuel de 8,52 $ et ce que diront les prochains résultats sur la croissance du chiffre d'affaires."
+      "a_surveiller": "Regarder si le cours tient au-dessus du plus bas annuel (8,52 $) et si la croissance du chiffre d'affaires se confirme dans les prochains résultats."
     }
   },
   "EIKN": {
-    "sig": "1797d10c7b9e5d68",
+    "sig": "f3489f0f81de5b3b",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont des pages de cours d'autres sociétés de biotechnologie (SPRY, GENB, MRNA, OVID, AGMB) et ne parlent pas concrètement d'Eikon Therapeutics. Aucune information propre à l'entreprise n'en ressort. L'action reste volatile : elle a perdu environ 37 % en 6 mois et se trouve près de son plus bas sur 52 semaines.",
+      "resume": "Les titres récents ne parlent pas directement d'Eikon Therapeutics : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, MRNA, SPRY, AGMB). Ils n'apportent aucune information concrète sur l'entreprise. Le cours (7,27 USD) a baissé d'environ 37 % en 6 mois, ce qui reflète une forte volatilité.",
       "points_forts": [
-        "Pipeline clinique varié en oncologie (EIK1001, PARP1, WRN)",
-        "Objectif moyen des analystes (24,6 $) très au-dessus du cours actuel (7,32 $)",
-        "Capitalisation d'environ 396 M$ pour une société encore au stade clinique"
+        "Portefeuille clinique diversifié (EIK1001, EIK1003, EIK1004, EIK1005)",
+        "Objectif moyen des analystes (24,6 USD) très au-dessus du cours actuel",
+        "Capitalisation d'environ 394 M USD"
       ],
       "risques": [
-        "Forte baisse sur 6 mois (-36,7 %) et cours proche du plus bas annuel",
-        "Écart très large entre les objectifs des analystes (4 à 32 $), signe d'une grande incertitude",
-        "Pas de chiffre d'affaires communiqué, résultats dépendants des essais cliniques"
+        "Société encore au stade clinique, sans chiffre d'affaires communiqué",
+        "Forte volatilité : plus bas 6,45 et plus haut 17,4 sur 52 semaines",
+        "Très grand écart entre les objectifs des analystes (4,0 à 32,0 USD), signe d'une grande incertitude"
       ],
       "catalyseurs": [
-        "Prochains résultats trimestriels prévus le 12 novembre 2026",
-        "Données ou avancées des essais cliniques sur les candidats du pipeline (aucune date précisée)"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Toute annonce de données cliniques sur les programmes en développement"
       ],
-      "a_surveiller": "Surveille les communiqués officiels de l'entreprise sur ses essais cliniques et sa trésorerie, car les titres actuels ne donnent aucune information concrète sur Eikon."
+      "a_surveiller": "Surveiller les prochaines annonces propres à Eikon (données cliniques, financement) et la publication des résultats du 12 novembre 2026, car les titres actuels ne la concernent pas."
     }
   },
   "EXK": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "f2158ac88d2eca92",
+    "sig": "59e393f4bc6db580",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
-          "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance.",
+          "pourquoi": "Alphabet publie des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance.",
           "a_surveiller": "La hausse des prévisions d'investissements et un cours de 344,91 $, en retrait du plus haut annuel de 404,47 $ et proche de l'objectif bas des analystes (340 $).",
           "nom": "Alphabet Inc."
         },
         {
-          "symbole": "TKO.PA",
-          "pourquoi": "Tikehau Capital annonce un exercice 2025 qualifié d'historique, avec des objectifs relevés, un dividende proposé de 0,80 € par action et l'annulation d'environ 1 % du capital.",
-          "a_surveiller": "Le cours de 16,3 €, en recul de 7 % sur 6 mois et proche de l'objectif bas des analystes (16,0 €), ainsi que la sensibilité de l'activité aux marchés financiers.",
-          "nom": "TIKEHAU CAPITAL"
+          "symbole": "MEDCL.PA",
+          "pourquoi": "Une décision de la FDA sur le TEV-749 (schizophrénie sévère) était attendue et la cotation a été suspendue temporairement, alors que les pertes annuelles se creusent malgré la hausse des redevances d'Uzedy.",
+          "a_surveiller": "Le résultat de la décision réglementaire, que les titres ne précisent pas, et la forte volatilité qui peut en découler.",
+          "nom": "MEDINCELL S.A."
         },
         {
-          "symbole": "IREN",
-          "pourquoi": "L'action a progressé après l'annonce d'un investissement de 2,1 milliards de dollars de Nvidia dans l'IA et une note « achat » de Jefferies avec un objectif de 79 $.",
-          "a_surveiller": "Le chiffre d'affaires en recul de 26,7 %, la forte volatilité (-42,6 % en 6 mois) et l'écart important entre les objectifs des analystes (37 $ à 139 $).",
-          "nom": "IREN LIMITED"
+          "symbole": "ETL.PA",
+          "pourquoi": "L'action est très volatile, avec des hausses liées au contexte géopolitique (Starlink restreint en Ukraine, communications satellite de l'UE) et un recul de 38,6 % sur 6 mois.",
+          "a_surveiller": "Les nouvelles géopolitiques et l'écart entre le cours de 1,78 € et le plus haut annuel de 4,556 €, avec des analystes partagés (objectifs de 0,3 à 5,22 €).",
+          "nom": "EUTELSAT COMMUNIC."
         }
       ],
-      "prudence": "Ces éléments sont donnés à titre d'information et ne constituent pas un conseil : tout investissement en bourse comporte un risque de perte en capital, et les cours peuvent varier fortement."
+      "prudence": "Ces éléments sont donnés à titre d'information uniquement : les marchés restent incertains et tout investissement comporte un risque de perte en capital."
     }
   },
   "SVC": {
@@ -818,27 +818,27 @@
     }
   },
   "IDIP.PA": {
-    "sig": "d7fea82b1cfa0a54",
+    "sig": "38a637be192a72ea",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
-      "confiance": "moyenne",
-      "resume": "Les titres récents portent sur le rapport financier semestriel au 30 juin 2026, avec un actif net réévalué (ANR) en progression au 1er semestre selon Fortuneo. IDI propose aussi un dividende de 2,9 € par action, versé le 28 mai 2026. Le cours, à 66,6 €, reste proche de son plus bas sur 52 semaines (65,8 €), sous les objectifs des analystes.",
+      "confiance": "faible",
+      "resume": "Les titres récents portent sur le rapport financier semestriel d'IDI, une progression de l'actif net réévalué au 1er semestre et un dividende proposé de 2,9 € par action, versé le 28 mai 2026. Ces éléments sont plutôt rassurants pour une société d'investissement, mais les titres ne donnent aucun chiffre précis. Le cours reste proche de son plus bas sur 52 semaines, avec une baisse de 3,4 % sur 6 mois.",
       "points_forts": [
-        "ANR en progression au 1er semestre",
+        "Actif net réévalué en progression au 1er semestre",
         "Dividende proposé de 2,9 € par action",
-        "Objectifs d'analystes (74 à 85 €) au-dessus du cours"
+        "Objectifs des analystes (74 à 85 €) au-dessus du cours de 66,6 €"
       ],
       "risques": [
-        "Cours proche du plus bas sur 52 semaines",
-        "Croissance du chiffre d'affaires modeste (1,37)",
-        "Très peu d'analystes (2), donc consensus fragile"
+        "Cours proche du plus bas sur 52 semaines (65,8 €)",
+        "Seulement 2 analystes, donc consensus peu représentatif",
+        "Petite capitalisation (environ 475 M€), potentiellement peu liquide et volatile"
       ],
       "catalyseurs": [
-        "Prochaine publication de l'ANR ou des résultats (date non communiquée)",
-        "Cessions ou valorisations d'actifs du portefeuille de private equity"
+        "Prochaine publication de l'actif net réévalué (date non communiquée)",
+        "Détachement et paiement du dividende de 2,9 €"
       ],
-      "a_surveiller": "L'écart entre le cours et l'actif net réévalué, ainsi que la capacité de l'ANR à continuer de progresser au-delà du premier semestre."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel de 65,8 € et l'évolution de l'écart entre le cours et l'actif net réévalué publié."
     }
   },
   "FUN": {
@@ -1298,27 +1298,27 @@
     }
   },
   "FMC": {
-    "sig": "ec937faba3d64b67",
+    "sig": "a62c2e3fd5a38ad7",
     "analyse": {
       "sentiment": "negatif",
       "importance": 5,
       "confiance": "moyenne",
-      "resume": "FMC a révisé à la baisse ses prévisions du troisième trimestre, ce qui a fait chuter l'action. Tessenderlo prend ensuite 20 % du capital pour 400 M$, une opération qualifiée de renflouement d'urgence par la presse et accueillie avec méfiance par les investisseurs, même si le titre a rebondi à l'annonce. Le cours a perdu environ 67 % en 6 mois et se situe près de son plus bas sur 52 semaines, ce qui montre une forte tension financière.",
+      "resume": "FMC a fortement réduit ses prévisions de chiffre d'affaires pour le troisième trimestre, et l'action a plongé. Un renflouement d'urgence, avec Tessenderlo qui prend 20 % du capital pour 400 M$, a été mal accueilli par les investisseurs malgré un rebond ponctuel du titre. Cela compte car l'action a perdu environ 65 % en 6 mois et la situation financière de l'entreprise semble fragile.",
       "points_forts": [
         "Entrée de Tessenderlo au capital (20 % pour 400 M$)",
-        "Rebond du titre à l'annonce de l'investissement",
-        "Objectif moyen des analystes (11,11 $) bien au-dessus du cours (5,62 $)"
+        "Apport de liquidités grâce à cet investissement",
+        "Cours proche du bas de sa fourchette sur 52 semaines, sous l'objectif moyen des analystes (11,11 $)"
       ],
       "risques": [
-        "Prévisions revues à la baisse et chiffre d'affaires en recul (-17,5 %)",
-        "Renflouement d'urgence mal perçu, avec un risque de dilution des actionnaires",
-        "Forte volatilité et cours proche du plus bas sur 52 semaines (4,845 $)"
+        "Prévisions de chiffre d'affaires abaissées et ventes en recul (-17,5 %)",
+        "Renflouement d'urgence mal perçu, avec risque de dilution pour les actionnaires",
+        "Forte volatilité et avis analystes prudent (hold), objectif bas à 4 $ sous le cours actuel"
       ],
       "catalyseurs": [
         "Résultats du 29 octobre 2026",
-        "Précisions sur les modalités de l'accord avec Tessenderlo et sur la situation financière de FMC"
+        "Précisions sur les conditions de l'accord avec Tessenderlo et l'usage des fonds"
       ],
-      "a_surveiller": "Surveillez si les prochains résultats confirment une stabilisation de l'activité et de la situation financière, ou si de nouvelles révisions à la baisse apparaissent, tout en gardant en tête que le titre est très volatile et que les avis des analystes sont très dispersés (4 à 18 $)."
+      "a_surveiller": "Surveille si la baisse du chiffre d'affaires s'arrête aux prochains résultats et comment la situation financière évolue après l'apport de Tessenderlo."
     }
   },
   "DFH": {
