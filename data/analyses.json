@@ -1,26 +1,26 @@
 {
   "IREN": {
-    "sig": "2ec23fe5647b6f69",
+    "sig": "02f62395f7433468",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de prévisions et de cours, avec une note d'analyste positive (Jefferies, objectif de 79 $) et un article sur une hausse du jour. Rien de concret ne ressort sur l'activité elle-même. L'action reste très en retrait, à 27,29 $ contre un plus haut annuel de 76,87 $, ce qui montre une forte volatilité.",
+      "resume": "Les titres récents sont surtout des pages de cours et de prévisions, avec un relèvement de note à l'achat par Jefferies (objectif de 79 $) et un article sur une hausse du jour. Rien de concret n'explique le recul de l'action (-44,6 % sur 6 mois), qui se négocie près de son plus bas sur 52 semaines.",
       "points_forts": [
-        "Avis moyen des analystes à l'achat (18 analystes)",
-        "Objectif moyen (77,8 $) très au-dessus du cours actuel",
-        "Activité de cloud IA et de centres de données intégrée verticalement"
+        "Avis moyen des analystes : achat (18 analystes)",
+        "Objectif moyen (≈77,8 $) très au-dessus du cours actuel (26,99 $)",
+        "Activité d'infrastructure et de cloud pour l'IA"
       ],
       "risques": [
         "Chiffre d'affaires en baisse (-26,7 %)",
-        "Cours en baisse de 44 % sur 6 mois, proche du plus bas annuel",
-        "Grand écart entre les objectifs d'analystes (37 à 139 $), signe d'incertitude"
+        "Forte volatilité et baisse marquée sur 6 mois",
+        "Cours proche du plus bas sur 52 semaines (26,55 $)"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 5 novembre 2026",
-        "Révisions d'objectifs ou de notes par les analystes"
+        "Prochains résultats prévus le 05/11/2026",
+        "Nouvelles révisions d'objectifs ou de notes par les analystes"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel (26,6 $) et si le chiffre d'affaires cesse de reculer lors des prochains résultats."
+      "a_surveiller": "Regarder si le cours tient au-dessus du plus bas de 52 semaines (26,55 $) et si les résultats de novembre confirment une reprise du chiffre d'affaires."
     }
   },
   "GOOG": {
@@ -96,27 +96,27 @@
     }
   },
   "EIKN": {
-    "sig": "1797d10c7b9e5d68",
+    "sig": "2d3a849c66faaf8f",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont des pages de cotation génériques d'autres sociétés de biotechnologie (SPRY, GENB, MRNA, OVID, AGMB), sans information concrète sur Eikon Therapeutics. Aucune actualité spécifique à l'entreprise n'est disponible ici ; l'analyse repose donc surtout sur les données de marché : cours en baisse de 36,6 % sur 6 mois, proche du bas des 52 semaines.",
+      "resume": "Les titres récents ne parlent pas d'Eikon Therapeutics : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, NVAX, SPRY, AGMB). Aucune information concrète sur l'entreprise ne ressort, donc le contexte repose surtout sur le cours, en baisse d'environ 36 % sur 6 mois, et sur la dispersion des objectifs d'analystes.",
       "points_forts": [
-        "Pipeline clinique varié en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)",
-        "Objectif moyen des analystes (24,6 USD) bien au-dessus du cours actuel (7,32 USD)",
-        "Couverture par 5 analystes"
+        "Large pipeline clinique en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)",
+        "Objectif moyen des analystes (24,6 $) très au-dessus du cours actuel (7,42 $)",
+        "Capitalisation d'environ 402 M$, avec un cours encore loin de son plus bas annuel (6,45 $)"
       ],
       "risques": [
-        "Société clinique de petite taille, très volatile et sans croissance de chiffre d'affaires indiquée",
-        "Forte dispersion des objectifs d'analystes (de 4,0 à 32,0 USD), signe d'une grande incertitude",
-        "Tendance baissière : -36,6 % sur 6 mois, loin du plus haut de 17,4 USD"
+        "Société clinique sans chiffre d'affaires communiqué, donc très dépendante des résultats d'essais",
+        "Forte volatilité : fourchette 52 semaines de 6,45 à 17,4 $, et objectifs analystes de 4 à 32 $",
+        "Cours proche de son plus bas annuel après une baisse de 36 % en 6 mois"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 12 novembre 2026",
-        "Éventuelles données cliniques ou avancées sur le pipeline (non datées dans les informations fournies)"
+        "Éventuelles données cliniques ou annonces sur le pipeline (non précisées dans les données)"
       ],
-      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas annuel de 6,45 USD et si l'entreprise communique des données cliniques concrètes."
+      "a_surveiller": "Surveillez les communications officielles de l'entreprise sur ses essais cliniques et sa trésorerie, ainsi que la publication des résultats du 12 novembre 2026."
     }
   },
   "EXK": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "2ff65a011c96ccbc",
+    "sig": "877ae0b447adb568",
     "analyse": {
       "sentiment": "neutre",
       "importance": 4,
-      "confiance": "faible",
-      "resume": "Les titres récents sont contrastés : hausse des redevances liées aux ventes d'Uzedy, mais pertes annuelles qui se creusent et chute de 15 % en Bourse à une occasion. Une suspension temporaire de la cotation a aussi été annoncée, et une décision de la FDA sur le TEV-749 (schizophrénie) était attendue. Les détails (motif de la suspension, issue de la décision) ne figurent pas dans les données, d'où la prudence.",
+      "confiance": "moyenne",
+      "resume": "Les titres récents sont contrastés : MedinCell a bondi après un feu vert de l'autorité sanitaire américaine (FDA) pour le TEV-749 contre la schizophrénie, mais le titre a aussi chuté de 15 % après l'annonce de pertes annuelles creusées, malgré la hausse des redevances d'Uzedy. Une décision réglementaire de ce type compte beaucoup pour une biotech dont le cours dépend de peu de produits.",
       "points_forts": [
-        "Redevances Uzedy en hausse",
-        "Objectif moyen des analystes (35,5 €) bien au-dessus du cours de 25,72 €",
-        "Avis des 9 analystes : strong_buy"
+        "Feu vert de la FDA évoqué pour le TEV-749 (schizophrénie)",
+        "Redevances d'Uzedy en hausse",
+        "Analystes très positifs : avis strong_buy, objectif moyen 35,5 € contre 25,72 € de cours"
       ],
       "risques": [
         "Pertes annuelles qui se creusent",
-        "Chiffre d'affaires en recul (-0,446)",
-        "Forte volatilité, dépendance à une décision réglementaire de la FDA"
+        "Chiffre d'affaires en baisse (-44,6 %)",
+        "Forte volatilité du titre (entre 19,69 € et 39,68 € sur 52 semaines)"
       ],
       "catalyseurs": [
-        "Décision de la FDA sur le TEV-749 (schizophrénie sévère)",
-        "Avancement de mdc-CWM (phase III) contre la douleur post-opératoire"
+        "Lancement commercial du TEV-749 après l'approbation de la FDA",
+        "Avancée de l'essai de phase III du mdc-CWM (douleur post-opératoire)"
       ],
-      "a_surveiller": "Le communiqué officiel sur la raison de la suspension de cotation et le résultat de la décision de la FDA, car ils peuvent faire fortement bouger le cours dans un sens comme dans l'autre."
+      "a_surveiller": "Surveiller si les redevances d'Uzedy et du TEV-749 suffisent à réduire les pertes, ainsi que la date des prochains résultats, non communiquée ici."
     }
   },
   "KLRA": {
@@ -1510,6 +1510,30 @@
         "Réponses de l'entreprise ou nouvelles analyses concernant le rapport du vendeur à découvert"
       ],
       "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas de 52 semaines (9,63 $) et comment l'entreprise réagit aux accusations du vendeur à découvert."
+    }
+  },
+  "INTR": {
+    "sig": "4df09b5bc08cc535",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 1,
+      "confiance": "faible",
+      "resume": "Les titres récents sont surtout des pages de cours et de listes génériques (Zonebourse, Yahoo Finance, TradingView) et n'apportent aucune information concrète sur Inter & Co. Le contexte reste donc celui des chiffres : une action en baisse de 18,2 % sur 6 mois, mais une croissance du chiffre d'affaires de 23,8 % et un avis moyen des analystes à « buy ».",
+      "points_forts": [
+        "Croissance du chiffre d'affaires de 23,8 %",
+        "Avis des analystes « buy » (11 analystes)",
+        "Objectif moyen de 9,13 USD, au-dessus du cours de 6,73 USD"
+      ],
+      "risques": [
+        "Baisse de 18,2 % sur 6 mois",
+        "Forte dispersion des objectifs (5,0 à 12,4 USD)",
+        "Exposition principale au Brésil, avec un titre assez volatile (52 semaines : 4,97 à 10,36 USD)"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 2026-11-12",
+        "Révisions d'objectifs ou d'avis par les analystes"
+      ],
+      "a_surveiller": "Surveille les résultats du 12 novembre 2026 pour voir si la croissance du chiffre d'affaires se maintient, car l'actualité récente n'apporte rien de concret."
     }
   }
 }
