@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "b34638d07e519126",
+    "sig": "3a7d9fe2a717b8da",
     "analyse": {
       "sentiment": "positif",
-      "importance": 4,
+      "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres récents évoquent des résultats trimestriels solides d'Alphabet, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance. Google relève toutefois à nouveau ses prévisions d'investissements, et un article parle d'une chute du cours, ce qui montre que le marché reste partagé entre croissance et coûts.",
+      "resume": "Les actualités récentes évoquent un bénéfice d'Alphabet en hausse de 81 %, un accord important avec Anthropic qui a fait grimper l'action d'environ 2 %, et des débats sur le cloud et une baisse récente du cours. Cela compte car le titre se négocie à 344,91 USD, sous son plus haut sur 52 semaines (404,47), avec des analystes très favorables.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 24,2 %",
+        "Chiffre d'affaires en hausse de 24,2 %",
         "Bénéfice en forte hausse (+81 % selon Euronews)",
-        "Avis des analystes strong_buy, objectif moyen 420,79 USD"
+        "Avis moyen des analystes « strong buy » (objectif moyen ~421 USD)"
       ],
       "risques": [
-        "Hausse des investissements qui pèse sur les marges et la trésorerie",
-        "Cours en baisse d'environ 15 % sous le plus haut sur 52 semaines (404,47 USD)",
-        "Objectif bas des analystes (340 USD) proche du cours actuel (344,91 USD)"
+        "Cours en recul d'environ 15 % par rapport au plus haut sur 52 semaines",
+        "Valorisation très élevée (capitalisation d'environ 4 200 Md USD)",
+        "Une chute du cours évoquée récemment, dont les causes ne sont pas détaillées ici"
       ],
       "catalyseurs": [
-        "Publication des résultats du 28 octobre 2026",
-        "Nouvelles annonces sur les dépenses d'investissement et la croissance du cloud"
+        "Publication des résultats prévue le 28 octobre 2026",
+        "Évolution de l'accord avec Anthropic et de la croissance du cloud"
       ],
-      "a_surveiller": "Voir si la croissance du cloud et des revenus continue de justifier la hausse des investissements annoncée lors des prochains résultats."
+      "a_surveiller": "Surveillez si le cours reste au-dessus de l'objectif bas des analystes (340 USD) et ce que les prochains résultats diront sur la croissance du cloud."
     }
   },
   "GLOO": {
@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "7ec4a41901edcf26",
+    "sig": "3e340378afd2ced9",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Infleqtion, spécialiste des technologies quantiques à atomes neutres (calcul, capteurs, horloges), est cotée à Wall Street après une fusion avec un SPAC qui la valorisait à 1,8 milliard de dollars. Les titres récents évoquent un bond de 314 % puis une forte baisse : le cours (9,48 $) est à -45,6 % sur 6 mois et proche de son plus bas sur 52 semaines (8,52 $). Les titres ne donnent aucun fait concret nouveau, donc l'actualité reste surtout un signal de forte volatilité.",
+      "resume": "Les titres récents sont surtout des pages de cotation et un rappel de l'entrée en Bourse d'Infleqtion via un SPAC, avec une valorisation annoncée de 1,8 milliard de dollars. Un titre évoque aussi un bond de 314 %, alors que le cours actuel (9,48 $) a reculé de 45,6 % en 6 mois. Aucune information nouvelle et concrète sur l'activité ne ressort : le titre reste très volatil.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (+156,5 %)",
-        "Consensus d'analystes « strong buy » (7 analystes), objectif moyen autour de 20,4 $",
-        "Gamme variée : calcul quantique, horloges atomiques, capteurs pour environnements sans GPS"
+        "Croissance du chiffre d'affaires de 156,5 %",
+        "Avis moyen des analystes « strong_buy » (7 analystes)",
+        "Objectif moyen des analystes (20,43 $) nettement au-dessus du cours"
       ],
       "risques": [
-        "Volatilité extrême : de 21,28 $ à 9,48 $ en peu de temps",
-        "Valorisation élevée (environ 2,1 milliards de dollars de capitalisation) pour une jeune entreprise de technologie émergente",
-        "Titre issu d'un SPAC, souvent plus instable après l'introduction"
+        "Forte volatilité : -45,6 % en 6 mois, proche du plus bas sur 52 semaines (8,52 $)",
+        "Entrée en Bourse récente via SPAC et valorisation élevée (capitalisation d'environ 2,1 milliards $)",
+        "Secteur de l'informatique quantique très spéculatif, sensible aux comparaisons avec d'autres valeurs comme IonQ"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 2026-11-12",
-        "Annonces de contrats ou de produits quantiques (capteurs, horloges, calcul)"
+        "Publication des prochains résultats le 12 novembre 2026",
+        "Révisions des objectifs de cours ou des avis par les analystes"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas de 52 semaines (8,52 $) et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas de 52 semaines (8,52 $) et ce que la direction dira sur la croissance lors des prochains résultats."
     }
   },
   "EIKN": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "9ed88948cc33551f",
+    "sig": "add9d0895a17064c",
     "contenu": {
       "points": [
         {
-          "symbole": "GOOG",
-          "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance, mais le marché reste partagé à cause de la hausse des investissements prévue.",
-          "a_surveiller": "L'évolution des investissements et leur effet sur les marges et la trésorerie, alors que le cours (344,91 USD) est proche de l'objectif bas des analystes (340 USD).",
-          "nom": "Alphabet Inc."
-        },
-        {
           "symbole": "MEDCL.PA",
           "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza (TEV-749), un traitement contre la schizophrénie lié à MedinCell, et l'action a progressé d'environ 18 %.",
-          "a_surveiller": "Le risque de prises de bénéfices sur un titre très volatil, ainsi que la baisse du chiffre d'affaires et la dépendance à quelques produits.",
+          "a_surveiller": "Le titre est très volatil, avec un risque de prises de bénéfices après cette hausse, et le chiffre d'affaires est actuellement en recul.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "OPK",
-          "pourquoi": "L'action Opko Health a bondi après l'annonce de la cession des actifs BioReference pour 722 M$, ce qui pourrait renforcer ses moyens financiers et son recentrage sur la pharmacie.",
-          "a_surveiller": "Les détails de l'opération (utilisation du produit, conditions), non fournis, et la dépendance accrue à des projets pharmaceutiques en phase 1, alors que le cours est proche de son plus haut sur 52 semaines (1,75 $).",
+          "pourquoi": "L'action a bondi après l'annonce de la cession des actifs BioReference pour 722 M$, ce qui pourrait donner plus de moyens financiers et permettre de se concentrer sur la pharmacie.",
+          "a_surveiller": "Les détails de l'opération (utilisation du produit, conditions) ne sont pas connus, et l'entreprise dépendra davantage de projets pharmaceutiques en phase 1, incertains.",
           "nom": "Opko Health, Inc."
+        },
+        {
+          "symbole": "GOOG",
+          "pourquoi": "Les actualités évoquent un bénéfice d'Alphabet en hausse de 81 % et un accord important avec Anthropic, avec un titre à 344,91 USD, sous son plus haut sur 52 semaines (404,47).",
+          "a_surveiller": "Le cours est en recul d'environ 15 % par rapport à son plus haut, la valorisation est très élevée et les causes de la baisse récente ne sont pas détaillées.",
+          "nom": "Alphabet Inc."
         }
       ],
-      "prudence": "Ces informations ne sont pas un conseil en investissement : les cours peuvent fortement varier à la hausse comme à la baisse, et une perte en capital reste possible."
+      "prudence": "Ces informations ne constituent pas un conseil : les cours peuvent varier fortement, y compris après une actualité positive, et une perte en capital est possible."
     }
   },
   "SVC": {
@@ -1034,27 +1034,27 @@
     }
   },
   "ETL.PA": {
-    "sig": "a9ebbbf9417bf774",
+    "sig": "b9b5fe4ec818478e",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents montrent un cours très volatil : de fortes hausses ponctuelles liées à l'actualité géopolitique (restrictions de Starlink en Ukraine, activation des communications satellitaires de l'UE) mais aussi une chute marquée sur plusieurs mois. Le cours de 1,69 € reste loin de son plus haut sur 52 semaines (4,556 €), et les analystes restent partagés avec un avis « hold ».",
+      "resume": "Les titres récents montrent un cours très volatil : de fortes hausses ponctuelles (restrictions de Starlink en Ukraine, activation des communications satellite de l'UE, libération de fréquences en bande C) alternent avec de lourdes baisses sur trois mois. Le cours est à 1,78 € après un recul d'environ 38 % sur 6 mois, et les analystes restent partagés (avis « hold »).",
       "points_forts": [
-        "Intérêt marqué pour les satellites européens (actualité UE et Ukraine)",
-        "Objectif moyen des analystes (2,27 €) supérieur au cours actuel",
+        "Intérêt européen pour les communications satellite souveraines",
+        "Manne liée à la libération de fréquences en bande C évoquée",
         "Chiffre d'affaires en légère croissance (+1,1 %)"
       ],
       "risques": [
-        "Forte volatilité : hausses et baisses brutales",
-        "Baisse d'environ 37,5 % sur 6 mois",
-        "Fourchette d'objectifs très large (0,3 à 5,22 €), signe d'une forte incertitude"
+        "Volatilité extrême du cours (plus haut 4,556 € et plus bas 1,3535 € sur 52 semaines)",
+        "Objectifs d'analystes très dispersés (0,3 à 5,22 €)",
+        "Tendance de fond baissière sur 6 mois"
       ],
       "catalyseurs": [
-        "Publication des résultats le 7 août 2026",
-        "Nouvelles annonces européennes ou géopolitiques sur les communications par satellite"
+        "Publication des résultats le 07/08/2026",
+        "Concrétisation des revenus de la bande C et des programmes satellitaires de l'UE"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas annuel (1,35 €) et si les résultats du 7 août 2026 confirment une croissance du chiffre d'affaires."
+      "a_surveiller": "Surveillez la réaction du cours aux résultats du 7 août 2026 et si les annonces politiques ou réglementaires se traduisent par des revenus concrets, car les hausses liées à l'actualité ont été suivies de reculs."
     }
   },
   "EVO": {
@@ -1441,27 +1441,27 @@
     }
   },
   "RXRX": {
-    "sig": "3a9f9de2fc6a08e9",
+    "sig": "f8c709b346fd93c7",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages génériques de cours et de graphiques (TradingView, Yahoo Finance) et ne révèlent aucune nouvelle concrète sur l'entreprise. Le cours de 4,16 USD se situe entre le plus bas (2,77) et le plus haut (7,18) sur 52 semaines, ce qui montre une action très volatile. Le chiffre d'affaires est en forte baisse (-60 %), alors que les analystes restent globalement positifs.",
+      "resume": "Les titres récents sont surtout des pages de cotation et de graphiques (TradingView, Yahoo Finance, Zonebourse) ainsi qu'une page sur la prévision de cours 2027, sans nouvelle concrète sur l'entreprise. Ils ne permettent pas de tirer de conclusion nette. Le cours de 4,16 USD se situe entre son plus bas (2,77) et son plus haut (7,18) sur 52 semaines.",
       "points_forts": [
-        "Avis moyen des analystes : buy (6 analystes)",
-        "Objectif moyen de 7,32 USD, au-dessus du cours actuel",
-        "Plusieurs candidats-médicaments en essais cliniques (REC-4881, REC-617, REC-1245)"
+        "Avis analystes : achat (6 analystes), objectif moyen 7,32 USD",
+        "Plusieurs candidats-médicaments en essais cliniques de phase 1/2",
+        "Cours en hausse de 10,1 % sur 6 mois"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse d'environ 60 %",
-        "Société en phase clinique, résultats d'essais incertains",
-        "Forte volatilité du cours (2,77 à 7,18 sur 52 semaines)"
+        "Chiffre d'affaires en forte baisse (-60 %)",
+        "Entreprise de biotech en phase clinique, résultats d'essais incertains et cours très volatil",
+        "Objectif bas des analystes (4,0 USD) proche du cours actuel"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-04",
-        "Avancées ou données des essais cliniques en cours"
+        "Publication des résultats prévue le 4 novembre 2026",
+        "Données d'avancement des essais cliniques (REC-4881, REC-617, REC-1245)"
       ],
-      "a_surveiller": "Suivre les prochaines données cliniques et les résultats du 2026-11-04, sachant que l'objectif bas des analystes (4,0) est proche du cours actuel."
+      "a_surveiller": "Surveiller les prochaines annonces officielles de l'entreprise sur ses essais cliniques et les résultats du 4 novembre 2026, car les titres actuels n'apportent aucune information concrète."
     }
   },
   "OPEN": {
