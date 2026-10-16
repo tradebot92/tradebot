@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "3a7d9fe2a717b8da",
+    "sig": "b34638d07e519126",
     "analyse": {
       "sentiment": "positif",
-      "importance": 3,
+      "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les actualités récentes évoquent un bénéfice d'Alphabet en hausse de 81 %, un accord important avec Anthropic qui a fait grimper l'action d'environ 2 %, et des débats sur le cloud et une baisse récente du cours. Cela compte car le titre se négocie à 344,91 USD, sous son plus haut sur 52 semaines (404,47), avec des analystes très favorables.",
+      "resume": "Les titres récents évoquent des résultats trimestriels solides d'Alphabet, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance. Google relève toutefois à nouveau ses prévisions d'investissements, et un article mentionne une chute du cours. Cela compte car les investisseurs pèsent la forte croissance face au coût des dépenses.",
       "points_forts": [
-        "Chiffre d'affaires en hausse de 24,2 %",
-        "Bénéfice en forte hausse (+81 % selon Euronews)",
-        "Avis moyen des analystes « strong buy » (objectif moyen ~421 USD)"
+        "Croissance du chiffre d'affaires de 24,2 %",
+        "Bénéfice en hausse de 81 % selon la presse",
+        "Cloud cité comme moteur des résultats"
       ],
       "risques": [
-        "Cours en recul d'environ 15 % par rapport au plus haut sur 52 semaines",
-        "Valorisation très élevée (capitalisation d'environ 4 200 Md USD)",
-        "Une chute du cours évoquée récemment, dont les causes ne sont pas détaillées ici"
+        "Hausse des prévisions d'investissements",
+        "Cours à 344,91 $, en retrait par rapport au plus haut annuel de 404,47 $",
+        "Objectif bas des analystes (340 $) proche du cours actuel"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 28 octobre 2026",
-        "Évolution de l'accord avec Anthropic et de la croissance du cloud"
+        "Prochains résultats trimestriels le 28 octobre 2026",
+        "Nouvelles annonces sur les investissements et la croissance du cloud"
       ],
-      "a_surveiller": "Surveillez si le cours reste au-dessus de l'objectif bas des analystes (340 USD) et ce que les prochains résultats diront sur la croissance du cloud."
+      "a_surveiller": "Surveille si la croissance du cloud continue de justifier la hausse des investissements annoncés, d'ici les résultats du 28 octobre 2026."
     }
   },
   "GLOO": {
@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "3e340378afd2ced9",
+    "sig": "e59640348d0e6758",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et un rappel de l'entrée en Bourse d'Infleqtion via un SPAC, valorisée 1,8 milliard de dollars. Un article évoque un bond de 314 %, mais le cours actuel (9,48 $) a reculé de 45,6 % en 6 mois. Rien de concret et de nouveau ne ressort, mais cela montre une action très volatile.",
+      "resume": "Infleqtion, spécialiste des technologies quantiques (calcul, capteurs, horloges atomiques), est cotée via une fusion avec un SPAC, sur une valorisation initiale annoncée de 1,8 milliard de dollars. Les titres récents évoquent un bond de 314 % puis une forte baisse : le cours est à 9,48 USD, soit environ -45,6 % sur 6 mois et proche de son plus bas sur 52 semaines (8,52). Les titres ne donnent aucun détail concret, donc l'action reste très volatile et difficile à évaluer.",
       "points_forts": [
-        "Croissance du chiffre d'affaires très élevée (1,565)",
-        "Avis d'analystes strong_buy (7 analystes)",
-        "Objectif moyen de 20,43 $, bien au-dessus du cours actuel"
+        "Croissance du chiffre d'affaires de 156,5 %",
+        "Objectif moyen des analystes (20,43 USD) bien au-dessus du cours",
+        "Avis des 7 analystes : strong buy"
       ],
       "risques": [
-        "Forte volatilité : -45,6 % en 6 mois, entre 8,52 et 21,28 $",
-        "Cours proche du plus bas sur 52 semaines",
-        "Secteur quantique jeune, avec une valorisation issue d'un SPAC"
+        "Volatilité extrême (plus haut 21,28, plus bas 8,52)",
+        "Titre issu d'un SPAC, souvent plus spéculatif",
+        "Secteur quantique encore jeune, valorisation élevée par rapport à l'activité"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-12",
-        "Évolution des objectifs et avis des analystes"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Nouvelles annonces de contrats ou de produits (capteurs, horloges, calcul quantique)"
       ],
-      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas de 52 semaines (8,52 $) et ce que révéleront les prochains résultats sur la croissance du chiffre d'affaires."
+      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas des 52 semaines (8,52 USD) et si la croissance du chiffre d'affaires se confirme aux prochains résultats."
     }
   },
   "EIKN": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "0e2a10557647f3e6",
+    "sig": "877ae0b447adb568",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "D'après les titres récents, la FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), traitement de la schizophrénie développé avec Medincell, et l'action a bondi d'environ 18 %. Une suspension temporaire de la cotation a aussi été annoncée, sans détail dans les données fournies. Cette autorisation compte car elle valide un produit clé de la société, mais le titre reste très volatil.",
+      "resume": "Les titres récents évoquent un feu vert de l'autorité sanitaire américaine (FDA) pour le traitement TEV-749 contre la schizophrénie, qui a fait bondir l'action. Les redevances sur les ventes d'Uzedy progressent, mais les pertes annuelles se creusent, ce qui avait fait chuter le titre de 15 % à une autre occasion. Cela compte car l'avenir de MedinCell repose beaucoup sur ces produits et sur leur approbation.",
       "points_forts": [
-        "Autorisation FDA de Weltruza annoncée dans les titres",
-        "Avis moyen des analystes « strong_buy » (9 analystes), objectif moyen 35,51 € contre 26,66 € de cours",
-        "Produit UZEDY déjà commercialisé et autres candidats en développement (mdc-CWM en Phase III)"
+        "Feu vert de la FDA évoqué pour le TEV-749",
+        "Hausse des redevances liées aux ventes d'Uzedy",
+        "9 analystes, avis « strong buy », objectif moyen 35,5 € contre 26,64 € de cours"
       ],
       "risques": [
+        "Pertes annuelles en hausse",
         "Chiffre d'affaires en baisse (-0,446 selon les données)",
-        "Forte volatilité : fourchette 52 semaines de 19,69 à 39,68 €",
-        "Raison de la suspension de cotation non précisée dans les données"
+        "Forte volatilité du titre (de 19,69 à 39,68 € sur 52 semaines)"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza après l'autorisation FDA",
-        "Avancement de mdc-CWM (Phase III) et du dossier mdc-TJK (stade NDA)"
+        "Lancement commercial et ventes du traitement approuvé (TEV-749)",
+        "Avancée de l'essai de phase III du mdc-CWM contre la douleur post-opératoire"
       ],
-      "a_surveiller": "Surveillez le communiqué officiel expliquant la suspension de cotation, la réaction du cours à sa reprise et les détails du calendrier de lancement de Weltruza."
+      "a_surveiller": "Surveiller la montée en puissance des redevances d'Uzedy et du TEV-749 par rapport à l'évolution des pertes, sachant que le cours peut réagir fortement aux annonces."
     }
   },
   "KLRA": {
@@ -1034,27 +1034,27 @@
     }
   },
   "ETL.PA": {
-    "sig": "b9b5fe4ec818478e",
+    "sig": "43760ab13cf95350",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents montrent un cours très volatil : de fortes hausses ponctuelles (restrictions de Starlink en Ukraine, activation des communications satellite de l'UE, libération de fréquences en bande C) alternent avec de lourdes baisses sur trois mois. Le cours est à 1,78 € après un recul d'environ 38 % sur 6 mois, et les analystes restent partagés (avis « hold »).",
+      "resume": "Les titres montrent une action très volatile : de fortes hausses liées à la constellation LEO, à la restriction de Starlink en Ukraine et à la manne attendue sur la bande C, puis des signes d'essoufflement. Le cours actuel (1,81 €) est pourtant bien en dessous des niveaux évoqués (3,70 €) et en baisse de 37,5 % sur 6 mois, ce qui montre que ces élans ont été suivis de reculs marqués. Les titres datent de périodes différentes et ne permettent pas de dégager une tendance claire.",
       "points_forts": [
-        "Intérêt européen pour les communications satellite souveraines",
-        "Manne liée à la libération de fréquences en bande C évoquée",
+        "Intérêt marqué du marché pour la constellation LEO",
+        "Manne de 6 milliards de dollars liée à la bande C évoquée pour les opérateurs",
         "Chiffre d'affaires en légère croissance (+1,1 %)"
       ],
       "risques": [
-        "Volatilité extrême du cours (plus haut 4,556 € et plus bas 1,3535 € sur 52 semaines)",
-        "Objectifs d'analystes très dispersés (0,3 à 5,22 €)",
-        "Tendance de fond baissière sur 6 mois"
+        "Volatilité extrême : hausses et baisses brutales",
+        "Avis analystes partagé (hold), objectifs de 0,3 à 5,22 €",
+        "Dépendance à des événements externes (Starlink, géopolitique) difficiles à prévoir"
       ],
       "catalyseurs": [
-        "Publication des résultats le 07/08/2026",
-        "Concrétisation des revenus de la bande C et des programmes satellitaires de l'UE"
+        "Publication des résultats le 7 août 2026",
+        "Concrétisation des revenus liés à la libération de la bande C"
       ],
-      "a_surveiller": "Surveillez la réaction du cours aux résultats du 7 août 2026 et si les annonces politiques ou réglementaires se traduisent par des revenus concrets, car les hausses liées à l'actualité ont été suivies de reculs."
+      "a_surveiller": "Surveiller si le cours se stabilise au-dessus du plus bas annuel (1,35 €) et ce que la publication du 7 août dira sur le déploiement LEO et la bande C."
     }
   },
   "EVO": {
@@ -1441,27 +1441,27 @@
     }
   },
   "RXRX": {
-    "sig": "f8c709b346fd93c7",
+    "sig": "8b311486ca21f1d6",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et de graphiques (TradingView, Yahoo Finance) ainsi que des prévisions de prix, sans nouvelle concrète sur l'entreprise. Rien n'indique un événement précis ; le contexte reste celui d'une biotech en phase clinique, volatile, dont le cours (4,16 USD) se situe entre son plus bas et son plus haut sur 52 semaines.",
+      "resume": "Les titres récents sont uniquement des pages de cours et de graphiques (TradingView), sans information concrète sur l'entreprise. Ils ne révèlent ni résultat d'essai clinique ni annonce officielle. Le contexte reste celui d'une biotech en phase clinique, avec un cours de 4,16 USD, proche du bas de sa fourchette sur 52 semaines (2,77 à 7,18).",
       "points_forts": [
-        "Avis moyen des analystes : buy (6 analystes)",
-        "Objectif moyen de 7,32 USD, au-dessus du cours actuel",
-        "Plusieurs candidats-médicaments en essais cliniques (REC-4881, REC-617, REC-1245)"
+        "Avis analystes globalement « buy » (6 analystes), objectif moyen 7,32 USD",
+        "Plusieurs programmes cliniques en cours (REC-4881, REC-617, REC-1245)",
+        "Capitalisation d'environ 2,2 milliards USD"
       ],
       "risques": [
-        "Chiffre d'affaires en forte baisse (-60,1 %)",
-        "Société encore au stade clinique, résultats d'essais incertains",
-        "Forte volatilité : de 2,77 à 7,18 USD sur 52 semaines"
+        "Chiffre d'affaires en forte baisse (-60 %)",
+        "Forte volatilité typique d'une biotech en phase clinique",
+        "Objectif bas des analystes (4,0 USD) proche du cours actuel"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 04/11/2026",
-        "Données d'essais cliniques sur REC-4881, REC-617 ou REC-1245"
+        "Publication des prochains résultats trimestriels prévue le 04/11/2026",
+        "Nouvelles données cliniques sur les programmes en Phase 1/2"
       ],
-      "a_surveiller": "Surveiller les annonces d'avancement des essais cliniques et l'évolution du cours par rapport à l'objectif bas des analystes (4,0 USD), proche du cours actuel."
+      "a_surveiller": "Surveiller les annonces officielles sur les essais cliniques et l'évolution du chiffre d'affaires, plutôt que les simples pages de cours."
     }
   },
   "OPEN": {
