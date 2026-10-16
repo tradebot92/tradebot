@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "42c42ebd2e510031",
+    "sig": "e59640348d0e6758",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et un rappel de l'entrée en Bourse d'Infleqtion via un SPAC, avec une valorisation annoncée de 1,8 milliard de dollars. Ils n'apportent pas d'information nouvelle et concrète sur l'activité. Le cours (8,83 $) a reculé d'environ 45 % en 6 mois et se rapproche de son plus bas sur 52 semaines (8,52 $), ce qui montre une forte volatilité.",
+      "resume": "Infleqtion, spécialiste des technologies quantiques (calcul, capteurs, horloges atomiques), est cotée via une fusion avec un SPAC qui la valorisait à 1,8 milliard de dollars. Les titres évoquent un bond spectaculaire du cours, mais l'action a ensuite reculé d'environ 45 % en 6 mois et se situe près de son plus bas sur 52 semaines. Les titres ne donnent aucun fait précis sur la cause des mouvements récents.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (1,565 selon les données)",
-        "Avis des analystes « strong buy » (7 analystes), objectif moyen 20,43 $",
-        "Positionnement dans les technologies quantiques (horloges, capteurs, calcul)"
+        "Croissance du chiffre d'affaires très forte (+156,5 %)",
+        "Avis moyen des analystes « strong buy » (7 analystes)",
+        "Gamme variée : calcul, capteurs, horloges quantiques"
       ],
       "risques": [
-        "Forte baisse du cours sur 6 mois, proche du plus bas annuel",
-        "Titre très volatil, issu d'un SPAC, avec une valorisation élevée",
-        "Écart important entre le cours actuel et les objectifs des analystes, ce qui invite à la prudence"
+        "Volatilité extrême (plus haut 21,28 $, plus bas 8,52 $)",
+        "Cours proche du plus bas annuel, tendance baissière sur 6 mois",
+        "Entreprise récemment introduite via SPAC, valorisation élevée pour une technologie encore jeune"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 12 novembre 2026",
-        "Révisions des objectifs ou des avis des analystes"
+        "Annonces de contrats ou de produits (capteurs, horloges, calcul quantique)"
       ],
-      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas de 52 semaines (8,52 $) et ce que diront les prochains résultats sur la croissance et les pertes."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas annuel de 8,52 $ et comment le chiffre d'affaires évolue aux prochains résultats, sachant que l'écart entre le cours actuel et les objectifs des analystes (12 à 25 $) reste une simple opinion, pas une certitude."
     }
   },
   "EIKN": {
@@ -818,27 +818,27 @@
     }
   },
   "IDIP.PA": {
-    "sig": "d7fea82b1cfa0a54",
+    "sig": "38a637be192a72ea",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents portent sur le rapport financier semestriel au 30 juin 2026, avec un actif net réévalué en progression au premier semestre, et sur une proposition de dividende de 2,9 € par action. Ces éléments sont plutôt rassurants pour une société d'investissement, mais les titres ne donnent pas de chiffres précis, et le cours reste proche de son plus bas sur 52 semaines.",
+      "resume": "Les titres récents portent sur le rapport financier semestriel d'IDI et sur une progression de l'actif net réévalué au 1er semestre. Un dividende de 2,9 € par action a aussi été proposé, avec mise en paiement le 28 mai 2026. Les titres ne donnent pas de chiffres précis, donc l'impact concret sur le cours reste difficile à mesurer.",
       "points_forts": [
-        "Actif net réévalué en hausse au 1er semestre (selon un titre)",
-        "Dividende proposé de 2,9 € par action, soit environ 4 % du cours actuel",
-        "Objectifs des analystes (74 à 85 €) au-dessus du cours de 66,6 €"
+        "Actif net réévalué en progression au 1er semestre",
+        "Dividende proposé de 2,9 € par action",
+        "Objectifs d'analystes (74 à 85 €) au-dessus du cours de 66,6 €"
       ],
       "risques": [
         "Cours proche du plus bas sur 52 semaines (65,8 €)",
-        "Seulement 2 analystes, donc peu de recul sur l'avis général",
-        "Petite capitalisation, probablement peu échangée et sensible aux variations de valorisation des participations non cotées"
+        "Seulement 2 analystes, avis peu représentatif",
+        "Petite capitalisation, valeur potentiellement peu liquide et volatile"
       ],
       "catalyseurs": [
-        "Prochaines publications de l'actif net réévalué (aucune date de résultats indiquée)",
-        "Opérations de cession ou d'investissement dans le portefeuille"
+        "Prochaine publication de l'actif net réévalué (date non communiquée)",
+        "Détachement et paiement du dividende"
       ],
-      "a_surveiller": "L'évolution de l'écart entre le cours et l'actif net réévalué, ainsi que la tenue du cours au-dessus de son plus bas annuel de 65,8 €."
+      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas annuel de 65,8 € et l'évolution de l'écart entre le cours et l'actif net réévalué."
     }
   },
   "FUN": {
