@@ -24,75 +24,75 @@
     }
   },
   "GOOG": {
-    "sig": "b34638d07e519126",
+    "sig": "3a7d9fe2a717b8da",
     "analyse": {
       "sentiment": "positif",
-      "importance": 4,
+      "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres récents évoquent des résultats trimestriels solides pour Alphabet, avec un bénéfice en hausse de 81 % et un cloud qui tire la croissance. Le groupe a toutefois relevé à nouveau ses prévisions d'investissements, et un article mentionne une chute du cours, ce qui montre que le marché reste partagé sur le coût de cette stratégie.",
+      "resume": "Les titres récents évoquent une hausse de 81 % du bénéfice d'Alphabet, un accord important avec Anthropic qui a fait monter l'action d'environ 2 %, ainsi que des commentaires sur le cloud et une baisse du cours. Le cours (344,91 $) reste nettement sous son plus haut sur 52 semaines (404,47 $) et n'a progressé que de 1,8 % en 6 mois, malgré une croissance du chiffre d'affaires de 24,2 %.",
       "points_forts": [
-        "Bénéfice en forte hausse (+81 % selon Euronews)",
         "Croissance du chiffre d'affaires de 24,2 %",
-        "Consensus des analystes très favorable (strong_buy, objectif moyen ~421 USD)"
+        "Bénéfice en forte hausse (+81 % selon les titres)",
+        "Avis analystes strong_buy, objectif moyen 420,79 $"
       ],
       "risques": [
-        "Hausse des prévisions d'investissements qui pèse sur les marges futures",
-        "Cours à 344,91 USD, nettement sous le plus haut annuel de 404,47 USD",
-        "Valorisation élevée avec une capitalisation d'environ 4 200 milliards USD"
+        "Cours environ 15 % sous le plus haut sur 52 semaines",
+        "Évocation d'une chute du cours dans l'actualité récente",
+        "Objectif bas des analystes (340 $) proche du cours actuel"
       ],
       "catalyseurs": [
-        "Prochains résultats trimestriels le 28 octobre 2026",
-        "Évolution de la croissance du cloud et du niveau des investissements annoncés"
+        "Publication des résultats prévue le 2026-10-28",
+        "Suites de l'accord avec Anthropic et évolution du cloud"
       ],
-      "a_surveiller": "Regarder si la croissance du cloud et des revenus continue de justifier la hausse des investissements lors des résultats du 28 octobre 2026."
+      "a_surveiller": "Surveillez si les résultats du 28 octobre 2026 confirment la croissance du cloud et du chiffre d'affaires, et si le cours s'éloigne ou non de l'objectif bas des analystes (340 $)."
     }
   },
   "GLOO": {
-    "sig": "54ca41cdcffd78d7",
+    "sig": "d5e6ae6c0b5dbf08",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents sont de simples pages de cours et de graphiques (TradingView, Yahoo Finance), sans information concrète sur Gloo. Le contexte chiffré reste marquant : l'action a perdu environ 59 % en 6 mois et se situe près de son plus bas sur 52 semaines (3,26 $ contre 2,90 $).",
+      "resume": "Les titres d'actualité récents ne contiennent aucune information concrète sur Gloo : ce sont des pages de cotation génériques (TradingView, Yahoo Finance), dont certaines concernent d'autres sociétés. Le contexte reste celui d'une petite capitalisation (environ 302 M USD) dont le cours a fortement reculé, à 3,26 USD, soit -59,2 % en 6 mois et proche de son plus bas sur 52 semaines (2,9).",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 1,88 (à confirmer selon l'unité)",
-        "Objectifs d'analystes nettement au-dessus du cours (moyen 11,17 $)",
-        "Plateforme d'outils IA avec abonnements pour un marché de niche"
+        "Croissance du chiffre d'affaires de 1,88 (donnée fournie)",
+        "Objectifs des analystes (7 à 17 USD) bien supérieurs au cours actuel",
+        "Positionnement sur un créneau spécialisé (plateforme technologique pour le monde confessionnel)"
       ],
       "risques": [
-        "Forte baisse du cours sur 6 mois, signe de grande volatilité",
-        "Petite capitalisation (environ 302 M$), plus sensible aux fortes variations",
-        "Écart important entre les objectifs d'analystes, sans avis consensuel clair"
+        "Forte baisse du cours sur 6 mois et forte volatilité probable",
+        "Petite capitalisation, donc cours sensible aux variations",
+        "Avis global des analystes non renseigné (« none ») malgré des objectifs élevés"
       ],
       "catalyseurs": [
         "Publication des prochains résultats le 2026-09-09",
-        "Éventuelles révisions des objectifs par les analystes après ces résultats"
+        "Éventuelles révisions des objectifs par les 6 analystes qui suivent le titre"
       ],
-      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas de 52 semaines (2,90 $) et ce que la direction dira sur la croissance lors des résultats de septembre."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas des 52 semaines (2,9 USD) d'ici les résultats du 9 septembre 2026."
     }
   },
   "INFQ": {
-    "sig": "75c706e0d13d4e7e",
+    "sig": "3e340378afd2ced9",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et un article sur l'entrée en Bourse d'Infleqtion via un SPAC, avec une valorisation de 1,8 milliard de dollars. Aucune actualité concrète nouvelle n'apparaît. Le cours (9,48 $) a reculé de 45,6 % en 6 mois et reste proche de son plus bas sur 52 semaines (8,52 $), ce qui montre une forte volatilité.",
+      "resume": "Les titres récents sont surtout des pages de cotation et un rappel de l'entrée en Bourse d'Infleqtion via un SPAC, avec une valorisation de 1,8 milliard de dollars. Rien de concret et de nouveau n'en ressort, mais le titre a beaucoup reculé (-45,6 % en 6 mois) alors que les analystes restent très positifs, ce qui illustre une forte volatilité.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 156,5 %",
-        "Avis moyen des analystes « strong buy » (7 analystes)",
-        "Objectif moyen des analystes (20,43 $) nettement supérieur au cours actuel"
+        "Croissance du chiffre d'affaires élevée (1,565)",
+        "Avis des analystes strong_buy (7 analystes), objectif moyen 20,43 USD",
+        "Activité dans les capteurs et ordinateurs quantiques, des technologies de pointe"
       ],
       "risques": [
-        "Forte volatilité : baisse de 45,6 % en 6 mois, plus haut à 21,28 $",
-        "Société récemment cotée via SPAC, secteur quantique très spéculatif",
-        "Large écart entre objectifs d'analystes (12 $ à 25 $), signe d'incertitude"
+        "Forte volatilité : cours proche du plus bas sur 52 semaines (8,52 USD)",
+        "Titre issu d'un SPAC, souvent très spéculatif",
+        "Secteur quantique sensible à l'engouement du marché et aux comparaisons (ex. IonQ)"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 12 novembre 2026",
-        "Évolution du sentiment sur le secteur de l'informatique quantique (ex. IonQ)"
+        "Publication des prochains résultats le 12 novembre 2026",
+        "Évolution des révisions d'objectifs des analystes et de l'intérêt du marché pour le secteur quantique"
       ],
-      "a_surveiller": "Le maintien du cours au-dessus du plus bas sur 52 semaines (8,52 $) et la publication des résultats du 12 novembre 2026."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas sur 52 semaines (8,52 USD) et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
     }
   },
   "EIKN": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "b4bd32a1c2131f6e",
+    "sig": "d8800a576615c2b5",
     "contenu": {
       "points": [
         {
-          "symbole": "GOOG",
-          "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud qui tire la croissance.",
-          "a_surveiller": "La nouvelle hausse des prévisions d'investissements, qui pourrait peser sur les marges futures alors que le cours (344,91 USD) reste sous son plus haut annuel de 404,47 USD.",
-          "nom": "Alphabet Inc."
-        },
-        {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé Weltruza (TEV-749), un traitement de la schizophrénie lié à MedinCell, ce qui a fait bondir le titre d'environ 18 % selon la presse.",
-          "a_surveiller": "La forte volatilité du titre et le recul du chiffre d'affaires (-0,446), ainsi que la dépendance aux résultats commerciaux et aux partenaires.",
+          "pourquoi": "Le titre ressort après un feu vert de la FDA pour le TEV-749 contre la schizophrénie, qui a fait bondir le cours, et les redevances d'Uzedy augmentent.",
+          "a_surveiller": "Les pertes annuelles qui se creusent, le chiffre d'affaires en recul de 44,6 % et la forte volatilité entre 19,69 € et 39,68 € sur 52 semaines.",
           "nom": "MEDINCELL S.A."
         },
         {
           "symbole": "OPK",
-          "pourquoi": "L'action OPKO Health a bondi après l'annonce de la cession des actifs BioReference pour 722 M$, ce qui pourrait renforcer ses moyens financiers.",
-          "a_surveiller": "Les détails de l'opération (utilisation du produit, conditions) et la dépendance accrue à des projets pharmaceutiques en phase 1, dans un contexte de cours proche de son plus haut sur 52 semaines (1,75 $).",
+          "pourquoi": "L'action a bondi après l'annonce de la cession des actifs BioReference pour 722 M$, ce qui pourrait donner plus de moyens financiers et un recentrage sur la pharmacie.",
+          "a_surveiller": "Les détails de l'opération (utilisation du produit, conditions) ne sont pas connus, et le cours proche de son plus haut sur 52 semaines (1,75 $) dépend davantage de projets pharmaceutiques en phase 1, incertains.",
           "nom": "Opko Health, Inc."
+        },
+        {
+          "symbole": "GOOG",
+          "pourquoi": "L'actualité évoque une hausse de 81 % du bénéfice et un accord important avec Anthropic, qui a fait monter l'action d'environ 2 %, avec un chiffre d'affaires en croissance de 24,2 %.",
+          "a_surveiller": "Le cours (344,91 $) reste environ 15 % sous son plus haut sur 52 semaines et proche de l'objectif bas des analystes (340 $).",
+          "nom": "Alphabet Inc."
         }
       ],
-      "prudence": "Ces informations sont issues d'une veille et ne constituent pas un conseil : les cours peuvent varier fortement à la hausse comme à la baisse, avec un risque de perte en capital."
+      "prudence": "Ces informations sont issues de titres d'actualité et de scores indicatifs, elles ne garantissent aucune évolution future des cours et tout investissement comporte un risque de perte en capital."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "db4c6cef6d6ca291",
+    "sig": "b39279816f369a76",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines (FDA) ont autorisé la mise sur le marché de Weltruza (TEV-749), un traitement de la schizophrénie lié à MedinCell, ce qui a fait bondir le titre d'environ 18 % selon la presse. C'est une étape réglementaire majeure pour une biotech dont le chiffre d'affaires recule (-0,446 selon les données fournies). Une séance de forte baisse a aussi été signalée, ce qui montre une volatilité élevée.",
+      "resume": "Les titres évoquent un feu vert de l'autorité sanitaire américaine (FDA) pour le traitement TEV-749 contre la schizophrénie, qui a fait bondir le titre. À côté, les redevances d'Uzedy augmentent, mais les pertes annuelles se creusent, ce qui avait provoqué une chute de 15 % à une autre occasion. Pour une petite biotech, ces décisions réglementaires comptent beaucoup et font fortement varier le cours.",
       "points_forts": [
-        "Feu vert de la FDA pour Weltruza (TEV-749)",
-        "Consensus des 9 analystes : strong_buy, objectif moyen 35,51 € vs cours 26,42 €",
-        "Autres produits en développement (mdc-CWM en phase III)"
+        "Feu vert de la FDA évoqué pour TEV-749 (schizophrénie)",
+        "Hausse des redevances liées aux ventes d'Uzedy",
+        "Analystes très favorables : avis strong_buy, objectif moyen 35,5 € contre 26,72 € de cours"
       ],
       "risques": [
-        "Chiffre d'affaires en recul (-0,446)",
-        "Forte volatilité du titre (hausse de 18 %, puis séances de baisse)",
-        "Dépendance aux résultats commerciaux et aux partenaires pour les produits autorisés"
+        "Pertes annuelles qui se creusent",
+        "Chiffre d'affaires en recul de 44,6 %",
+        "Forte volatilité : écart important entre plus haut (39,68 €) et plus bas (19,69 €) sur 52 semaines"
       ],
       "catalyseurs": [
-        "Lancement commercial et premières ventes de Weltruza",
-        "Avancement de la phase III de mdc-CWM contre la douleur post-opératoire"
+        "Lancement commercial et suites réglementaires de TEV-749 après la décision de la FDA",
+        "Évolution des ventes d'Uzedy, qui déterminent les redevances perçues"
       ],
-      "a_surveiller": "Surveiller la capacité du titre à se stabiliser après le bond lié à l'autorisation de la FDA, ainsi que les annonces sur le calendrier de commercialisation et les futures publications de résultats (date non communiquée)."
+      "a_surveiller": "Surveillez la confirmation des détails de la décision de la FDA et la trajectoire des pertes face à la progression des redevances, sachant que le titre peut varier de façon brutale dans les deux sens."
     }
   },
   "KLRA": {
@@ -1441,27 +1441,27 @@
     }
   },
   "RXRX": {
-    "sig": "8b311486ca21f1d6",
+    "sig": "8666222a67734f9f",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont uniquement des pages de cours et de graphiques (TradingView), sans information concrète sur l'entreprise. Ils n'apportent aucun fait nouveau sur les essais cliniques ou les résultats. Le contexte reste celui d'une biotech de taille moyenne, très volatile, dont le cours (4,16 USD) se situe entre son plus bas (2,77) et son plus haut (7,18) sur 52 semaines.",
+      "resume": "Les titres récents sont surtout des pages génériques de cours et de graphiques (TradingView, Yahoo Finance) ainsi que des mentions de Sanofi et NRIX, sans information concrète sur Recursion. Rien dans l'actualité ne permet de dire si la situation de l'entreprise a changé. Le contexte reste celui d'une biotech en phase clinique, au chiffre d'affaires en forte baisse et au cours volatil.",
       "points_forts": [
-        "Avis moyen des analystes : « buy » (6 analystes)",
-        "Objectif moyen de 7,32 USD, au-dessus du cours actuel",
-        "Plusieurs candidats-médicaments en essais cliniques (REC-4881, REC-617, REC-1245)"
+        "Avis moyen des analystes : buy (6 analystes)",
+        "Objectif moyen 7,32 USD, au-dessus du cours de 4,16 USD",
+        "Pipeline en essais cliniques (REC-4881, REC-617, REC-1245)"
       ],
       "risques": [
-        "Chiffre d'affaires en forte baisse (-60,1 %)",
-        "Société encore au stade clinique, résultats des essais incertains",
-        "Cours très volatile, objectif bas des analystes (4,0 USD) proche du cours actuel"
+        "Chiffre d'affaires en baisse de 60 % environ",
+        "Cours très volatil (52 sem. : 2,77 à 7,18 USD)",
+        "Dépendance aux résultats d'essais cliniques encore en phases précoces"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 04/11/2026",
-        "Nouvelles données sur les essais cliniques en cours"
+        "Publication des résultats prévue le 2026-11-04",
+        "Nouvelles données des essais cliniques en cours (REC-4881, REC-617, REC-1245)"
       ],
-      "a_surveiller": "Surveiller les annonces sur l'avancement des essais cliniques et l'évolution du chiffre d'affaires lors des prochains résultats, plutôt que les simples pages de cours."
+      "a_surveiller": "Surveille les annonces officielles sur les essais cliniques et les résultats du 4 novembre 2026, car les titres actuels n'apportent aucune information nouvelle."
     }
   },
   "OPEN": {

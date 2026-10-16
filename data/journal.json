@@ -628,5 +628,20 @@
       -8.9
     ],
     "resume": "Les titres récents évoquent des résultats trimestriels solides pour Alphabet, avec un bénéfice en hausse de 81 % et un cloud qui tire la croissance. Le groupe relève toutefois à nouveau ses prévisions d'investissements, et un article parle d'une chute du cours. Cela compte car la croissance du chiffre d'affaires (+24,2 %) est forte, mais les dépenses élevées peuvent peser sur la perception du titre."
+  },
+  {
+    "date": "16/10/2026 11:27",
+    "symbole": "MEDCL.PA",
+    "sentiment": "positif",
+    "cours": 26.72,
+    "gain": [
+      8.1,
+      32.9
+    ],
+    "perte": [
+      -8.1,
+      -16.2
+    ],
+    "resume": "Les titres évoquent un feu vert de l'autorité sanitaire américaine (FDA) pour le traitement TEV-749 contre la schizophrénie, qui a fait bondir le titre. À côté, les redevances d'Uzedy augmentent, mais les pertes annuelles se creusent, ce qui avait provoqué une chute de 15 % à une autre occasion. Pour une petite biotech, ces décisions réglementaires comptent beaucoup et font fortement varier le cours."
   }
 ]
