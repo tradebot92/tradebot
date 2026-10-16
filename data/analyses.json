@@ -72,51 +72,51 @@
     }
   },
   "INFQ": {
-    "sig": "7ec4a41901edcf26",
+    "sig": "6f7633869c6fa837",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Infleqtion, spécialiste des technologies quantiques (calcul, capteurs, horloges atomiques), est cotée à New York après une introduction via SPAC valorisée à 1,8 milliard de dollars. Les titres récents évoquent un bond spectaculaire de 314 % puis une forte baisse, le cours à 8,55 $ étant proche de son plus bas sur 52 semaines (8,42 $). Les titres ne donnent aucun fait concret sur l'entreprise, donc l'analyse reste prudente.",
+      "resume": "Les titres récents sont surtout des pages de cours et des articles sur l'entrée en Bourse d'Infleqtion via un SPAC, valorisée à 1,8 milliard de dollars, ainsi qu'un « bond de 314 % » évoqué sur TradingView. Ils ne donnent pas d'information concrète nouvelle. Le titre à 8,55 $ a perdu environ 46,6 % en 6 mois et se situe près de son plus bas sur 52 semaines (8,42 $), ce qui montre une forte volatilité.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (+156,5 %)",
-        "Avis des 7 analystes : « strong buy », objectif moyen à 20,43 $",
-        "Gamme variée : calcul quantique, horloges et capteurs pour environnements sans GPS"
+        "Croissance du chiffre d'affaires de 156,5 %",
+        "Avis moyen des analystes « strong_buy » (7 analystes)",
+        "Objectif moyen des analystes (20,43 $) nettement au-dessus du cours"
       ],
       "risques": [
-        "Forte volatilité : -46,6 % en 6 mois, proche du plus bas annuel",
-        "Valorisation élevée (environ 1,9 milliard de dollars de capitalisation) pour une société de technologie émergente",
-        "Titre issu d'un SPAC, souvent plus risqué et volatil"
+        "Forte volatilité : -46,6 % en 6 mois, cours proche du plus bas sur 52 semaines",
+        "Valorisation élevée (capitalisation d'environ 1,9 milliard $) pour une jeune société cotée par SPAC",
+        "Secteur de l'informatique quantique encore spéculatif et commercialisation à un stade précoce"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Annonces de contrats ou de partenariats dans le quantique, y compris pour la défense et la navigation"
+        "Publication des prochains résultats le 12 novembre 2026",
+        "Révisions des objectifs ou des avis des analystes"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas de 52 semaines (8,42 $) et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas des 52 semaines (8,42 $) et si la croissance du chiffre d'affaires se confirme dans les prochains résultats."
     }
   },
   "EIKN": {
-    "sig": "2d3a849c66faaf8f",
+    "sig": "690c1835421e04fd",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas d'Eikon Therapeutics : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, NVAX, SPRY, AGMB). Aucune information concrète sur l'entreprise ne ressort, donc le contexte repose surtout sur le cours, en baisse d'environ 36 % sur 6 mois, et sur la dispersion des objectifs d'analystes.",
+      "resume": "Les titres récents ne concernent pas vraiment Eikon : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, MRNA, SPRY, AGMB). Aucune information concrète sur Eikon n'en ressort. L'action recule d'environ 36 % en 6 mois, alors que les analystes affichent un objectif moyen bien supérieur au cours actuel.",
       "points_forts": [
-        "Large pipeline clinique en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)",
-        "Objectif moyen des analystes (24,6 $) très au-dessus du cours actuel (7,42 $)",
-        "Capitalisation d'environ 402 M$, avec un cours encore loin de son plus bas annuel (6,45 $)"
+        "Portefeuille clinique varié (immunothérapie TLR 7/8, inhibiteurs PARP1, inhibiteur WRN)",
+        "Objectif moyen des analystes (24,33 $) très supérieur au cours de 7,42 $",
+        "Capitalisation d'environ 402 M$ pour une biotech en phase clinique"
       ],
       "risques": [
-        "Société clinique sans chiffre d'affaires communiqué, donc très dépendante des résultats d'essais",
-        "Forte volatilité : fourchette 52 semaines de 6,45 à 17,4 $, et objectifs analystes de 4 à 32 $",
-        "Cours proche de son plus bas annuel après une baisse de 36 % en 6 mois"
+        "Forte volatilité : écart entre plus bas (6,45 $) et plus haut (17,4 $) sur 52 semaines",
+        "Fourchette d'objectifs très large (4 à 32 $), signe d'une grande incertitude",
+        "Aucun chiffre d'affaires communiqué ; résultats cliniques incertains"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Éventuelles données cliniques ou annonces sur le pipeline (non précisées dans les données)"
+        "Publication des résultats trimestriels prévue le 12 novembre 2026",
+        "Éventuelles données cliniques sur les candidats EIK1001, EIK1003/1004 ou EIK1005 (non datées dans les informations fournies)"
       ],
-      "a_surveiller": "Surveillez les communications officielles de l'entreprise sur ses essais cliniques et sa trésorerie, ainsi que la publication des résultats du 12 novembre 2026."
+      "a_surveiller": "Surveiller les annonces officielles d'Eikon sur ses essais cliniques et sa trésorerie, plutôt que les pages de cours génériques d'autres sociétés."
     }
   },
   "EXK": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "8c8c8808aff09e7b",
+    "sig": "d2928f4f739ccd50",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
-          "pourquoi": "Alphabet publie des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance.",
-          "a_surveiller": "La nouvelle hausse des prévisions d'investissements, et un cours de 344,91 $ proche de l'objectif bas des analystes (340 $) et en retrait du plus haut annuel de 404,47 $.",
+          "pourquoi": "Alphabet ressort avec des résultats trimestriels solides, un bénéfice en hausse de 81 % et un cloud moteur de la croissance.",
+          "a_surveiller": "La nouvelle hausse des prévisions d'investissements, ainsi que l'écart entre le cours de 344,91 $ et l'objectif bas des analystes à 340 $.",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "OPK",
-          "pourquoi": "L'action a bondi après l'annonce de la cession des actifs BioReference pour 722 M$, ce qui pourrait renforcer les moyens financiers et recentrer l'entreprise sur la pharmacie.",
-          "a_surveiller": "Les détails de l'opération (utilisation du produit, conditions) ne sont pas connus, et l'entreprise dépendra davantage de projets pharmaceutiques en phase 1, incertains, avec un cours proche de son plus haut sur 52 semaines (1,75 $).",
+          "pourquoi": "L'action a bondi après l'annonce de la cession des actifs BioReference pour 722 M$, ce qui pourrait renforcer les moyens financiers de l'entreprise.",
+          "a_surveiller": "Les détails de l'opération (utilisation du produit, conditions), non fournis, et la dépendance accrue à des projets pharmaceutiques en phase 1 encore incertains.",
           "nom": "Opko Health, Inc."
         },
         {
           "symbole": "MEDCL.PA",
-          "pourquoi": "Les redevances liées aux ventes d'Uzedy augmentent, mais les pertes annuelles se creusent et le chiffre d'affaires recule, d'où des signaux contrastés.",
-          "a_surveiller": "L'issue de la décision de la FDA sur le TEV-749 et le motif de la suspension temporaire de cotation, qui ne figurent pas dans les données fournies.",
+          "pourquoi": "Les titres sont contrastés : décision de la FDA attendue sur le TEV-749, cotation suspendue temporairement et pertes annuelles plus élevées malgré la hausse des redevances d'Uzedy.",
+          "a_surveiller": "L'issue concrète de la décision de la FDA, qui pèse beaucoup sur le cours, et la forte volatilité du titre après sa baisse de 15 % suite aux résultats.",
           "nom": "MEDINCELL S.A."
         }
       ],
-      "prudence": "Ces informations ne constituent pas un conseil : les cours peuvent fortement varier, à la hausse comme à la baisse, et l'on peut perdre une partie du capital investi."
+      "prudence": "Ces éléments sont donnés à titre d'information et ne garantissent aucun résultat : les cours peuvent varier fortement à la hausse comme à la baisse, avec un risque de perte en capital."
     }
   },
   "SVC": {
