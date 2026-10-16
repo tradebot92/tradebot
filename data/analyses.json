@@ -72,51 +72,50 @@
     }
   },
   "INFQ": {
-    "sig": "7ec4a41901edcf26",
+    "sig": "e59640348d0e6758",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Infleqtion est une entreprise de technologies quantiques (calcul, capteurs, horloges atomiques) entrée en Bourse via un SPAC sur la base d'une valorisation de 1,8 milliard de dollars. Les titres récents évoquent un bond de 314 % puis une forte baisse : le cours (8,6 $) est proche de son plus bas sur 52 semaines (8,52 $) et a perdu environ 46 % en 6 mois. Les titres ne donnent aucun fait précis sur l'entreprise, donc la lecture reste incertaine.",
+      "resume": "Infleqtion, spécialiste de la technologie quantique, est cotée depuis peu après une fusion avec un SPAC valorisant l'entreprise à 1,8 milliard de dollars. Les titres récents évoquent un bond spectaculaire de 314 %, mais le cours actuel (8,56 $) est proche de son plus bas sur 52 semaines et en baisse de 46,5 % sur 6 mois. Ces mouvements très marqués montrent une forte volatilité, et les titres ne donnent pas de détail concret sur les fondamentaux.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 156,5 %",
-        "Avis des analystes très favorable (strong_buy, 7 analystes)",
-        "Objectif moyen des analystes (20,4 $) bien supérieur au cours actuel"
+        "Forte croissance du chiffre d'affaires (+156,5 %)",
+        "Avis des analystes « strong buy » (7 analystes), objectif moyen 20,43 $",
+        "Gamme variée : ordinateurs quantiques, horloges, capteurs pour environnements sans GPS"
       ],
       "risques": [
-        "Volatilité extrême typique des valeurs quantiques issues de SPAC",
-        "Cours proche du plus bas annuel, tendance baissière sur 6 mois",
-        "Objectif bas des analystes (12 $) et valorisation de près de 1,9 milliard de dollars à justifier"
+        "Volatilité extrême (hausse de 314 % puis forte baisse)",
+        "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
+        "Société récemment introduite via SPAC, secteur quantique encore spéculatif"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 12 novembre 2026",
-        "Annonces de contrats ou de produits (capteurs quantiques, informatique quantique)"
+        "Évolutions des objectifs et des avis des analystes"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas de 52 semaines (8,52 $) et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas annuel (8,52 $) et si la croissance du chiffre d'affaires se confirme dans les prochains résultats."
     }
   },
   "EIKN": {
-    "sig": "f3489f0f81de5b3b",
+    "sig": "ed068c84563f6176",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas directement d'Eikon Therapeutics : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, MRNA, SPRY, AGMB). Ils n'apportent aucune information concrète sur l'entreprise. Le cours (7,27 USD) a baissé d'environ 37 % en 6 mois, ce qui reflète une forte volatilité.",
+      "resume": "Les titres récents ne concernent pas directement Eikon Therapeutics : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, SPRY, NVAX, AGMB). Aucune information concrète sur l'entreprise n'en ressort. Le cours (7,4 USD) a reculé d'environ 36 % en 6 mois et reste proche du bas de sa fourchette sur 52 semaines.",
       "points_forts": [
         "Portefeuille clinique diversifié (EIK1001, EIK1003, EIK1004, EIK1005)",
-        "Objectif moyen des analystes (24,6 USD) très au-dessus du cours actuel",
-        "Capitalisation d'environ 394 M USD"
+        "Objectif moyen des analystes (24,6 USD) nettement au-dessus du cours actuel"
       ],
       "risques": [
-        "Société encore au stade clinique, sans chiffre d'affaires communiqué",
-        "Forte volatilité : plus bas 6,45 et plus haut 17,4 sur 52 semaines",
-        "Très grand écart entre les objectifs des analystes (4,0 à 32,0 USD), signe d'une grande incertitude"
+        "Société biotech en phase clinique, très volatile",
+        "Très forte dispersion des objectifs d'analystes (4,0 à 32,0 USD)",
+        "Aucun chiffre d'affaires communiqué ni visibilité sur la croissance"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 12 novembre 2026",
-        "Toute annonce de données cliniques sur les programmes en développement"
+        "Éventuelles données cliniques sur les programmes EIK1001, PARP1 ou WRN (aucune date indiquée)"
       ],
-      "a_surveiller": "Surveiller les prochaines annonces propres à Eikon (données cliniques, financement) et la publication des résultats du 12 novembre 2026, car les titres actuels ne la concernent pas."
+      "a_surveiller": "Les annonces officielles de l'entreprise sur ses essais cliniques et sa trésorerie, ainsi que l'évolution du cours par rapport au plus bas annuel de 6,45 USD."
     }
   },
   "EXK": {
@@ -1010,27 +1009,27 @@
     }
   },
   "GTN-A": {
-    "sig": "d6803a34eec2fbdd",
+    "sig": "4d141fe12fc91157",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Gray Media a annoncé une hausse de 75 M$ de son prêt à terme et prévoit de rembourser 150 M$ d'obligations de premier rang, ce qui touche à la gestion de sa dette. Un titre évoque aussi une mise à jour de ses prévisions de bénéfice pour le trimestre clos le 30 septembre 2026, mais le contenu n'est pas précisé. L'action a perdu environ 49 % en 6 mois et se situe près de son plus bas sur 52 semaines, ce qui montre une forte pression sur le titre.",
+      "resume": "Gray Media a annoncé un partenariat avec Joy 101 et une opération de refinancement : une hausse de 75 M$ de son prêt à terme et le remboursement prévu de 150 M$ d'obligations de premier rang. Une mise à jour des prévisions de bénéfice pour le trimestre clos le 30 septembre 2026 est aussi mentionnée, mais les titres n'en donnent pas le contenu. L'action a perdu environ 48,6 % en 6 mois, donc la situation financière de l'entreprise mérite attention.",
       "points_forts": [
         "Chiffre d'affaires en hausse de 8,7 %",
-        "Démarche active de refinancement de la dette",
-        "Nouveau partenariat annoncé avec Joy 101"
+        "Gestion active de la dette (refinancement)",
+        "Nouveau partenariat annoncé (Joy 101)"
       ],
       "risques": [
-        "Cours en forte baisse (-48,6 % sur 6 mois)",
-        "Endettement probablement important, détails non fournis",
-        "Mise à jour des prévisions de bénéfice dont le sens n'est pas connu"
+        "Forte baisse du cours sur 6 mois (-48,6 %)",
+        "Endettement : le détail du refinancement n'est pas connu",
+        "Contenu des prévisions de bénéfice non précisé, titre très volatil"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats trimestriels (date non communiquée)",
-        "Détails et conditions du refinancement de la dette"
+        "Détails de la mise à jour des prévisions de bénéfice",
+        "Prochains résultats trimestriels (date non communiquée)"
       ],
-      "a_surveiller": "Le contenu exact de la mise à jour des prévisions de bénéfice et les conditions du nouveau prêt, car ils détermineront si la pression sur le titre persiste."
+      "a_surveiller": "Lire le détail des prévisions de bénéfice mises à jour et les conditions du refinancement (taux, échéances) pour mesurer le poids de la dette."
     }
   },
   "ETL.PA": {
@@ -1486,6 +1485,30 @@
         "Évolution des objectifs et des avis des analystes"
       ],
       "a_surveiller": "Le cours par rapport au plus bas de 52 semaines (1,93 $) et la tendance du chiffre d'affaires lors des prochains résultats."
+    }
+  },
+  "FRVO": {
+    "sig": "f379ed774d7d4044",
+    "analyse": {
+      "sentiment": "neutre",
+      "importance": 3,
+      "confiance": "faible",
+      "resume": "L'action Fervo Energy a chuté d'environ 73 % en six mois et se trouve près de son plus bas sur 52 semaines (9,81 $ contre 9,63 $). Un titre évoque un rapport d'un vendeur à découvert, face auquel RBC estime que l'opportunité à long terme reste intacte. Les autres titres ne donnent pas d'information concrète sur l'entreprise.",
+      "points_forts": [
+        "14 analystes, avis moyen « strong buy »",
+        "Objectif moyen des analystes (~37,7 $) bien au-dessus du cours",
+        "RBC juge l'opportunité à long terme intacte"
+      ],
+      "risques": [
+        "Forte volatilité et chute de 73 % en six mois",
+        "Rapport d'un vendeur à découvert qui pèse sur la confiance",
+        "Aucune donnée de croissance du chiffre d'affaires disponible"
+      ],
+      "catalyseurs": [
+        "Publication des résultats prévue le 16 novembre 2026",
+        "Réponses de l'entreprise ou nouvelles analyses concernant le rapport du vendeur à découvert"
+      ],
+      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas de 52 semaines (9,63 $) et comment l'entreprise réagit aux accusations du vendeur à découvert."
     }
   }
 }

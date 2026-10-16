@@ -20,10 +20,6 @@
       "premiere": "2026-10-16T16:00+02:00",
       "nom": "Beacon Financial Corporation"
     },
-    "EXK": {
-      "premiere": "2026-10-16T16:00+02:00",
-      "nom": "Endeavour Silver Corporation"
-    },
     "FMC": {
       "premiere": "2026-10-16T18:57+02:00",
       "nom": "FMC Corporation"
@@ -35,14 +31,13 @@
     "OPK": {
       "premiere": "2026-10-16T20:14+02:00",
       "nom": "Opko Health, Inc."
+    },
+    "FRVO": {
+      "premiere": "2026-10-16T20:59+02:00",
+      "nom": "Fervo Energy Company"
     }
   },
   "sorties": [
-    {
-      "symbole": "BBT",
-      "date": "15/10/2026",
-      "nom": "Beacon Financial Corporation"
-    },
     {
       "symbole": "ENVX",
       "date": "15/10/2026",
@@ -187,6 +182,11 @@
       "symbole": "SNDA",
       "date": "16/10/2026",
       "nom": "Sonida Senior Living, Inc."
+    },
+    {
+      "symbole": "EXK",
+      "date": "16/10/2026",
+      "nom": "Endeavour Silver Corporation"
     }
   ]
 }
