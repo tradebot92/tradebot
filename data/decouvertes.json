@@ -8,61 +8,36 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "OPK": {
-      "premiere": "2026-10-15T16:03+02:00",
-      "nom": "Opko Health, Inc."
-    },
-    "FMC": {
-      "premiere": "2026-10-15T16:03+02:00",
-      "nom": "FMC Corporation"
-    },
-    "RXRX": {
-      "premiere": "2026-10-15T17:58+02:00",
-      "nom": "Recursion Pharmaceuticals, Inc."
-    },
     "GLOO": {
       "premiere": "2026-10-15T19:53+02:00",
       "nom": "Gloo Holdings, Inc."
     },
-    "BMBL": {
-      "premiere": "2026-10-15T22:55+02:00",
-      "nom": "Bumble Inc."
-    },
-    "EVEX": {
-      "premiere": "2026-10-15T22:55+02:00",
-      "nom": "Eve Holding, Inc."
-    },
     "ETL.PA": {
       "premiere": "2026-10-16T13:19+02:00",
       "nom": "EUTELSAT COMMUNIC."
+    },
+    "EIKN": {
+      "premiere": "2026-10-16T16:00+02:00",
+      "nom": "Eikon Therapeutics, Inc."
+    },
+    "BBT": {
+      "premiere": "2026-10-16T16:00+02:00",
+      "nom": "Beacon Financial Corporation"
+    },
+    "EXK": {
+      "premiere": "2026-10-16T16:00+02:00",
+      "nom": "Endeavour Silver Corporation"
+    },
+    "SNDA": {
+      "premiere": "2026-10-16T16:00+02:00",
+      "nom": "Sonida Senior Living, Inc."
+    },
+    "IDIP.PA": {
+      "premiere": "2026-10-16T16:00+02:00",
+      "nom": "IDI"
     }
   },
   "sorties": [
-    {
-      "symbole": "EXK",
-      "date": "14/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
-    {
-      "symbole": "AADX",
-      "date": "14/10/2026",
-      "nom": "Applied Aerospace & Defense, In"
-    },
-    {
-      "symbole": "TRAX",
-      "date": "14/10/2026",
-      "nom": "First Tracks Biotherapeutics, I"
-    },
-    {
-      "symbole": "ETL.PA",
-      "date": "15/10/2026",
-      "nom": "EUTELSAT COMMUNIC."
-    },
-    {
-      "symbole": "NRG.PA",
-      "date": "15/10/2026",
-      "nom": "NRJ GROUP"
-    },
     {
       "symbole": "EXK",
       "date": "15/10/2026",
@@ -187,6 +162,31 @@
       "symbole": "REAL",
       "date": "16/10/2026",
       "nom": "The RealReal, Inc."
+    },
+    {
+      "symbole": "OPK",
+      "date": "16/10/2026",
+      "nom": "Opko Health, Inc."
+    },
+    {
+      "symbole": "FMC",
+      "date": "16/10/2026",
+      "nom": "FMC Corporation"
+    },
+    {
+      "symbole": "RXRX",
+      "date": "16/10/2026",
+      "nom": "Recursion Pharmaceuticals, Inc."
+    },
+    {
+      "symbole": "BMBL",
+      "date": "16/10/2026",
+      "nom": "Bumble Inc."
+    },
+    {
+      "symbole": "EVEX",
+      "date": "16/10/2026",
+      "nom": "Eve Holding, Inc."
     }
   ]
 }

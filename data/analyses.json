@@ -72,51 +72,51 @@
     }
   },
   "INFQ": {
-    "sig": "e59640348d0e6758",
+    "sig": "42c42ebd2e510031",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Infleqtion, spécialiste des technologies quantiques (calcul, capteurs, horloges atomiques), est cotée via une fusion avec un SPAC, sur une valorisation initiale annoncée de 1,8 milliard de dollars. Les titres récents évoquent un bond de 314 % puis une forte baisse : le cours est à 9,48 USD, soit environ -45,6 % sur 6 mois et proche de son plus bas sur 52 semaines (8,52). Les titres ne donnent aucun détail concret, donc l'action reste très volatile et difficile à évaluer.",
+      "resume": "Les titres récents sont surtout des pages de cours et un article sur l'entrée en Bourse d'Infleqtion via un SPAC, avec une valorisation annoncée de 1,8 milliard de dollars. Aucune actualité concrète nouvelle n'apparaît. L'action a toutefois reculé d'environ 43 % en 6 mois et reste proche de son plus bas sur 52 semaines, ce qui montre une forte volatilité.",
       "points_forts": [
         "Croissance du chiffre d'affaires de 156,5 %",
-        "Objectif moyen des analystes (20,43 USD) bien au-dessus du cours",
-        "Avis des 7 analystes : strong buy"
+        "Avis analystes strong_buy (7 analystes), objectif moyen 20,43 $ contre 9,07 $ de cours",
+        "Activité variée : informatique quantique, capteurs, horloges quantiques"
       ],
       "risques": [
-        "Volatilité extrême (plus haut 21,28, plus bas 8,52)",
-        "Titre issu d'un SPAC, souvent plus spéculatif",
-        "Secteur quantique encore jeune, valorisation élevée par rapport à l'activité"
+        "Forte volatilité : -43 % en 6 mois, cours proche du plus bas annuel (8,52 $)",
+        "Société récemment cotée via SPAC, historique boursier court",
+        "Écart important entre les objectifs des analystes (12 à 25 $) et des valorisations difficiles à jauger"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Nouvelles annonces de contrats ou de produits (capteurs, horloges, calcul quantique)"
+        "Publication des prochains résultats le 12 novembre 2026",
+        "Éventuelles révisions des objectifs ou des avis des analystes"
       ],
-      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas des 52 semaines (8,52 USD) et si la croissance du chiffre d'affaires se confirme aux prochains résultats."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas de 52 semaines (8,52 $) et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
     }
   },
   "EIKN": {
-    "sig": "d3b03757b4ef8397",
+    "sig": "f3489f0f81de5b3b",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas d'Eikon : ce sont des pages de cours d'autres sociétés (AUTL, GENB, MRNA, SPRY, AGMB), sans information concrète sur l'entreprise. Eikon est une biotech cliniques à un stade précoce, dont l'action a reculé d'environ 37 % en 6 mois et se situe près de son plus bas sur 52 semaines (6,45 $).",
+      "resume": "Les titres récents ne parlent pas vraiment d'Eikon : ce sont surtout des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, MRNA, SPRY, AGMB). Aucune information concrète sur Eikon n'en ressort. L'action recule d'environ 36 % sur 6 mois, à 7,41 USD, et reste une petite biotech clinique très volatile.",
       "points_forts": [
-        "Portefeuille varié de candidats en oncologie (TLR 7/8, PARP1, WRN)",
-        "Objectif moyen des analystes (24,6 $) très supérieur au cours actuel",
-        "Capitalisation d'environ 409 M$"
+        "Portefeuille de candidats-médicaments en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)",
+        "Objectif moyen des analystes (24,6 USD) très au-dessus du cours actuel",
+        "Capitalisation d'environ 401 M USD"
       ],
       "risques": [
-        "Pas de chiffre d'affaires communiqué : valeur liée aux résultats d'essais cliniques",
-        "Forte volatilité (plage 52 sem. de 6,45 à 17,4 $) et baisse de 36,6 % en 6 mois",
-        "Avis d'analystes très dispersés (objectifs de 4 à 32 $), signe d'une forte incertitude"
+        "Entreprise en phase clinique, résultats incertains",
+        "Forte volatilité : cours proche du bas de la fourchette sur 52 semaines (6,45 - 17,4 USD)",
+        "Écart très large entre objectifs d'analystes (4,0 à 32,0 USD), signe d'un fort désaccord"
       ],
       "catalyseurs": [
         "Publication des résultats trimestriels prévue le 12 novembre 2026",
-        "Données cliniques à venir sur les candidats (EIK1001, EIK1003/1004, EIK1005), dates non précisées"
+        "Éventuelles données cliniques sur les candidats-médicaments (dates non précisées)"
       ],
-      "a_surveiller": "Surveillez les annonces officielles de l'entreprise sur ses essais cliniques et sa trésorerie, car les titres actuels n'apportent aucune information concrète."
+      "a_surveiller": "Surveiller les annonces officielles de l'entreprise sur ses essais cliniques et le niveau du cours par rapport au plus bas de 52 semaines (6,45 USD)."
     }
   },
   "EXK": {
@@ -144,27 +144,27 @@
     }
   },
   "SNDA": {
-    "sig": "76291a2cf93d53ae",
+    "sig": "72dce0c9319a79bc",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents concernent d'autres sociétés (AVAH, National HealthCare, WGS) ou des recommandations générales de Wall Street, et ne disent rien de concret sur Sonida. Le cours (35,78 USD) se situe dans le milieu de sa fourchette sur 52 semaines, avec une hausse modeste d'environ 2,2 % sur 6 mois.",
+      "resume": "Les deux titres d'actualité récents sont génériques : une revue de recommandations de Wall Street et une page de cours pour un autre ticker (WGS). Aucun ne donne d'information concrète sur Sonida Senior Living. Le cours (35,85 USD) se situe dans le haut de sa fourchette sur 52 semaines, sous les objectifs des analystes.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 1,371 (donnée à interpréter avec prudence)",
-        "Objectif moyen des analystes (49,5 USD) supérieur au cours actuel",
-        "Cours au-dessus du plus bas annuel (24,95 USD)"
+        "Chiffre d'affaires en forte croissance (1,371 selon les données fournies)",
+        "Objectifs des analystes (43 à 65 USD) au-dessus du cours actuel",
+        "Cours en hausse d'environ 3,6 % sur 6 mois"
       ],
       "risques": [
-        "Cours éloigné du plus haut de 52 semaines (44,39 USD), signe de volatilité",
-        "Petite capitalisation (environ 1,7 milliard USD), donc des mouvements de cours potentiellement brusques",
-        "Aucun avis consensuel clair des analystes (6 analystes, avis « none »)"
+        "Titre de petite capitalisation, potentiellement très volatil",
+        "Large écart entre objectifs bas et haut des analystes, signe d'incertitude",
+        "Aucun avis consensuel clair des analystes (« none »)"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 2026-11-09",
-        "Éventuelles révisions des objectifs de cours par les analystes"
+        "Publication des prochains résultats le 9 novembre 2026",
+        "Révisions éventuelles des objectifs ou avis des 6 analystes"
       ],
-      "a_surveiller": "Les résultats du 9 novembre 2026 et toute actualité propre à Sonida, car les titres actuels ne la concernent pas directement."
+      "a_surveiller": "Surveiller les résultats du 9 novembre 2026 et l'évolution du cours par rapport au plus haut annuel de 44,39 USD et au plus bas de 24,95 USD."
     }
   },
   "TKO.PA": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "add9d0895a17064c",
+    "sig": "11e4bc875c80f550",
     "contenu": {
       "points": [
         {
+          "symbole": "GOOG",
+          "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance.",
+          "a_surveiller": "La nouvelle hausse des prévisions d'investissements, avec un cours de 344,91 $ en retrait du plus haut annuel de 404,47 $ et proche de l'objectif bas des analystes (340 $).",
+          "nom": "Alphabet Inc."
+        },
+        {
           "symbole": "MEDCL.PA",
-          "pourquoi": "La FDA a autorisé la mise sur le marché de Weltruza (TEV-749), un traitement contre la schizophrénie lié à MedinCell, et l'action a progressé d'environ 18 %.",
-          "a_surveiller": "Le titre est très volatil, avec un risque de prises de bénéfices après cette hausse, et le chiffre d'affaires est actuellement en recul.",
+          "pourquoi": "L'autorité sanitaire américaine (FDA) a donné son feu vert au traitement TEV-749 contre la schizophrénie, ce qui a fait bondir l'action, et les redevances sur les ventes d'Uzedy progressent.",
+          "a_surveiller": "Les pertes annuelles qui se creusent, le chiffre d'affaires en baisse et la forte volatilité du titre (de 19,69 à 39,68 € sur 52 semaines).",
           "nom": "MEDINCELL S.A."
         },
         {
-          "symbole": "OPK",
-          "pourquoi": "L'action a bondi après l'annonce de la cession des actifs BioReference pour 722 M$, ce qui pourrait donner plus de moyens financiers et permettre de se concentrer sur la pharmacie.",
-          "a_surveiller": "Les détails de l'opération (utilisation du produit, conditions) ne sont pas connus, et l'entreprise dépendra davantage de projets pharmaceutiques en phase 1, incertains.",
-          "nom": "Opko Health, Inc."
-        },
-        {
-          "symbole": "GOOG",
-          "pourquoi": "Les actualités évoquent un bénéfice d'Alphabet en hausse de 81 % et un accord important avec Anthropic, avec un titre à 344,91 USD, sous son plus haut sur 52 semaines (404,47).",
-          "a_surveiller": "Le cours est en recul d'environ 15 % par rapport à son plus haut, la valorisation est très élevée et les causes de la baisse récente ne sont pas détaillées.",
-          "nom": "Alphabet Inc."
+          "symbole": "IREN",
+          "pourquoi": "Un investissement de 2,1 milliards de dollars de Nvidia et une note d'achat de Jefferies (objectif de 79 $) ont attiré l'attention sur le titre.",
+          "a_surveiller": "Le cours de 30,39 $ reste bien sous son plus haut de 76,87 $, le chiffre d'affaires recule de 26,7 % et les objectifs des analystes vont de 37 $ à 139 $, signe d'incertitude.",
+          "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations ne constituent pas un conseil : les cours peuvent varier fortement, y compris après une actualité positive, et une perte en capital est possible."
+      "prudence": "Ces informations sont données à titre indicatif : les cours peuvent fortement varier à la hausse comme à la baisse et tout investissement comporte un risque de perte en capital."
     }
   },
   "SVC": {
@@ -818,27 +818,27 @@
     }
   },
   "IDIP.PA": {
-    "sig": "1dcf91e514e1f080",
+    "sig": "d7fea82b1cfa0a54",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
-      "confiance": "faible",
-      "resume": "Les titres récents évoquent la publication du rapport financier semestriel d'IDI, une progression de l'actif net réévalué au 1er semestre et une proposition de dividende de 2,9 € par action, à verser le 28 mai 2026. Ces éléments sont plutôt rassurants pour une société d'investissement, mais les titres ne donnent pas de chiffres précis et le cours reste stable sur 6 mois (+0,2 %).",
+      "confiance": "moyenne",
+      "resume": "Les titres récents portent sur le rapport financier semestriel au 30 juin 2026, avec un actif net réévalué qui progresse au premier semestre, et sur un dividende proposé de 2,9 euros par action (paiement le 28 mai 2026). Ce sont des signaux plutôt rassurants pour une société d'investissement, mais le cours reste proche de son plus bas sur 52 semaines, sans élément chiffré précis dans les titres.",
       "points_forts": [
         "Actif net réévalué en progression au 1er semestre",
         "Dividende proposé de 2,9 € par action",
-        "Objectifs des analystes (74 à 85 €) au-dessus du cours de 67,4 €"
+        "Objectifs des analystes (74 à 85 €) au-dessus du cours de 66,6 €"
       ],
       "risques": [
-        "Seulement 2 analystes, avis peu représentatif",
         "Cours proche du plus bas sur 52 semaines (65,8 €)",
-        "Petite capitalisation, liquidité et volatilité potentielles"
+        "Seulement 2 analystes, sans avis clair : couverture limitée",
+        "Croissance du chiffre d'affaires modeste (1,37) et valorisation des actifs non cotés incertaine"
       ],
       "catalyseurs": [
-        "Détachement et paiement du dividende le 28 mai 2026",
-        "Prochaine publication de l'actif net réévalué (date non communiquée)"
+        "Prochaine publication de l'actif net réévalué (aucune date de résultats annoncée)",
+        "Cessions ou valorisations de participations dans le portefeuille"
       ],
-      "a_surveiller": "Vérifier si l'actif net réévalué continue de progresser et si le cours se rapproche de cette valeur, sachant que le cours évolue près de son plus bas annuel."
+      "a_surveiller": "L'évolution de l'écart entre le cours et l'actif net réévalué, ainsi que la tenue du cours au-dessus de son plus bas annuel de 65,8 €."
     }
   },
   "FUN": {
@@ -1034,27 +1034,27 @@
     }
   },
   "ETL.PA": {
-    "sig": "43760ab13cf95350",
+    "sig": "b9b5fe4ec818478e",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres montrent une action très volatile : de fortes hausses liées à la constellation LEO, à la restriction de Starlink en Ukraine et à la manne attendue sur la bande C, puis des signes d'essoufflement. Le cours actuel (1,81 €) est pourtant bien en dessous des niveaux évoqués (3,70 €) et en baisse de 37,5 % sur 6 mois, ce qui montre que ces élans ont été suivis de reculs marqués. Les titres datent de périodes différentes et ne permettent pas de dégager une tendance claire.",
+      "resume": "Les titres récents sont contrastés : l'action a fortement bondi sur des nouvelles favorables (restrictions de Starlink en Ukraine, système de communications satellitaires de l'UE, libération de fréquences en bande C), mais elle reste loin de ses sommets, avec une baisse de 36,7 % sur 6 mois. Le titre est très volatil et les analystes restent partagés (avis « hold », objectif moyen 2,27 € contre un cours de 1,83 €).",
       "points_forts": [
-        "Intérêt marqué du marché pour la constellation LEO",
-        "Manne de 6 milliards de dollars liée à la bande C évoquée pour les opérateurs",
-        "Chiffre d'affaires en légère croissance (+1,1 %)"
+        "Soutiens possibles liés à la souveraineté européenne (système de communications satellitaires de l'UE)",
+        "Manne potentielle liée à la libération de fréquences en bande C citée par la presse",
+        "Chiffre d'affaires en légère hausse (+1,1 %)"
       ],
       "risques": [
-        "Volatilité extrême : hausses et baisses brutales",
-        "Avis analystes partagé (hold), objectifs de 0,3 à 5,22 €",
-        "Dépendance à des événements externes (Starlink, géopolitique) difficiles à prévoir"
+        "Forte volatilité : hausses de près de 24 % en une séance, puis rechutes",
+        "Tendance baissière sur 6 mois (-36,7 %) et cours proche du plus bas annuel (1,35 €)",
+        "Avis des analystes très dispersés (objectifs de 0,3 € à 5,22 €), signe d'une forte incertitude"
       ],
       "catalyseurs": [
         "Publication des résultats le 7 août 2026",
-        "Concrétisation des revenus liés à la libération de la bande C"
+        "Concrétisation des revenus liés à la bande C et du programme de communications satellitaires de l'UE"
       ],
-      "a_surveiller": "Surveiller si le cours se stabilise au-dessus du plus bas annuel (1,35 €) et ce que la publication du 7 août dira sur le déploiement LEO et la bande C."
+      "a_surveiller": "Voir si les annonces favorables (UE, bande C) se traduisent en revenus concrets lors des prochains résultats, et si le cours tient au-dessus de son plus bas annuel d'environ 1,35 €."
     }
   },
   "EVO": {
