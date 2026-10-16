@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "7ec4a41901edcf26",
+    "sig": "e59640348d0e6758",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Infleqtion est une entreprise de technologies quantiques (calcul, capteurs, horloges atomiques) entrée en Bourse via un SPAC sur une valorisation d'environ 1,8 milliard de dollars. Les titres récents parlent surtout de cotations et d'un fort bond passé, sans information concrète nouvelle. Le cours (8,56 $) est proche de son plus bas sur 52 semaines et a perdu environ 46 % en 6 mois, ce qui montre une forte volatilité.",
+      "resume": "Infleqtion, spécialiste des technologies quantiques à atomes neutres, est cotée via une fusion avec un SPAC (valorisation annoncée de 1,8 milliard de dollars). Les titres évoquent une forte hausse passée, mais le cours à 8,55 $ a reculé de 46,6 % en 6 mois et est proche de son plus bas sur 52 semaines. Les titres ne donnent pas de fait précis récent, donc le signal reste mitigé et très volatil.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (environ +157 %)",
-        "Analystes très favorables : avis strong_buy, objectif moyen d'environ 20,4 $",
-        "Gamme de produits variée : calcul, capteurs, horloges, sécurité"
+        "Croissance du chiffre d'affaires élevée (1,565, soit environ +156 %)",
+        "Avis analystes strong_buy (7 analystes), objectif moyen 20,43 $",
+        "Gamme variée : calcul, capteurs, horloges quantiques"
       ],
       "risques": [
-        "Forte volatilité et baisse d'environ 46 % en 6 mois",
+        "Forte volatilité et baisse de 46,6 % en 6 mois",
         "Cours proche du plus bas sur 52 semaines (8,42 $)",
-        "Valorisation élevée pour une jeune société issue d'un SPAC, avec un petit nombre d'analystes (7)"
+        "Valorisation élevée (~1,9 Md$) pour une jeune entreprise issue d'un SPAC"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 12 novembre 2026",
-        "Annonces de contrats ou de produits dans le quantique, notamment pour les capteurs et le calcul"
+        "Publication des résultats prévue le 2026-11-12",
+        "Révisions des objectifs ou avis des analystes"
       ],
-      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas des 52 semaines (8,42 $) et si la croissance du chiffre d'affaires se confirme dans les prochains résultats."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas de 52 semaines (8,42 $) et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
     }
   },
   "EIKN": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "877ae0b447adb568",
+    "sig": "2ff65a011c96ccbc",
     "analyse": {
       "sentiment": "neutre",
       "importance": 4,
-      "confiance": "moyenne",
-      "resume": "Les titres récents sont contrastés : MedinCell a bondi après un feu vert de l'autorité sanitaire américaine (FDA) pour le TEV-749 contre la schizophrénie, mais le titre a aussi chuté de 15 % après l'annonce de pertes annuelles creusées, malgré la hausse des redevances d'Uzedy. Une décision réglementaire de ce type compte beaucoup pour une biotech dont le cours dépend de peu de produits.",
+      "confiance": "faible",
+      "resume": "Les titres récents sont contrastés : une décision de la FDA sur le TEV-749 (schizophrénie sévère) était attendue, la cotation a été suspendue temporairement sur Euronext Paris, et une publication annuelle a montré des pertes plus élevées malgré la hausse des redevances d'Uzedy. Cela compte car le cours dépend beaucoup de ces décisions réglementaires, mais les titres ne donnent pas l'issue concrète.",
       "points_forts": [
-        "Feu vert de la FDA évoqué pour le TEV-749 (schizophrénie)",
-        "Redevances d'Uzedy en hausse",
-        "Analystes très positifs : avis strong_buy, objectif moyen 35,5 € contre 25,72 € de cours"
+        "Redevances liées aux ventes d'Uzedy en hausse",
+        "Consensus des 9 analystes : strong_buy, objectif moyen 35,51 € au-dessus du cours de 25,72 €",
+        "Produit mdc-TJK au stade du dépôt de dossier (NDA) dans la schizophrénie"
       ],
       "risques": [
-        "Pertes annuelles qui se creusent",
-        "Chiffre d'affaires en baisse (-44,6 %)",
-        "Forte volatilité du titre (entre 19,69 € et 39,68 € sur 52 semaines)"
+        "Pertes annuelles en hausse et baisse de 15 % en Bourse après les résultats",
+        "Chiffre d'affaires en recul (-0,446)",
+        "Forte volatilité et suspension de cotation, dépendance à une décision de la FDA"
       ],
       "catalyseurs": [
-        "Lancement commercial du TEV-749 après l'approbation de la FDA",
-        "Avancée de l'essai de phase III du mdc-CWM (douleur post-opératoire)"
+        "Décision de la FDA sur le TEV-749 (mdc-TJK) dans la schizophrénie",
+        "Avancement de l'essai de phase III du mdc-CWM (douleur post-opératoire)"
       ],
-      "a_surveiller": "Surveiller si les redevances d'Uzedy et du TEV-749 suffisent à réduire les pertes, ainsi que la date des prochains résultats, non communiquée ici."
+      "a_surveiller": "Le communiqué officiel de MedinCell sur la décision de la FDA et la reprise de la cotation, car l'issue réelle n'apparaît pas dans les titres fournis."
     }
   },
   "KLRA": {
