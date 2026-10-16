@@ -658,5 +658,35 @@
       -23.6
     ],
     "resume": "Les titres sont contradictoires : l'action a bondi après l'annonce d'une prise de participation de 20 % par Tessenderlo pour 400 M$, mais un autre article évoque un effondrement après une révision à la baisse des prévisions du troisième trimestre. Le cours (5,62 $) a perdu environ deux tiers en 6 mois et reste proche de son plus bas sur 52 semaines, ce qui reflète de fortes difficultés et une grande volatilité."
+  },
+  {
+    "date": "16/10/2026 14:17",
+    "symbole": "MEDCL.PA",
+    "sentiment": "positif",
+    "cours": 26.66,
+    "gain": [
+      8.1,
+      33.2
+    ],
+    "perte": [
+      -8.1,
+      -16.2
+    ],
+    "resume": "D'après les titres récents, la FDA américaine a autorisé la mise sur le marché de Weltruza (TEV-749), traitement de la schizophrénie développé avec Medincell, et l'action a bondi d'environ 18 %. Une suspension temporaire de la cotation a aussi été annoncée, sans détail dans les données fournies. Cette autorisation compte car elle valide un produit clé de la société, mais le titre reste très volatil."
+  },
+  {
+    "date": "16/10/2026 14:17",
+    "symbole": "FMC",
+    "sentiment": "negatif",
+    "cours": 5.62,
+    "gain": [
+      11.8,
+      97.7
+    ],
+    "perte": [
+      -11.8,
+      -23.6
+    ],
+    "resume": "FMC a révisé à la baisse ses prévisions du troisième trimestre, ce qui a fait chuter l'action. Tessenderlo prend ensuite 20 % du capital pour 400 M$, une opération qualifiée de renflouement d'urgence par la presse et accueillie avec méfiance par les investisseurs, même si le titre a rebondi à l'annonce. Le cours a perdu environ 67 % en 6 mois et se situe près de son plus bas sur 52 semaines, ce qui montre une forte tension financière."
   }
 ]
