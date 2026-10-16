@@ -24,30 +24,20 @@
       "premiere": "2026-10-16T18:57+02:00",
       "nom": "FMC Corporation"
     },
-    "GTN-A": {
-      "premiere": "2026-10-16T19:18+02:00",
-      "nom": "Gray Media, Inc."
-    },
-    "OPK": {
-      "premiere": "2026-10-16T20:14+02:00",
-      "nom": "Opko Health, Inc."
-    },
     "FRVO": {
       "premiere": "2026-10-16T20:59+02:00",
       "nom": "Fervo Energy Company"
+    },
+    "EXK": {
+      "premiere": "2026-10-16T21:23+02:00",
+      "nom": "Endeavour Silver Corporation"
+    },
+    "SNDA": {
+      "premiere": "2026-10-16T21:23+02:00",
+      "nom": "Sonida Senior Living, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "ENVX",
-      "date": "15/10/2026",
-      "nom": "Enovix Corporation"
-    },
-    {
-      "symbole": "HVT-A",
-      "date": "15/10/2026",
-      "nom": "Haverty Furniture Companies, In"
-    },
     {
       "symbole": "EXK",
       "date": "15/10/2026",
@@ -187,6 +177,16 @@
       "symbole": "EXK",
       "date": "16/10/2026",
       "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "GTN-A",
+      "date": "16/10/2026",
+      "nom": "Gray Media, Inc."
+    },
+    {
+      "symbole": "OPK",
+      "date": "16/10/2026",
+      "nom": "Opko Health, Inc."
     }
   ]
 }
