@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "6f7633869c6fa837",
+    "sig": "7ec4a41901edcf26",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et un rappel de l'entrée en Bourse d'Infleqtion via un SPAC, avec une valorisation de 1,8 milliard de dollars. Ils ne donnent pas d'information nouvelle et concrète sur l'entreprise. Le cours (8,59 $) est proche de son plus bas sur 52 semaines, après un recul d'environ 46 % en 6 mois, ce qui montre une forte volatilité.",
+      "resume": "Infleqtion est une entreprise de technologies quantiques (calcul, capteurs, horloges atomiques) entrée en Bourse via un SPAC sur la base d'une valorisation de 1,8 milliard de dollars. Les titres récents évoquent un bond de 314 % puis une forte baisse : le cours (8,6 $) est proche de son plus bas sur 52 semaines (8,52 $) et a perdu environ 46 % en 6 mois. Les titres ne donnent aucun fait précis sur l'entreprise, donc la lecture reste incertaine.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (1,565, soit environ +156 %)",
-        "Avis moyen des analystes « strong buy » (7 analystes)",
-        "Objectif moyen de 20,43 $, bien au-dessus du cours actuel"
+        "Croissance du chiffre d'affaires de 156,5 %",
+        "Avis des analystes très favorable (strong_buy, 7 analystes)",
+        "Objectif moyen des analystes (20,4 $) bien supérieur au cours actuel"
       ],
       "risques": [
-        "Forte volatilité : cours proche du plus bas annuel (8,52 $) après un plus haut à 21,28 $",
-        "Valorisation élevée (environ 1,9 milliard de dollars) pour une entreprise de technologie quantique encore jeune",
-        "Titre issu d'un SPAC, souvent sujet à de fortes variations"
+        "Volatilité extrême typique des valeurs quantiques issues de SPAC",
+        "Cours proche du plus bas annuel, tendance baissière sur 6 mois",
+        "Objectif bas des analystes (12 $) et valorisation de près de 1,9 milliard de dollars à justifier"
       ],
       "catalyseurs": [
-        "Prochains résultats prévus le 12 novembre 2026",
-        "Révisions des objectifs ou des avis des analystes"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Annonces de contrats ou de produits (capteurs quantiques, informatique quantique)"
       ],
-      "a_surveiller": "Regarder si le cours tient au-dessus du plus bas des 52 semaines (8,52 $) et si la croissance du chiffre d'affaires se confirme dans les prochains résultats."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas de 52 semaines (8,52 $) et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
     }
   },
   "EIKN": {
