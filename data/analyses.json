@@ -1441,27 +1441,27 @@
     }
   },
   "RXRX": {
-    "sig": "8666222a67734f9f",
+    "sig": "3a9f9de2fc6a08e9",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et de graphiques (TradingView, Yahoo Finance) ainsi qu'une page sur Sanofi, sans information concrète sur l'entreprise. Rien n'indique un événement nouveau : le contexte repose donc sur les données de marché, avec un cours de 4,16 USD et un chiffre d'affaires en forte baisse (-60 %).",
+      "resume": "Les titres récents sont surtout des pages génériques de cours et de graphiques (TradingView, Yahoo Finance) et ne révèlent aucune nouvelle concrète sur l'entreprise. Le cours de 4,16 USD se situe entre le plus bas (2,77) et le plus haut (7,18) sur 52 semaines, ce qui montre une action très volatile. Le chiffre d'affaires est en forte baisse (-60 %), alors que les analystes restent globalement positifs.",
       "points_forts": [
         "Avis moyen des analystes : buy (6 analystes)",
         "Objectif moyen de 7,32 USD, au-dessus du cours actuel",
-        "Plusieurs programmes cliniques en phase 1/2"
+        "Plusieurs candidats-médicaments en essais cliniques (REC-4881, REC-617, REC-1245)"
       ],
       "risques": [
-        "Chiffre d'affaires en net recul (-60 %)",
-        "Société en phase clinique, résultats incertains et cours volatil",
-        "Objectif bas des analystes (4,0) proche du cours actuel"
+        "Chiffre d'affaires en baisse d'environ 60 %",
+        "Société en phase clinique, résultats d'essais incertains",
+        "Forte volatilité du cours (2,77 à 7,18 sur 52 semaines)"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 4 novembre 2026",
-        "Éventuelles données d'essais cliniques (REC-4881, REC-617, REC-1245)"
+        "Publication des résultats prévue le 2026-11-04",
+        "Avancées ou données des essais cliniques en cours"
       ],
-      "a_surveiller": "Surveille les annonces officielles sur les essais cliniques et les résultats du 4 novembre 2026, car les titres actuels n'apportent aucun fait nouveau."
+      "a_surveiller": "Suivre les prochaines données cliniques et les résultats du 2026-11-04, sachant que l'objectif bas des analystes (4,0) est proche du cours actuel."
     }
   },
   "OPEN": {
