@@ -1,26 +1,26 @@
 {
   "IREN": {
-    "sig": "02f62395f7433468",
+    "sig": "2ec23fe5647b6f69",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et de prévisions, avec un relèvement de note à l'achat par Jefferies (objectif de 79 $) et un article sur une hausse du jour. Rien de concret n'explique le recul de l'action (-44,6 % sur 6 mois), qui se négocie près de son plus bas sur 52 semaines.",
+      "resume": "Les titres récents sont surtout des pages de cotation et de prévisions de cours, avec un article sur une hausse du jour et une note d'analyste (Jefferies, objectif de 79 $). Aucun fait concret nouveau n'apparaît dans ces titres. Le cours (26,99 $) est proche de son plus bas sur 52 semaines, bien sous l'objectif moyen des analystes.",
       "points_forts": [
         "Avis moyen des analystes : achat (18 analystes)",
-        "Objectif moyen (≈77,8 $) très au-dessus du cours actuel (26,99 $)",
-        "Activité d'infrastructure et de cloud pour l'IA"
+        "Objectif moyen (77,8 $) très au-dessus du cours actuel",
+        "Activité tournée vers le cloud pour l'IA et les centres de données"
       ],
       "risques": [
         "Chiffre d'affaires en baisse (-26,7 %)",
-        "Forte volatilité et baisse marquée sur 6 mois",
-        "Cours proche du plus bas sur 52 semaines (26,55 $)"
+        "Cours en recul de 44,6 % sur 6 mois, proche du plus bas annuel",
+        "Forte volatilité et écart important entre les objectifs d'analystes (37 à 139 $)"
       ],
       "catalyseurs": [
-        "Prochains résultats prévus le 05/11/2026",
-        "Nouvelles révisions d'objectifs ou de notes par les analystes"
+        "Publication des résultats prévue le 5 novembre 2026",
+        "Nouvelles révisions d'objectifs ou d'avis par les analystes"
       ],
-      "a_surveiller": "Regarder si le cours tient au-dessus du plus bas de 52 semaines (26,55 $) et si les résultats de novembre confirment une reprise du chiffre d'affaires."
+      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas annuel (26,55 $) et si la croissance du chiffre d'affaires repart lors des prochains résultats."
     }
   },
   "GOOG": {
@@ -72,25 +72,25 @@
     }
   },
   "INFQ": {
-    "sig": "e59640348d0e6758",
+    "sig": "7ec4a41901edcf26",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Infleqtion, spécialiste des technologies quantiques à atomes neutres, est cotée via une fusion avec un SPAC (valorisation annoncée de 1,8 milliard de dollars). Les titres évoquent une forte hausse passée, mais le cours à 8,55 $ a reculé de 46,6 % en 6 mois et est proche de son plus bas sur 52 semaines. Les titres ne donnent pas de fait précis récent, donc le signal reste mitigé et très volatil.",
+      "resume": "Infleqtion, spécialiste des technologies quantiques (calcul, capteurs, horloges atomiques), est cotée à New York après une introduction via SPAC valorisée à 1,8 milliard de dollars. Les titres récents évoquent un bond spectaculaire de 314 % puis une forte baisse, le cours à 8,55 $ étant proche de son plus bas sur 52 semaines (8,42 $). Les titres ne donnent aucun fait concret sur l'entreprise, donc l'analyse reste prudente.",
       "points_forts": [
-        "Croissance du chiffre d'affaires élevée (1,565, soit environ +156 %)",
-        "Avis analystes strong_buy (7 analystes), objectif moyen 20,43 $",
-        "Gamme variée : calcul, capteurs, horloges quantiques"
+        "Croissance du chiffre d'affaires élevée (+156,5 %)",
+        "Avis des 7 analystes : « strong buy », objectif moyen à 20,43 $",
+        "Gamme variée : calcul quantique, horloges et capteurs pour environnements sans GPS"
       ],
       "risques": [
-        "Forte volatilité et baisse de 46,6 % en 6 mois",
-        "Cours proche du plus bas sur 52 semaines (8,42 $)",
-        "Valorisation élevée (~1,9 Md$) pour une jeune entreprise issue d'un SPAC"
+        "Forte volatilité : -46,6 % en 6 mois, proche du plus bas annuel",
+        "Valorisation élevée (environ 1,9 milliard de dollars de capitalisation) pour une société de technologie émergente",
+        "Titre issu d'un SPAC, souvent plus risqué et volatil"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-12",
-        "Révisions des objectifs ou avis des analystes"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Annonces de contrats ou de partenariats dans le quantique, y compris pour la défense et la navigation"
       ],
       "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas de 52 semaines (8,42 $) et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
     }
@@ -770,27 +770,27 @@
     }
   },
   "FRMI": {
-    "sig": "c641176dce5df53f",
+    "sig": "590f1475d53734c9",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres rappellent l'introduction en bourse récente de Fermi, société qui développe des réseaux électriques privés à très grande échelle pour l'IA, avec des débuts très remarqués et une valorisation évoquée à 14,8 milliards de dollars. Depuis, le cours a fortement reculé : 3,72 $ contre un plus haut annuel de 31,47 $ (-36,2 % sur 6 mois). Les titres ne donnent aucun élément concret récent sur l'activité ou les résultats, donc la situation reste très incertaine.",
+      "resume": "Les titres évoquent Fermi, société d'infrastructures énergétiques privées pour l'IA, avec une valorisation passée de 14,8 milliards de dollars, une introduction en bourse, un accord de soutien au crédit et un partenariat avec AMD. L'action a toutefois chuté d'environ 41,5 % en 6 mois et cote à 3,16 $, près de son plus bas sur 52 semaines (3,0 $). L'écart est très grand entre ce cours et l'objectif moyen des analystes (17,125 $), ce qui reflète une forte incertitude.",
       "points_forts": [
-        "Thème porteur : énergie et infrastructures pour l'IA",
-        "Projet ambitieux (campus Project Matador, réseau privé de 17 GW visé)",
-        "Objectif moyen des analystes (17,1 $) bien au-dessus du cours actuel"
+        "Partenariat avec AMD et accord de soutien au crédit",
+        "Avis analystes 'buy' (8 analystes), objectif moyen 17,125 $",
+        "Thème porteur : énergie à grande échelle pour l'IA"
       ],
       "risques": [
-        "Volatilité extrême : cours proche de son plus bas annuel (3,2 $)",
-        "Aucune croissance du chiffre d'affaires communiquée, entreprise jeune et peu éprouvée",
-        "Grande dispersion des objectifs d'analystes (6 à 35 $), signe de forte incertitude"
+        "Forte baisse du cours (-41,5 % sur 6 mois), proche du plus bas annuel",
+        "Aucune donnée de croissance du chiffre d'affaires disponible",
+        "Grande volatilité et dispersion des objectifs (6 à 35 $)"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Annonces d'avancement ou de clients pour le projet Matador"
+        "Publication des résultats le 12 novembre 2026",
+        "Nouvelles concrètes sur le partenariat AMD ou le financement du projet Matador"
       ],
-      "a_surveiller": "Les informations concrètes sur l'avancement du projet et les premiers revenus, plus importantes que l'enthousiasme autour de l'IA, ainsi que la tenue du plus bas annuel à 3,2 $."
+      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas de 3,0 $ et si les résultats du 12 novembre 2026 apportent des chiffres concrets sur les revenus et le financement."
     }
   },
   "BBAI": {
