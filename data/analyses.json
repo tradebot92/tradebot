@@ -1,26 +1,26 @@
 {
   "IREN": {
-    "sig": "2ec23fe5647b6f69",
+    "sig": "b7ab4aa8eea7c6db",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et de prévisions, avec une mention d'un jour de hausse et d'un objectif à 79 $ de Jefferies. Ils ne donnent aucun fait concret nouveau sur l'entreprise. Le cours (28,4 $) reste très en dessous de son plus haut sur 52 semaines (76,87 $), après une forte baisse sur 6 mois.",
+      "resume": "Les titres évoquent une hausse récente de l'action après l'annonce d'un investissement de 2,1 milliards de dollars de Nvidia dans l'IA, ainsi qu'une note « achat » de Jefferies avec un objectif de 79 $. Pourtant, le cours (27,97 $) reste très en dessous de son plus haut sur 52 semaines (76,87 $) et a perdu 42,6 % en six mois. Les titres ne donnent pas de détails chiffrés sur l'accord, donc l'impact réel reste difficile à mesurer.",
       "points_forts": [
-        "Avis moyen des analystes à « buy » (18 analystes)",
-        "Objectif moyen (77,8 $) bien au-dessus du cours actuel",
-        "Activité liée à l'IA et aux centres de données"
+        "Avis moyen des analystes « achat » (18 analystes), objectif moyen 77,8 $ très au-dessus du cours",
+        "Investissement de Nvidia cité dans l'actualité récente",
+        "Note positive de Jefferies avec objectif à 79 $"
       ],
       "risques": [
-        "Forte volatilité : -41,7 % en 6 mois",
-        "Chiffre d'affaires en baisse (-26,7 %)",
-        "Écart très large entre les objectifs des analystes (37 à 139 $)"
+        "Chiffre d'affaires en recul de 26,7 %",
+        "Forte volatilité : -42,6 % en 6 mois, proche du plus bas annuel (26,6 $)",
+        "Écart énorme entre les objectifs des analystes (37 $ à 139 $), signe de grande incertitude"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 5 novembre 2026",
-        "Nouvelles révisions d'objectifs ou d'avis par les analystes"
+        "Nouveaux détails ou suites concrètes de l'investissement de Nvidia dans l'IA"
       ],
-      "a_surveiller": "Surveille si le chiffre d'affaires repart à la hausse lors des prochains résultats et si le cours tient près de son plus bas sur 52 semaines (26,6 $)."
+      "a_surveiller": "Voir si la hausse liée aux annonces se confirme dans la durée et si le chiffre d'affaires repart lors des prochains résultats, sachant que le cours reste proche de son plus bas sur 52 semaines."
     }
   },
   "GOOG": {
@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "e59640348d0e6758",
+    "sig": "42c42ebd2e510031",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et des commentaires sur la forte hausse passée (+314 %) liée à l'arrivée en Bourse via un SPAC, valorisant Infleqtion à environ 1,8 milliard de dollars. Depuis, le cours (8,88 $) a nettement reculé : il est proche de son plus bas sur 52 semaines (8,52 $) et a perdu environ 44,5 % en 6 mois. Les titres ne contiennent pas d'information concrète nouvelle sur l'activité.",
+      "resume": "Les titres récents sont surtout des pages de cotation et un rappel de l'entrée en Bourse d'Infleqtion via un SPAC, avec une valorisation annoncée de 1,8 milliard de dollars. Ils n'apportent pas d'information nouvelle et concrète sur l'activité. Le cours (8,83 $) a reculé d'environ 45 % en 6 mois et se rapproche de son plus bas sur 52 semaines (8,52 $), ce qui montre une forte volatilité.",
       "points_forts": [
-        "Croissance du chiffre d'affaires très élevée (environ +156 %)",
-        "Consensus d'analystes « strong buy » (7 analystes), objectif moyen 20,43 $",
+        "Croissance du chiffre d'affaires élevée (1,565 selon les données)",
+        "Avis des analystes « strong buy » (7 analystes), objectif moyen 20,43 $",
         "Positionnement dans les technologies quantiques (horloges, capteurs, calcul)"
       ],
       "risques": [
-        "Forte volatilité et baisse marquée depuis le plus haut de 21,28 $",
-        "Société récente issue d'un SPAC, historique boursier court",
-        "Cours proche du plus bas annuel, sentiment fragile"
+        "Forte baisse du cours sur 6 mois, proche du plus bas annuel",
+        "Titre très volatil, issu d'un SPAC, avec une valorisation élevée",
+        "Écart important entre le cours actuel et les objectifs des analystes, ce qui invite à la prudence"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 12 novembre 2026",
-        "Évolution des objectifs et avis des analystes"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Révisions des objectifs ou des avis des analystes"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas de 52 semaines (8,52 $) et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
+      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas de 52 semaines (8,52 $) et ce que diront les prochains résultats sur la croissance et les pertes."
     }
   },
   "EIKN": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "3961180c1893907e",
+    "sig": "f2158ac88d2eca92",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
           "pourquoi": "Alphabet a publié des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance.",
-          "a_surveiller": "La nouvelle hausse des prévisions d'investissements, et un cours (344,91 $) en retrait du plus haut annuel (404,47 $) et proche de l'objectif bas des analystes (340 $).",
+          "a_surveiller": "La hausse des prévisions d'investissements et un cours de 344,91 $, en retrait du plus haut annuel de 404,47 $ et proche de l'objectif bas des analystes (340 $).",
           "nom": "Alphabet Inc."
         },
         {
           "symbole": "TKO.PA",
           "pourquoi": "Tikehau Capital annonce un exercice 2025 qualifié d'historique, avec des objectifs relevés, un dividende proposé de 0,80 € par action et l'annulation d'environ 1 % du capital.",
-          "a_surveiller": "Le cours (16,3 €) reste en baisse de 7 % sur 6 mois, proche de l'objectif bas des analystes (16,0 €), et l'activité est sensible aux marchés financiers.",
+          "a_surveiller": "Le cours de 16,3 €, en recul de 7 % sur 6 mois et proche de l'objectif bas des analystes (16,0 €), ainsi que la sensibilité de l'activité aux marchés financiers.",
           "nom": "TIKEHAU CAPITAL"
         },
         {
-          "symbole": "MEDCL.PA",
-          "pourquoi": "Medincell a reçu un feu vert de l'autorité sanitaire américaine, mais ses pertes annuelles plus importantes ont fait chuter le titre d'environ 15 %.",
-          "a_surveiller": "La décision de la FDA sur le TEV-749 et la progression des ventes d'Uzedy, car le titre est très volatil autour des annonces.",
-          "nom": "MEDINCELL S.A."
+          "symbole": "IREN",
+          "pourquoi": "L'action a progressé après l'annonce d'un investissement de 2,1 milliards de dollars de Nvidia dans l'IA et une note « achat » de Jefferies avec un objectif de 79 $.",
+          "a_surveiller": "Le chiffre d'affaires en recul de 26,7 %, la forte volatilité (-42,6 % en 6 mois) et l'écart important entre les objectifs des analystes (37 $ à 139 $).",
+          "nom": "IREN LIMITED"
         }
       ],
-      "prudence": "Ces informations sont purement indicatives : les cours peuvent varier fortement à la hausse comme à la baisse et tout investissement comporte un risque de perte en capital."
+      "prudence": "Ces éléments sont donnés à titre d'information et ne constituent pas un conseil : tout investissement en bourse comporte un risque de perte en capital, et les cours peuvent varier fortement."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "7ab8cb3644d91301",
+    "sig": "1e35743590a849ce",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres récents sont contrastés : un feu vert de l'autorité sanitaire américaine a fait bondir l'action, mais les résultats annuels montrent des pertes plus importantes malgré la hausse des redevances sur les ventes d'Uzedy, ce qui a fait chuter le titre d'environ 15 %. Une décision de la FDA sur le TEV-749 (schizophrénie sévère) était aussi attendue. Ces éléments comptent car le cours dépend fortement des annonces réglementaires et de la progression des ventes d'Uzedy.",
+      "resume": "Les titres sont contrastés : un feu vert de l'autorité sanitaire américaine pour le traitement TEV-749 (schizophrénie) a fait grimper le titre, mais les résultats annuels montrent des pertes plus lourdes malgré la hausse des redevances d'Uzedy, avec une chute de 15 % en Bourse à l'annonce. Le dernier titre signale un léger repli de 1,86 %. Cela compte car l'action dépend fortement des décisions réglementaires et des ventes d'Uzedy.",
       "points_forts": [
-        "Redevances Uzedy en hausse",
-        "Feu vert de l'autorité sanitaire américaine",
-        "Avis des analystes strong_buy, objectif moyen 35,5 € contre 26,14 € de cours"
+        "Feu vert de la FDA évoqué pour le traitement contre la schizophrénie",
+        "Redevances d'Uzedy en hausse",
+        "Analystes très positifs (avis strong_buy, objectif moyen 35,5 EUR)"
       ],
       "risques": [
-        "Pertes annuelles qui se creusent",
-        "Chiffre d'affaires en recul (-0,446)",
-        "Forte volatilité du titre autour des annonces"
+        "Pertes annuelles en hausse",
+        "Chiffre d'affaires en baisse (-0,45 %)",
+        "Titre volatil (fourchette 19,69 à 39,68 EUR sur 52 semaines)"
       ],
       "catalyseurs": [
-        "Suite de la décision de la FDA sur le TEV-749",
-        "Avancée des essais de phase III du mdc-CWM"
+        "Suites commerciales du TEV-749 après la décision de la FDA",
+        "Évolution des ventes d'Uzedy et des redevances associées"
       ],
-      "a_surveiller": "Surveiller les annonces réglementaires américaines et l'évolution des redevances d'Uzedy par rapport à l'ampleur des pertes, sachant que le titre peut varier fortement en une séance."
+      "a_surveiller": "Surveiller la trajectoire des redevances d'Uzedy et l'évolution des pertes, car la date des prochains résultats n'est pas communiquée."
     }
   },
   "KLRA": {
@@ -818,27 +818,27 @@
     }
   },
   "IDIP.PA": {
-    "sig": "38a637be192a72ea",
+    "sig": "d7fea82b1cfa0a54",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents portent sur le rapport financier semestriel d'IDI et sur une progression de l'actif net réévalué au premier semestre. Ils mentionnent aussi un dividende proposé de 2,9 euros par action, à verser le 28 mai 2026. Les titres ne donnent pas de chiffres précis, donc leur impact reste difficile à mesurer.",
+      "resume": "Les titres récents portent sur le rapport financier semestriel au 30 juin 2026, avec un actif net réévalué en progression au premier semestre, et sur une proposition de dividende de 2,9 € par action. Ces éléments sont plutôt rassurants pour une société d'investissement, mais les titres ne donnent pas de chiffres précis, et le cours reste proche de son plus bas sur 52 semaines.",
       "points_forts": [
         "Actif net réévalué en hausse au 1er semestre (selon un titre)",
-        "Dividende proposé de 2,9 € par action, soit environ 4,4 % du cours actuel",
-        "Objectif moyen des analystes (79,5 €) supérieur au cours de 66,4 €"
+        "Dividende proposé de 2,9 € par action, soit environ 4 % du cours actuel",
+        "Objectifs des analystes (74 à 85 €) au-dessus du cours de 66,6 €"
       ],
       "risques": [
         "Cours proche du plus bas sur 52 semaines (65,8 €)",
-        "Seulement 2 analystes, donc un consensus peu représentatif",
-        "Petite capitalisation et croissance du chiffre d'affaires faible (1,37)"
+        "Seulement 2 analystes, donc peu de recul sur l'avis général",
+        "Petite capitalisation, probablement peu échangée et sensible aux variations de valorisation des participations non cotées"
       ],
       "catalyseurs": [
-        "Versement du dividende le 28 mai 2026",
-        "Prochaine publication de l'actif net réévalué (date non communiquée)"
+        "Prochaines publications de l'actif net réévalué (aucune date de résultats indiquée)",
+        "Opérations de cession ou d'investissement dans le portefeuille"
       ],
-      "a_surveiller": "Surveiller l'écart entre l'actif net réévalué publié et le cours de bourse, ainsi que le maintien du cours au-dessus du plus bas annuel de 65,8 €."
+      "a_surveiller": "L'évolution de l'écart entre le cours et l'actif net réévalué, ainsi que la tenue du cours au-dessus de son plus bas annuel de 65,8 €."
     }
   },
   "FUN": {
