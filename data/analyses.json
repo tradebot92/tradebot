@@ -96,27 +96,27 @@
     }
   },
   "EIKN": {
-    "sig": "2d3a849c66faaf8f",
+    "sig": "1797d10c7b9e5d68",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas vraiment d'Eikon : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, NVAX, SPRY, AGMB). Aucune information concrète sur Eikon n'en ressort. L'action recule d'environ 36 % sur 6 mois, ce qui reflète une forte volatilité typique d'une biotech en phase clinique.",
+      "resume": "Les titres récents sont des pages de cotation génériques d'autres sociétés de biotechnologie (SPRY, GENB, MRNA, OVID, AGMB), sans information concrète sur Eikon Therapeutics. Aucune actualité spécifique à l'entreprise n'est disponible ici ; l'analyse repose donc surtout sur les données de marché : cours en baisse de 36,6 % sur 6 mois, proche du bas des 52 semaines.",
       "points_forts": [
-        "Portefeuille de candidats médicaments en cancérologie (EIK1001, EIK1003, EIK1004, EIK1005)",
-        "Objectif moyen des analystes (24,6 USD) nettement au-dessus du cours actuel (7,4 USD)",
-        "Capitalisation d'environ 400 M USD"
+        "Pipeline clinique varié en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)",
+        "Objectif moyen des analystes (24,6 USD) bien au-dessus du cours actuel (7,32 USD)",
+        "Couverture par 5 analystes"
       ],
       "risques": [
-        "Société encore au stade clinique, sans chiffre d'affaires mentionné",
-        "Forte volatilité : cours proche du bas de la fourchette 52 semaines (6,45 à 17,4 USD)",
-        "Écart très large entre objectifs d'analystes (4 à 32 USD), signe de grande incertitude"
+        "Société clinique de petite taille, très volatile et sans croissance de chiffre d'affaires indiquée",
+        "Forte dispersion des objectifs d'analystes (de 4,0 à 32,0 USD), signe d'une grande incertitude",
+        "Tendance baissière : -36,6 % sur 6 mois, loin du plus haut de 17,4 USD"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats prévue le 2026-11-12",
-        "Éventuelles données cliniques sur les candidats (non datées dans les informations disponibles)"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Éventuelles données cliniques ou avancées sur le pipeline (non datées dans les informations fournies)"
       ],
-      "a_surveiller": "Surveiller les annonces officielles d'Eikon sur ses essais cliniques et sa trésorerie, car les titres actuels n'apportent aucune information propre à la société."
+      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas annuel de 6,45 USD et si l'entreprise communique des données cliniques concrètes."
     }
   },
   "EXK": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "a9ecaf3d1c19a8d6",
+    "sig": "8c8c8808aff09e7b",
     "contenu": {
       "points": [
         {
           "symbole": "GOOG",
           "pourquoi": "Alphabet publie des résultats trimestriels solides, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance.",
-          "a_surveiller": "La nouvelle hausse des prévisions d'investissements, et un cours de 344,91 $ en retrait par rapport au plus haut annuel de 404,47 $ et proche de l'objectif bas des analystes (340 $).",
+          "a_surveiller": "La nouvelle hausse des prévisions d'investissements, et un cours de 344,91 $ proche de l'objectif bas des analystes (340 $) et en retrait du plus haut annuel de 404,47 $.",
           "nom": "Alphabet Inc."
         },
         {
-          "symbole": "MEDCL.PA",
-          "pourquoi": "L'autorité sanitaire américaine (FDA) a donné son feu vert au TEV-749 contre la schizophrénie, et les redevances liées aux ventes d'Uzedy progressent.",
-          "a_surveiller": "Les pertes annuelles qui se creusent, le chiffre d'affaires en recul de 44,6 % et la forte volatilité du titre (entre 19,69 et 39,68 € sur 52 semaines).",
-          "nom": "MEDINCELL S.A."
+          "symbole": "OPK",
+          "pourquoi": "L'action a bondi après l'annonce de la cession des actifs BioReference pour 722 M$, ce qui pourrait renforcer les moyens financiers et recentrer l'entreprise sur la pharmacie.",
+          "a_surveiller": "Les détails de l'opération (utilisation du produit, conditions) ne sont pas connus, et l'entreprise dépendra davantage de projets pharmaceutiques en phase 1, incertains, avec un cours proche de son plus haut sur 52 semaines (1,75 $).",
+          "nom": "Opko Health, Inc."
         },
         {
-          "symbole": "ETL.PA",
-          "pourquoi": "Le cours d'Eutelsat est très volatil, avec des hausses ponctuelles liées à l'actualité géopolitique mais une baisse marquée sur 3 et 6 mois.",
-          "a_surveiller": "La dépendance aux événements géopolitiques et à la concurrence de Starlink, avec des objectifs d'analystes très dispersés (0,3 à 5,22 €) et un avis global « hold ».",
-          "nom": "EUTELSAT COMMUNIC."
+          "symbole": "MEDCL.PA",
+          "pourquoi": "Les redevances liées aux ventes d'Uzedy augmentent, mais les pertes annuelles se creusent et le chiffre d'affaires recule, d'où des signaux contrastés.",
+          "a_surveiller": "L'issue de la décision de la FDA sur le TEV-749 et le motif de la suspension temporaire de cotation, qui ne figurent pas dans les données fournies.",
+          "nom": "MEDINCELL S.A."
         }
       ],
-      "prudence": "Ces informations sont données à titre indicatif : les cours peuvent fortement varier à la hausse comme à la baisse et toute décision comporte un risque de perte en capital."
+      "prudence": "Ces informations ne constituent pas un conseil : les cours peuvent fortement varier, à la hausse comme à la baisse, et l'on peut perdre une partie du capital investi."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "877ae0b447adb568",
+    "sig": "2ff65a011c96ccbc",
     "analyse": {
-      "sentiment": "positif",
+      "sentiment": "neutre",
       "importance": 4,
-      "confiance": "moyenne",
-      "resume": "Les titres récents évoquent un feu vert de l'autorité sanitaire américaine (FDA) pour le traitement TEV-749 contre la schizophrénie, ce qui a fait bondir l'action en Bourse. En parallèle, les redevances liées aux ventes d'Uzedy progressent, mais les pertes annuelles se creusent, ce qui avait provoqué une chute d'environ 15 % à une autre occasion. Ces nouvelles comptent car l'avenir de MedinCell dépend beaucoup de l'approbation et du succès commercial de ses produits.",
+      "confiance": "faible",
+      "resume": "Les titres récents sont contrastés : hausse des redevances liées aux ventes d'Uzedy, mais pertes annuelles qui se creusent et chute de 15 % en Bourse à une occasion. Une suspension temporaire de la cotation a aussi été annoncée, et une décision de la FDA sur le TEV-749 (schizophrénie) était attendue. Les détails (motif de la suspension, issue de la décision) ne figurent pas dans les données, d'où la prudence.",
       "points_forts": [
-        "Feu vert de la FDA évoqué pour TEV-749 (schizophrénie)",
-        "Hausse des redevances sur les ventes d'Uzedy",
-        "Consensus des 9 analystes à « strong buy » avec objectif moyen de 35,51 € (cours 25,72 €)"
+        "Redevances Uzedy en hausse",
+        "Objectif moyen des analystes (35,5 €) bien au-dessus du cours de 25,72 €",
+        "Avis des 9 analystes : strong_buy"
       ],
       "risques": [
         "Pertes annuelles qui se creusent",
-        "Chiffre d'affaires en recul de 44,6 %",
-        "Forte volatilité du titre (plage 19,69 – 39,68 € sur 52 semaines)"
+        "Chiffre d'affaires en recul (-0,446)",
+        "Forte volatilité, dépendance à une décision réglementaire de la FDA"
       ],
       "catalyseurs": [
-        "Lancement commercial et ventes de TEV-749 après l'approbation",
-        "Résultats de l'essai de phase III de mdc-CWM (douleur post-opératoire)"
+        "Décision de la FDA sur le TEV-749 (schizophrénie sévère)",
+        "Avancement de mdc-CWM (phase III) contre la douleur post-opératoire"
       ],
-      "a_surveiller": "Surveiller l'évolution des redevances d'Uzedy et de TEV-749 ainsi que la trajectoire des pertes, car la date des prochains résultats n'est pas indiquée."
+      "a_surveiller": "Le communiqué officiel sur la raison de la suspension de cotation et le résultat de la décision de la FDA, car ils peuvent faire fortement bouger le cours dans un sens comme dans l'autre."
     }
   },
   "KLRA": {
@@ -1034,27 +1034,27 @@
     }
   },
   "ETL.PA": {
-    "sig": "cdd6a8a9ac3769c5",
+    "sig": "b9b5fe4ec818478e",
     "analyse": {
       "sentiment": "neutre",
       "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents montrent un cours très volatil : de fortes hausses ponctuelles liées à l'actualité géopolitique (restrictions de Starlink en Ukraine, activation des communications satellitaires de l'UE), mais une baisse marquée sur 3 et 6 mois. L'action cote autour de 1,77 €, loin de son plus haut sur 52 semaines (4,556 €), et les analystes restent globalement prudents (avis hold).",
+      "resume": "Les titres récents montrent un titre très volatil : des bonds en Bourse liés à des sujets géopolitiques et réglementaires (restrictions de Starlink en Ukraine, activation des communications par satellite de l'UE, libération de fréquences en bande C), mais aussi une forte baisse sur 3 à 6 mois. Le cours (1,77 €) reste bien en dessous de son plus haut sur 52 semaines (4,556 €), et les analystes sont partagés (avis « hold »).",
       "points_forts": [
-        "Intérêt européen pour la souveraineté des communications par satellite",
-        "Objectif moyen des analystes (2,272 €) supérieur au cours actuel",
-        "Chiffre d'affaires en légère croissance (+1,1 %)"
+        "Intérêt européen pour les communications satellitaires souveraines (système de l'UE)",
+        "Manne de 6 milliards de dollars évoquée pour la libération de fréquences en bande C (SES et Eutelsat)",
+        "Chiffre d'affaires en légère hausse (+1,1 %)"
       ],
       "risques": [
-        "Forte volatilité et baisse de près de 39 % sur 6 mois",
-        "Fourchette très large des objectifs d'analystes (0,3 à 5,22 €), signe de forte incertitude",
-        "Dépendance aux événements géopolitiques et à la concurrence de Starlink"
+        "Forte volatilité : hausses et baisses brutales en peu de temps",
+        "Baisse de près de 39 % sur 6 mois et tendance encore fragile",
+        "Objectifs des analystes très dispersés (0,3 à 5,22 €), signe d'une grande incertitude"
       ],
       "catalyseurs": [
-        "Publication des résultats le 7 août 2026",
-        "Nouvelles annonces sur les programmes satellitaires de l'UE et le contexte en Ukraine"
+        "Publication des résultats prévue le 7 août 2026",
+        "Concrétisation des revenus liés à la bande C et à la constellation de l'UE"
       ],
-      "a_surveiller": "Surveiller la réaction du cours aux résultats du 7 août 2026 et la tenue du plus bas annuel à 1,3535 €."
+      "a_surveiller": "Surveillez si les annonces réglementaires et géopolitiques se traduisent concrètement en revenus lors des prochains résultats, car les bonds de Bourse liés aux titres d'actualité ont déjà montré qu'ils pouvaient s'estomper rapidement."
     }
   },
   "EVO": {

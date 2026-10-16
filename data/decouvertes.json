@@ -32,17 +32,12 @@
       "premiere": "2026-10-16T21:23+02:00",
       "nom": "Endeavour Silver Corporation"
     },
-    "SNDA": {
-      "premiere": "2026-10-16T21:23+02:00",
-      "nom": "Sonida Senior Living, Inc."
+    "OPK": {
+      "premiere": "2026-10-16T21:50+02:00",
+      "nom": "Opko Health, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "EXK",
-      "date": "15/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
     {
       "symbole": "MITT-PB",
       "date": "15/10/2026",
@@ -187,6 +182,11 @@
       "symbole": "OPK",
       "date": "16/10/2026",
       "nom": "Opko Health, Inc."
+    },
+    {
+      "symbole": "SNDA",
+      "date": "16/10/2026",
+      "nom": "Sonida Senior Living, Inc."
     }
   ]
 }
