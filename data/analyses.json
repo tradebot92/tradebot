@@ -72,27 +72,27 @@
     }
   },
   "INFQ": {
-    "sig": "3e340378afd2ced9",
+    "sig": "7ec4a41901edcf26",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et un rappel de l'entrée en Bourse d'Infleqtion via un SPAC, avec une valorisation annoncée de 1,8 milliard de dollars. Un titre évoque aussi un bond de 314 %, alors que le cours actuel (9,48 $) a reculé de 45,6 % en 6 mois. Aucune information nouvelle et concrète sur l'activité ne ressort : le titre reste très volatil.",
+      "resume": "Infleqtion, spécialiste des technologies quantiques à atomes neutres (calcul, capteurs, horloges), est cotée à la Bourse de New York après une introduction via un SPAC valorisant la société à environ 1,8 milliard de dollars. Les titres récents évoquent un bond de 314 % puis une forte baisse : l'action a perdu environ 45,6 % en 6 mois et se situe près de son plus bas sur 52 semaines. Les titres ne donnent aucun fait précis sur une nouvelle récente, donc le contexte reste surtout celui d'une action très volatile.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 156,5 %",
-        "Avis moyen des analystes « strong_buy » (7 analystes)",
-        "Objectif moyen des analystes (20,43 $) nettement au-dessus du cours"
+        "Croissance du chiffre d'affaires élevée (+156,5 %)",
+        "Avis des analystes très favorable (strong_buy, 7 analystes)",
+        "Objectif moyen des analystes (20,43 $) nettement au-dessus du cours (9,48 $)"
       ],
       "risques": [
-        "Forte volatilité : -45,6 % en 6 mois, proche du plus bas sur 52 semaines (8,52 $)",
-        "Entrée en Bourse récente via SPAC et valorisation élevée (capitalisation d'environ 2,1 milliards $)",
-        "Secteur de l'informatique quantique très spéculatif, sensible aux comparaisons avec d'autres valeurs comme IonQ"
+        "Volatilité extrême : plus haut 21,28 $, plus bas 8,52 $ sur 52 semaines",
+        "Forte baisse sur 6 mois (-45,6 %)",
+        "Entreprise issue d'un SPAC, dans un secteur quantique encore jeune et spéculatif"
       ],
       "catalyseurs": [
-        "Publication des prochains résultats le 12 novembre 2026",
-        "Révisions des objectifs de cours ou des avis par les analystes"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Annonces de contrats ou de produits dans les capteurs et le calcul quantiques"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas de 52 semaines (8,52 $) et ce que la direction dira sur la croissance lors des prochains résultats."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas sur 52 semaines (8,52 $) et si la croissance du chiffre d'affaires se confirme lors des prochains résultats."
     }
   },
   "EIKN": {
@@ -1298,27 +1298,27 @@
     }
   },
   "FMC": {
-    "sig": "9cab70843c1f8840",
+    "sig": "865b123deb4311c4",
     "analyse": {
-      "sentiment": "negatif",
-      "importance": 5,
+      "sentiment": "neutre",
+      "importance": 4,
       "confiance": "moyenne",
-      "resume": "FMC a abaissé ses prévisions pour le troisième trimestre, ce qui a fait chuter le titre. L'entreprise a ensuite reçu un apport d'urgence, avec Tessenderlo qui prend 20 % du capital pour 400 M$. Cet apport a fait rebondir l'action, mais les investisseurs l'ont accueilli avec méfiance, et le cours reste très bas, à environ 5,62 $.",
+      "resume": "Les titres sont contradictoires : l'action a bondi après l'annonce d'une prise de participation de 20 % par Tessenderlo pour 400 M$, mais un autre article évoque un effondrement après une révision à la baisse des prévisions du troisième trimestre. Le cours (5,62 $) a perdu environ deux tiers en 6 mois et reste proche de son plus bas sur 52 semaines, ce qui reflète de fortes difficultés et une grande volatilité.",
       "points_forts": [
         "Entrée de Tessenderlo au capital (20 % pour 400 M$)",
-        "Rebond du titre après l'annonce",
-        "Large gamme de produits : insecticides, herbicides, fongicides, biologiques"
+        "Objectif moyen des analystes (11,11 $) bien au-dessus du cours",
+        "Rebond du cours suite à l'annonce de l'investisseur"
       ],
       "risques": [
-        "Prévisions révisées à la baisse",
+        "Prévisions du T3 révisées à la baisse",
         "Chiffre d'affaires en recul (-17,5 %)",
-        "Chute de 66,7 % en 6 mois, cours proche du plus bas annuel (4,845 $)"
+        "Forte volatilité et baisse de 66,7 % en 6 mois"
       ],
       "catalyseurs": [
-        "Résultats prévus le 29 octobre 2026",
-        "Précisions sur les conditions et l'utilisation de l'apport de Tessenderlo"
+        "Résultats attendus le 29 octobre 2026",
+        "Précisions sur les conditions et la suite de l'accord avec Tessenderlo"
       ],
-      "a_surveiller": "Voir si les résultats du 29 octobre 2026 confirment une stabilisation du chiffre d'affaires, sachant que le titre est très volatil et que les analystes restent à « conserver » (objectif moyen 11,11 $, fourchette 4 à 18 $)."
+      "a_surveiller": "Voir si l'apport de capital de Tessenderlo suffit à compenser la dégradation des prévisions et à stabiliser le cours avant les prochains résultats."
     }
   },
   "DFH": {
@@ -1441,27 +1441,27 @@
     }
   },
   "RXRX": {
-    "sig": "f8c709b346fd93c7",
+    "sig": "36a579d7676844df",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et de graphiques (TradingView, Yahoo Finance, Zonebourse) ainsi qu'une page sur la prévision de cours 2027, sans nouvelle concrète sur l'entreprise. Ils ne permettent pas de tirer de conclusion nette. Le cours de 4,16 USD se situe entre son plus bas (2,77) et son plus haut (7,18) sur 52 semaines.",
+      "resume": "Les titres récents sont surtout des pages de cours et de graphiques (TradingView, Yahoo Finance) et une page de prévisions de prix, sans information concrète sur l'entreprise. Ils ne révèlent aucun événement précis, donc ils changent peu la lecture du dossier. Le contexte reste celui d'une biotech en phase clinique, très sensible aux résultats d'essais et au financement.",
       "points_forts": [
-        "Avis analystes : achat (6 analystes), objectif moyen 7,32 USD",
-        "Plusieurs candidats-médicaments en essais cliniques de phase 1/2",
-        "Cours en hausse de 10,1 % sur 6 mois"
+        "Avis moyen des analystes : achat (6 analystes), objectif moyen 7,32 USD",
+        "Plusieurs candidats-médicaments en essais cliniques (REC-4881, REC-617, REC-1245)",
+        "Cours à 4,16 USD, en hausse d'environ 10 % sur 6 mois"
       ],
       "risques": [
         "Chiffre d'affaires en forte baisse (-60 %)",
-        "Entreprise de biotech en phase clinique, résultats d'essais incertains et cours très volatil",
-        "Objectif bas des analystes (4,0 USD) proche du cours actuel"
+        "Forte volatilité : de 2,77 à 7,18 USD sur 52 semaines",
+        "Objectif bas des analystes (4,0) proche du cours actuel"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 4 novembre 2026",
-        "Données d'avancement des essais cliniques (REC-4881, REC-617, REC-1245)"
+        "Publication des prochains résultats prévue le 2026-11-04",
+        "Avancées ou données des essais cliniques en cours (Phase 1/2)"
       ],
-      "a_surveiller": "Surveiller les prochaines annonces officielles de l'entreprise sur ses essais cliniques et les résultats du 4 novembre 2026, car les titres actuels n'apportent aucune information concrète."
+      "a_surveiller": "Surveille les annonces de résultats d'essais cliniques et la publication trimestrielle du 4 novembre 2026, plus que les pages de cours génériques."
     }
   },
   "OPEN": {
