@@ -12,10 +12,6 @@
       "premiere": "2026-10-16T16:00+02:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "UAMY": {
-      "premiere": "2026-10-19T16:06+02:00",
-      "nom": "United States Antimony Corporat"
-    },
     "CVX.PA": {
       "premiere": "2026-10-19T17:56+02:00",
       "nom": "CARVOLIX"
@@ -23,10 +19,6 @@
     "ANNX": {
       "premiere": "2026-10-19T17:56+02:00",
       "nom": "Annexon, Inc."
-    },
-    "XERS": {
-      "premiere": "2026-10-19T17:56+02:00",
-      "nom": "Xeris Biopharma Holdings, Inc."
     },
     "DXC": {
       "premiere": "2026-10-19T19:24+02:00",
@@ -36,27 +28,20 @@
       "premiere": "2026-10-19T21:06+02:00",
       "nom": "Agios Pharmaceuticals, Inc."
     },
-    "TSHA": {
-      "premiere": "2026-10-19T21:06+02:00",
-      "nom": "Taysha Gene Therapies, Inc."
+    "MPT": {
+      "premiere": "2026-10-19T21:57+02:00",
+      "nom": "Medical Properties Trust, Inc."
+    },
+    "GLUE": {
+      "premiere": "2026-10-19T21:57+02:00",
+      "nom": "Monte Rosa Therapeutics, Inc."
+    },
+    "NNBR": {
+      "premiere": "2026-10-19T21:57+02:00",
+      "nom": "NN, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "TKO.PA",
-      "date": "16/10/2026",
-      "nom": "TIKEHAU CAPITAL"
-    },
-    {
-      "symbole": "IDIP.PA",
-      "date": "16/10/2026",
-      "nom": "IDI"
-    },
-    {
-      "symbole": "SNDA",
-      "date": "16/10/2026",
-      "nom": "Sonida Senior Living, Inc."
-    },
     {
       "symbole": "EXK",
       "date": "16/10/2026",
@@ -191,6 +176,21 @@
       "symbole": "GLUE",
       "date": "19/10/2026",
       "nom": "Monte Rosa Therapeutics, Inc."
+    },
+    {
+      "symbole": "UAMY",
+      "date": "19/10/2026",
+      "nom": "United States Antimony Corporat"
+    },
+    {
+      "symbole": "XERS",
+      "date": "19/10/2026",
+      "nom": "Xeris Biopharma Holdings, Inc."
+    },
+    {
+      "symbole": "TSHA",
+      "date": "19/10/2026",
+      "nom": "Taysha Gene Therapies, Inc."
     }
   ]
 }
