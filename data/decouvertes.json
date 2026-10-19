@@ -36,17 +36,12 @@
       "premiere": "2026-10-19T16:06+02:00",
       "nom": "TIKEHAU CAPITAL"
     },
-    "CNOB": {
-      "premiere": "2026-10-19T16:06+02:00",
-      "nom": "ConnectOne Bancorp, Inc."
+    "BHVN": {
+      "premiere": "2026-10-19T17:02+02:00",
+      "nom": "Biohaven Ltd."
     }
   },
   "sorties": [
-    {
-      "symbole": "REAL",
-      "date": "15/10/2026",
-      "nom": "The RealReal, Inc."
-    },
     {
       "symbole": "EVEX",
       "date": "15/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "FRMI",
       "date": "19/10/2026",
       "nom": "Fermi Inc."
+    },
+    {
+      "symbole": "CNOB",
+      "date": "19/10/2026",
+      "nom": "ConnectOne Bancorp, Inc."
     }
   ]
 }
