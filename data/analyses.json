@@ -1,50 +1,50 @@
 {
   "IREN": {
-    "sig": "2ec23fe5647b6f69",
+    "sig": "76aeffe92e35b7af",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cotation et de prévisions de cours, avec un article sur une hausse du jour et une note d'analyste (Jefferies, objectif de 79 $). Aucun fait concret nouveau n'apparaît dans ces titres. Le cours (26,99 $) est proche de son plus bas sur 52 semaines, bien sous l'objectif moyen des analystes.",
+      "resume": "Les titres récents sont surtout des pages de cours et de prévisions, avec une mention d'un objectif de 79 $ de Jefferies et d'une hausse du titre un jour donné, sans détail concret. L'action reste très en retrait : -44,6 % sur 6 mois et proche de son plus bas sur 52 semaines (26,55 $). Les analystes restent globalement positifs, mais le chiffre d'affaires est en baisse.",
       "points_forts": [
-        "Avis moyen des analystes : achat (18 analystes)",
-        "Objectif moyen (77,8 $) très au-dessus du cours actuel",
-        "Activité tournée vers le cloud pour l'IA et les centres de données"
+        "Avis analystes « buy » (18 analystes), objectif moyen 77,8 $ bien au-dessus du cours",
+        "Activité intégrée dans les centres de données et le cloud IA",
+        "Nouvel objectif de 79 $ de Jefferies mentionné"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-26,7 %)",
-        "Cours en recul de 44,6 % sur 6 mois, proche du plus bas annuel",
-        "Forte volatilité et écart important entre les objectifs d'analystes (37 à 139 $)"
+        "Cours proche du plus bas annuel, forte baisse sur 6 mois",
+        "Chiffre d'affaires en recul (-26,7 %)",
+        "Forte volatilité et écart énorme entre objectifs bas (37 $) et haut (139 $)"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 5 novembre 2026",
-        "Nouvelles révisions d'objectifs ou d'avis par les analystes"
+        "Publication des résultats prévue le 2026-11-05",
+        "Révisions d'objectifs ou d'avis par les analystes"
       ],
-      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas annuel (26,55 $) et si la croissance du chiffre d'affaires repart lors des prochains résultats."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas de 52 semaines (26,55 $) et si la croissance du chiffre d'affaires se redresse aux prochains résultats."
     }
   },
   "GOOG": {
-    "sig": "b34638d07e519126",
+    "sig": "67a145495f1f406a",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les titres récents évoquent des résultats trimestriels solides d'Alphabet, avec un bénéfice en hausse de 81 % et un cloud moteur de la croissance. Google relève toutefois à nouveau ses prévisions d'investissements, et un article mentionne une chute du cours. Cela compte car les investisseurs pèsent la forte croissance face au coût des dépenses.",
+      "resume": "Les titres évoquent des résultats trimestriels solides pour Alphabet, avec un bénéfice en hausse de 81 % et un cloud qui tire la croissance. L'entreprise relève à nouveau ses prévisions d'investissements et a conclu un accord important avec Anthropic. Cela compte car cela montre une forte dynamique, mais aussi des dépenses qui augmentent.",
       "points_forts": [
+        "Bénéfice en hausse de 81 % selon les titres",
         "Croissance du chiffre d'affaires de 24,2 %",
-        "Bénéfice en hausse de 81 % selon la presse",
-        "Cloud cité comme moteur des résultats"
+        "Cloud moteur des résultats et accord avec Anthropic"
       ],
       "risques": [
-        "Hausse des prévisions d'investissements",
-        "Cours à 344,91 $, en retrait par rapport au plus haut annuel de 404,47 $",
-        "Objectif bas des analystes (340 $) proche du cours actuel"
+        "Hausse des prévisions d'investissements qui pèse sur les coûts",
+        "Cours à 336,91 $, loin du plus haut annuel de 404,47 $ (un titre évoque une chute du cours)",
+        "Valorisation élevée avec une capitalisation d'environ 4 100 milliards $"
       ],
       "catalyseurs": [
-        "Prochains résultats trimestriels le 28 octobre 2026",
-        "Nouvelles annonces sur les investissements et la croissance du cloud"
+        "Prochains résultats le 28 octobre 2026",
+        "Nouvelles annonces sur le cloud et les partenariats d'IA, comme celui avec Anthropic"
       ],
-      "a_surveiller": "Surveille si la croissance du cloud continue de justifier la hausse des investissements annoncés, d'ici les résultats du 28 octobre 2026."
+      "a_surveiller": "Voir si la croissance du cloud continue de justifier la hausse des investissements, sachant que l'objectif moyen des analystes (environ 421 $) reste au-dessus du cours actuel."
     }
   },
   "GLOO": {
@@ -72,51 +72,51 @@
     }
   },
   "INFQ": {
-    "sig": "6f7633869c6fa837",
+    "sig": "3e340378afd2ced9",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et des articles sur l'entrée en Bourse d'Infleqtion via un SPAC, valorisée à 1,8 milliard de dollars, ainsi qu'un « bond de 314 % » évoqué sur TradingView. Ils ne donnent pas d'information concrète nouvelle. Le titre à 8,55 $ a perdu environ 46,6 % en 6 mois et se situe près de son plus bas sur 52 semaines (8,42 $), ce qui montre une forte volatilité.",
+      "resume": "Les titres récents sont surtout des pages de cours et un rappel de l'entrée en Bourse d'Infleqtion via un SPAC, avec une valorisation de 1,8 milliard de dollars. Ils ne donnent pas de nouvelle information concrète sur l'activité. Le cours a nettement reculé en 6 mois (-46,6 %) et se situe près de son plus bas sur 52 semaines, ce qui montre une forte volatilité.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 156,5 %",
-        "Avis moyen des analystes « strong_buy » (7 analystes)",
-        "Objectif moyen des analystes (20,43 $) nettement au-dessus du cours"
+        "Croissance du chiffre d'affaires élevée (1,565, soit environ +156 %)",
+        "Avis des analystes « strong buy » (7 analystes)",
+        "Objectif moyen des analystes (20,43 $) bien au-dessus du cours actuel (8,55 $)"
       ],
       "risques": [
-        "Forte volatilité : -46,6 % en 6 mois, cours proche du plus bas sur 52 semaines",
-        "Valorisation élevée (capitalisation d'environ 1,9 milliard $) pour une jeune société cotée par SPAC",
-        "Secteur de l'informatique quantique encore spéculatif et commercialisation à un stade précoce"
+        "Forte volatilité : cours proche du plus bas sur 52 semaines (8,42 $)",
+        "Entreprise récemment cotée via un SPAC, secteur quantique très spéculatif",
+        "Large écart entre objectifs bas (12 $) et haut (25 $), signe d'une grande incertitude"
       ],
       "catalyseurs": [
         "Publication des prochains résultats le 12 novembre 2026",
-        "Révisions des objectifs ou des avis des analystes"
+        "Évolution de l'engouement pour le secteur de l'informatique quantique (ex. concurrent IonQ)"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas des 52 semaines (8,42 $) et si la croissance du chiffre d'affaires se confirme dans les prochains résultats."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas des 52 semaines (8,42 $) et ce que les résultats du 12 novembre diront sur la croissance du chiffre d'affaires."
     }
   },
   "EIKN": {
-    "sig": "690c1835421e04fd",
+    "sig": "3500ada67a7836eb",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne concernent pas vraiment Eikon : ce sont des pages de cours d'autres sociétés de biotechnologie (OVID, GENB, MRNA, SPRY, AGMB). Aucune information concrète sur Eikon n'en ressort. L'action recule d'environ 36 % en 6 mois, alors que les analystes affichent un objectif moyen bien supérieur au cours actuel.",
+      "resume": "Les titres récents ne parlent pas concrètement d'Eikon : ce sont surtout des pages de cours d'autres sociétés de biotechnologie (ACRS, GENB, MRNA, SPRY, AGMB). Aucune actualité propre à Eikon ne permet donc de justifier un mouvement. Le titre a reculé d'environ 36 % en 6 mois et reste volatil.",
       "points_forts": [
-        "Portefeuille clinique varié (immunothérapie TLR 7/8, inhibiteurs PARP1, inhibiteur WRN)",
-        "Objectif moyen des analystes (24,33 $) très supérieur au cours de 7,42 $",
-        "Capitalisation d'environ 402 M$ pour une biotech en phase clinique"
+        "Avis moyen des analystes : « buy » (6 analystes)",
+        "Objectif moyen de 24,33 USD, bien au-dessus du cours de 7,42 USD",
+        "Portefeuille clinique varié en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)"
       ],
       "risques": [
-        "Forte volatilité : écart entre plus bas (6,45 $) et plus haut (17,4 $) sur 52 semaines",
-        "Fourchette d'objectifs très large (4 à 32 $), signe d'une grande incertitude",
-        "Aucun chiffre d'affaires communiqué ; résultats cliniques incertains"
+        "Baisse de 35,8 % sur 6 mois, loin du plus haut annuel de 17,4 USD",
+        "Écart très large entre les objectifs analystes (4,0 à 32,0), signe d'une forte incertitude",
+        "Société biotech en phase clinique, sans croissance du chiffre d'affaires indiquée"
       ],
       "catalyseurs": [
-        "Publication des résultats trimestriels prévue le 12 novembre 2026",
-        "Éventuelles données cliniques sur les candidats EIK1001, EIK1003/1004 ou EIK1005 (non datées dans les informations fournies)"
+        "Publication des résultats prévue le 12 novembre 2026",
+        "Éventuelles données cliniques ou annonces sur les programmes en développement (non datées dans les informations fournies)"
       ],
-      "a_surveiller": "Surveiller les annonces officielles d'Eikon sur ses essais cliniques et sa trésorerie, plutôt que les pages de cours génériques d'autres sociétés."
+      "a_surveiller": "Surveiller les communiqués officiels d'Eikon sur ses essais cliniques et le niveau du cours par rapport au plus bas annuel de 6,45 USD."
     }
   },
   "EXK": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "2ff65a011c96ccbc",
+    "sig": "263426259116feca",
     "analyse": {
-      "sentiment": "neutre",
+      "sentiment": "positif",
       "importance": 4,
-      "confiance": "faible",
-      "resume": "Les titres récents sont contrastés : une décision de la FDA sur le TEV-749 (schizophrénie sévère) était attendue, la cotation a été suspendue temporairement sur Euronext Paris, et une publication annuelle a montré des pertes plus élevées malgré la hausse des redevances d'Uzedy. Cela compte car le cours dépend beaucoup de ces décisions réglementaires, mais les titres ne donnent pas l'issue concrète.",
+      "confiance": "moyenne",
+      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, le traitement de la schizophrénie de MedinCell, et le titre a bondi d'environ 18 % selon les titres de presse. Stifel affiche aussi sa confiance. Une autorisation de ce type compte beaucoup pour une biotech, mais un titre très volatil peut aussi corriger vite, comme le suggère un recul récent de 2,28 %.",
       "points_forts": [
-        "Redevances liées aux ventes d'Uzedy en hausse",
-        "Consensus des 9 analystes : strong_buy, objectif moyen 35,51 € au-dessus du cours de 25,72 €",
-        "Produit mdc-TJK au stade du dépôt de dossier (NDA) dans la schizophrénie"
+        "Feu vert américain pour Weltruza (schizophrénie)",
+        "Avis des analystes « strong buy » (9 analystes), objectif moyen 35,51 € contre un cours de 25,48 €",
+        "Soutien affiché de Stifel"
       ],
       "risques": [
-        "Pertes annuelles en hausse et baisse de 15 % en Bourse après les résultats",
-        "Chiffre d'affaires en recul (-0,446)",
-        "Forte volatilité et suspension de cotation, dépendance à une décision de la FDA"
+        "Chiffre d'affaires en baisse (-44,6 %)",
+        "Titre très volatil, fortes variations après l'annonce",
+        "Cours encore loin du plus haut sur 52 semaines (39,68 €)"
       ],
       "catalyseurs": [
-        "Décision de la FDA sur le TEV-749 (mdc-TJK) dans la schizophrénie",
-        "Avancement de l'essai de phase III du mdc-CWM (douleur post-opératoire)"
+        "Lancement commercial de Weltruza aux États-Unis",
+        "Avancée du programme mdc-CWM (Phase III, douleur post-opératoire)"
       ],
-      "a_surveiller": "Le communiqué officiel de MedinCell sur la décision de la FDA et la reprise de la cotation, car l'issue réelle n'apparaît pas dans les titres fournis."
+      "a_surveiller": "Surveille comment le marché digère la hausse après l'autorisation, ainsi que les premières informations sur le lancement commercial et l'évolution du chiffre d'affaires, aucune date de résultats n'étant indiquée."
     }
   },
   "KLRA": {
@@ -434,27 +434,27 @@
     }
   },
   "MYN": {
-    "sig": "79061a5cdb563fde",
+    "sig": "e7a4e45705113bd1",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis sont des pages génériques de cours TradingView sur d'autres valeurs (BBDC, PBT, TSLX, VTN, DXYZ) et ne concernent pas MYN. Aucune information concrète sur ce fonds n'en ressort. Le cours (8,86 USD) reste proche de son plus bas sur 52 semaines (8,58), après une baisse d'environ 8,5 % en 6 mois.",
+      "resume": "Les titres d'actualité fournis concernent d'autres valeurs (BBDC, PSEC, PBT, ASA, DXYZ) et sont de simples pages de cours TradingView. Ils ne disent rien de concret sur MYN. Le fonds, qui investit dans des obligations municipales de New York, est en recul d'environ 7 % sur 6 mois et se situe près de son plus bas sur 52 semaines.",
       "points_forts": [
-        "Fonds investi en obligations municipales de qualité (investment grade) de New York",
-        "Revenus exonérés d'impôt fédéral et de New York, selon la description du fonds",
-        "Géré par BlackRock, un grand gestionnaire d'actifs"
+        "Obligations municipales de qualité (investment grade) exemptes d'impôts fédéraux et de New York",
+        "Géré par BlackRock, un grand acteur du secteur",
+        "Fonds ancien, créé en 1992"
       ],
       "risques": [
-        "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
-        "Aucun avis ni objectif d'analystes disponible",
-        "Fonds concentré sur un seul État, donc moins diversifié"
+        "Cours proche du plus bas annuel (8,58 USD) avec une tendance baissière sur 6 mois",
+        "Aucun avis d'analyste ni objectif de cours disponible",
+        "Concentration sur les obligations municipales d'un seul État, sensible aux taux d'intérêt"
       ],
       "catalyseurs": [
-        "Prochaine publication des résultats ou du rapport du fonds (date non communiquée)",
-        "Évolution des taux d'intérêt, qui pèse généralement sur le prix des obligations"
+        "Évolution des taux d'intérêt, qui influence le prix des obligations longues",
+        "Prochaines annonces de distributions du fonds (date non précisée dans les données)"
       ],
-      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas des 52 semaines (8,58 USD) et attends des informations propres au fonds, comme la distribution et la décote par rapport à la valeur liquidative, qui ne figurent pas dans ces données."
+      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas de 52 semaines (8,58 USD) et l'évolution des taux d'intérêt."
     }
   },
   "AL2SI.PA": {
@@ -578,27 +578,27 @@
     }
   },
   "BBT": {
-    "sig": "d730769c02ec791f",
+    "sig": "715dfa810c006382",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 1,
       "confiance": "faible",
-      "resume": "Le seul titre concret concerne RBC Capital Markets, qui maintient sa recommandation « neutre » sur Beacon Financial. Les autres titres sont des pages de cotations générales, sans information précise sur l'entreprise. L'action recule d'environ 12,5 % sur 6 mois, alors que les analystes restent globalement favorables.",
+      "resume": "Les titres d'actualité fournis ne concernent pas directement Beacon Financial : ils portent sur d'autres valeurs (JPMorgan, Bank of Hawaii, Solidion, Banc of California) et ne contiennent aucune information concrète sur BBT. L'action recule de 13,6 % sur 6 mois et se situe dans la moitié basse de sa fourchette annuelle, tandis que les analystes restent globalement favorables.",
       "points_forts": [
-        "Avis moyen des analystes : « buy » (6 analystes)",
-        "Objectif moyen de 34 $, au-dessus du cours de 27,09 $",
-        "Croissance du chiffre d'affaires indiquée à 1,445 (donnée à interpréter avec prudence)"
+        "Avis analystes « buy » (6 analystes)",
+        "Objectif moyen de 34 $, au-dessus du cours de 27,5 $",
+        "Croissance du chiffre d'affaires affichée à 1,445 (donnée à interpréter avec prudence)"
       ],
       "risques": [
-        "Baisse de 12,5 % sur 6 mois",
-        "Avis neutre de RBC, moins enthousiaste que le consensus",
-        "Cours plus proche du bas des 52 semaines (22,81 $) que du haut (32,83 $)"
+        "Baisse de 13,6 % sur 6 mois",
+        "Secteur des banques régionales américaines sensible aux taux et au crédit",
+        "Aucune actualité spécifique pour expliquer les mouvements du cours"
       ],
       "catalyseurs": [
         "Publication des résultats le 21 octobre 2026",
-        "Éventuelles révisions des objectifs ou recommandations des analystes"
+        "Révisions des objectifs ou des avis des analystes"
       ],
-      "a_surveiller": "Les résultats du 21 octobre 2026 et l'évolution des recommandations des analystes, notamment l'écart entre l'avis neutre de RBC et le consensus « buy »."
+      "a_surveiller": "Les prochains résultats du 21 octobre 2026, en regardant la qualité des prêts, les marges et la croissance des revenus."
     }
   },
   "FOIL": {
@@ -770,27 +770,27 @@
     }
   },
   "FRMI": {
-    "sig": "590f1475d53734c9",
+    "sig": "5a3d1da214f58258",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 3,
+      "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres évoquent Fermi, société d'infrastructures énergétiques privées pour l'IA, avec une valorisation passée de 14,8 milliards de dollars, une introduction en bourse, un accord de soutien au crédit et un partenariat avec AMD. L'action a toutefois chuté d'environ 41,5 % en 6 mois et cote à 3,16 $, près de son plus bas sur 52 semaines (3,0 $). L'écart est très grand entre ce cours et l'objectif moyen des analystes (17,125 $), ce qui reflète une forte incertitude.",
+      "resume": "Les titres récents sont surtout des pages de cours et de prévisions d'analystes, sans nouvelle concrète sur l'entreprise. Un article mentionne une valorisation passée de 14,8 milliards de dollars liée à l'engouement pour l'IA, alors que l'action cote aujourd'hui autour de 3,16 USD, près de son plus bas sur 52 semaines (3,0). L'écart entre ces niveaux montre une forte volatilité.",
       "points_forts": [
-        "Partenariat avec AMD et accord de soutien au crédit",
-        "Avis analystes 'buy' (8 analystes), objectif moyen 17,125 $",
-        "Thème porteur : énergie à grande échelle pour l'IA"
+        "Projet ambitieux de réseau électrique privé de 17 GW pour l'IA",
+        "Avis moyen des analystes : achat (8 analystes)",
+        "Objectif moyen de 16,6 USD, très au-dessus du cours actuel"
       ],
       "risques": [
-        "Forte baisse du cours (-41,5 % sur 6 mois), proche du plus bas annuel",
-        "Aucune donnée de croissance du chiffre d'affaires disponible",
-        "Grande volatilité et dispersion des objectifs (6 à 35 $)"
+        "Baisse de 41,5 % en 6 mois et cours proche du plus bas annuel",
+        "Très forte volatilité et grande dispersion des objectifs (6 à 35 USD)",
+        "Pas de croissance du chiffre d'affaires communiquée, projets encore en développement"
       ],
       "catalyseurs": [
         "Publication des résultats le 12 novembre 2026",
-        "Nouvelles concrètes sur le partenariat AMD ou le financement du projet Matador"
+        "Avancées ou annonces concrètes sur le projet Matador (clients, financement, construction)"
       ],
-      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas de 3,0 $ et si les résultats du 12 novembre 2026 apportent des chiffres concrets sur les revenus et le financement."
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas de 3,0 USD et si l'entreprise annonce des éléments concrets (contrats, financements) lors des prochains résultats."
     }
   },
   "BBAI": {
@@ -1274,51 +1274,51 @@
     }
   },
   "OPK": {
-    "sig": "c6ef629f7463b522",
+    "sig": "998493f2f5f2c6b9",
     "analyse": {
-      "sentiment": "positif",
-      "importance": 4,
-      "confiance": "moyenne",
-      "resume": "Selon un titre d'Investing.com France, l'action OPKO Health a bondi après l'annonce de la cession des actifs BioReference pour 722 M$. Cette vente pourrait donner à l'entreprise plus de moyens financiers et lui permettre de se concentrer sur son activité pharmaceutique. Les détails de l'opération (utilisation du produit, conditions) ne figurent pas dans les données fournies.",
+      "sentiment": "neutre",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Les titres récents sont surtout des pages de cours et de bilan, sans information concrète, à part un article de Zonebourse indiquant que Barrington Research devient positif sur OPKO Health. Cela peut soutenir l'image du titre, mais le détail de cette opinion n'est pas connu ici. L'action reste volatile, entre 0,98 et 1,77 USD sur 52 semaines.",
       "points_forts": [
-        "Cession d'actifs pour 722 M$ saluée par le marché",
-        "Objectif moyen des analystes (4,625 $) bien au-dessus du cours de 1,61 $",
-        "Chiffre d'affaires en légère croissance (+4,3 %)"
+        "Avis moyen des analystes à « buy » (5 analystes), objectif moyen 4,15 USD",
+        "Chiffre d'affaires en hausse de 4,3 %",
+        "Cours en progression de 25,4 % sur 6 mois"
       ],
       "risques": [
-        "Cours proche du plus haut sur 52 semaines (1,75 $), après une forte hausse (+29,8 % sur 6 mois)",
-        "Après la cession, l'entreprise dépend davantage de projets pharmaceutiques en phase 1, incertains",
-        "Titre peu cher et volatil, avec seulement 4 analystes qui le suivent"
+        "Forte volatilité du titre (0,98 à 1,77 USD sur 52 semaines)",
+        "Écart très large entre les objectifs des analystes (2,25 à 8,5 USD), signe d'incertitude",
+        "Projets pharmaceutiques encore en phase 1, donc à un stade précoce"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 28 octobre 2026",
-        "Précisions sur l'utilisation du produit de la cession et sur l'avancement des essais cliniques"
+        "Avancées des essais cliniques de phase 1 (MDX2001, MDX2003)"
       ],
-      "a_surveiller": "Surveille comment OPKO compte utiliser les 722 M$ et si le cours reste au-dessus de ses niveaux récents après le bond."
+      "a_surveiller": "Surveiller si d'autres analystes rejoignent Barrington Research et ce que montreront les résultats du 28 octobre 2026 sur la croissance et les dépenses de recherche."
     }
   },
   "FMC": {
-    "sig": "a62c2e3fd5a38ad7",
+    "sig": "c589e3a68346bd05",
     "analyse": {
       "sentiment": "negatif",
-      "importance": 5,
+      "importance": 4,
       "confiance": "moyenne",
-      "resume": "FMC a fortement réduit ses prévisions de chiffre d'affaires pour le troisième trimestre, et l'action a plongé. Un renflouement d'urgence, avec Tessenderlo qui prend 20 % du capital pour 400 M$, a été mal accueilli par les investisseurs malgré un rebond ponctuel du titre. Cela compte car l'action a perdu environ 65 % en 6 mois et la situation financière de l'entreprise semble fragile.",
+      "resume": "FMC a fortement réduit ses prévisions de chiffre d'affaires pour le T3, ce qui a fait plonger l'action. Un autre titre indique que Tessenderlo prend 20 % du capital pour 400 M$, ce qui a fait rebondir le titre. Le cours reste très bas (5,66 USD, -66,9 % en 6 mois), ce qui montre une forte tension autour de l'entreprise.",
       "points_forts": [
-        "Entrée de Tessenderlo au capital (20 % pour 400 M$)",
-        "Apport de liquidités grâce à cet investissement",
-        "Cours proche du bas de sa fourchette sur 52 semaines, sous l'objectif moyen des analystes (11,11 $)"
+        "Entrée de Tessenderlo à 20 % pour 400 M$",
+        "Objectif moyen des analystes (9,18 USD) au-dessus du cours",
+        "Cours proche du plus bas annuel, donc attentes déjà très basses"
       ],
       "risques": [
-        "Prévisions de chiffre d'affaires abaissées et ventes en recul (-17,5 %)",
-        "Renflouement d'urgence mal perçu, avec risque de dilution pour les actionnaires",
-        "Forte volatilité et avis analystes prudent (hold), objectif bas à 4 $ sous le cours actuel"
+        "Prévisions de chiffre d'affaires T3 fortement réduites",
+        "Chiffre d'affaires en recul (-17,5 %)",
+        "Forte volatilité et avis analystes prudent (hold)"
       ],
       "catalyseurs": [
         "Résultats du 29 octobre 2026",
-        "Précisions sur les conditions de l'accord avec Tessenderlo et l'usage des fonds"
+        "Détails sur la participation de Tessenderlo et ses conséquences"
       ],
-      "a_surveiller": "Surveille si la baisse du chiffre d'affaires s'arrête aux prochains résultats et comment la situation financière évolue après l'apport de Tessenderlo."
+      "a_surveiller": "Voir si l'apport de Tessenderlo suffit à compenser la baisse des prévisions, et comment évoluent les ventes aux prochains résultats."
     }
   },
   "DFH": {
@@ -1489,51 +1489,75 @@
     }
   },
   "FRVO": {
-    "sig": "f379ed774d7d4044",
+    "sig": "869b2f3b24aee5df",
     "analyse": {
-      "sentiment": "neutre",
-      "importance": 3,
-      "confiance": "faible",
-      "resume": "L'action Fervo Energy a chuté d'environ 73 % en six mois et se trouve près de son plus bas sur 52 semaines (9,81 $ contre 9,63 $). Un titre évoque un rapport d'un vendeur à découvert, face auquel RBC estime que l'opportunité à long terme reste intacte. Les autres titres ne donnent pas d'information concrète sur l'entreprise.",
+      "sentiment": "negatif",
+      "importance": 4,
+      "confiance": "moyenne",
+      "resume": "Fervo Energy, spécialiste de la géothermie aux États-Unis, a fortement chuté : environ -73 % en 6 mois et près de son plus bas sur 52 semaines. Un rapport critique remet en question le discours sur la géothermie et le titre clôturait environ 46 % sous son prix d'introduction. En parallèle, une aide publique américaine de 99 millions de dollars pour la géothermie est un signal de soutien au secteur.",
       "points_forts": [
-        "14 analystes, avis moyen « strong buy »",
-        "Objectif moyen des analystes (~37,7 $) bien au-dessus du cours",
-        "RBC juge l'opportunité à long terme intacte"
+        "Soutien public américain : 99 M$ attribués à des projets de forage et technologies géothermiques",
+        "Avis des analystes très favorable (strong_buy, 14 analystes)",
+        "Objectif moyen des analystes (environ 37,7 $) bien au-dessus du cours actuel"
       ],
       "risques": [
-        "Forte volatilité et chute de 73 % en six mois",
-        "Rapport d'un vendeur à découvert qui pèse sur la confiance",
-        "Aucune donnée de croissance du chiffre d'affaires disponible"
+        "Rapport critique qui conteste le récit géothermique, pouvant peser sur la confiance",
+        "Volatilité extrême et forte baisse depuis l'introduction en bourse",
+        "Données de croissance du chiffre d'affaires non disponibles, donc visibilité limitée"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 16 novembre 2026",
-        "Réponses de l'entreprise ou nouvelles analyses concernant le rapport du vendeur à découvert"
+        "Éventuelle réponse de l'entreprise au rapport critique ou nouvelles attributions de financements publics"
       ],
-      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas de 52 semaines (9,63 $) et comment l'entreprise réagit aux accusations du vendeur à découvert."
+      "a_surveiller": "Le maintien ou non du cours au-dessus du plus bas sur 52 semaines (9,59 $) et la réaction de l'entreprise et des analystes au rapport critique."
     }
   },
   "INTR": {
-    "sig": "4df09b5bc08cc535",
+    "sig": "b71361fd1cd7302f",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et de listes génériques (Zonebourse, Yahoo Finance, TradingView) et n'apportent aucune information concrète sur Inter & Co. Le contexte reste donc celui des chiffres : une action en baisse de 18,2 % sur 6 mois, mais une croissance du chiffre d'affaires de 23,8 % et un avis moyen des analystes à « buy ».",
+      "resume": "Les titres d'actualité récents ne parlent pas concrètement d'Inter & Co : ils portent surtout sur d'autres sociétés (Mondelez, SMIC, WW) ou sur des sélections génériques, et seule une page de cours Yahoo Finance concerne INTR. Aucune information nouvelle ne permet donc de tirer une conclusion sur l'entreprise. Le contexte reste celui d'une banque digitale brésilienne en croissance, dont le cours recule sur 6 mois.",
       "points_forts": [
-        "Croissance du chiffre d'affaires de 23,8 %",
-        "Avis des analystes « buy » (11 analystes)",
-        "Objectif moyen de 9,13 USD, au-dessus du cours de 6,73 USD"
+        "Chiffre d'affaires en hausse de 23,8 %",
+        "Avis moyen des analystes : achat (11 analystes)",
+        "Objectif moyen (9,13 $) supérieur au cours actuel (6,73 $)"
       ],
       "risques": [
-        "Baisse de 18,2 % sur 6 mois",
-        "Forte dispersion des objectifs (5,0 à 12,4 USD)",
-        "Exposition principale au Brésil, avec un titre assez volatile (52 semaines : 4,97 à 10,36 USD)"
+        "Cours en baisse de 18,2 % sur 6 mois",
+        "Forte dispersion des objectifs d'analystes (5,0 à 12,4 $)",
+        "Exposition à un seul marché principal, le Brésil, et titre potentiellement volatil"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-12",
+        "Publication des résultats prévue le 12 novembre 2026",
         "Révisions d'objectifs ou d'avis par les analystes"
       ],
-      "a_surveiller": "Surveille les résultats du 12 novembre 2026 pour voir si la croissance du chiffre d'affaires se maintient, car l'actualité récente n'apporte rien de concret."
+      "a_surveiller": "Surveille les prochains résultats (12 novembre 2026) et la capacité de l'entreprise à maintenir sa croissance, car les actualités actuelles n'apportent aucun élément concret."
+    }
+  },
+  "VUL.F": {
+    "sig": "7a568329d33b0de7",
+    "analyse": {
+      "sentiment": "negatif",
+      "importance": 2,
+      "confiance": "faible",
+      "resume": "Le seul titre disponible est une page générique de cours et d'historique sur Yahoo Finance, sans information concrète sur l'entreprise. Ce qui ressort surtout, c'est la forte baisse du cours (-67,4 % en 6 mois), qui se situe près de son plus bas sur 52 semaines. Le chiffre d'affaires recule aussi (-45 %).",
+      "points_forts": [
+        "Un seul analyste, avec un objectif (≈4,10 €) très au-dessus du cours actuel",
+        "Activité liée au lithium géothermique et aux matériaux pour batteries en Europe",
+        "Capitalisation d'environ 349 M, ce qui reste significatif"
+      ],
+      "risques": [
+        "Chute du cours de 67,4 % en 6 mois, proche du plus bas annuel",
+        "Chiffre d'affaires en baisse de 45 %",
+        "Couverture analyste quasi inexistante (1 seul avis), donc objectif peu fiable"
+      ],
+      "catalyseurs": [
+        "Prochaine publication de résultats (date non communiquée)",
+        "Annonces sur l'avancement du projet Lionheart (aucune information précise fournie)"
+      ],
+      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas des 52 semaines (0,7175 €) et si de vraies annonces sur le projet Lionheart ou sur le financement apparaissent."
     }
   }
 }

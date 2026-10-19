@@ -718,5 +718,65 @@
       -16.5
     ],
     "resume": "Selon un titre d'Investing.com France, l'action OPKO Health a bondi après l'annonce de la cession des actifs BioReference pour 722 M$. Cette vente pourrait donner à l'entreprise plus de moyens financiers et lui permettre de se concentrer sur son activité pharmaceutique. Les détails de l'opération (utilisation du produit, conditions) ne figurent pas dans les données fournies."
+  },
+  {
+    "date": "19/10/2026 09:37",
+    "symbole": "GOOG",
+    "sentiment": "positif",
+    "cours": 336.91,
+    "gain": [
+      4.5,
+      24.9
+    ],
+    "perte": [
+      -4.5,
+      -9.0
+    ],
+    "resume": "Les titres évoquent des résultats trimestriels solides pour Alphabet, avec un bénéfice en hausse de 81 % et un cloud qui tire la croissance. L'entreprise relève à nouveau ses prévisions d'investissements et a conclu un accord important avec Anthropic. Cela compte car cela montre une forte dynamique, mais aussi des dépenses qui augmentent."
+  },
+  {
+    "date": "19/10/2026 09:37",
+    "symbole": "MEDCL.PA",
+    "sentiment": "positif",
+    "cours": 25.48,
+    "gain": [
+      8.1,
+      39.4
+    ],
+    "perte": [
+      -8.1,
+      -16.2
+    ],
+    "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, le traitement de la schizophrénie de MedinCell, et le titre a bondi d'environ 18 % selon les titres de presse. Stifel affiche aussi sa confiance. Une autorisation de ce type compte beaucoup pour une biotech, mais un titre très volatil peut aussi corriger vite, comme le suggère un recul récent de 2,28 %."
+  },
+  {
+    "date": "19/10/2026 09:37",
+    "symbole": "FMC",
+    "sentiment": "negatif",
+    "cours": 5.66,
+    "gain": [
+      11.8,
+      62.2
+    ],
+    "perte": [
+      -11.8,
+      -23.6
+    ],
+    "resume": "FMC a fortement réduit ses prévisions de chiffre d'affaires pour le T3, ce qui a fait plonger l'action. Un autre titre indique que Tessenderlo prend 20 % du capital pour 400 M$, ce qui a fait rebondir le titre. Le cours reste très bas (5,66 USD, -66,9 % en 6 mois), ce qui montre une forte tension autour de l'entreprise."
+  },
+  {
+    "date": "19/10/2026 09:37",
+    "symbole": "FRVO",
+    "sentiment": "negatif",
+    "cours": 9.68,
+    "gain": [
+      16.8,
+      289.6
+    ],
+    "perte": [
+      -16.8,
+      -33.5
+    ],
+    "resume": "Fervo Energy, spécialiste de la géothermie aux États-Unis, a fortement chuté : environ -73 % en 6 mois et près de son plus bas sur 52 semaines. Un rapport critique remet en question le discours sur la géothermie et le titre clôturait environ 46 % sous son prix d'introduction. En parallèle, une aide publique américaine de 99 millions de dollars pour la géothermie est un signal de soutien au secteur."
   }
 ]
