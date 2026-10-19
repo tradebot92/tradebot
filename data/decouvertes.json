@@ -12,66 +12,36 @@
       "premiere": "2026-10-16T16:00+02:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "BBT": {
-      "premiere": "2026-10-19T09:37+02:00",
-      "nom": "Beacon Financial Corporation"
-    },
     "UAMY": {
       "premiere": "2026-10-19T16:06+02:00",
       "nom": "United States Antimony Corporat"
     },
-    "EXK": {
-      "premiere": "2026-10-19T16:06+02:00",
-      "nom": "Endeavour Silver Corporation"
+    "CVX.PA": {
+      "premiere": "2026-10-19T17:56+02:00",
+      "nom": "CARVOLIX"
     },
-    "SNDA": {
-      "premiere": "2026-10-19T16:06+02:00",
-      "nom": "Sonida Senior Living, Inc."
+    "ANNX": {
+      "premiere": "2026-10-19T17:56+02:00",
+      "nom": "Annexon, Inc."
     },
-    "IDIP.PA": {
-      "premiere": "2026-10-19T16:06+02:00",
-      "nom": "IDI"
+    "OLMA": {
+      "premiere": "2026-10-19T17:56+02:00",
+      "nom": "Olema Pharmaceuticals, Inc."
     },
-    "TKO.PA": {
-      "premiere": "2026-10-19T16:06+02:00",
-      "nom": "TIKEHAU CAPITAL"
+    "ZBIO": {
+      "premiere": "2026-10-19T17:56+02:00",
+      "nom": "Zenas BioPharma, Inc."
     },
-    "BHVN": {
-      "premiere": "2026-10-19T17:02+02:00",
-      "nom": "Biohaven Ltd."
+    "XERS": {
+      "premiere": "2026-10-19T17:56+02:00",
+      "nom": "Xeris Biopharma Holdings, Inc."
+    },
+    "KMTS": {
+      "premiere": "2026-10-19T17:56+02:00",
+      "nom": "Kestra Medical Technologies, Lt"
     }
   },
   "sorties": [
-    {
-      "symbole": "EVEX",
-      "date": "15/10/2026",
-      "nom": "Eve Holding, Inc."
-    },
-    {
-      "symbole": "SES",
-      "date": "15/10/2026",
-      "nom": "SES AI Corporation"
-    },
-    {
-      "symbole": "OPEN",
-      "date": "15/10/2026",
-      "nom": "Opendoor Technologies Inc"
-    },
-    {
-      "symbole": "GLO.PA",
-      "date": "16/10/2026",
-      "nom": "GL EVENTS"
-    },
-    {
-      "symbole": "REAL",
-      "date": "16/10/2026",
-      "nom": "The RealReal, Inc."
-    },
-    {
-      "symbole": "REAL",
-      "date": "16/10/2026",
-      "nom": "The RealReal, Inc."
-    },
     {
       "symbole": "OPEN",
       "date": "16/10/2026",
@@ -191,6 +161,36 @@
       "symbole": "CNOB",
       "date": "19/10/2026",
       "nom": "ConnectOne Bancorp, Inc."
+    },
+    {
+      "symbole": "BBT",
+      "date": "19/10/2026",
+      "nom": "Beacon Financial Corporation"
+    },
+    {
+      "symbole": "EXK",
+      "date": "19/10/2026",
+      "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "SNDA",
+      "date": "19/10/2026",
+      "nom": "Sonida Senior Living, Inc."
+    },
+    {
+      "symbole": "IDIP.PA",
+      "date": "19/10/2026",
+      "nom": "IDI"
+    },
+    {
+      "symbole": "TKO.PA",
+      "date": "19/10/2026",
+      "nom": "TIKEHAU CAPITAL"
+    },
+    {
+      "symbole": "BHVN",
+      "date": "19/10/2026",
+      "nom": "Biohaven Ltd."
     }
   ]
 }
