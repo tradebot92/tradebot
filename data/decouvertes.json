@@ -24,10 +24,6 @@
       "premiere": "2026-10-19T17:56+02:00",
       "nom": "Annexon, Inc."
     },
-    "OLMA": {
-      "premiere": "2026-10-19T17:56+02:00",
-      "nom": "Olema Pharmaceuticals, Inc."
-    },
     "ZBIO": {
       "premiere": "2026-10-19T17:56+02:00",
       "nom": "Zenas BioPharma, Inc."
@@ -39,14 +35,13 @@
     "BBT": {
       "premiere": "2026-10-19T18:21+02:00",
       "nom": "Beacon Financial Corporation"
+    },
+    "EXK": {
+      "premiere": "2026-10-19T18:59+02:00",
+      "nom": "Endeavour Silver Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "REAL",
-      "date": "16/10/2026",
-      "nom": "The RealReal, Inc."
-    },
     {
       "symbole": "OPK",
       "date": "16/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "KMTS",
       "date": "19/10/2026",
       "nom": "Kestra Medical Technologies, Lt"
+    },
+    {
+      "symbole": "OLMA",
+      "date": "19/10/2026",
+      "nom": "Olema Pharmaceuticals, Inc."
     }
   ]
 }
