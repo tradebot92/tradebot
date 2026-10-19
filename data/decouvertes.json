@@ -12,57 +12,36 @@
       "premiere": "2026-10-16T16:00+02:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "FMC": {
-      "premiere": "2026-10-16T18:57+02:00",
-      "nom": "FMC Corporation"
-    },
-    "FRVO": {
-      "premiere": "2026-10-16T20:59+02:00",
-      "nom": "Fervo Energy Company"
-    },
-    "OPK": {
-      "premiere": "2026-10-16T21:50+02:00",
-      "nom": "Opko Health, Inc."
-    },
-    "INTR": {
-      "premiere": "2026-10-16T22:11+02:00",
-      "nom": "Inter & Co. Inc."
-    },
-    "FRMI": {
-      "premiere": "2026-10-16T23:16+02:00",
-      "nom": "Fermi Inc."
-    },
     "BBT": {
       "premiere": "2026-10-19T09:37+02:00",
       "nom": "Beacon Financial Corporation"
+    },
+    "UAMY": {
+      "premiere": "2026-10-19T16:06+02:00",
+      "nom": "United States Antimony Corporat"
+    },
+    "EXK": {
+      "premiere": "2026-10-19T16:06+02:00",
+      "nom": "Endeavour Silver Corporation"
+    },
+    "SNDA": {
+      "premiere": "2026-10-19T16:06+02:00",
+      "nom": "Sonida Senior Living, Inc."
+    },
+    "IDIP.PA": {
+      "premiere": "2026-10-19T16:06+02:00",
+      "nom": "IDI"
+    },
+    "TKO.PA": {
+      "premiere": "2026-10-19T16:06+02:00",
+      "nom": "TIKEHAU CAPITAL"
+    },
+    "CNOB": {
+      "premiere": "2026-10-19T16:06+02:00",
+      "nom": "ConnectOne Bancorp, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "EVEX",
-      "date": "15/10/2026",
-      "nom": "Eve Holding, Inc."
-    },
-    {
-      "symbole": "ETL.PA",
-      "date": "15/10/2026",
-      "nom": "EUTELSAT COMMUNIC."
-    },
-    {
-      "symbole": "GLOO",
-      "date": "15/10/2026",
-      "nom": "Gloo Holdings, Inc."
-    },
-    {
-      "symbole": "EIKN",
-      "date": "15/10/2026",
-      "nom": "Eikon Therapeutics, Inc."
-    },
-    {
-      "symbole": "DFH",
-      "date": "15/10/2026",
-      "nom": "Dream Finders Homes, Inc."
-    },
     {
       "symbole": "REAL",
       "date": "15/10/2026",
@@ -187,6 +166,31 @@
       "symbole": "ETL.PA",
       "date": "19/10/2026",
       "nom": "EUTELSAT COMMUNIC."
+    },
+    {
+      "symbole": "FMC",
+      "date": "19/10/2026",
+      "nom": "FMC Corporation"
+    },
+    {
+      "symbole": "FRVO",
+      "date": "19/10/2026",
+      "nom": "Fervo Energy Company"
+    },
+    {
+      "symbole": "OPK",
+      "date": "19/10/2026",
+      "nom": "Opko Health, Inc."
+    },
+    {
+      "symbole": "INTR",
+      "date": "19/10/2026",
+      "nom": "Inter & Co. Inc."
+    },
+    {
+      "symbole": "FRMI",
+      "date": "19/10/2026",
+      "nom": "Fermi Inc."
     }
   ]
 }
