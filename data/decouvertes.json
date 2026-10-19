@@ -32,26 +32,16 @@
       "premiere": "2026-10-19T17:56+02:00",
       "nom": "Xeris Biopharma Holdings, Inc."
     },
-    "BBT": {
-      "premiere": "2026-10-19T18:21+02:00",
-      "nom": "Beacon Financial Corporation"
+    "DXC": {
+      "premiere": "2026-10-19T19:24+02:00",
+      "nom": "DXC Technology Company"
     },
-    "EXK": {
-      "premiere": "2026-10-19T18:59+02:00",
-      "nom": "Endeavour Silver Corporation"
+    "TSHA": {
+      "premiere": "2026-10-19T19:24+02:00",
+      "nom": "Taysha Gene Therapies, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "OPK",
-      "date": "16/10/2026",
-      "nom": "Opko Health, Inc."
-    },
-    {
-      "symbole": "FMC",
-      "date": "16/10/2026",
-      "nom": "FMC Corporation"
-    },
     {
       "symbole": "RXRX",
       "date": "16/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "OLMA",
       "date": "19/10/2026",
       "nom": "Olema Pharmaceuticals, Inc."
+    },
+    {
+      "symbole": "BBT",
+      "date": "19/10/2026",
+      "nom": "Beacon Financial Corporation"
+    },
+    {
+      "symbole": "EXK",
+      "date": "19/10/2026",
+      "nom": "Endeavour Silver Corporation"
     }
   ]
 }
