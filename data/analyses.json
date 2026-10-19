@@ -96,27 +96,27 @@
     }
   },
   "EIKN": {
-    "sig": "3500ada67a7836eb",
+    "sig": "67c9923451860790",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres récents ne parlent pas concrètement d'Eikon : ce sont surtout des pages de cours d'autres sociétés de biotechnologie (ACRS, GENB, MRNA, SPRY, AGMB). Aucune actualité propre à Eikon ne permet donc de justifier un mouvement. Le titre a reculé d'environ 36 % en 6 mois et reste volatil.",
+      "resume": "Les titres récents ne concernent pas Eikon : ce sont des pages de cours d'autres biotechs (SPRY, GENB, MRNA, AGMB, CTMX). Ils n'apportent aucune information précise sur Eikon. Le cours (7,42 USD) a baissé d'environ 36 % en 6 mois et reste loin de son plus haut sur 52 semaines (17,4).",
       "points_forts": [
-        "Avis moyen des analystes : « buy » (6 analystes)",
-        "Objectif moyen de 24,33 USD, bien au-dessus du cours de 7,42 USD",
-        "Portefeuille clinique varié en oncologie (EIK1001, EIK1003, EIK1004, EIK1005)"
+        "Avis analystes « buy » (6 analystes)",
+        "Objectif moyen (24,33 USD) très supérieur au cours actuel",
+        "Plusieurs candidats-médicaments en développement clinique (EIK1001, EIK1003, EIK1004, EIK1005)"
       ],
       "risques": [
-        "Baisse de 35,8 % sur 6 mois, loin du plus haut annuel de 17,4 USD",
-        "Écart très large entre les objectifs analystes (4,0 à 32,0), signe d'une forte incertitude",
-        "Société biotech en phase clinique, sans croissance du chiffre d'affaires indiquée"
+        "Forte volatilité et baisse de 35,8 % en 6 mois",
+        "Société encore en phase clinique, sans croissance de chiffre d'affaires communiquée",
+        "Très grand écart entre les objectifs des analystes (4 à 32 USD), signe d'une forte incertitude"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 12 novembre 2026",
-        "Éventuelles données cliniques ou annonces sur les programmes en développement (non datées dans les informations fournies)"
+        "Publication des prochains résultats prévue le 12 novembre 2026",
+        "Éventuelles données cliniques sur les candidats-médicaments (aucune date précisée dans les données)"
       ],
-      "a_surveiller": "Surveiller les communiqués officiels d'Eikon sur ses essais cliniques et le niveau du cours par rapport au plus bas annuel de 6,45 USD."
+      "a_surveiller": "Surveillez les communiqués officiels de la société sur ses essais cliniques et ses besoins de financement, plutôt que ces titres sans lien direct avec Eikon."
     }
   },
   "EXK": {
@@ -1298,27 +1298,27 @@
     }
   },
   "FMC": {
-    "sig": "c589e3a68346bd05",
+    "sig": "e61ae44485450948",
     "analyse": {
       "sentiment": "negatif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "FMC a fortement réduit ses prévisions de chiffre d'affaires pour le T3, ce qui a fait plonger l'action. Un autre titre indique que Tessenderlo prend 20 % du capital pour 400 M$, ce qui a fait rebondir le titre. Le cours reste très bas (5,66 USD, -66,9 % en 6 mois), ce qui montre une forte tension autour de l'entreprise.",
+      "resume": "FMC a fortement réduit ses prévisions de chiffre d'affaires pour le T3, ce qui a fait plonger l'action. Un titre indique aussi que Tessenderlo prendrait 20 % du capital pour 400 M$, ce qui a fait rebondir le cours. L'action reste très affaiblie (-66,9 % en 6 mois) et proche de son plus bas sur 52 semaines.",
       "points_forts": [
-        "Entrée de Tessenderlo à 20 % pour 400 M$",
-        "Objectif moyen des analystes (9,18 USD) au-dessus du cours",
-        "Cours proche du plus bas annuel, donc attentes déjà très basses"
+        "Entrée annoncée de Tessenderlo à 20 % (400 M$)",
+        "Cours très bas par rapport à l'objectif moyen des analystes (9,18 $)",
+        "Gamme variée : insecticides, herbicides, fongicides, biologiques"
       ],
       "risques": [
-        "Prévisions de chiffre d'affaires T3 fortement réduites",
+        "Prévisions de ventes T3 fortement revues à la baisse",
         "Chiffre d'affaires en recul (-17,5 %)",
         "Forte volatilité et avis analystes prudent (hold)"
       ],
       "catalyseurs": [
-        "Résultats du 29 octobre 2026",
-        "Détails sur la participation de Tessenderlo et ses conséquences"
+        "Publication des résultats le 29 octobre 2026",
+        "Précisions sur l'opération avec Tessenderlo"
       ],
-      "a_surveiller": "Voir si l'apport de Tessenderlo suffit à compenser la baisse des prévisions, et comment évoluent les ventes aux prochains résultats."
+      "a_surveiller": "Surveille si les résultats confirment la baisse des ventes et si l'apport de Tessenderlo suffit à rassurer le marché, sachant que le cours est très volatil."
     }
   },
   "DFH": {
@@ -1537,27 +1537,27 @@
     }
   },
   "VUL.F": {
-    "sig": "c506fb695a29ad8c",
+    "sig": "e0c444da8caeabdd",
     "analyse": {
       "sentiment": "negatif",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Le seul titre d'actualité est une page générique de cours et d'historique sur Yahoo Finance, sans information concrète sur l'entreprise. Ce qui ressort surtout, c'est la forte baisse du cours (-67 % en 6 mois), proche de son plus bas sur 52 semaines, et un chiffre d'affaires en recul.",
+      "resume": "Le seul titre d'actualité est une page générique de Yahoo Finance (cours, historique), sans information concrète sur l'entreprise. Le cours a toutefois chuté d'environ 67 % en 6 mois et se situe près de son plus bas sur 52 semaines, ce qui reflète une forte pression sur le titre.",
       "points_forts": [
-        "Capitalisation d'environ 350 millions, ce qui reste significatif",
-        "Un analyste affiche un objectif très supérieur au cours actuel (environ 4,10 EUR)",
-        "Activité centrée sur le lithium géothermique et les matériaux pour batteries"
+        "Un analyste affiche un objectif de 4,10 EUR, très au-dessus du cours actuel (un seul avis, donc peu représentatif)",
+        "Activité liée au lithium géothermique et à l'énergie en Europe",
+        "Capitalisation d'environ 350 M, ce qui laisse une certaine taille"
       ],
       "risques": [
-        "Chute du cours de 67 % en 6 mois, très forte volatilité",
-        "Chiffre d'affaires en baisse (-45 %)",
-        "Couverture très faible : un seul analyste, donc objectif peu représentatif"
+        "Baisse de 67 % en 6 mois et cours proche du plus bas annuel (0,7175)",
+        "Chiffre d'affaires en recul d'environ 45 %",
+        "Couverture par un seul analyste et volatilité élevée, ce qui rend les repères peu fiables"
       ],
       "catalyseurs": [
         "Prochaine publication de résultats (date non communiquée)",
-        "Avancées ou annonces sur le projet Phase One Lionheart"
+        "Annonces sur l'avancement du projet Lionheart (aucune information datée dans les données)"
       ],
-      "a_surveiller": "Surveiller si le cours se stabilise au-dessus du plus bas de 52 semaines (0,7175 EUR) et si l'entreprise publie des informations concrètes sur son projet et son financement."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas de 52 semaines (0,7175) et si de vraies annonces sur le projet ou les résultats apparaissent."
     }
   }
 }
