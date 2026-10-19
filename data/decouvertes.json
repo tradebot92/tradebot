@@ -36,17 +36,12 @@
       "premiere": "2026-10-19T19:24+02:00",
       "nom": "DXC Technology Company"
     },
-    "TSHA": {
-      "premiere": "2026-10-19T19:24+02:00",
-      "nom": "Taysha Gene Therapies, Inc."
+    "ZKH": {
+      "premiere": "2026-10-19T19:53+02:00",
+      "nom": "ZKH Group Limited"
     }
   },
   "sorties": [
-    {
-      "symbole": "RXRX",
-      "date": "16/10/2026",
-      "nom": "Recursion Pharmaceuticals, Inc."
-    },
     {
       "symbole": "BMBL",
       "date": "16/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "EXK",
       "date": "19/10/2026",
       "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "TSHA",
+      "date": "19/10/2026",
+      "nom": "Taysha Gene Therapies, Inc."
     }
   ]
 }
