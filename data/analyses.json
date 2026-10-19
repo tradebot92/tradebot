@@ -24,27 +24,27 @@
     }
   },
   "GOOG": {
-    "sig": "67a145495f1f406a",
+    "sig": "055510d8b5a7af24",
     "analyse": {
       "sentiment": "positif",
-      "importance": 4,
+      "importance": 3,
       "confiance": "moyenne",
-      "resume": "Les titres évoquent des résultats trimestriels solides pour Alphabet, avec un bénéfice en hausse de 81 % et un cloud qui tire la croissance. L'entreprise relève à nouveau ses prévisions d'investissements et a conclu un accord important avec Anthropic. Cela compte car cela montre une forte dynamique, mais aussi des dépenses qui augmentent.",
+      "resume": "Les titres évoquent un bénéfice d'Alphabet en hausse de 81 %, des résultats portés par le cloud et un accord important avec Anthropic qui a fait grimper l'action d'environ 2 %. Un titre mentionne aussi une « chute du cours », donc le tableau n'est pas uniforme. L'action se situe à 336,91 USD, nettement sous son plus haut sur 52 semaines (404,47).",
       "points_forts": [
-        "Bénéfice en hausse de 81 % selon les titres",
         "Croissance du chiffre d'affaires de 24,2 %",
-        "Cloud moteur des résultats et accord avec Anthropic"
+        "Bénéfice en forte hausse (+81 % selon les titres)",
+        "Avis analystes strong_buy, objectif moyen 420,79 USD"
       ],
       "risques": [
-        "Hausse des prévisions d'investissements qui pèse sur les coûts",
-        "Cours à 336,91 $, loin du plus haut annuel de 404,47 $ (un titre évoque une chute du cours)",
-        "Valorisation élevée avec une capitalisation d'environ 4 100 milliards $"
+        "Cours en retrait d'environ 17 % par rapport au plus haut sur 52 semaines",
+        "Performance quasi stable sur 6 mois (+0,6 %)",
+        "Objectif bas des analystes (340 USD) proche du cours actuel"
       ],
       "catalyseurs": [
-        "Prochains résultats le 28 octobre 2026",
-        "Nouvelles annonces sur le cloud et les partenariats d'IA, comme celui avec Anthropic"
+        "Publication des résultats le 28 octobre 2026",
+        "Évolution de l'accord avec Anthropic et de l'activité Google Cloud"
       ],
-      "a_surveiller": "Voir si la croissance du cloud continue de justifier la hausse des investissements, sachant que l'objectif moyen des analystes (environ 421 $) reste au-dessus du cours actuel."
+      "a_surveiller": "Voir si la croissance du cloud et l'accord avec Anthropic se traduisent dans les résultats du 28 octobre 2026, et si le cours reprend du terrain vers les objectifs des analystes."
     }
   },
   "GLOO": {
@@ -216,29 +216,29 @@
     }
   },
   "_synthese": {
-    "sig": "d2928f4f739ccd50",
+    "sig": "3fca70879124c4b3",
     "contenu": {
       "points": [
         {
+          "symbole": "MEDCL.PA",
+          "pourquoi": "L'autorisation américaine de mise sur le marché de Weltruza, traitement de la schizophrénie, a fait bondir le titre d'environ 18 % et Stifel affiche sa confiance.",
+          "a_surveiller": "La forte volatilité (recul de 2,28 % ensuite), le chiffre d'affaires en recul et un cours encore éloigné du plus haut sur 52 semaines de 39,68 €.",
+          "nom": "MEDINCELL S.A."
+        },
+        {
           "symbole": "GOOG",
-          "pourquoi": "Alphabet ressort avec des résultats trimestriels solides, un bénéfice en hausse de 81 % et un cloud moteur de la croissance.",
-          "a_surveiller": "La nouvelle hausse des prévisions d'investissements, ainsi que l'écart entre le cours de 344,91 $ et l'objectif bas des analystes à 340 $.",
+          "pourquoi": "Le bénéfice d'Alphabet est annoncé en hausse de 81 %, porté par le cloud, et un accord important avec Anthropic a fait grimper l'action d'environ 2 %.",
+          "a_surveiller": "Le cours de 336,91 USD reste environ 17 % sous son plus haut sur 52 semaines, avec un objectif bas des analystes (340 USD) proche du cours actuel.",
           "nom": "Alphabet Inc."
         },
         {
-          "symbole": "OPK",
-          "pourquoi": "L'action a bondi après l'annonce de la cession des actifs BioReference pour 722 M$, ce qui pourrait renforcer les moyens financiers de l'entreprise.",
-          "a_surveiller": "Les détails de l'opération (utilisation du produit, conditions), non fournis, et la dépendance accrue à des projets pharmaceutiques en phase 1 encore incertains.",
-          "nom": "Opko Health, Inc."
-        },
-        {
-          "symbole": "MEDCL.PA",
-          "pourquoi": "Les titres sont contrastés : décision de la FDA attendue sur le TEV-749, cotation suspendue temporairement et pertes annuelles plus élevées malgré la hausse des redevances d'Uzedy.",
-          "a_surveiller": "L'issue concrète de la décision de la FDA, qui pèse beaucoup sur le cours, et la forte volatilité du titre après sa baisse de 15 % suite aux résultats.",
-          "nom": "MEDINCELL S.A."
+          "symbole": "FRVO",
+          "pourquoi": "Le titre a chuté de 73,5 % en 6 mois et se trouve près de son plus bas sur 52 semaines, tandis que RBC juge l'opportunité à long terme intacte et que les États-Unis ont attribué 99 millions de dollars à des projets géothermiques.",
+          "a_surveiller": "Le rapport d'un vendeur à découvert pèse sur la confiance, la volatilité est forte et aucune donnée de croissance du chiffre d'affaires n'est disponible.",
+          "nom": "Fervo Energy Company"
         }
       ],
-      "prudence": "Ces éléments sont donnés à titre d'information et ne garantissent aucun résultat : les cours peuvent varier fortement à la hausse comme à la baisse, avec un risque de perte en capital."
+      "prudence": "Ces informations sont données à titre indicatif, les cours peuvent varier fortement à la hausse comme à la baisse et toute décision comporte un risque de perte en capital."
     }
   },
   "SVC": {
@@ -338,27 +338,27 @@
     }
   },
   "MEDCL.PA": {
-    "sig": "263426259116feca",
+    "sig": "60d93318df527e48",
     "analyse": {
       "sentiment": "positif",
       "importance": 4,
       "confiance": "moyenne",
-      "resume": "Les autorités sanitaires américaines ont autorisé la mise sur le marché de Weltruza, le traitement de la schizophrénie de MedinCell, et le titre a bondi d'environ 18 % selon les titres de presse. Stifel affiche aussi sa confiance. Une autorisation de ce type compte beaucoup pour une biotech, mais un titre très volatil peut aussi corriger vite, comme le suggère un recul récent de 2,28 %.",
+      "resume": "Les États-Unis ont autorisé la mise sur le marché de Weltruza, traitement de la schizophrénie de MedinCell, ce qui a fait bondir le titre d'environ 18 % selon la presse. Stifel affiche aussi sa confiance. Un recul de 2,28 % a toutefois été signalé ensuite, signe d'une forte volatilité.",
       "points_forts": [
         "Feu vert américain pour Weltruza (schizophrénie)",
-        "Avis des analystes « strong buy » (9 analystes), objectif moyen 35,51 € contre un cours de 25,48 €",
-        "Soutien affiché de Stifel"
+        "Consensus des analystes « strong buy » (9 avis), objectif moyen 35,5 € contre 25,5 € de cours",
+        "Pipeline étoffé avec mdc-CWM en phase III et UZEDY déjà commercialisé"
       ],
       "risques": [
-        "Chiffre d'affaires en baisse (-44,6 %)",
-        "Titre très volatil, fortes variations après l'annonce",
-        "Cours encore loin du plus haut sur 52 semaines (39,68 €)"
+        "Chiffre d'affaires en recul de 0,446 sur la période mesurée",
+        "Titre très volatil, avec des mouvements brusques à la hausse comme à la baisse",
+        "Cours encore éloigné du plus haut sur 52 semaines (39,68 €), ce qui montre que le marché reste prudent"
       ],
       "catalyseurs": [
-        "Lancement commercial de Weltruza aux États-Unis",
-        "Avancée du programme mdc-CWM (Phase III, douleur post-opératoire)"
+        "Lancement commercial et premières ventes de Weltruza aux États-Unis",
+        "Avancée des essais de phase III de mdc-CWM contre la douleur post-opératoire"
       ],
-      "a_surveiller": "Surveille comment le marché digère la hausse après l'autorisation, ainsi que les premières informations sur le lancement commercial et l'évolution du chiffre d'affaires, aucune date de résultats n'étant indiquée."
+      "a_surveiller": "Voir si la hausse liée à l'autorisation américaine se confirme dans la durée et comment le chiffre d'affaires évolue lors des prochaines publications (date non communiquée)."
     }
   },
   "KLRA": {
@@ -434,26 +434,27 @@
     }
   },
   "MYN": {
-    "sig": "8f78cbb72290bbcf",
+    "sig": "e7a4e45705113bd1",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité récents sont de simples pages de cours et de graphiques d'autres titres (BBDC, PSEC, PBT, ASA, FPF) et ne concernent pas directement MYN. Ils n'apportent aucune information concrète sur ce fonds. Le cours (8,91 USD) a reculé d'environ 7 % en six mois et se situe près de son plus bas sur 52 semaines (8,58).",
+      "resume": "Les titres d'actualité fournis portent sur d'autres valeurs (BBDC, PSEC, PBT, ASA, DXYZ) et ne disent rien de concret sur MYN. On sait seulement que ce fonds obligataire municipal de New York, géré par BlackRock, cote à 8,91 USD, en baisse de 7,3 % sur 6 mois et proche de son plus bas sur 52 semaines (8,58).",
       "points_forts": [
-        "Fonds géré par BlackRock, un gestionnaire reconnu",
-        "Obligations municipales de qualité investissement, exonérées d'impôt fédéral et de New York"
+        "Gestionnaire reconnu (BlackRock Advisors)",
+        "Obligations municipales de qualité investissement, exonérées d'impôts fédéraux et new-yorkais",
+        "Fonds installé depuis 1992"
       ],
       "risques": [
-        "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
-        "Aucune couverture d'analystes ni objectif de cours disponible",
-        "Fonds spécialisé sur une seule zone géographique (New York)"
+        "Cours proche du plus bas sur 52 semaines",
+        "Tendance baissière sur 6 mois",
+        "Aucun avis d'analyste ni donnée de résultats disponibles"
       ],
       "catalyseurs": [
-        "Prochaine publication de distribution ou de rapport du fonds (date non communiquée)",
-        "Évolution des taux d'intérêt, qui influence le prix des obligations longues"
+        "Aucun événement daté connu (pas de prochains résultats annoncés)",
+        "Évolution des taux d'intérêt, pouvant influencer les fonds obligataires (point général, non issu des données)"
       ],
-      "a_surveiller": "Surveillez si le cours tient au-dessus du plus bas annuel de 8,58 USD et l'évolution des taux d'intérêt, plus déterminante que ces titres sans lien direct."
+      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas des 52 semaines (8,58 USD) et si des informations propres au fonds apparaissent."
     }
   },
   "AL2SI.PA": {
@@ -1488,27 +1489,27 @@
     }
   },
   "FRVO": {
-    "sig": "869b2f3b24aee5df",
+    "sig": "3d7ecc7dff357b20",
     "analyse": {
-      "sentiment": "negatif",
-      "importance": 4,
-      "confiance": "moyenne",
-      "resume": "Fervo Energy, spécialiste de la géothermie aux États-Unis, a fortement chuté : environ -73 % en 6 mois et près de son plus bas sur 52 semaines. Un rapport critique remet en question le discours sur la géothermie et le titre clôturait environ 46 % sous son prix d'introduction. En parallèle, une aide publique américaine de 99 millions de dollars pour la géothermie est un signal de soutien au secteur.",
+      "sentiment": "neutre",
+      "importance": 3,
+      "confiance": "faible",
+      "resume": "Le cours a fortement chuté (-73,5 % en 6 mois) et se trouve près de son plus bas sur 52 semaines. Un rapport d'un vendeur à découvert a visé l'entreprise, mais RBC estime que l'opportunité à long terme reste intacte. Par ailleurs, les États-Unis ont attribué 99 millions de dollars à des projets géothermiques, ce qui est un signal de soutien pour le secteur.",
       "points_forts": [
-        "Soutien public américain : 99 M$ attribués à des projets de forage et technologies géothermiques",
         "Avis des analystes très favorable (strong_buy, 14 analystes)",
-        "Objectif moyen des analystes (environ 37,7 $) bien au-dessus du cours actuel"
+        "Objectif moyen (37,7 $) nettement au-dessus du cours actuel",
+        "Soutien public américain à la géothermie (99 M$ attribués au secteur)"
       ],
       "risques": [
-        "Rapport critique qui conteste le récit géothermique, pouvant peser sur la confiance",
-        "Volatilité extrême et forte baisse depuis l'introduction en bourse",
-        "Données de croissance du chiffre d'affaires non disponibles, donc visibilité limitée"
+        "Chute très marquée du cours et forte volatilité",
+        "Rapport d'un vendeur à découvert qui pèse sur la confiance",
+        "Aucune donnée de croissance du chiffre d'affaires disponible"
       ],
       "catalyseurs": [
         "Publication des résultats prévue le 16 novembre 2026",
-        "Éventuelle réponse de l'entreprise au rapport critique ou nouvelles attributions de financements publics"
+        "Nouvelles réponses de l'entreprise ou d'analystes au rapport du vendeur à découvert"
       ],
-      "a_surveiller": "Le maintien ou non du cours au-dessus du plus bas sur 52 semaines (9,59 $) et la réaction de l'entreprise et des analystes au rapport critique."
+      "a_surveiller": "Surveillez si le cours tient au-dessus du plus bas de 52 semaines (9,59 $) et si d'autres analystes réagissent au rapport du vendeur à découvert."
     }
   },
   "INTR": {
@@ -1536,27 +1537,27 @@
     }
   },
   "VUL.F": {
-    "sig": "b54742872d5cb090",
+    "sig": "e18efc38da0b5249",
     "analyse": {
       "sentiment": "negatif",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Le seul titre fourni est une page générique de Yahoo Finance (cours et historique) qui n'apporte aucune information concrète sur l'entreprise. Ce qui compte surtout, c'est la forte baisse du cours (-67,4 % sur 6 mois), qui se rapproche de son plus bas sur 52 semaines (0,7175 € contre 0,73 €), et la chute du chiffre d'affaires (-45,2 %).",
+      "resume": "Le seul titre récent est une simple page de cotation Yahoo Finance, sans information concrète sur l'entreprise. Ce qui compte surtout, c'est la forte baisse du cours (-67,3 % en 6 mois), proche de son plus bas sur 52 semaines, et un chiffre d'affaires en recul d'environ 45 %.",
       "points_forts": [
-        "Activité dans le lithium géothermique et les matériaux pour batteries en Europe",
-        "Capitalisation d'environ 349 M, soit une taille encore significative",
-        "Un analyste affiche un objectif très supérieur au cours actuel (environ 4,10 €)"
+        "Activité liée au lithium géothermique et aux matériaux pour batteries en Europe",
+        "Capitalisation d'environ 350 M, ce qui laisse une certaine taille de marché",
+        "Objectif de l'unique analyste (4,10 EUR) très supérieur au cours actuel"
       ],
       "risques": [
-        "Chute marquée du cours et du chiffre d'affaires (-45,2 %)",
-        "Un seul analyste : l'objectif de cours est peu représentatif et sans avis clair",
-        "Projets en développement (Lionheart) : forte volatilité et incertitudes d'exécution"
+        "Chute marquée du cours et proximité du plus bas sur 52 semaines",
+        "Chiffre d'affaires en baisse d'environ 45 %",
+        "Couverture quasi inexistante (1 seul analyste, sans avis) et forte volatilité probable"
       ],
       "catalyseurs": [
-        "Prochaine publication de résultats (date non communiquée)",
-        "Nouvelles sur l'avancement ou le financement du projet Phase One Lionheart"
+        "Prochaines publications de résultats (date non communiquée)",
+        "Avancées ou nouvelles du projet Phase One Lionheart"
       ],
-      "a_surveiller": "Surveille si le cours tient au niveau du plus bas annuel (environ 0,72 €) et attends des communiqués concrets de l'entreprise sur le projet et son financement."
+      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas de 52 semaines (0,7175 EUR) et si l'entreprise publie des nouvelles concrètes sur son projet Lionheart ou ses résultats."
     }
   }
 }
