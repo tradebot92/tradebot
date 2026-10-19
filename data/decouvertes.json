@@ -36,17 +36,12 @@
       "premiere": "2026-10-19T21:57+02:00",
       "nom": "Monte Rosa Therapeutics, Inc."
     },
-    "NNBR": {
-      "premiere": "2026-10-19T21:57+02:00",
-      "nom": "NN, Inc."
+    "BORR": {
+      "premiere": "2026-10-19T22:21+02:00",
+      "nom": "Borr Drilling Limited"
     }
   },
   "sorties": [
-    {
-      "symbole": "EXK",
-      "date": "16/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
     {
       "symbole": "GTN-A",
       "date": "16/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "TSHA",
       "date": "19/10/2026",
       "nom": "Taysha Gene Therapies, Inc."
+    },
+    {
+      "symbole": "NNBR",
+      "date": "19/10/2026",
+      "nom": "NN, Inc."
     }
   ]
 }
