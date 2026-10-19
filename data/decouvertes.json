@@ -36,17 +36,12 @@
       "premiere": "2026-10-19T17:56+02:00",
       "nom": "Xeris Biopharma Holdings, Inc."
     },
-    "KMTS": {
-      "premiere": "2026-10-19T17:56+02:00",
-      "nom": "Kestra Medical Technologies, Lt"
+    "BBT": {
+      "premiere": "2026-10-19T18:21+02:00",
+      "nom": "Beacon Financial Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "OPEN",
-      "date": "16/10/2026",
-      "nom": "Opendoor Technologies Inc"
-    },
     {
       "symbole": "REAL",
       "date": "16/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "BHVN",
       "date": "19/10/2026",
       "nom": "Biohaven Ltd."
+    },
+    {
+      "symbole": "KMTS",
+      "date": "19/10/2026",
+      "nom": "Kestra Medical Technologies, Lt"
     }
   ]
 }
