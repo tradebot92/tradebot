@@ -1,26 +1,26 @@
 {
   "IREN": {
-    "sig": "76aeffe92e35b7af",
+    "sig": "faa385a8a997132e",
     "analyse": {
       "sentiment": "neutre",
-      "importance": 2,
+      "importance": 3,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et de prévisions, avec une mention d'un objectif de 79 $ de Jefferies et d'une hausse du titre un jour donné, sans détail concret. L'action reste très en retrait : -44,6 % sur 6 mois et proche de son plus bas sur 52 semaines (26,55 $). Les analystes restent globalement positifs, mais le chiffre d'affaires est en baisse.",
+      "resume": "Les titres sont contradictoires : certains parlent d'une hausse après une révision à la hausse de l'objectif de chiffre d'affaires, et un analyste (Jefferies) maintient une note d'achat avec un objectif de 79 $. Pourtant, l'action cote 26,99 $, près de son plus bas sur 52 semaines (26,55 $) et en baisse de 44,6 % sur 6 mois. Les détails chiffrés des annonces ne sont pas fournis, donc l'impact réel reste difficile à mesurer.",
       "points_forts": [
-        "Avis analystes « buy » (18 analystes), objectif moyen 77,8 $ bien au-dessus du cours",
-        "Activité intégrée dans les centres de données et le cloud IA",
-        "Nouvel objectif de 79 $ de Jefferies mentionné"
+        "Objectif de chiffre d'affaires revu à la hausse (selon les titres)",
+        "Avis moyen des analystes : achat (18 analystes)",
+        "Objectif moyen des analystes (77,8 $) très supérieur au cours actuel"
       ],
       "risques": [
-        "Cours proche du plus bas annuel, forte baisse sur 6 mois",
-        "Chiffre d'affaires en recul (-26,7 %)",
-        "Forte volatilité et écart énorme entre objectifs bas (37 $) et haut (139 $)"
+        "Cours proche du plus bas sur 52 semaines, forte baisse sur 6 mois",
+        "Chiffre d'affaires en recul de 26,7 %",
+        "Action très volatile, objectifs d'analystes très dispersés (37 $ à 139 $)"
       ],
       "catalyseurs": [
-        "Publication des résultats prévue le 2026-11-05",
-        "Révisions d'objectifs ou d'avis par les analystes"
+        "Publication des prochains résultats le 05/11/2026",
+        "Nouvelles révisions d'objectifs ou de notes par les analystes"
       ],
-      "a_surveiller": "Voir si le cours tient au-dessus du plus bas de 52 semaines (26,55 $) et si la croissance du chiffre d'affaires se redresse aux prochains résultats."
+      "a_surveiller": "Voir si le cours tient au-dessus du plus bas annuel de 26,55 $ et si la hausse de l'objectif de chiffre d'affaires se confirme dans les résultats."
     }
   },
   "GOOG": {
@@ -770,27 +770,27 @@
     }
   },
   "FRMI": {
-    "sig": "5a3d1da214f58258",
+    "sig": "c3af9f02c8971b29",
     "analyse": {
       "sentiment": "neutre",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Les titres récents sont surtout des pages de cours et de prévisions d'analystes, sans nouvelle concrète sur l'entreprise. Un article mentionne une valorisation passée de 14,8 milliards de dollars liée à l'engouement pour l'IA, alors que l'action cote aujourd'hui autour de 3,16 USD, près de son plus bas sur 52 semaines (3,0). L'écart entre ces niveaux montre une forte volatilité.",
+      "resume": "Les titres récents sont surtout des pages de cours et de graphiques, sans information concrète nouvelle. Un article mentionne une évaluation passée de 14,8 milliards de dollars, alors que la capitalisation actuelle est d'environ 2 milliards et que l'action a fortement reculé (-41,5 % sur 6 mois). Cet écart montre une forte volatilité et de grandes attentes déçues autour du thème de l'IA.",
       "points_forts": [
-        "Projet ambitieux de réseau électrique privé de 17 GW pour l'IA",
-        "Avis moyen des analystes : achat (8 analystes)",
-        "Objectif moyen de 16,6 USD, très au-dessus du cours actuel"
+        "Avis analystes majoritairement « buy » (8 analystes), objectif moyen 16,6 $ très au-dessus du cours",
+        "Projet ambitieux de réseau électrique privé pour l'IA (17 GW visés)",
+        "Thème porteur : besoin d'énergie pour le calcul IA"
       ],
       "risques": [
-        "Baisse de 41,5 % en 6 mois et cours proche du plus bas annuel",
-        "Très forte volatilité et grande dispersion des objectifs (6 à 35 USD)",
-        "Pas de croissance du chiffre d'affaires communiquée, projets encore en développement"
+        "Forte volatilité : cours de 3,16 $ proche du plus bas annuel (3,0 $) contre 30,9 $ au plus haut",
+        "Aucune donnée de croissance du chiffre d'affaires disponible",
+        "Écart énorme entre objectifs analystes (6 à 35 $), signe de grande incertitude"
       ],
       "catalyseurs": [
         "Publication des résultats le 12 novembre 2026",
-        "Avancées ou annonces concrètes sur le projet Matador (clients, financement, construction)"
+        "Nouvelles sur l'avancement du projet Matador (clients, financement, construction)"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas de 3,0 USD et si l'entreprise annonce des éléments concrets (contrats, financements) lors des prochains résultats."
+      "a_surveiller": "Voir si le cours tient autour du plus bas annuel de 3,0 $ et si les résultats de novembre apportent des éléments concrets sur les revenus et les clients."
     }
   },
   "BBAI": {
@@ -1537,27 +1537,27 @@
     }
   },
   "VUL.F": {
-    "sig": "e18efc38da0b5249",
+    "sig": "c506fb695a29ad8c",
     "analyse": {
       "sentiment": "negatif",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Le seul titre récent est une simple page de cotation Yahoo Finance, sans information concrète sur l'entreprise. Ce qui compte surtout, c'est la forte baisse du cours (-67,3 % en 6 mois), proche de son plus bas sur 52 semaines, et un chiffre d'affaires en recul d'environ 45 %.",
+      "resume": "Le seul titre d'actualité est une page générique de cours et d'historique sur Yahoo Finance, sans information concrète sur l'entreprise. Ce qui ressort surtout, c'est la forte baisse du cours (-67 % en 6 mois), proche de son plus bas sur 52 semaines, et un chiffre d'affaires en recul.",
       "points_forts": [
-        "Activité liée au lithium géothermique et aux matériaux pour batteries en Europe",
-        "Capitalisation d'environ 350 M, ce qui laisse une certaine taille de marché",
-        "Objectif de l'unique analyste (4,10 EUR) très supérieur au cours actuel"
+        "Capitalisation d'environ 350 millions, ce qui reste significatif",
+        "Un analyste affiche un objectif très supérieur au cours actuel (environ 4,10 EUR)",
+        "Activité centrée sur le lithium géothermique et les matériaux pour batteries"
       ],
       "risques": [
-        "Chute marquée du cours et proximité du plus bas sur 52 semaines",
-        "Chiffre d'affaires en baisse d'environ 45 %",
-        "Couverture quasi inexistante (1 seul analyste, sans avis) et forte volatilité probable"
+        "Chute du cours de 67 % en 6 mois, très forte volatilité",
+        "Chiffre d'affaires en baisse (-45 %)",
+        "Couverture très faible : un seul analyste, donc objectif peu représentatif"
       ],
       "catalyseurs": [
-        "Prochaines publications de résultats (date non communiquée)",
-        "Avancées ou nouvelles du projet Phase One Lionheart"
+        "Prochaine publication de résultats (date non communiquée)",
+        "Avancées ou annonces sur le projet Phase One Lionheart"
       ],
-      "a_surveiller": "Surveille si le cours tient au-dessus du plus bas de 52 semaines (0,7175 EUR) et si l'entreprise publie des nouvelles concrètes sur son projet Lionheart ou ses résultats."
+      "a_surveiller": "Surveiller si le cours se stabilise au-dessus du plus bas de 52 semaines (0,7175 EUR) et si l'entreprise publie des informations concrètes sur son projet et son financement."
     }
   }
 }
