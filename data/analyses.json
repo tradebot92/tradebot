@@ -434,27 +434,26 @@
     }
   },
   "MYN": {
-    "sig": "e7a4e45705113bd1",
+    "sig": "8f78cbb72290bbcf",
     "analyse": {
       "sentiment": "neutre",
       "importance": 1,
       "confiance": "faible",
-      "resume": "Les titres d'actualité fournis concernent d'autres valeurs (BBDC, PSEC, PBT, ASA, DXYZ) et sont de simples pages de cours TradingView. Ils ne disent rien de concret sur MYN. Le fonds, qui investit dans des obligations municipales de New York, est en recul d'environ 7 % sur 6 mois et se situe près de son plus bas sur 52 semaines.",
+      "resume": "Les titres d'actualité récents sont de simples pages de cours et de graphiques d'autres titres (BBDC, PSEC, PBT, ASA, FPF) et ne concernent pas directement MYN. Ils n'apportent aucune information concrète sur ce fonds. Le cours (8,91 USD) a reculé d'environ 7 % en six mois et se situe près de son plus bas sur 52 semaines (8,58).",
       "points_forts": [
-        "Obligations municipales de qualité (investment grade) exemptes d'impôts fédéraux et de New York",
-        "Géré par BlackRock, un grand acteur du secteur",
-        "Fonds ancien, créé en 1992"
+        "Fonds géré par BlackRock, un gestionnaire reconnu",
+        "Obligations municipales de qualité investissement, exonérées d'impôt fédéral et de New York"
       ],
       "risques": [
-        "Cours proche du plus bas annuel (8,58 USD) avec une tendance baissière sur 6 mois",
-        "Aucun avis d'analyste ni objectif de cours disponible",
-        "Concentration sur les obligations municipales d'un seul État, sensible aux taux d'intérêt"
+        "Cours proche du plus bas sur 52 semaines, tendance baissière sur 6 mois",
+        "Aucune couverture d'analystes ni objectif de cours disponible",
+        "Fonds spécialisé sur une seule zone géographique (New York)"
       ],
       "catalyseurs": [
-        "Évolution des taux d'intérêt, qui influence le prix des obligations longues",
-        "Prochaines annonces de distributions du fonds (date non précisée dans les données)"
+        "Prochaine publication de distribution ou de rapport du fonds (date non communiquée)",
+        "Évolution des taux d'intérêt, qui influence le prix des obligations longues"
       ],
-      "a_surveiller": "Surveiller si le cours se maintient au-dessus du plus bas de 52 semaines (8,58 USD) et l'évolution des taux d'intérêt."
+      "a_surveiller": "Surveillez si le cours tient au-dessus du plus bas annuel de 8,58 USD et l'évolution des taux d'intérêt, plus déterminante que ces titres sans lien direct."
     }
   },
   "AL2SI.PA": {
@@ -1537,27 +1536,27 @@
     }
   },
   "VUL.F": {
-    "sig": "7a568329d33b0de7",
+    "sig": "b54742872d5cb090",
     "analyse": {
       "sentiment": "negatif",
       "importance": 2,
       "confiance": "faible",
-      "resume": "Le seul titre disponible est une page générique de cours et d'historique sur Yahoo Finance, sans information concrète sur l'entreprise. Ce qui ressort surtout, c'est la forte baisse du cours (-67,4 % en 6 mois), qui se situe près de son plus bas sur 52 semaines. Le chiffre d'affaires recule aussi (-45 %).",
+      "resume": "Le seul titre fourni est une page générique de Yahoo Finance (cours et historique) qui n'apporte aucune information concrète sur l'entreprise. Ce qui compte surtout, c'est la forte baisse du cours (-67,4 % sur 6 mois), qui se rapproche de son plus bas sur 52 semaines (0,7175 € contre 0,73 €), et la chute du chiffre d'affaires (-45,2 %).",
       "points_forts": [
-        "Un seul analyste, avec un objectif (≈4,10 €) très au-dessus du cours actuel",
-        "Activité liée au lithium géothermique et aux matériaux pour batteries en Europe",
-        "Capitalisation d'environ 349 M, ce qui reste significatif"
+        "Activité dans le lithium géothermique et les matériaux pour batteries en Europe",
+        "Capitalisation d'environ 349 M, soit une taille encore significative",
+        "Un analyste affiche un objectif très supérieur au cours actuel (environ 4,10 €)"
       ],
       "risques": [
-        "Chute du cours de 67,4 % en 6 mois, proche du plus bas annuel",
-        "Chiffre d'affaires en baisse de 45 %",
-        "Couverture analyste quasi inexistante (1 seul avis), donc objectif peu fiable"
+        "Chute marquée du cours et du chiffre d'affaires (-45,2 %)",
+        "Un seul analyste : l'objectif de cours est peu représentatif et sans avis clair",
+        "Projets en développement (Lionheart) : forte volatilité et incertitudes d'exécution"
       ],
       "catalyseurs": [
         "Prochaine publication de résultats (date non communiquée)",
-        "Annonces sur l'avancement du projet Lionheart (aucune information précise fournie)"
+        "Nouvelles sur l'avancement ou le financement du projet Phase One Lionheart"
       ],
-      "a_surveiller": "Surveiller si le cours tient au-dessus du plus bas des 52 semaines (0,7175 €) et si de vraies annonces sur le projet Lionheart ou sur le financement apparaissent."
+      "a_surveiller": "Surveille si le cours tient au niveau du plus bas annuel (environ 0,72 €) et attends des communiqués concrets de l'entreprise sur le projet et son financement."
     }
   }
 }
