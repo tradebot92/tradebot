@@ -36,17 +36,12 @@
       "premiere": "2026-10-20T18:00+02:00",
       "nom": "NANOBIOTIX"
     },
-    "APMD": {
-      "premiere": "2026-10-20T18:00+02:00",
-      "nom": "Apnimed, Inc."
+    "KLRA": {
+      "premiere": "2026-10-20T18:28+02:00",
+      "nom": "Kailera Therapeutics, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "SNDA",
-      "date": "19/10/2026",
-      "nom": "Sonida Senior Living, Inc."
-    },
     {
       "symbole": "IDIP.PA",
       "date": "19/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "TRAX",
       "date": "20/10/2026",
       "nom": "First Tracks Biotherapeutics, I"
+    },
+    {
+      "symbole": "APMD",
+      "date": "20/10/2026",
+      "nom": "Apnimed, Inc."
     }
   ]
 }
