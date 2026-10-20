@@ -20,43 +20,28 @@
       "premiere": "2026-10-20T16:02+02:00",
       "nom": "Myriad Genetics, Inc."
     },
-    "BZH": {
-      "premiere": "2026-10-20T16:02+02:00",
-      "nom": "Beazer Homes USA, Inc."
-    },
     "HTZ": {
       "premiere": "2026-10-20T16:02+02:00",
       "nom": "Hertz Global Holdings, Inc"
-    },
-    "LUCK": {
-      "premiere": "2026-10-20T16:02+02:00",
-      "nom": "LUCKY STRIKE ENTERTAINMENT CORP"
     },
     "NBTX": {
       "premiere": "2026-10-20T16:02+02:00",
       "nom": "Nanobiotix S.A."
     },
-    "BBT": {
-      "premiere": "2026-10-20T16:02+02:00",
-      "nom": "Beacon Financial Corporation"
+    "CTNM": {
+      "premiere": "2026-10-20T16:59+02:00",
+      "nom": "Contineum Therapeutics, Inc."
+    },
+    "TRAX": {
+      "premiere": "2026-10-20T16:59+02:00",
+      "nom": "First Tracks Biotherapeutics, I"
+    },
+    "LAES": {
+      "premiere": "2026-10-20T16:59+02:00",
+      "nom": "SEALSQ Corp"
     }
   },
   "sorties": [
-    {
-      "symbole": "INTR",
-      "date": "19/10/2026",
-      "nom": "Inter & Co. Inc."
-    },
-    {
-      "symbole": "FRMI",
-      "date": "19/10/2026",
-      "nom": "Fermi Inc."
-    },
-    {
-      "symbole": "CNOB",
-      "date": "19/10/2026",
-      "nom": "ConnectOne Bancorp, Inc."
-    },
     {
       "symbole": "BBT",
       "date": "19/10/2026",
@@ -191,6 +176,21 @@
       "symbole": "BORR",
       "date": "20/10/2026",
       "nom": "Borr Drilling Limited"
+    },
+    {
+      "symbole": "BZH",
+      "date": "20/10/2026",
+      "nom": "Beazer Homes USA, Inc."
+    },
+    {
+      "symbole": "LUCK",
+      "date": "20/10/2026",
+      "nom": "LUCKY STRIKE ENTERTAINMENT CORP"
+    },
+    {
+      "symbole": "BBT",
+      "date": "20/10/2026",
+      "nom": "Beacon Financial Corporation"
     }
   ]
 }
