@@ -36,17 +36,12 @@
       "premiere": "2026-10-20T21:55+02:00",
       "nom": "Contineum Therapeutics, Inc."
     },
-    "NANO.PA": {
-      "premiere": "2026-10-20T21:55+02:00",
-      "nom": "NANOBIOTIX"
+    "LCID": {
+      "premiere": "2026-10-20T22:16+02:00",
+      "nom": "Lucid Group, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "TSHA",
-      "date": "19/10/2026",
-      "nom": "Taysha Gene Therapies, Inc."
-    },
     {
       "symbole": "ZBIO",
       "date": "19/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "APMD",
       "date": "20/10/2026",
       "nom": "Apnimed, Inc."
+    },
+    {
+      "symbole": "NANO.PA",
+      "date": "20/10/2026",
+      "nom": "NANOBIOTIX"
     }
   ]
 }
