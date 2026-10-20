@@ -24,10 +24,6 @@
       "premiere": "2026-10-20T16:02+02:00",
       "nom": "Nanobiotix S.A."
     },
-    "KLRA": {
-      "premiere": "2026-10-20T18:28+02:00",
-      "nom": "Kailera Therapeutics, Inc."
-    },
     "TRAX": {
       "premiere": "2026-10-20T19:53+02:00",
       "nom": "First Tracks Biotherapeutics, I"
@@ -36,22 +32,16 @@
       "premiere": "2026-10-20T21:05+02:00",
       "nom": "Sabre Corporation"
     },
-    "APMD": {
-      "premiere": "2026-10-20T21:05+02:00",
-      "nom": "Apnimed, Inc."
+    "CTNM": {
+      "premiere": "2026-10-20T21:55+02:00",
+      "nom": "Contineum Therapeutics, Inc."
+    },
+    "NANO.PA": {
+      "premiere": "2026-10-20T21:55+02:00",
+      "nom": "NANOBIOTIX"
     }
   },
   "sorties": [
-    {
-      "symbole": "BBT",
-      "date": "19/10/2026",
-      "nom": "Beacon Financial Corporation"
-    },
-    {
-      "symbole": "EXK",
-      "date": "19/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
     {
       "symbole": "TSHA",
       "date": "19/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "RUN",
       "date": "20/10/2026",
       "nom": "Sunrun Inc."
+    },
+    {
+      "symbole": "KLRA",
+      "date": "20/10/2026",
+      "nom": "Kailera Therapeutics, Inc."
+    },
+    {
+      "symbole": "APMD",
+      "date": "20/10/2026",
+      "nom": "Apnimed, Inc."
     }
   ]
 }
