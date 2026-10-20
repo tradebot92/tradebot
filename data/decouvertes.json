@@ -32,26 +32,16 @@
       "premiere": "2026-10-20T19:53+02:00",
       "nom": "First Tracks Biotherapeutics, I"
     },
-    "QDEL": {
-      "premiere": "2026-10-20T19:53+02:00",
-      "nom": "QuidelOrtho Corporation"
+    "SABR": {
+      "premiere": "2026-10-20T21:05+02:00",
+      "nom": "Sabre Corporation"
     },
-    "RUN": {
-      "premiere": "2026-10-20T20:18+02:00",
-      "nom": "Sunrun Inc."
+    "APMD": {
+      "premiere": "2026-10-20T21:05+02:00",
+      "nom": "Apnimed, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "KMTS",
-      "date": "19/10/2026",
-      "nom": "Kestra Medical Technologies, Lt"
-    },
-    {
-      "symbole": "OLMA",
-      "date": "19/10/2026",
-      "nom": "Olema Pharmaceuticals, Inc."
-    },
     {
       "symbole": "BBT",
       "date": "19/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "NANO.PA",
       "date": "20/10/2026",
       "nom": "NANOBIOTIX"
+    },
+    {
+      "symbole": "QDEL",
+      "date": "20/10/2026",
+      "nom": "QuidelOrtho Corporation"
+    },
+    {
+      "symbole": "RUN",
+      "date": "20/10/2026",
+      "nom": "Sunrun Inc."
     }
   ]
 }
