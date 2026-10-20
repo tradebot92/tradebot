@@ -12,66 +12,36 @@
       "premiere": "2026-10-16T16:00+02:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "ANNX": {
-      "premiere": "2026-10-19T17:56+02:00",
-      "nom": "Annexon, Inc."
-    },
-    "DXC": {
-      "premiere": "2026-10-19T19:24+02:00",
-      "nom": "DXC Technology Company"
-    },
-    "AGIO": {
-      "premiere": "2026-10-19T21:06+02:00",
-      "nom": "Agios Pharmaceuticals, Inc."
-    },
-    "MPT": {
-      "premiere": "2026-10-19T21:57+02:00",
-      "nom": "Medical Properties Trust, Inc."
-    },
-    "GLUE": {
-      "premiere": "2026-10-19T21:57+02:00",
-      "nom": "Monte Rosa Therapeutics, Inc."
-    },
-    "BORR": {
-      "premiere": "2026-10-19T22:21+02:00",
-      "nom": "Borr Drilling Limited"
-    },
     "OVH.PA": {
       "premiere": "2026-10-20T11:27+02:00",
       "nom": "OVH"
+    },
+    "MYGN": {
+      "premiere": "2026-10-20T16:02+02:00",
+      "nom": "Myriad Genetics, Inc."
+    },
+    "BZH": {
+      "premiere": "2026-10-20T16:02+02:00",
+      "nom": "Beazer Homes USA, Inc."
+    },
+    "HTZ": {
+      "premiere": "2026-10-20T16:02+02:00",
+      "nom": "Hertz Global Holdings, Inc"
+    },
+    "LUCK": {
+      "premiere": "2026-10-20T16:02+02:00",
+      "nom": "LUCKY STRIKE ENTERTAINMENT CORP"
+    },
+    "NBTX": {
+      "premiere": "2026-10-20T16:02+02:00",
+      "nom": "Nanobiotix S.A."
+    },
+    "BBT": {
+      "premiere": "2026-10-20T16:02+02:00",
+      "nom": "Beacon Financial Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "EXK",
-      "date": "16/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
-    {
-      "symbole": "BBT",
-      "date": "16/10/2026",
-      "nom": "Beacon Financial Corporation"
-    },
-    {
-      "symbole": "ETL.PA",
-      "date": "19/10/2026",
-      "nom": "EUTELSAT COMMUNIC."
-    },
-    {
-      "symbole": "FMC",
-      "date": "19/10/2026",
-      "nom": "FMC Corporation"
-    },
-    {
-      "symbole": "FRVO",
-      "date": "19/10/2026",
-      "nom": "Fervo Energy Company"
-    },
-    {
-      "symbole": "OPK",
-      "date": "19/10/2026",
-      "nom": "Opko Health, Inc."
-    },
     {
       "symbole": "INTR",
       "date": "19/10/2026",
@@ -191,6 +161,36 @@
       "symbole": "TSHA",
       "date": "20/10/2026",
       "nom": "Taysha Gene Therapies, Inc."
+    },
+    {
+      "symbole": "ANNX",
+      "date": "20/10/2026",
+      "nom": "Annexon, Inc."
+    },
+    {
+      "symbole": "DXC",
+      "date": "20/10/2026",
+      "nom": "DXC Technology Company"
+    },
+    {
+      "symbole": "AGIO",
+      "date": "20/10/2026",
+      "nom": "Agios Pharmaceuticals, Inc."
+    },
+    {
+      "symbole": "MPT",
+      "date": "20/10/2026",
+      "nom": "Medical Properties Trust, Inc."
+    },
+    {
+      "symbole": "GLUE",
+      "date": "20/10/2026",
+      "nom": "Monte Rosa Therapeutics, Inc."
+    },
+    {
+      "symbole": "BORR",
+      "date": "20/10/2026",
+      "nom": "Borr Drilling Limited"
     }
   ]
 }
