@@ -24,14 +24,6 @@
       "premiere": "2026-10-20T16:02+02:00",
       "nom": "Nanobiotix S.A."
     },
-    "CTNM": {
-      "premiere": "2026-10-20T16:59+02:00",
-      "nom": "Contineum Therapeutics, Inc."
-    },
-    "LAES": {
-      "premiere": "2026-10-20T16:59+02:00",
-      "nom": "SEALSQ Corp"
-    },
     "NANO.PA": {
       "premiere": "2026-10-20T18:00+02:00",
       "nom": "NANOBIOTIX"
@@ -39,19 +31,17 @@
     "KLRA": {
       "premiere": "2026-10-20T18:28+02:00",
       "nom": "Kailera Therapeutics, Inc."
+    },
+    "TRAX": {
+      "premiere": "2026-10-20T19:53+02:00",
+      "nom": "First Tracks Biotherapeutics, I"
+    },
+    "QDEL": {
+      "premiere": "2026-10-20T19:53+02:00",
+      "nom": "QuidelOrtho Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "IDIP.PA",
-      "date": "19/10/2026",
-      "nom": "IDI"
-    },
-    {
-      "symbole": "TKO.PA",
-      "date": "19/10/2026",
-      "nom": "TIKEHAU CAPITAL"
-    },
     {
       "symbole": "BHVN",
       "date": "19/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "APMD",
       "date": "20/10/2026",
       "nom": "Apnimed, Inc."
+    },
+    {
+      "symbole": "CTNM",
+      "date": "20/10/2026",
+      "nom": "Contineum Therapeutics, Inc."
+    },
+    {
+      "symbole": "LAES",
+      "date": "20/10/2026",
+      "nom": "SEALSQ Corp"
     }
   ]
 }
