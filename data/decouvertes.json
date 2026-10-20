@@ -36,17 +36,12 @@
       "premiere": "2026-10-19T22:21+02:00",
       "nom": "Borr Drilling Limited"
     },
-    "OVH.PA": {
-      "premiere": "2026-10-20T09:30+02:00",
-      "nom": "OVH"
+    "TSHA": {
+      "premiere": "2026-10-20T11:00+02:00",
+      "nom": "Taysha Gene Therapies, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "OPK",
-      "date": "16/10/2026",
-      "nom": "Opko Health, Inc."
-    },
     {
       "symbole": "SNDA",
       "date": "16/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "CVX.PA",
       "date": "20/10/2026",
       "nom": "CARVOLIX"
+    },
+    {
+      "symbole": "OVH.PA",
+      "date": "20/10/2026",
+      "nom": "OVH"
     }
   ]
 }
