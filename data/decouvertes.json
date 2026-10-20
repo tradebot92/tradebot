@@ -36,17 +36,12 @@
       "premiere": "2026-10-19T22:21+02:00",
       "nom": "Borr Drilling Limited"
     },
-    "TSHA": {
-      "premiere": "2026-10-20T11:00+02:00",
-      "nom": "Taysha Gene Therapies, Inc."
+    "OVH.PA": {
+      "premiere": "2026-10-20T11:27+02:00",
+      "nom": "OVH"
     }
   },
   "sorties": [
-    {
-      "symbole": "SNDA",
-      "date": "16/10/2026",
-      "nom": "Sonida Senior Living, Inc."
-    },
     {
       "symbole": "EXK",
       "date": "16/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "OVH.PA",
       "date": "20/10/2026",
       "nom": "OVH"
+    },
+    {
+      "symbole": "TSHA",
+      "date": "20/10/2026",
+      "nom": "Taysha Gene Therapies, Inc."
     }
   ]
 }
