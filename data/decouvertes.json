@@ -24,10 +24,6 @@
       "premiere": "2026-10-20T16:02+02:00",
       "nom": "Nanobiotix S.A."
     },
-    "NANO.PA": {
-      "premiere": "2026-10-20T18:00+02:00",
-      "nom": "NANOBIOTIX"
-    },
     "KLRA": {
       "premiere": "2026-10-20T18:28+02:00",
       "nom": "Kailera Therapeutics, Inc."
@@ -39,14 +35,13 @@
     "QDEL": {
       "premiere": "2026-10-20T19:53+02:00",
       "nom": "QuidelOrtho Corporation"
+    },
+    "RUN": {
+      "premiere": "2026-10-20T20:18+02:00",
+      "nom": "Sunrun Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "BHVN",
-      "date": "19/10/2026",
-      "nom": "Biohaven Ltd."
-    },
     {
       "symbole": "KMTS",
       "date": "19/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "LAES",
       "date": "20/10/2026",
       "nom": "SEALSQ Corp"
+    },
+    {
+      "symbole": "NANO.PA",
+      "date": "20/10/2026",
+      "nom": "NANOBIOTIX"
     }
   ]
 }
