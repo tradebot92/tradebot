@@ -12,10 +12,6 @@
       "premiere": "2026-10-16T16:00+02:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "NBTX": {
-      "premiere": "2026-10-20T16:02+02:00",
-      "nom": "Nanobiotix S.A."
-    },
     "ATO.PA": {
       "premiere": "2026-10-21T11:01+02:00",
       "nom": "ATOS GROUP"
@@ -24,14 +20,6 @@
       "premiere": "2026-10-21T16:01+02:00",
       "nom": "NANOBIOTIX"
     },
-    "PACB": {
-      "premiere": "2026-10-21T16:58+02:00",
-      "nom": "Pacific Biosciences of Californ"
-    },
-    "ABSI": {
-      "premiere": "2026-10-21T17:24+02:00",
-      "nom": "Absci Corporation"
-    },
     "ETL.PA": {
       "premiere": "2026-10-21T18:00+02:00",
       "nom": "EUTELSAT COMMUNIC."
@@ -39,24 +27,17 @@
     "FUN": {
       "premiere": "2026-10-21T18:58+02:00",
       "nom": "Six Flags Entertainment Corpora"
+    },
+    "ENVX": {
+      "premiere": "2026-10-21T19:23+02:00",
+      "nom": "Enovix Corporation"
+    },
+    "AMPX": {
+      "premiere": "2026-10-21T19:23+02:00",
+      "nom": "Amprius Technologies, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "LUCK",
-      "date": "20/10/2026",
-      "nom": "LUCKY STRIKE ENTERTAINMENT CORP"
-    },
-    {
-      "symbole": "BBT",
-      "date": "20/10/2026",
-      "nom": "Beacon Financial Corporation"
-    },
-    {
-      "symbole": "HTZ",
-      "date": "20/10/2026",
-      "nom": "Hertz Global Holdings, Inc"
-    },
     {
       "symbole": "TRAX",
       "date": "20/10/2026",
@@ -191,6 +172,21 @@
       "symbole": "AVEX",
       "date": "21/10/2026",
       "nom": "AEVEX Corp."
+    },
+    {
+      "symbole": "NBTX",
+      "date": "21/10/2026",
+      "nom": "Nanobiotix S.A."
+    },
+    {
+      "symbole": "PACB",
+      "date": "21/10/2026",
+      "nom": "Pacific Biosciences of Californ"
+    },
+    {
+      "symbole": "ABSI",
+      "date": "21/10/2026",
+      "nom": "Absci Corporation"
     }
   ]
 }
