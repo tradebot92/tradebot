@@ -12,61 +12,36 @@
       "premiere": "2026-10-16T16:00+02:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "MYGN": {
-      "premiere": "2026-10-20T16:02+02:00",
-      "nom": "Myriad Genetics, Inc."
-    },
     "NBTX": {
       "premiere": "2026-10-20T16:02+02:00",
       "nom": "Nanobiotix S.A."
-    },
-    "SABR": {
-      "premiere": "2026-10-20T21:05+02:00",
-      "nom": "Sabre Corporation"
-    },
-    "CTNM": {
-      "premiere": "2026-10-20T21:55+02:00",
-      "nom": "Contineum Therapeutics, Inc."
-    },
-    "LCID": {
-      "premiere": "2026-10-20T22:16+02:00",
-      "nom": "Lucid Group, Inc."
     },
     "ATO.PA": {
       "premiere": "2026-10-21T11:01+02:00",
       "nom": "ATOS GROUP"
     },
-    "TRAX": {
-      "premiere": "2026-10-21T12:58+02:00",
-      "nom": "First Tracks Biotherapeutics, I"
+    "BZH": {
+      "premiere": "2026-10-21T16:01+02:00",
+      "nom": "Beazer Homes USA, Inc."
+    },
+    "VU.PA": {
+      "premiere": "2026-10-21T16:01+02:00",
+      "nom": "Vusion"
+    },
+    "NANO.PA": {
+      "premiere": "2026-10-21T16:01+02:00",
+      "nom": "NANOBIOTIX"
+    },
+    "BBT": {
+      "premiere": "2026-10-21T16:01+02:00",
+      "nom": "Beacon Financial Corporation"
+    },
+    "EXK": {
+      "premiere": "2026-10-21T16:01+02:00",
+      "nom": "Endeavour Silver Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "TSHA",
-      "date": "19/10/2026",
-      "nom": "Taysha Gene Therapies, Inc."
-    },
-    {
-      "symbole": "NNBR",
-      "date": "19/10/2026",
-      "nom": "NN, Inc."
-    },
-    {
-      "symbole": "CVX.PA",
-      "date": "20/10/2026",
-      "nom": "CARVOLIX"
-    },
-    {
-      "symbole": "OVH.PA",
-      "date": "20/10/2026",
-      "nom": "OVH"
-    },
-    {
-      "symbole": "TSHA",
-      "date": "20/10/2026",
-      "nom": "Taysha Gene Therapies, Inc."
-    },
     {
       "symbole": "ANNX",
       "date": "20/10/2026",
@@ -191,6 +166,31 @@
       "symbole": "VU.PA",
       "date": "21/10/2026",
       "nom": "Vusion"
+    },
+    {
+      "symbole": "MYGN",
+      "date": "21/10/2026",
+      "nom": "Myriad Genetics, Inc."
+    },
+    {
+      "symbole": "SABR",
+      "date": "21/10/2026",
+      "nom": "Sabre Corporation"
+    },
+    {
+      "symbole": "CTNM",
+      "date": "21/10/2026",
+      "nom": "Contineum Therapeutics, Inc."
+    },
+    {
+      "symbole": "LCID",
+      "date": "21/10/2026",
+      "nom": "Lucid Group, Inc."
+    },
+    {
+      "symbole": "TRAX",
+      "date": "21/10/2026",
+      "nom": "First Tracks Biotherapeutics, I"
     }
   ]
 }
