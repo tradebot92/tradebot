@@ -20,10 +20,6 @@
       "premiere": "2026-10-21T16:01+02:00",
       "nom": "NANOBIOTIX"
     },
-    "ENVX": {
-      "premiere": "2026-10-21T21:06+02:00",
-      "nom": "Enovix Corporation"
-    },
     "AVEX": {
       "premiere": "2026-10-21T21:55+02:00",
       "nom": "AEVEX Corp."
@@ -35,14 +31,13 @@
     "PACB": {
       "premiere": "2026-10-21T21:55+02:00",
       "nom": "Pacific Biosciences of Californ"
+    },
+    "KELYB": {
+      "premiere": "2026-10-21T22:15+02:00",
+      "nom": "Kelly Services, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "OVH.PA",
-      "date": "21/10/2026",
-      "nom": "OVH"
-    },
     {
       "symbole": "TRAX",
       "date": "21/10/2026",
@@ -187,6 +182,11 @@
       "symbole": "ABSI",
       "date": "21/10/2026",
       "nom": "Absci Corporation"
+    },
+    {
+      "symbole": "ENVX",
+      "date": "21/10/2026",
+      "nom": "Enovix Corporation"
     }
   ]
 }
