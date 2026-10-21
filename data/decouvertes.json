@@ -20,48 +20,28 @@
       "premiere": "2026-10-21T11:01+02:00",
       "nom": "ATOS GROUP"
     },
-    "BZH": {
-      "premiere": "2026-10-21T16:01+02:00",
-      "nom": "Beazer Homes USA, Inc."
-    },
-    "VU.PA": {
-      "premiere": "2026-10-21T16:01+02:00",
-      "nom": "Vusion"
-    },
     "NANO.PA": {
       "premiere": "2026-10-21T16:01+02:00",
       "nom": "NANOBIOTIX"
     },
-    "BBT": {
-      "premiere": "2026-10-21T16:01+02:00",
-      "nom": "Beacon Financial Corporation"
+    "AVEX": {
+      "premiere": "2026-10-21T16:58+02:00",
+      "nom": "AEVEX Corp."
     },
-    "EXK": {
-      "premiere": "2026-10-21T16:01+02:00",
-      "nom": "Endeavour Silver Corporation"
+    "ETL.PA": {
+      "premiere": "2026-10-21T16:58+02:00",
+      "nom": "EUTELSAT COMMUNIC."
+    },
+    "XXI": {
+      "premiere": "2026-10-21T16:58+02:00",
+      "nom": "Twenty One Capital, Inc."
+    },
+    "PACB": {
+      "premiere": "2026-10-21T16:58+02:00",
+      "nom": "Pacific Biosciences of Californ"
     }
   },
   "sorties": [
-    {
-      "symbole": "ANNX",
-      "date": "20/10/2026",
-      "nom": "Annexon, Inc."
-    },
-    {
-      "symbole": "DXC",
-      "date": "20/10/2026",
-      "nom": "DXC Technology Company"
-    },
-    {
-      "symbole": "AGIO",
-      "date": "20/10/2026",
-      "nom": "Agios Pharmaceuticals, Inc."
-    },
-    {
-      "symbole": "MPT",
-      "date": "20/10/2026",
-      "nom": "Medical Properties Trust, Inc."
-    },
     {
       "symbole": "GLUE",
       "date": "20/10/2026",
@@ -191,6 +171,26 @@
       "symbole": "TRAX",
       "date": "21/10/2026",
       "nom": "First Tracks Biotherapeutics, I"
+    },
+    {
+      "symbole": "BZH",
+      "date": "21/10/2026",
+      "nom": "Beazer Homes USA, Inc."
+    },
+    {
+      "symbole": "VU.PA",
+      "date": "21/10/2026",
+      "nom": "Vusion"
+    },
+    {
+      "symbole": "BBT",
+      "date": "21/10/2026",
+      "nom": "Beacon Financial Corporation"
+    },
+    {
+      "symbole": "EXK",
+      "date": "21/10/2026",
+      "nom": "Endeavour Silver Corporation"
     }
   ]
 }
