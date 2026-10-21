@@ -12,10 +12,6 @@
       "premiere": "2026-10-16T16:00+02:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "OVH.PA": {
-      "premiere": "2026-10-20T11:27+02:00",
-      "nom": "OVH"
-    },
     "MYGN": {
       "premiere": "2026-10-20T16:02+02:00",
       "nom": "Myriad Genetics, Inc."
@@ -39,14 +35,13 @@
     "LCID": {
       "premiere": "2026-10-20T22:16+02:00",
       "nom": "Lucid Group, Inc."
+    },
+    "VU.PA": {
+      "premiere": "2026-10-21T09:32+02:00",
+      "nom": "Vusion"
     }
   },
   "sorties": [
-    {
-      "symbole": "ZBIO",
-      "date": "19/10/2026",
-      "nom": "Zenas BioPharma, Inc."
-    },
     {
       "symbole": "ZKH",
       "date": "19/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "NANO.PA",
       "date": "20/10/2026",
       "nom": "NANOBIOTIX"
+    },
+    {
+      "symbole": "OVH.PA",
+      "date": "21/10/2026",
+      "nom": "OVH"
     }
   ]
 }
