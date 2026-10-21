@@ -20,39 +20,24 @@
       "premiere": "2026-10-21T16:01+02:00",
       "nom": "NANOBIOTIX"
     },
-    "ETL.PA": {
-      "premiere": "2026-10-21T18:00+02:00",
-      "nom": "EUTELSAT COMMUNIC."
-    },
-    "FUN": {
-      "premiere": "2026-10-21T20:18+02:00",
-      "nom": "Six Flags Entertainment Corpora"
-    },
     "ENVX": {
       "premiere": "2026-10-21T21:06+02:00",
       "nom": "Enovix Corporation"
     },
-    "ABSI": {
-      "premiere": "2026-10-21T21:06+02:00",
-      "nom": "Absci Corporation"
+    "AVEX": {
+      "premiere": "2026-10-21T21:55+02:00",
+      "nom": "AEVEX Corp."
+    },
+    "GPK": {
+      "premiere": "2026-10-21T21:55+02:00",
+      "nom": "Graphic Packaging Holding Compa"
+    },
+    "PACB": {
+      "premiere": "2026-10-21T21:55+02:00",
+      "nom": "Pacific Biosciences of Californ"
     }
   },
   "sorties": [
-    {
-      "symbole": "KLRA",
-      "date": "20/10/2026",
-      "nom": "Kailera Therapeutics, Inc."
-    },
-    {
-      "symbole": "APMD",
-      "date": "20/10/2026",
-      "nom": "Apnimed, Inc."
-    },
-    {
-      "symbole": "NANO.PA",
-      "date": "20/10/2026",
-      "nom": "NANOBIOTIX"
-    },
     {
       "symbole": "OVH.PA",
       "date": "21/10/2026",
@@ -187,6 +172,21 @@
       "symbole": "PACB",
       "date": "21/10/2026",
       "nom": "Pacific Biosciences of Californ"
+    },
+    {
+      "symbole": "ETL.PA",
+      "date": "21/10/2026",
+      "nom": "EUTELSAT COMMUNIC."
+    },
+    {
+      "symbole": "FUN",
+      "date": "21/10/2026",
+      "nom": "Six Flags Entertainment Corpora"
+    },
+    {
+      "symbole": "ABSI",
+      "date": "21/10/2026",
+      "nom": "Absci Corporation"
     }
   ]
 }
