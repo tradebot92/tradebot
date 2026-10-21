@@ -36,17 +36,12 @@
       "premiere": "2026-10-21T11:01+02:00",
       "nom": "ATOS GROUP"
     },
-    "TRAX": {
-      "premiere": "2026-10-21T11:58+02:00",
-      "nom": "First Tracks Biotherapeutics, I"
+    "VU.PA": {
+      "premiere": "2026-10-21T12:25+02:00",
+      "nom": "Vusion"
     }
   },
   "sorties": [
-    {
-      "symbole": "UAMY",
-      "date": "19/10/2026",
-      "nom": "United States Antimony Corporat"
-    },
     {
       "symbole": "XERS",
       "date": "19/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "VU.PA",
       "date": "21/10/2026",
       "nom": "Vusion"
+    },
+    {
+      "symbole": "TRAX",
+      "date": "21/10/2026",
+      "nom": "First Tracks Biotherapeutics, I"
     }
   ]
 }
