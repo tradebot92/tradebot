@@ -28,10 +28,6 @@
       "premiere": "2026-10-21T16:58+02:00",
       "nom": "AEVEX Corp."
     },
-    "ETL.PA": {
-      "premiere": "2026-10-21T16:58+02:00",
-      "nom": "EUTELSAT COMMUNIC."
-    },
     "XXI": {
       "premiere": "2026-10-21T16:58+02:00",
       "nom": "Twenty One Capital, Inc."
@@ -39,14 +35,13 @@
     "PACB": {
       "premiere": "2026-10-21T16:58+02:00",
       "nom": "Pacific Biosciences of Californ"
+    },
+    "ABSI": {
+      "premiere": "2026-10-21T17:24+02:00",
+      "nom": "Absci Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "GLUE",
-      "date": "20/10/2026",
-      "nom": "Monte Rosa Therapeutics, Inc."
-    },
     {
       "symbole": "BORR",
       "date": "20/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "EXK",
       "date": "21/10/2026",
       "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "ETL.PA",
+      "date": "21/10/2026",
+      "nom": "EUTELSAT COMMUNIC."
     }
   ]
 }
