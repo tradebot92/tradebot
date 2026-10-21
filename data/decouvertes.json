@@ -24,10 +24,6 @@
       "premiere": "2026-10-21T16:01+02:00",
       "nom": "NANOBIOTIX"
     },
-    "AVEX": {
-      "premiere": "2026-10-21T16:58+02:00",
-      "nom": "AEVEX Corp."
-    },
     "PACB": {
       "premiere": "2026-10-21T16:58+02:00",
       "nom": "Pacific Biosciences of Californ"
@@ -39,14 +35,13 @@
     "ETL.PA": {
       "premiere": "2026-10-21T18:00+02:00",
       "nom": "EUTELSAT COMMUNIC."
+    },
+    "FUN": {
+      "premiere": "2026-10-21T18:58+02:00",
+      "nom": "Six Flags Entertainment Corpora"
     }
   },
   "sorties": [
-    {
-      "symbole": "BZH",
-      "date": "20/10/2026",
-      "nom": "Beazer Homes USA, Inc."
-    },
     {
       "symbole": "LUCK",
       "date": "20/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "XXI",
       "date": "21/10/2026",
       "nom": "Twenty One Capital, Inc."
+    },
+    {
+      "symbole": "AVEX",
+      "date": "21/10/2026",
+      "nom": "AEVEX Corp."
     }
   ]
 }
