@@ -32,21 +32,16 @@
       "premiere": "2026-10-20T22:16+02:00",
       "nom": "Lucid Group, Inc."
     },
-    "VU.PA": {
-      "premiere": "2026-10-21T09:32+02:00",
-      "nom": "Vusion"
-    },
     "ATO.PA": {
       "premiere": "2026-10-21T11:01+02:00",
       "nom": "ATOS GROUP"
+    },
+    "TRAX": {
+      "premiere": "2026-10-21T11:58+02:00",
+      "nom": "First Tracks Biotherapeutics, I"
     }
   },
   "sorties": [
-    {
-      "symbole": "GLUE",
-      "date": "19/10/2026",
-      "nom": "Monte Rosa Therapeutics, Inc."
-    },
     {
       "symbole": "UAMY",
       "date": "19/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "TRAX",
       "date": "21/10/2026",
       "nom": "First Tracks Biotherapeutics, I"
+    },
+    {
+      "symbole": "VU.PA",
+      "date": "21/10/2026",
+      "nom": "Vusion"
     }
   ]
 }
