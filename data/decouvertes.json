@@ -28,17 +28,16 @@
       "premiere": "2026-10-21T20:18+02:00",
       "nom": "Six Flags Entertainment Corpora"
     },
-    "PACB": {
-      "premiere": "2026-10-21T20:18+02:00",
-      "nom": "Pacific Biosciences of Californ"
+    "ENVX": {
+      "premiere": "2026-10-21T21:06+02:00",
+      "nom": "Enovix Corporation"
+    },
+    "ABSI": {
+      "premiere": "2026-10-21T21:06+02:00",
+      "nom": "Absci Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "RUN",
-      "date": "20/10/2026",
-      "nom": "Sunrun Inc."
-    },
     {
       "symbole": "KLRA",
       "date": "20/10/2026",
@@ -183,6 +182,11 @@
       "symbole": "WGO",
       "date": "21/10/2026",
       "nom": "Winnebago Industries, Inc."
+    },
+    {
+      "symbole": "PACB",
+      "date": "21/10/2026",
+      "nom": "Pacific Biosciences of Californ"
     }
   ]
 }
