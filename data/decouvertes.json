@@ -24,35 +24,16 @@
       "premiere": "2026-10-21T18:00+02:00",
       "nom": "EUTELSAT COMMUNIC."
     },
-    "CDLR": {
-      "premiere": "2026-10-21T19:54+02:00",
-      "nom": "Cadeler A/S"
+    "FUN": {
+      "premiere": "2026-10-21T20:18+02:00",
+      "nom": "Six Flags Entertainment Corpora"
     },
-    "ABSI": {
-      "premiere": "2026-10-21T19:54+02:00",
-      "nom": "Absci Corporation"
-    },
-    "WGO": {
-      "premiere": "2026-10-21T19:54+02:00",
-      "nom": "Winnebago Industries, Inc."
+    "PACB": {
+      "premiere": "2026-10-21T20:18+02:00",
+      "nom": "Pacific Biosciences of Californ"
     }
   },
   "sorties": [
-    {
-      "symbole": "LAES",
-      "date": "20/10/2026",
-      "nom": "SEALSQ Corp"
-    },
-    {
-      "symbole": "NANO.PA",
-      "date": "20/10/2026",
-      "nom": "NANOBIOTIX"
-    },
-    {
-      "symbole": "QDEL",
-      "date": "20/10/2026",
-      "nom": "QuidelOrtho Corporation"
-    },
     {
       "symbole": "RUN",
       "date": "20/10/2026",
@@ -187,6 +168,21 @@
       "symbole": "AMPX",
       "date": "21/10/2026",
       "nom": "Amprius Technologies, Inc."
+    },
+    {
+      "symbole": "CDLR",
+      "date": "21/10/2026",
+      "nom": "Cadeler A/S"
+    },
+    {
+      "symbole": "ABSI",
+      "date": "21/10/2026",
+      "nom": "Absci Corporation"
+    },
+    {
+      "symbole": "WGO",
+      "date": "21/10/2026",
+      "nom": "Winnebago Industries, Inc."
     }
   ]
 }
