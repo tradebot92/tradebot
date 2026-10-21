@@ -20,10 +20,6 @@
       "premiere": "2026-10-20T16:02+02:00",
       "nom": "Nanobiotix S.A."
     },
-    "TRAX": {
-      "premiere": "2026-10-20T19:53+02:00",
-      "nom": "First Tracks Biotherapeutics, I"
-    },
     "SABR": {
       "premiere": "2026-10-20T21:05+02:00",
       "nom": "Sabre Corporation"
@@ -39,14 +35,13 @@
     "VU.PA": {
       "premiere": "2026-10-21T09:32+02:00",
       "nom": "Vusion"
+    },
+    "ATO.PA": {
+      "premiere": "2026-10-21T11:01+02:00",
+      "nom": "ATOS GROUP"
     }
   },
   "sorties": [
-    {
-      "symbole": "ZKH",
-      "date": "19/10/2026",
-      "nom": "ZKH Group Limited"
-    },
     {
       "symbole": "GLUE",
       "date": "19/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "OVH.PA",
       "date": "21/10/2026",
       "nom": "OVH"
+    },
+    {
+      "symbole": "TRAX",
+      "date": "21/10/2026",
+      "nom": "First Tracks Biotherapeutics, I"
     }
   ]
 }
