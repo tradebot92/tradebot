@@ -24,35 +24,20 @@
       "premiere": "2026-10-21T18:00+02:00",
       "nom": "EUTELSAT COMMUNIC."
     },
-    "FUN": {
-      "premiere": "2026-10-21T18:58+02:00",
-      "nom": "Six Flags Entertainment Corpora"
+    "CDLR": {
+      "premiere": "2026-10-21T19:54+02:00",
+      "nom": "Cadeler A/S"
     },
-    "ENVX": {
-      "premiere": "2026-10-21T19:23+02:00",
-      "nom": "Enovix Corporation"
+    "ABSI": {
+      "premiere": "2026-10-21T19:54+02:00",
+      "nom": "Absci Corporation"
     },
-    "AMPX": {
-      "premiere": "2026-10-21T19:23+02:00",
-      "nom": "Amprius Technologies, Inc."
+    "WGO": {
+      "premiere": "2026-10-21T19:54+02:00",
+      "nom": "Winnebago Industries, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "TRAX",
-      "date": "20/10/2026",
-      "nom": "First Tracks Biotherapeutics, I"
-    },
-    {
-      "symbole": "APMD",
-      "date": "20/10/2026",
-      "nom": "Apnimed, Inc."
-    },
-    {
-      "symbole": "CTNM",
-      "date": "20/10/2026",
-      "nom": "Contineum Therapeutics, Inc."
-    },
     {
       "symbole": "LAES",
       "date": "20/10/2026",
@@ -187,6 +172,21 @@
       "symbole": "ABSI",
       "date": "21/10/2026",
       "nom": "Absci Corporation"
+    },
+    {
+      "symbole": "FUN",
+      "date": "21/10/2026",
+      "nom": "Six Flags Entertainment Corpora"
+    },
+    {
+      "symbole": "ENVX",
+      "date": "21/10/2026",
+      "nom": "Enovix Corporation"
+    },
+    {
+      "symbole": "AMPX",
+      "date": "21/10/2026",
+      "nom": "Amprius Technologies, Inc."
     }
   ]
 }
