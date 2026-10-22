@@ -32,26 +32,16 @@
       "premiere": "2026-10-22T18:00+02:00",
       "nom": "Goosehead Insurance, Inc."
     },
-    "AVLN": {
-      "premiere": "2026-10-22T18:58+02:00",
-      "nom": "Avalyn Pharma Inc."
+    "BDN": {
+      "premiere": "2026-10-22T19:23+02:00",
+      "nom": "Brandywine Realty Trust"
     },
-    "WGO": {
-      "premiere": "2026-10-22T18:58+02:00",
-      "nom": "Winnebago Industries, Inc."
+    "BOBS": {
+      "premiere": "2026-10-22T19:23+02:00",
+      "nom": "Bob's Discount Furniture, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "WGO",
-      "date": "21/10/2026",
-      "nom": "Winnebago Industries, Inc."
-    },
-    {
-      "symbole": "PACB",
-      "date": "21/10/2026",
-      "nom": "Pacific Biosciences of Californ"
-    },
     {
       "symbole": "ETL.PA",
       "date": "21/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "LCID",
       "date": "22/10/2026",
       "nom": "Lucid Group, Inc."
+    },
+    {
+      "symbole": "AVLN",
+      "date": "22/10/2026",
+      "nom": "Avalyn Pharma Inc."
+    },
+    {
+      "symbole": "WGO",
+      "date": "22/10/2026",
+      "nom": "Winnebago Industries, Inc."
     }
   ]
 }
