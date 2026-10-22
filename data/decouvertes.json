@@ -28,10 +28,6 @@
       "premiere": "2026-10-22T17:28+02:00",
       "nom": "Dream Finders Homes, Inc."
     },
-    "GSHD": {
-      "premiere": "2026-10-22T18:00+02:00",
-      "nom": "Goosehead Insurance, Inc."
-    },
     "CNXC": {
       "premiere": "2026-10-22T20:16+02:00",
       "nom": "Concentrix Corporation"
@@ -39,14 +35,13 @@
     "JBLU": {
       "premiere": "2026-10-22T21:06+02:00",
       "nom": "JetBlue Airways Corporation"
+    },
+    "AVEX": {
+      "premiere": "2026-10-22T21:57+02:00",
+      "nom": "AEVEX Corp."
     }
   },
   "sorties": [
-    {
-      "symbole": "AVEX",
-      "date": "21/10/2026",
-      "nom": "AEVEX Corp."
-    },
     {
       "symbole": "ENVX",
       "date": "21/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "BUR",
       "date": "22/10/2026",
       "nom": "Burford Capital Limited"
+    },
+    {
+      "symbole": "GSHD",
+      "date": "22/10/2026",
+      "nom": "Goosehead Insurance, Inc."
     }
   ]
 }
