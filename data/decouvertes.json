@@ -20,14 +20,6 @@
       "premiere": "2026-10-22T16:58+02:00",
       "nom": "Healthcare Services Group, Inc."
     },
-    "KSS": {
-      "premiere": "2026-10-22T16:58+02:00",
-      "nom": "Kohl's Corporation"
-    },
-    "DFH": {
-      "premiere": "2026-10-22T17:28+02:00",
-      "nom": "Dream Finders Homes, Inc."
-    },
     "CNXC": {
       "premiere": "2026-10-22T20:16+02:00",
       "nom": "Concentrix Corporation"
@@ -39,19 +31,17 @@
     "AVEX": {
       "premiere": "2026-10-22T21:57+02:00",
       "nom": "AEVEX Corp."
+    },
+    "QS": {
+      "premiere": "2026-10-22T22:19+02:00",
+      "nom": "QuantumScape Corporation"
+    },
+    "DGICB": {
+      "premiere": "2026-10-22T22:19+02:00",
+      "nom": "Donegal Group, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "ENVX",
-      "date": "21/10/2026",
-      "nom": "Enovix Corporation"
-    },
-    {
-      "symbole": "ATO.PA",
-      "date": "22/10/2026",
-      "nom": "ATOS GROUP"
-    },
     {
       "symbole": "NANO.PA",
       "date": "22/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "GSHD",
       "date": "22/10/2026",
       "nom": "Goosehead Insurance, Inc."
+    },
+    {
+      "symbole": "KSS",
+      "date": "22/10/2026",
+      "nom": "Kohl's Corporation"
+    },
+    {
+      "symbole": "DFH",
+      "date": "22/10/2026",
+      "nom": "Dream Finders Homes, Inc."
     }
   ]
 }
