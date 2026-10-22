@@ -32,21 +32,16 @@
       "premiere": "2026-10-22T18:00+02:00",
       "nom": "Goosehead Insurance, Inc."
     },
-    "BUR": {
-      "premiere": "2026-10-22T19:53+02:00",
-      "nom": "Burford Capital Limited"
-    },
     "CNXC": {
       "premiere": "2026-10-22T20:16+02:00",
       "nom": "Concentrix Corporation"
+    },
+    "JBLU": {
+      "premiere": "2026-10-22T21:06+02:00",
+      "nom": "JetBlue Airways Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "ENVX",
-      "date": "21/10/2026",
-      "nom": "Enovix Corporation"
-    },
     {
       "symbole": "AVEX",
       "date": "21/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "AVLN",
       "date": "22/10/2026",
       "nom": "Avalyn Pharma Inc."
+    },
+    {
+      "symbole": "BUR",
+      "date": "22/10/2026",
+      "nom": "Burford Capital Limited"
     }
   ]
 }
