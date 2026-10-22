@@ -12,14 +12,6 @@
       "premiere": "2026-10-16T16:00+02:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "ATO.PA": {
-      "premiere": "2026-10-21T11:01+02:00",
-      "nom": "ATOS GROUP"
-    },
-    "NANO.PA": {
-      "premiere": "2026-10-21T16:01+02:00",
-      "nom": "NANOBIOTIX"
-    },
     "GPK": {
       "premiere": "2026-10-21T21:55+02:00",
       "nom": "Graphic Packaging Holding Compa"
@@ -35,19 +27,17 @@
     "AVEX": {
       "premiere": "2026-10-21T23:57+02:00",
       "nom": "AEVEX Corp."
+    },
+    "ENVX": {
+      "premiere": "2026-10-22T09:33+02:00",
+      "nom": "Enovix Corporation"
+    },
+    "ALMR": {
+      "premiere": "2026-10-22T09:33+02:00",
+      "nom": "Alamar Biosciences, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "TRAX",
-      "date": "21/10/2026",
-      "nom": "First Tracks Biotherapeutics, I"
-    },
-    {
-      "symbole": "VU.PA",
-      "date": "21/10/2026",
-      "nom": "Vusion"
-    },
     {
       "symbole": "MYGN",
       "date": "21/10/2026",
@@ -187,6 +177,16 @@
       "symbole": "ENVX",
       "date": "21/10/2026",
       "nom": "Enovix Corporation"
+    },
+    {
+      "symbole": "ATO.PA",
+      "date": "22/10/2026",
+      "nom": "ATOS GROUP"
+    },
+    {
+      "symbole": "NANO.PA",
+      "date": "22/10/2026",
+      "nom": "NANOBIOTIX"
     }
   ]
 }
