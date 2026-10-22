@@ -24,10 +24,6 @@
       "premiere": "2026-10-21T22:15+02:00",
       "nom": "Kelly Services, Inc."
     },
-    "AVEX": {
-      "premiere": "2026-10-21T23:57+02:00",
-      "nom": "AEVEX Corp."
-    },
     "ENVX": {
       "premiere": "2026-10-22T09:33+02:00",
       "nom": "Enovix Corporation"
@@ -35,14 +31,13 @@
     "ALMR": {
       "premiere": "2026-10-22T09:33+02:00",
       "nom": "Alamar Biosciences, Inc."
+    },
+    "ABSI": {
+      "premiere": "2026-10-22T11:04+02:00",
+      "nom": "Absci Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "MYGN",
-      "date": "21/10/2026",
-      "nom": "Myriad Genetics, Inc."
-    },
     {
       "symbole": "SABR",
       "date": "21/10/2026",
@@ -187,6 +182,11 @@
       "symbole": "NANO.PA",
       "date": "22/10/2026",
       "nom": "NANOBIOTIX"
+    },
+    {
+      "symbole": "AVEX",
+      "date": "22/10/2026",
+      "nom": "AEVEX Corp."
     }
   ]
 }
