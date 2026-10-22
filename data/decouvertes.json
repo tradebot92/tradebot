@@ -32,17 +32,12 @@
       "premiere": "2026-10-22T09:33+02:00",
       "nom": "Alamar Biosciences, Inc."
     },
-    "IDL.PA": {
-      "premiere": "2026-10-22T14:25+02:00",
-      "nom": "ID LOGISTICS GROUP"
+    "ABSI": {
+      "premiere": "2026-10-22T15:13+02:00",
+      "nom": "Absci Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "LCID",
-      "date": "21/10/2026",
-      "nom": "Lucid Group, Inc."
-    },
     {
       "symbole": "TRAX",
       "date": "21/10/2026",
@@ -187,6 +182,11 @@
       "symbole": "AVEX",
       "date": "22/10/2026",
       "nom": "AEVEX Corp."
+    },
+    {
+      "symbole": "IDL.PA",
+      "date": "22/10/2026",
+      "nom": "ID LOGISTICS GROUP"
     }
   ]
 }
