@@ -32,17 +32,12 @@
       "premiere": "2026-10-22T09:33+02:00",
       "nom": "Alamar Biosciences, Inc."
     },
-    "ABSI": {
-      "premiere": "2026-10-22T11:04+02:00",
-      "nom": "Absci Corporation"
+    "AVEX": {
+      "premiere": "2026-10-22T12:28+02:00",
+      "nom": "AEVEX Corp."
     }
   },
   "sorties": [
-    {
-      "symbole": "SABR",
-      "date": "21/10/2026",
-      "nom": "Sabre Corporation"
-    },
     {
       "symbole": "CTNM",
       "date": "21/10/2026",
@@ -187,6 +182,11 @@
       "symbole": "AVEX",
       "date": "22/10/2026",
       "nom": "AEVEX Corp."
+    },
+    {
+      "symbole": "ABSI",
+      "date": "22/10/2026",
+      "nom": "Absci Corporation"
     }
   ]
 }
