@@ -16,10 +16,6 @@
       "premiere": "2026-10-22T16:01+02:00",
       "nom": "Nanobiotix S.A."
     },
-    "RCUS": {
-      "premiere": "2026-10-22T16:58+02:00",
-      "nom": "Arcus Biosciences, Inc."
-    },
     "HCSG": {
       "premiere": "2026-10-22T16:58+02:00",
       "nom": "Healthcare Services Group, Inc."
@@ -36,22 +32,16 @@
       "premiere": "2026-10-22T17:28+02:00",
       "nom": "Dream Finders Homes, Inc."
     },
-    "FLO": {
-      "premiere": "2026-10-22T17:28+02:00",
-      "nom": "Flowers Foods, Inc."
+    "GSHD": {
+      "premiere": "2026-10-22T18:00+02:00",
+      "nom": "Goosehead Insurance, Inc."
+    },
+    "LCID": {
+      "premiere": "2026-10-22T18:00+02:00",
+      "nom": "Lucid Group, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "ENVX",
-      "date": "21/10/2026",
-      "nom": "Enovix Corporation"
-    },
-    {
-      "symbole": "AMPX",
-      "date": "21/10/2026",
-      "nom": "Amprius Technologies, Inc."
-    },
     {
       "symbole": "CDLR",
       "date": "21/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "HTZ",
       "date": "22/10/2026",
       "nom": "Hertz Global Holdings, Inc"
+    },
+    {
+      "symbole": "RCUS",
+      "date": "22/10/2026",
+      "nom": "Arcus Biosciences, Inc."
+    },
+    {
+      "symbole": "FLO",
+      "date": "22/10/2026",
+      "nom": "Flowers Foods, Inc."
     }
   ]
 }
