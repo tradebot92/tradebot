@@ -32,17 +32,12 @@
       "premiere": "2026-10-22T09:33+02:00",
       "nom": "Alamar Biosciences, Inc."
     },
-    "AVEX": {
-      "premiere": "2026-10-22T12:28+02:00",
-      "nom": "AEVEX Corp."
+    "IDL.PA": {
+      "premiere": "2026-10-22T14:25+02:00",
+      "nom": "ID LOGISTICS GROUP"
     }
   },
   "sorties": [
-    {
-      "symbole": "CTNM",
-      "date": "21/10/2026",
-      "nom": "Contineum Therapeutics, Inc."
-    },
     {
       "symbole": "LCID",
       "date": "21/10/2026",
@@ -187,6 +182,11 @@
       "symbole": "ABSI",
       "date": "22/10/2026",
       "nom": "Absci Corporation"
+    },
+    {
+      "symbole": "AVEX",
+      "date": "22/10/2026",
+      "nom": "AEVEX Corp."
     }
   ]
 }
