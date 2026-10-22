@@ -12,62 +12,36 @@
       "premiere": "2026-10-16T16:00+02:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "GPK": {
-      "premiere": "2026-10-21T21:55+02:00",
-      "nom": "Graphic Packaging Holding Compa"
+    "BHVN": {
+      "premiere": "2026-10-22T16:01+02:00",
+      "nom": "Biohaven Ltd."
     },
-    "PACB": {
-      "premiere": "2026-10-21T21:55+02:00",
-      "nom": "Pacific Biosciences of Californ"
+    "BZH": {
+      "premiere": "2026-10-22T16:01+02:00",
+      "nom": "Beazer Homes USA, Inc."
     },
-    "KELYB": {
-      "premiere": "2026-10-21T22:15+02:00",
-      "nom": "Kelly Services, Inc."
+    "NBTX": {
+      "premiere": "2026-10-22T16:01+02:00",
+      "nom": "Nanobiotix S.A."
     },
-    "ENVX": {
-      "premiere": "2026-10-22T09:33+02:00",
-      "nom": "Enovix Corporation"
+    "IDL.PA": {
+      "premiere": "2026-10-22T16:01+02:00",
+      "nom": "ID LOGISTICS GROUP"
     },
-    "ALMR": {
-      "premiere": "2026-10-22T09:33+02:00",
-      "nom": "Alamar Biosciences, Inc."
+    "HTZ": {
+      "premiere": "2026-10-22T16:01+02:00",
+      "nom": "Hertz Global Holdings, Inc"
     },
-    "ABSI": {
-      "premiere": "2026-10-22T15:13+02:00",
-      "nom": "Absci Corporation"
+    "BBT": {
+      "premiere": "2026-10-22T16:01+02:00",
+      "nom": "Beacon Financial Corporation"
+    },
+    "EXK": {
+      "premiere": "2026-10-22T16:01+02:00",
+      "nom": "Endeavour Silver Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "TRAX",
-      "date": "21/10/2026",
-      "nom": "First Tracks Biotherapeutics, I"
-    },
-    {
-      "symbole": "BZH",
-      "date": "21/10/2026",
-      "nom": "Beazer Homes USA, Inc."
-    },
-    {
-      "symbole": "VU.PA",
-      "date": "21/10/2026",
-      "nom": "Vusion"
-    },
-    {
-      "symbole": "BBT",
-      "date": "21/10/2026",
-      "nom": "Beacon Financial Corporation"
-    },
-    {
-      "symbole": "EXK",
-      "date": "21/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
-    {
-      "symbole": "ETL.PA",
-      "date": "21/10/2026",
-      "nom": "EUTELSAT COMMUNIC."
-    },
     {
       "symbole": "XXI",
       "date": "21/10/2026",
@@ -187,6 +161,36 @@
       "symbole": "IDL.PA",
       "date": "22/10/2026",
       "nom": "ID LOGISTICS GROUP"
+    },
+    {
+      "symbole": "GPK",
+      "date": "22/10/2026",
+      "nom": "Graphic Packaging Holding Compa"
+    },
+    {
+      "symbole": "PACB",
+      "date": "22/10/2026",
+      "nom": "Pacific Biosciences of Californ"
+    },
+    {
+      "symbole": "KELYB",
+      "date": "22/10/2026",
+      "nom": "Kelly Services, Inc."
+    },
+    {
+      "symbole": "ENVX",
+      "date": "22/10/2026",
+      "nom": "Enovix Corporation"
+    },
+    {
+      "symbole": "ALMR",
+      "date": "22/10/2026",
+      "nom": "Alamar Biosciences, Inc."
+    },
+    {
+      "symbole": "ABSI",
+      "date": "22/10/2026",
+      "nom": "Absci Corporation"
     }
   ]
 }
