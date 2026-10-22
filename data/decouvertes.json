@@ -8,10 +8,6 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "EIKN": {
-      "premiere": "2026-10-16T16:00+02:00",
-      "nom": "Eikon Therapeutics, Inc."
-    },
     "BHVN": {
       "premiere": "2026-10-22T16:01+02:00",
       "nom": "Biohaven Ltd."
@@ -19,10 +15,6 @@
     "NBTX": {
       "premiere": "2026-10-22T16:01+02:00",
       "nom": "Nanobiotix S.A."
-    },
-    "HTZ": {
-      "premiere": "2026-10-22T16:01+02:00",
-      "nom": "Hertz Global Holdings, Inc"
     },
     "RCUS": {
       "premiere": "2026-10-22T16:58+02:00",
@@ -39,19 +31,17 @@
     "KSS": {
       "premiere": "2026-10-22T16:58+02:00",
       "nom": "Kohl's Corporation"
+    },
+    "DFH": {
+      "premiere": "2026-10-22T17:28+02:00",
+      "nom": "Dream Finders Homes, Inc."
+    },
+    "FLO": {
+      "premiere": "2026-10-22T17:28+02:00",
+      "nom": "Flowers Foods, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "ABSI",
-      "date": "21/10/2026",
-      "nom": "Absci Corporation"
-    },
-    {
-      "symbole": "FUN",
-      "date": "21/10/2026",
-      "nom": "Six Flags Entertainment Corpora"
-    },
     {
       "symbole": "ENVX",
       "date": "21/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "EXK",
       "date": "22/10/2026",
       "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "EIKN",
+      "date": "22/10/2026",
+      "nom": "Eikon Therapeutics, Inc."
+    },
+    {
+      "symbole": "HTZ",
+      "date": "22/10/2026",
+      "nom": "Hertz Global Holdings, Inc"
     }
   ]
 }
