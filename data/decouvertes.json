@@ -32,26 +32,16 @@
       "premiere": "2026-10-22T18:00+02:00",
       "nom": "Goosehead Insurance, Inc."
     },
-    "BDN": {
-      "premiere": "2026-10-22T19:23+02:00",
-      "nom": "Brandywine Realty Trust"
+    "AVLN": {
+      "premiere": "2026-10-22T19:53+02:00",
+      "nom": "Avalyn Pharma Inc."
     },
-    "BOBS": {
-      "premiere": "2026-10-22T19:23+02:00",
-      "nom": "Bob's Discount Furniture, Inc."
+    "BUR": {
+      "premiere": "2026-10-22T19:53+02:00",
+      "nom": "Burford Capital Limited"
     }
   },
   "sorties": [
-    {
-      "symbole": "ETL.PA",
-      "date": "21/10/2026",
-      "nom": "EUTELSAT COMMUNIC."
-    },
-    {
-      "symbole": "FUN",
-      "date": "21/10/2026",
-      "nom": "Six Flags Entertainment Corpora"
-    },
     {
       "symbole": "ABSI",
       "date": "21/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "WGO",
       "date": "22/10/2026",
       "nom": "Winnebago Industries, Inc."
+    },
+    {
+      "symbole": "BDN",
+      "date": "22/10/2026",
+      "nom": "Brandywine Realty Trust"
+    },
+    {
+      "symbole": "BOBS",
+      "date": "22/10/2026",
+      "nom": "Bob's Discount Furniture, Inc."
     }
   ]
 }
