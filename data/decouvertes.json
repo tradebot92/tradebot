@@ -20,10 +20,6 @@
       "premiere": "2026-10-22T16:58+02:00",
       "nom": "Healthcare Services Group, Inc."
     },
-    "BDN": {
-      "premiere": "2026-10-22T16:58+02:00",
-      "nom": "Brandywine Realty Trust"
-    },
     "KSS": {
       "premiere": "2026-10-22T16:58+02:00",
       "nom": "Kohl's Corporation"
@@ -36,22 +32,16 @@
       "premiere": "2026-10-22T18:00+02:00",
       "nom": "Goosehead Insurance, Inc."
     },
-    "LCID": {
-      "premiere": "2026-10-22T18:00+02:00",
-      "nom": "Lucid Group, Inc."
+    "AVLN": {
+      "premiere": "2026-10-22T18:58+02:00",
+      "nom": "Avalyn Pharma Inc."
+    },
+    "WGO": {
+      "premiere": "2026-10-22T18:58+02:00",
+      "nom": "Winnebago Industries, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "CDLR",
-      "date": "21/10/2026",
-      "nom": "Cadeler A/S"
-    },
-    {
-      "symbole": "ABSI",
-      "date": "21/10/2026",
-      "nom": "Absci Corporation"
-    },
     {
       "symbole": "WGO",
       "date": "21/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "FLO",
       "date": "22/10/2026",
       "nom": "Flowers Foods, Inc."
+    },
+    {
+      "symbole": "BDN",
+      "date": "22/10/2026",
+      "nom": "Brandywine Realty Trust"
+    },
+    {
+      "symbole": "LCID",
+      "date": "22/10/2026",
+      "nom": "Lucid Group, Inc."
     }
   ]
 }
