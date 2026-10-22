@@ -16,52 +16,32 @@
       "premiere": "2026-10-22T16:01+02:00",
       "nom": "Biohaven Ltd."
     },
-    "BZH": {
-      "premiere": "2026-10-22T16:01+02:00",
-      "nom": "Beazer Homes USA, Inc."
-    },
     "NBTX": {
       "premiere": "2026-10-22T16:01+02:00",
       "nom": "Nanobiotix S.A."
-    },
-    "IDL.PA": {
-      "premiere": "2026-10-22T16:01+02:00",
-      "nom": "ID LOGISTICS GROUP"
     },
     "HTZ": {
       "premiere": "2026-10-22T16:01+02:00",
       "nom": "Hertz Global Holdings, Inc"
     },
-    "BBT": {
-      "premiere": "2026-10-22T16:01+02:00",
-      "nom": "Beacon Financial Corporation"
+    "RCUS": {
+      "premiere": "2026-10-22T16:58+02:00",
+      "nom": "Arcus Biosciences, Inc."
     },
-    "EXK": {
-      "premiere": "2026-10-22T16:01+02:00",
-      "nom": "Endeavour Silver Corporation"
+    "HCSG": {
+      "premiere": "2026-10-22T16:58+02:00",
+      "nom": "Healthcare Services Group, Inc."
+    },
+    "BDN": {
+      "premiere": "2026-10-22T16:58+02:00",
+      "nom": "Brandywine Realty Trust"
+    },
+    "KSS": {
+      "premiere": "2026-10-22T16:58+02:00",
+      "nom": "Kohl's Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "XXI",
-      "date": "21/10/2026",
-      "nom": "Twenty One Capital, Inc."
-    },
-    {
-      "symbole": "AVEX",
-      "date": "21/10/2026",
-      "nom": "AEVEX Corp."
-    },
-    {
-      "symbole": "NBTX",
-      "date": "21/10/2026",
-      "nom": "Nanobiotix S.A."
-    },
-    {
-      "symbole": "PACB",
-      "date": "21/10/2026",
-      "nom": "Pacific Biosciences of Californ"
-    },
     {
       "symbole": "ABSI",
       "date": "21/10/2026",
@@ -191,6 +171,26 @@
       "symbole": "ABSI",
       "date": "22/10/2026",
       "nom": "Absci Corporation"
+    },
+    {
+      "symbole": "BZH",
+      "date": "22/10/2026",
+      "nom": "Beazer Homes USA, Inc."
+    },
+    {
+      "symbole": "IDL.PA",
+      "date": "22/10/2026",
+      "nom": "ID LOGISTICS GROUP"
+    },
+    {
+      "symbole": "BBT",
+      "date": "22/10/2026",
+      "nom": "Beacon Financial Corporation"
+    },
+    {
+      "symbole": "EXK",
+      "date": "22/10/2026",
+      "nom": "Endeavour Silver Corporation"
     }
   ]
 }
