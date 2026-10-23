@@ -28,10 +28,6 @@
       "premiere": "2026-10-23T16:03+02:00",
       "nom": "Sonida Senior Living, Inc."
     },
-    "WTI": {
-      "premiere": "2026-10-23T17:01+02:00",
-      "nom": "W&T Offshore, Inc."
-    },
     "TBN": {
       "premiere": "2026-10-23T18:01+02:00",
       "nom": "Tamboran Resources Corporation"
@@ -39,14 +35,13 @@
     "ENVX": {
       "premiere": "2026-10-23T18:01+02:00",
       "nom": "Enovix Corporation"
+    },
+    "THRM": {
+      "premiere": "2026-10-23T18:59+02:00",
+      "nom": "Gentherm Inc"
     }
   },
   "sorties": [
-    {
-      "symbole": "BBT",
-      "date": "22/10/2026",
-      "nom": "Beacon Financial Corporation"
-    },
     {
       "symbole": "EXK",
       "date": "22/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "IDIP.PA",
       "date": "23/10/2026",
       "nom": "IDI"
+    },
+    {
+      "symbole": "WTI",
+      "date": "23/10/2026",
+      "nom": "W&T Offshore, Inc."
     }
   ]
 }
