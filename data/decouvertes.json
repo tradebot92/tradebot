@@ -32,21 +32,16 @@
       "premiere": "2026-10-23T21:04+02:00",
       "nom": "Companhia Siderurgica Nacional "
     },
-    "NWCL": {
-      "premiere": "2026-10-23T21:04+02:00",
-      "nom": "newcleo plc"
-    },
     "THRM": {
       "premiere": "2026-10-23T21:52+02:00",
       "nom": "Gentherm Inc"
+    },
+    "SABR": {
+      "premiere": "2026-10-23T22:14+02:00",
+      "nom": "Sabre Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "LCID",
-      "date": "22/10/2026",
-      "nom": "Lucid Group, Inc."
-    },
     {
       "symbole": "AVLN",
       "date": "22/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "TBN",
       "date": "23/10/2026",
       "nom": "Tamboran Resources Corporation"
+    },
+    {
+      "symbole": "NWCL",
+      "date": "23/10/2026",
+      "nom": "newcleo plc"
     }
   ]
 }
