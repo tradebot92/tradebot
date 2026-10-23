@@ -20,10 +20,6 @@
       "premiere": "2026-10-23T16:03+02:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "TBN": {
-      "premiere": "2026-10-23T18:01+02:00",
-      "nom": "Tamboran Resources Corporation"
-    },
     "ENVX": {
       "premiere": "2026-10-23T18:01+02:00",
       "nom": "Enovix Corporation"
@@ -39,14 +35,13 @@
     "NWCL": {
       "premiere": "2026-10-23T21:04+02:00",
       "nom": "newcleo plc"
+    },
+    "THRM": {
+      "premiere": "2026-10-23T21:52+02:00",
+      "nom": "Gentherm Inc"
     }
   },
   "sorties": [
-    {
-      "symbole": "BDN",
-      "date": "22/10/2026",
-      "nom": "Brandywine Realty Trust"
-    },
     {
       "symbole": "LCID",
       "date": "22/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "CUBI",
       "date": "23/10/2026",
       "nom": "Customers Bancorp, Inc"
+    },
+    {
+      "symbole": "TBN",
+      "date": "23/10/2026",
+      "nom": "Tamboran Resources Corporation"
     }
   ]
 }
