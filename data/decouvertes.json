@@ -28,30 +28,20 @@
       "premiere": "2026-10-23T18:01+02:00",
       "nom": "Enovix Corporation"
     },
-    "THRM": {
-      "premiere": "2026-10-23T18:59+02:00",
-      "nom": "Gentherm Inc"
-    },
-    "CUBI": {
-      "premiere": "2026-10-23T19:53+02:00",
-      "nom": "Customers Bancorp, Inc"
-    },
     "LZM": {
       "premiere": "2026-10-23T20:16+02:00",
       "nom": "Lifezone Metals Limited"
+    },
+    "SID": {
+      "premiere": "2026-10-23T21:04+02:00",
+      "nom": "Companhia Siderurgica Nacional "
+    },
+    "NWCL": {
+      "premiere": "2026-10-23T21:04+02:00",
+      "nom": "newcleo plc"
     }
   },
   "sorties": [
-    {
-      "symbole": "RCUS",
-      "date": "22/10/2026",
-      "nom": "Arcus Biosciences, Inc."
-    },
-    {
-      "symbole": "FLO",
-      "date": "22/10/2026",
-      "nom": "Flowers Foods, Inc."
-    },
     {
       "symbole": "BDN",
       "date": "22/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "BORR",
       "date": "23/10/2026",
       "nom": "Borr Drilling Limited"
+    },
+    {
+      "symbole": "THRM",
+      "date": "23/10/2026",
+      "nom": "Gentherm Inc"
+    },
+    {
+      "symbole": "CUBI",
+      "date": "23/10/2026",
+      "nom": "Customers Bancorp, Inc"
     }
   ]
 }
