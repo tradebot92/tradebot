@@ -8,10 +8,6 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "BZH": {
-      "premiere": "2026-10-23T16:03+02:00",
-      "nom": "Beazer Homes USA, Inc."
-    },
     "NWCL": {
       "premiere": "2026-10-23T16:03+02:00",
       "nom": "newcleo plc"
@@ -39,14 +35,13 @@
     "IDIP.PA": {
       "premiere": "2026-10-23T16:03+02:00",
       "nom": "IDI"
+    },
+    "WTI": {
+      "premiere": "2026-10-23T17:01+02:00",
+      "nom": "W&T Offshore, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "ABSI",
-      "date": "22/10/2026",
-      "nom": "Absci Corporation"
-    },
     {
       "symbole": "BZH",
       "date": "22/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "QS",
       "date": "23/10/2026",
       "nom": "QuantumScape Corporation"
+    },
+    {
+      "symbole": "BZH",
+      "date": "23/10/2026",
+      "nom": "Beazer Homes USA, Inc."
     }
   ]
 }
