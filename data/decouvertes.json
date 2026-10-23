@@ -8,80 +8,40 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "BHVN": {
-      "premiere": "2026-10-22T16:01+02:00",
-      "nom": "Biohaven Ltd."
+    "BZH": {
+      "premiere": "2026-10-23T16:03+02:00",
+      "nom": "Beazer Homes USA, Inc."
     },
-    "NBTX": {
-      "premiere": "2026-10-22T16:01+02:00",
-      "nom": "Nanobiotix S.A."
+    "NWCL": {
+      "premiere": "2026-10-23T16:03+02:00",
+      "nom": "newcleo plc"
     },
-    "HCSG": {
-      "premiere": "2026-10-22T16:58+02:00",
-      "nom": "Healthcare Services Group, Inc."
+    "UWMC": {
+      "premiere": "2026-10-23T16:03+02:00",
+      "nom": "UWM Holdings Corporation"
     },
-    "CNXC": {
-      "premiere": "2026-10-22T20:16+02:00",
-      "nom": "Concentrix Corporation"
+    "SWP.PA": {
+      "premiere": "2026-10-23T16:03+02:00",
+      "nom": "SWORD GROUP"
     },
-    "JBLU": {
-      "premiere": "2026-10-22T21:06+02:00",
-      "nom": "JetBlue Airways Corporation"
+    "EIKN": {
+      "premiere": "2026-10-23T16:03+02:00",
+      "nom": "Eikon Therapeutics, Inc."
     },
-    "AVEX": {
-      "premiere": "2026-10-22T21:57+02:00",
-      "nom": "AEVEX Corp."
+    "EXK": {
+      "premiere": "2026-10-23T16:03+02:00",
+      "nom": "Endeavour Silver Corporation"
     },
-    "DGICB": {
-      "premiere": "2026-10-22T22:19+02:00",
-      "nom": "Donegal Group, Inc."
+    "SNDA": {
+      "premiere": "2026-10-23T16:03+02:00",
+      "nom": "Sonida Senior Living, Inc."
     },
-    "QS": {
-      "premiere": "2026-10-23T13:57+02:00",
-      "nom": "QuantumScape Corporation"
+    "IDIP.PA": {
+      "premiere": "2026-10-23T16:03+02:00",
+      "nom": "IDI"
     }
   },
   "sorties": [
-    {
-      "symbole": "ABSI",
-      "date": "22/10/2026",
-      "nom": "Absci Corporation"
-    },
-    {
-      "symbole": "AVEX",
-      "date": "22/10/2026",
-      "nom": "AEVEX Corp."
-    },
-    {
-      "symbole": "IDL.PA",
-      "date": "22/10/2026",
-      "nom": "ID LOGISTICS GROUP"
-    },
-    {
-      "symbole": "GPK",
-      "date": "22/10/2026",
-      "nom": "Graphic Packaging Holding Compa"
-    },
-    {
-      "symbole": "PACB",
-      "date": "22/10/2026",
-      "nom": "Pacific Biosciences of Californ"
-    },
-    {
-      "symbole": "KELYB",
-      "date": "22/10/2026",
-      "nom": "Kelly Services, Inc."
-    },
-    {
-      "symbole": "ENVX",
-      "date": "22/10/2026",
-      "nom": "Enovix Corporation"
-    },
-    {
-      "symbole": "ALMR",
-      "date": "22/10/2026",
-      "nom": "Alamar Biosciences, Inc."
-    },
     {
       "symbole": "ABSI",
       "date": "22/10/2026",
@@ -191,6 +151,46 @@
       "symbole": "DFH",
       "date": "23/10/2026",
       "nom": "Dream Finders Homes, Inc."
+    },
+    {
+      "symbole": "BHVN",
+      "date": "23/10/2026",
+      "nom": "Biohaven Ltd."
+    },
+    {
+      "symbole": "NBTX",
+      "date": "23/10/2026",
+      "nom": "Nanobiotix S.A."
+    },
+    {
+      "symbole": "HCSG",
+      "date": "23/10/2026",
+      "nom": "Healthcare Services Group, Inc."
+    },
+    {
+      "symbole": "CNXC",
+      "date": "23/10/2026",
+      "nom": "Concentrix Corporation"
+    },
+    {
+      "symbole": "JBLU",
+      "date": "23/10/2026",
+      "nom": "JetBlue Airways Corporation"
+    },
+    {
+      "symbole": "AVEX",
+      "date": "23/10/2026",
+      "nom": "AEVEX Corp."
+    },
+    {
+      "symbole": "DGICB",
+      "date": "23/10/2026",
+      "nom": "Donegal Group, Inc."
+    },
+    {
+      "symbole": "QS",
+      "date": "23/10/2026",
+      "nom": "QuantumScape Corporation"
     }
   ]
 }
