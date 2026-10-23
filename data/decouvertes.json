@@ -8,10 +8,6 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "NWCL": {
-      "premiere": "2026-10-23T16:03+02:00",
-      "nom": "newcleo plc"
-    },
     "UWMC": {
       "premiere": "2026-10-23T16:03+02:00",
       "nom": "UWM Holdings Corporation"
@@ -32,26 +28,20 @@
       "premiere": "2026-10-23T16:03+02:00",
       "nom": "Sonida Senior Living, Inc."
     },
-    "IDIP.PA": {
-      "premiere": "2026-10-23T16:03+02:00",
-      "nom": "IDI"
-    },
     "WTI": {
       "premiere": "2026-10-23T17:01+02:00",
       "nom": "W&T Offshore, Inc."
+    },
+    "TBN": {
+      "premiere": "2026-10-23T18:01+02:00",
+      "nom": "Tamboran Resources Corporation"
+    },
+    "ENVX": {
+      "premiere": "2026-10-23T18:01+02:00",
+      "nom": "Enovix Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "BZH",
-      "date": "22/10/2026",
-      "nom": "Beazer Homes USA, Inc."
-    },
-    {
-      "symbole": "IDL.PA",
-      "date": "22/10/2026",
-      "nom": "ID LOGISTICS GROUP"
-    },
     {
       "symbole": "BBT",
       "date": "22/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "BZH",
       "date": "23/10/2026",
       "nom": "Beazer Homes USA, Inc."
+    },
+    {
+      "symbole": "NWCL",
+      "date": "23/10/2026",
+      "nom": "newcleo plc"
+    },
+    {
+      "symbole": "IDIP.PA",
+      "date": "23/10/2026",
+      "nom": "IDI"
     }
   ]
 }
