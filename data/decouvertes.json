@@ -32,21 +32,16 @@
       "premiere": "2026-10-22T21:57+02:00",
       "nom": "AEVEX Corp."
     },
-    "QS": {
-      "premiere": "2026-10-22T22:19+02:00",
-      "nom": "QuantumScape Corporation"
-    },
     "DGICB": {
       "premiere": "2026-10-22T22:19+02:00",
       "nom": "Donegal Group, Inc."
+    },
+    "DFH": {
+      "premiere": "2026-10-23T09:32+02:00",
+      "nom": "Dream Finders Homes, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "NANO.PA",
-      "date": "22/10/2026",
-      "nom": "NANOBIOTIX"
-    },
     {
       "symbole": "AVEX",
       "date": "22/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "DFH",
       "date": "22/10/2026",
       "nom": "Dream Finders Homes, Inc."
+    },
+    {
+      "symbole": "QS",
+      "date": "23/10/2026",
+      "nom": "QuantumScape Corporation"
     }
   ]
 }
