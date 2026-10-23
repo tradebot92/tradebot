@@ -36,17 +36,12 @@
       "premiere": "2026-10-23T19:53+02:00",
       "nom": "Customers Bancorp, Inc"
     },
-    "BORR": {
-      "premiere": "2026-10-23T19:53+02:00",
-      "nom": "Borr Drilling Limited"
+    "LZM": {
+      "premiere": "2026-10-23T20:16+02:00",
+      "nom": "Lifezone Metals Limited"
     }
   },
   "sorties": [
-    {
-      "symbole": "HTZ",
-      "date": "22/10/2026",
-      "nom": "Hertz Global Holdings, Inc"
-    },
     {
       "symbole": "RCUS",
       "date": "22/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "SNDA",
       "date": "23/10/2026",
       "nom": "Sonida Senior Living, Inc."
+    },
+    {
+      "symbole": "BORR",
+      "date": "23/10/2026",
+      "nom": "Borr Drilling Limited"
     }
   ]
 }
