@@ -32,21 +32,12 @@
       "premiere": "2026-10-23T21:04+02:00",
       "nom": "Companhia Siderurgica Nacional "
     },
-    "THRM": {
-      "premiere": "2026-10-23T21:52+02:00",
-      "nom": "Gentherm Inc"
-    },
     "SABR": {
       "premiere": "2026-10-23T22:14+02:00",
       "nom": "Sabre Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "AVLN",
-      "date": "22/10/2026",
-      "nom": "Avalyn Pharma Inc."
-    },
     {
       "symbole": "WGO",
       "date": "22/10/2026",
@@ -191,6 +182,11 @@
       "symbole": "NWCL",
       "date": "23/10/2026",
       "nom": "newcleo plc"
+    },
+    {
+      "symbole": "THRM",
+      "date": "26/10/2026",
+      "nom": "Gentherm Inc"
     }
   ]
 }
