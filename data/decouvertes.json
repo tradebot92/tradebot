@@ -24,10 +24,6 @@
       "premiere": "2026-10-26T17:19+01:00",
       "nom": "Companhia Siderurgica Nacional "
     },
-    "IVA.PA": {
-      "premiere": "2026-10-26T19:33+01:00",
-      "nom": "INVENTIVA"
-    },
     "FORTY": {
       "premiere": "2026-10-26T19:33+01:00",
       "nom": "Formula Systems (1985) Ltd."
@@ -39,14 +35,13 @@
     "BLSM": {
       "premiere": "2026-10-26T20:31+01:00",
       "nom": "BlossomHill Therapeutics, Inc."
+    },
+    "BAK": {
+      "premiere": "2026-10-26T21:18+01:00",
+      "nom": "Braskem SA"
     }
   },
   "sorties": [
-    {
-      "symbole": "EXK",
-      "date": "23/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
     {
       "symbole": "SNDA",
       "date": "23/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "WGS",
       "date": "26/10/2026",
       "nom": "GeneDx Holdings Corp."
+    },
+    {
+      "symbole": "IVA.PA",
+      "date": "26/10/2026",
+      "nom": "INVENTIVA"
     }
   ]
 }
