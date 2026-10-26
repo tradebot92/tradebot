@@ -20,17 +20,9 @@
       "premiere": "2026-10-26T16:25+01:00",
       "nom": "Xtend AI Robotics, Inc."
     },
-    "BAK": {
-      "premiere": "2026-10-26T16:25+01:00",
-      "nom": "Braskem SA"
-    },
     "INTR": {
       "premiere": "2026-10-26T16:25+01:00",
       "nom": "Inter & Co. Inc."
-    },
-    "STNE": {
-      "premiere": "2026-10-26T16:25+01:00",
-      "nom": "StoneCo Ltd."
     },
     "CDNL": {
       "premiere": "2026-10-26T16:25+01:00",
@@ -39,19 +31,17 @@
     "BWMX": {
       "premiere": "2026-10-26T16:25+01:00",
       "nom": "Betterware de Mexico, S.A.P.I. "
+    },
+    "SID": {
+      "premiere": "2026-10-26T17:19+01:00",
+      "nom": "Companhia Siderurgica Nacional "
+    },
+    "PAGS": {
+      "premiere": "2026-10-26T17:19+01:00",
+      "nom": "PagSeguro Digital Ltd."
     }
   },
   "sorties": [
-    {
-      "symbole": "CNXC",
-      "date": "23/10/2026",
-      "nom": "Concentrix Corporation"
-    },
-    {
-      "symbole": "JBLU",
-      "date": "23/10/2026",
-      "nom": "JetBlue Airways Corporation"
-    },
     {
       "symbole": "AVEX",
       "date": "23/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "SNDA",
       "date": "26/10/2026",
       "nom": "Sonida Senior Living, Inc."
+    },
+    {
+      "symbole": "BAK",
+      "date": "26/10/2026",
+      "nom": "Braskem SA"
+    },
+    {
+      "symbole": "STNE",
+      "date": "26/10/2026",
+      "nom": "StoneCo Ltd."
     }
   ]
 }
