@@ -36,17 +36,12 @@
       "premiere": "2026-10-26T20:31+01:00",
       "nom": "BlossomHill Therapeutics, Inc."
     },
-    "BAK": {
-      "premiere": "2026-10-26T21:18+01:00",
-      "nom": "Braskem SA"
+    "PAGS": {
+      "premiere": "2026-10-26T21:59+01:00",
+      "nom": "PagSeguro Digital Ltd."
     }
   },
   "sorties": [
-    {
-      "symbole": "SNDA",
-      "date": "23/10/2026",
-      "nom": "Sonida Senior Living, Inc."
-    },
     {
       "symbole": "BORR",
       "date": "23/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "IVA.PA",
       "date": "26/10/2026",
       "nom": "INVENTIVA"
+    },
+    {
+      "symbole": "BAK",
+      "date": "26/10/2026",
+      "nom": "Braskem SA"
     }
   ]
 }
