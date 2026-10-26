@@ -32,17 +32,12 @@
       "premiere": "2026-10-23T22:14+02:00",
       "nom": "Sabre Corporation"
     },
-    "SMCP.PA": {
-      "premiere": "2026-10-26T09:31+01:00",
-      "nom": "SMCP"
+    "THRM": {
+      "premiere": "2026-10-26T12:03+01:00",
+      "nom": "Gentherm Inc"
     }
   },
   "sorties": [
-    {
-      "symbole": "BDN",
-      "date": "22/10/2026",
-      "nom": "Brandywine Realty Trust"
-    },
     {
       "symbole": "BOBS",
       "date": "22/10/2026",
@@ -187,6 +182,11 @@
       "symbole": "SWP.PA",
       "date": "26/10/2026",
       "nom": "SWORD GROUP"
+    },
+    {
+      "symbole": "SMCP.PA",
+      "date": "26/10/2026",
+      "nom": "SMCP"
     }
   ]
 }
