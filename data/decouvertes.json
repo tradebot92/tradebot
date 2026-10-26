@@ -12,10 +12,6 @@
       "premiere": "2026-10-23T16:03+02:00",
       "nom": "UWM Holdings Corporation"
     },
-    "SWP.PA": {
-      "premiere": "2026-10-23T16:03+02:00",
-      "nom": "SWORD GROUP"
-    },
     "EIKN": {
       "premiere": "2026-10-23T16:03+02:00",
       "nom": "Eikon Therapeutics, Inc."
@@ -35,14 +31,13 @@
     "SABR": {
       "premiere": "2026-10-23T22:14+02:00",
       "nom": "Sabre Corporation"
+    },
+    "SMCP.PA": {
+      "premiere": "2026-10-26T09:31+01:00",
+      "nom": "SMCP"
     }
   },
   "sorties": [
-    {
-      "symbole": "WGO",
-      "date": "22/10/2026",
-      "nom": "Winnebago Industries, Inc."
-    },
     {
       "symbole": "BDN",
       "date": "22/10/2026",
@@ -187,6 +182,11 @@
       "symbole": "THRM",
       "date": "26/10/2026",
       "nom": "Gentherm Inc"
+    },
+    {
+      "symbole": "SWP.PA",
+      "date": "26/10/2026",
+      "nom": "SWORD GROUP"
     }
   ]
 }
