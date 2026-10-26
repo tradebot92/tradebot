@@ -24,10 +24,6 @@
       "premiere": "2026-10-26T16:25+01:00",
       "nom": "Cardinal Infrastructure Group I"
     },
-    "BWMX": {
-      "premiere": "2026-10-26T16:25+01:00",
-      "nom": "Betterware de Mexico, S.A.P.I. "
-    },
     "SID": {
       "premiere": "2026-10-26T17:19+01:00",
       "nom": "Companhia Siderurgica Nacional "
@@ -36,22 +32,16 @@
       "premiere": "2026-10-26T17:19+01:00",
       "nom": "PagSeguro Digital Ltd."
     },
-    "EAF": {
-      "premiere": "2026-10-26T18:07+01:00",
-      "nom": "GrafTech International Ltd."
+    "WGS": {
+      "premiere": "2026-10-26T18:59+01:00",
+      "nom": "GeneDx Holdings Corp."
+    },
+    "BLSM": {
+      "premiere": "2026-10-26T18:59+01:00",
+      "nom": "BlossomHill Therapeutics, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "DGICB",
-      "date": "23/10/2026",
-      "nom": "Donegal Group, Inc."
-    },
-    {
-      "symbole": "QS",
-      "date": "23/10/2026",
-      "nom": "QuantumScape Corporation"
-    },
     {
       "symbole": "BZH",
       "date": "23/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "WGS",
       "date": "26/10/2026",
       "nom": "GeneDx Holdings Corp."
+    },
+    {
+      "symbole": "BWMX",
+      "date": "26/10/2026",
+      "nom": "Betterware de Mexico, S.A.P.I. "
+    },
+    {
+      "symbole": "EAF",
+      "date": "26/10/2026",
+      "nom": "GrafTech International Ltd."
     }
   ]
 }
