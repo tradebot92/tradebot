@@ -36,17 +36,12 @@
       "premiere": "2026-10-26T20:31+01:00",
       "nom": "BlossomHill Therapeutics, Inc."
     },
-    "PAGS": {
-      "premiere": "2026-10-26T21:59+01:00",
-      "nom": "PagSeguro Digital Ltd."
+    "BAK": {
+      "premiere": "2026-10-26T22:26+01:00",
+      "nom": "Braskem SA"
     }
   },
   "sorties": [
-    {
-      "symbole": "BORR",
-      "date": "23/10/2026",
-      "nom": "Borr Drilling Limited"
-    },
     {
       "symbole": "THRM",
       "date": "23/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "BAK",
       "date": "26/10/2026",
       "nom": "Braskem SA"
+    },
+    {
+      "symbole": "PAGS",
+      "date": "26/10/2026",
+      "nom": "PagSeguro Digital Ltd."
     }
   ]
 }
