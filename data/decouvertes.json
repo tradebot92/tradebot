@@ -24,14 +24,6 @@
       "premiere": "2026-10-26T17:19+01:00",
       "nom": "Companhia Siderurgica Nacional "
     },
-    "PAGS": {
-      "premiere": "2026-10-26T17:19+01:00",
-      "nom": "PagSeguro Digital Ltd."
-    },
-    "WGS": {
-      "premiere": "2026-10-26T18:59+01:00",
-      "nom": "GeneDx Holdings Corp."
-    },
     "IVA.PA": {
       "premiere": "2026-10-26T19:33+01:00",
       "nom": "INVENTIVA"
@@ -39,19 +31,17 @@
     "FORTY": {
       "premiere": "2026-10-26T19:33+01:00",
       "nom": "Formula Systems (1985) Ltd."
+    },
+    "SABR": {
+      "premiere": "2026-10-26T20:31+01:00",
+      "nom": "Sabre Corporation"
+    },
+    "BLSM": {
+      "premiere": "2026-10-26T20:31+01:00",
+      "nom": "BlossomHill Therapeutics, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "IDIP.PA",
-      "date": "23/10/2026",
-      "nom": "IDI"
-    },
-    {
-      "symbole": "WTI",
-      "date": "23/10/2026",
-      "nom": "W&T Offshore, Inc."
-    },
     {
       "symbole": "EXK",
       "date": "23/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "BLSM",
       "date": "26/10/2026",
       "nom": "BlossomHill Therapeutics, Inc."
+    },
+    {
+      "symbole": "PAGS",
+      "date": "26/10/2026",
+      "nom": "PagSeguro Digital Ltd."
+    },
+    {
+      "symbole": "WGS",
+      "date": "26/10/2026",
+      "nom": "GeneDx Holdings Corp."
     }
   ]
 }
