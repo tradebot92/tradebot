@@ -8,66 +8,36 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "UWMC": {
-      "premiere": "2026-10-23T16:03+02:00",
-      "nom": "UWM Holdings Corporation"
-    },
     "EIKN": {
       "premiere": "2026-10-23T16:03+02:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "ENVX": {
-      "premiere": "2026-10-23T18:01+02:00",
-      "nom": "Enovix Corporation"
+    "BZH": {
+      "premiere": "2026-10-26T14:42+01:00",
+      "nom": "Beazer Homes USA, Inc."
     },
-    "LZM": {
-      "premiere": "2026-10-23T20:16+02:00",
-      "nom": "Lifezone Metals Limited"
+    "WGS": {
+      "premiere": "2026-10-26T14:42+01:00",
+      "nom": "GeneDx Holdings Corp."
     },
-    "SID": {
-      "premiere": "2026-10-23T21:04+02:00",
-      "nom": "Companhia Siderurgica Nacional "
+    "FORTY": {
+      "premiere": "2026-10-26T14:42+01:00",
+      "nom": "Formula Systems (1985) Ltd."
     },
-    "SABR": {
-      "premiere": "2026-10-23T22:14+02:00",
-      "nom": "Sabre Corporation"
+    "ETL.PA": {
+      "premiere": "2026-10-26T14:42+01:00",
+      "nom": "EUTELSAT COMMUNIC."
     },
-    "THRM": {
-      "premiere": "2026-10-26T12:03+01:00",
-      "nom": "Gentherm Inc"
+    "EXK": {
+      "premiere": "2026-10-26T14:42+01:00",
+      "nom": "Endeavour Silver Corporation"
+    },
+    "SNDA": {
+      "premiere": "2026-10-26T14:42+01:00",
+      "nom": "Sonida Senior Living, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "BOBS",
-      "date": "22/10/2026",
-      "nom": "Bob's Discount Furniture, Inc."
-    },
-    {
-      "symbole": "AVLN",
-      "date": "22/10/2026",
-      "nom": "Avalyn Pharma Inc."
-    },
-    {
-      "symbole": "BUR",
-      "date": "22/10/2026",
-      "nom": "Burford Capital Limited"
-    },
-    {
-      "symbole": "GSHD",
-      "date": "22/10/2026",
-      "nom": "Goosehead Insurance, Inc."
-    },
-    {
-      "symbole": "KSS",
-      "date": "22/10/2026",
-      "nom": "Kohl's Corporation"
-    },
-    {
-      "symbole": "DFH",
-      "date": "22/10/2026",
-      "nom": "Dream Finders Homes, Inc."
-    },
     {
       "symbole": "QS",
       "date": "23/10/2026",
@@ -187,6 +157,36 @@
       "symbole": "SMCP.PA",
       "date": "26/10/2026",
       "nom": "SMCP"
+    },
+    {
+      "symbole": "UWMC",
+      "date": "26/10/2026",
+      "nom": "UWM Holdings Corporation"
+    },
+    {
+      "symbole": "ENVX",
+      "date": "26/10/2026",
+      "nom": "Enovix Corporation"
+    },
+    {
+      "symbole": "LZM",
+      "date": "26/10/2026",
+      "nom": "Lifezone Metals Limited"
+    },
+    {
+      "symbole": "SID",
+      "date": "26/10/2026",
+      "nom": "Companhia Siderurgica Nacional "
+    },
+    {
+      "symbole": "SABR",
+      "date": "26/10/2026",
+      "nom": "Sabre Corporation"
+    },
+    {
+      "symbole": "THRM",
+      "date": "26/10/2026",
+      "nom": "Gentherm Inc"
     }
   ]
 }
