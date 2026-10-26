@@ -12,57 +12,36 @@
       "premiere": "2026-10-23T16:03+02:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "BZH": {
-      "premiere": "2026-10-26T14:42+01:00",
-      "nom": "Beazer Homes USA, Inc."
-    },
     "WGS": {
       "premiere": "2026-10-26T14:42+01:00",
       "nom": "GeneDx Holdings Corp."
     },
-    "FORTY": {
-      "premiere": "2026-10-26T14:42+01:00",
-      "nom": "Formula Systems (1985) Ltd."
+    "XTND": {
+      "premiere": "2026-10-26T16:25+01:00",
+      "nom": "Xtend AI Robotics, Inc."
     },
-    "ETL.PA": {
-      "premiere": "2026-10-26T14:42+01:00",
-      "nom": "EUTELSAT COMMUNIC."
+    "BAK": {
+      "premiere": "2026-10-26T16:25+01:00",
+      "nom": "Braskem SA"
     },
-    "EXK": {
-      "premiere": "2026-10-26T14:42+01:00",
-      "nom": "Endeavour Silver Corporation"
+    "INTR": {
+      "premiere": "2026-10-26T16:25+01:00",
+      "nom": "Inter & Co. Inc."
     },
-    "SNDA": {
-      "premiere": "2026-10-26T14:42+01:00",
-      "nom": "Sonida Senior Living, Inc."
+    "STNE": {
+      "premiere": "2026-10-26T16:25+01:00",
+      "nom": "StoneCo Ltd."
+    },
+    "CDNL": {
+      "premiere": "2026-10-26T16:25+01:00",
+      "nom": "Cardinal Infrastructure Group I"
+    },
+    "BWMX": {
+      "premiere": "2026-10-26T16:25+01:00",
+      "nom": "Betterware de Mexico, S.A.P.I. "
     }
   },
   "sorties": [
-    {
-      "symbole": "QS",
-      "date": "23/10/2026",
-      "nom": "QuantumScape Corporation"
-    },
-    {
-      "symbole": "DFH",
-      "date": "23/10/2026",
-      "nom": "Dream Finders Homes, Inc."
-    },
-    {
-      "symbole": "BHVN",
-      "date": "23/10/2026",
-      "nom": "Biohaven Ltd."
-    },
-    {
-      "symbole": "NBTX",
-      "date": "23/10/2026",
-      "nom": "Nanobiotix S.A."
-    },
-    {
-      "symbole": "HCSG",
-      "date": "23/10/2026",
-      "nom": "Healthcare Services Group, Inc."
-    },
     {
       "symbole": "CNXC",
       "date": "23/10/2026",
@@ -187,6 +166,31 @@
       "symbole": "THRM",
       "date": "26/10/2026",
       "nom": "Gentherm Inc"
+    },
+    {
+      "symbole": "BZH",
+      "date": "26/10/2026",
+      "nom": "Beazer Homes USA, Inc."
+    },
+    {
+      "symbole": "FORTY",
+      "date": "26/10/2026",
+      "nom": "Formula Systems (1985) Ltd."
+    },
+    {
+      "symbole": "ETL.PA",
+      "date": "26/10/2026",
+      "nom": "EUTELSAT COMMUNIC."
+    },
+    {
+      "symbole": "EXK",
+      "date": "26/10/2026",
+      "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "SNDA",
+      "date": "26/10/2026",
+      "nom": "Sonida Senior Living, Inc."
     }
   ]
 }
