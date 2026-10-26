@@ -12,10 +12,6 @@
       "premiere": "2026-10-23T16:03+02:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "WGS": {
-      "premiere": "2026-10-26T14:42+01:00",
-      "nom": "GeneDx Holdings Corp."
-    },
     "XTND": {
       "premiere": "2026-10-26T16:25+01:00",
       "nom": "Xtend AI Robotics, Inc."
@@ -39,14 +35,13 @@
     "PAGS": {
       "premiere": "2026-10-26T17:19+01:00",
       "nom": "PagSeguro Digital Ltd."
+    },
+    "EAF": {
+      "premiere": "2026-10-26T18:07+01:00",
+      "nom": "GrafTech International Ltd."
     }
   },
   "sorties": [
-    {
-      "symbole": "AVEX",
-      "date": "23/10/2026",
-      "nom": "AEVEX Corp."
-    },
     {
       "symbole": "DGICB",
       "date": "23/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "STNE",
       "date": "26/10/2026",
       "nom": "StoneCo Ltd."
+    },
+    {
+      "symbole": "WGS",
+      "date": "26/10/2026",
+      "nom": "GeneDx Holdings Corp."
     }
   ]
 }
