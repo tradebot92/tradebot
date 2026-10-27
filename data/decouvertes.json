@@ -36,17 +36,12 @@
       "premiere": "2026-10-26T20:31+01:00",
       "nom": "BlossomHill Therapeutics, Inc."
     },
-    "PAGS": {
-      "premiere": "2026-10-26T22:57+01:00",
-      "nom": "PagSeguro Digital Ltd."
+    "BAK": {
+      "premiere": "2026-10-27T09:28+01:00",
+      "nom": "Braskem SA"
     }
   },
   "sorties": [
-    {
-      "symbole": "CUBI",
-      "date": "23/10/2026",
-      "nom": "Customers Bancorp, Inc"
-    },
     {
       "symbole": "TBN",
       "date": "23/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "BAK",
       "date": "26/10/2026",
       "nom": "Braskem SA"
+    },
+    {
+      "symbole": "PAGS",
+      "date": "27/10/2026",
+      "nom": "PagSeguro Digital Ltd."
     }
   ]
 }
