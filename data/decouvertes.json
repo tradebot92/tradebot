@@ -24,44 +24,24 @@
       "premiere": "2026-10-27T14:38+01:00",
       "nom": "JetBlue Airways Corporation"
     },
-    "SXC": {
-      "premiere": "2026-10-27T14:38+01:00",
-      "nom": "SunCoke Energy, Inc."
+    "BAK": {
+      "premiere": "2026-10-27T16:34+01:00",
+      "nom": "Braskem SA"
     },
-    "CTOS": {
-      "premiere": "2026-10-27T15:35+01:00",
-      "nom": "Custom Truck One Source, Inc."
+    "ENVX": {
+      "premiere": "2026-10-27T16:34+01:00",
+      "nom": "Enovix Corporation"
     },
-    "THRM": {
-      "premiere": "2026-10-27T15:35+01:00",
-      "nom": "Gentherm Inc"
+    "NRGV": {
+      "premiere": "2026-10-27T16:34+01:00",
+      "nom": "Energy Vault Holdings, Inc."
     },
-    "FRVO": {
-      "premiere": "2026-10-27T15:35+01:00",
-      "nom": "Fervo Energy Company"
+    "TE": {
+      "premiere": "2026-10-27T16:34+01:00",
+      "nom": "T1 Energy Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "FORTY",
-      "date": "26/10/2026",
-      "nom": "Formula Systems (1985) Ltd."
-    },
-    {
-      "symbole": "ETL.PA",
-      "date": "26/10/2026",
-      "nom": "EUTELSAT COMMUNIC."
-    },
-    {
-      "symbole": "EXK",
-      "date": "26/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
-    {
-      "symbole": "SNDA",
-      "date": "26/10/2026",
-      "nom": "Sonida Senior Living, Inc."
-    },
     {
       "symbole": "BAK",
       "date": "26/10/2026",
@@ -191,6 +171,26 @@
       "symbole": "FORTY",
       "date": "27/10/2026",
       "nom": "Formula Systems (1985) Ltd."
+    },
+    {
+      "symbole": "SXC",
+      "date": "27/10/2026",
+      "nom": "SunCoke Energy, Inc."
+    },
+    {
+      "symbole": "CTOS",
+      "date": "27/10/2026",
+      "nom": "Custom Truck One Source, Inc."
+    },
+    {
+      "symbole": "THRM",
+      "date": "27/10/2026",
+      "nom": "Gentherm Inc"
+    },
+    {
+      "symbole": "FRVO",
+      "date": "27/10/2026",
+      "nom": "Fervo Energy Company"
     }
   ]
 }
