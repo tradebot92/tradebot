@@ -16,17 +16,9 @@
       "premiere": "2026-10-27T12:58+01:00",
       "nom": "GENFIT"
     },
-    "BZH": {
-      "premiere": "2026-10-27T14:38+01:00",
-      "nom": "Beazer Homes USA, Inc."
-    },
     "MFIC": {
       "premiere": "2026-10-27T14:38+01:00",
       "nom": "MidCap Financial Investment Cor"
-    },
-    "IMSR": {
-      "premiere": "2026-10-27T14:38+01:00",
-      "nom": "Terrestrial Energy Inc."
     },
     "JBLU": {
       "premiere": "2026-10-27T14:38+01:00",
@@ -36,27 +28,20 @@
       "premiere": "2026-10-27T14:38+01:00",
       "nom": "SunCoke Energy, Inc."
     },
-    "FORTY": {
-      "premiere": "2026-10-27T14:38+01:00",
-      "nom": "Formula Systems (1985) Ltd."
+    "CTOS": {
+      "premiere": "2026-10-27T15:35+01:00",
+      "nom": "Custom Truck One Source, Inc."
+    },
+    "THRM": {
+      "premiere": "2026-10-27T15:35+01:00",
+      "nom": "Gentherm Inc"
+    },
+    "FRVO": {
+      "premiere": "2026-10-27T15:35+01:00",
+      "nom": "Fervo Energy Company"
     }
   },
   "sorties": [
-    {
-      "symbole": "SABR",
-      "date": "26/10/2026",
-      "nom": "Sabre Corporation"
-    },
-    {
-      "symbole": "THRM",
-      "date": "26/10/2026",
-      "nom": "Gentherm Inc"
-    },
-    {
-      "symbole": "BZH",
-      "date": "26/10/2026",
-      "nom": "Beazer Homes USA, Inc."
-    },
     {
       "symbole": "FORTY",
       "date": "26/10/2026",
@@ -191,6 +176,21 @@
       "symbole": "BAK",
       "date": "27/10/2026",
       "nom": "Braskem SA"
+    },
+    {
+      "symbole": "BZH",
+      "date": "27/10/2026",
+      "nom": "Beazer Homes USA, Inc."
+    },
+    {
+      "symbole": "IMSR",
+      "date": "27/10/2026",
+      "nom": "Terrestrial Energy Inc."
+    },
+    {
+      "symbole": "FORTY",
+      "date": "27/10/2026",
+      "nom": "Formula Systems (1985) Ltd."
     }
   ]
 }
