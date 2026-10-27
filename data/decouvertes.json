@@ -32,26 +32,16 @@
       "premiere": "2026-10-27T16:34+01:00",
       "nom": "Enovix Corporation"
     },
-    "TE": {
-      "premiere": "2026-10-27T16:34+01:00",
-      "nom": "T1 Energy Inc."
+    "SES": {
+      "premiere": "2026-10-27T20:12+01:00",
+      "nom": "SES AI Corporation"
     },
-    "NRGV": {
-      "premiere": "2026-10-27T18:31+01:00",
-      "nom": "Energy Vault Holdings, Inc."
+    "ALLO": {
+      "premiere": "2026-10-27T20:12+01:00",
+      "nom": "Allogene Therapeutics, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "WGS",
-      "date": "26/10/2026",
-      "nom": "GeneDx Holdings Corp."
-    },
-    {
-      "symbole": "BWMX",
-      "date": "26/10/2026",
-      "nom": "Betterware de Mexico, S.A.P.I. "
-    },
     {
       "symbole": "EAF",
       "date": "26/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "WHR",
       "date": "27/10/2026",
       "nom": "Whirlpool Corporation"
+    },
+    {
+      "symbole": "TE",
+      "date": "27/10/2026",
+      "nom": "T1 Energy Inc."
+    },
+    {
+      "symbole": "NRGV",
+      "date": "27/10/2026",
+      "nom": "Energy Vault Holdings, Inc."
     }
   ]
 }
