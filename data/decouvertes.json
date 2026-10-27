@@ -12,66 +12,36 @@
       "premiere": "2026-10-23T16:03+02:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "XTND": {
-      "premiere": "2026-10-26T16:25+01:00",
-      "nom": "Xtend AI Robotics, Inc."
-    },
-    "INTR": {
-      "premiere": "2026-10-26T16:25+01:00",
-      "nom": "Inter & Co. Inc."
-    },
-    "SID": {
-      "premiere": "2026-10-26T17:19+01:00",
-      "nom": "Companhia Siderurgica Nacional "
-    },
-    "SABR": {
-      "premiere": "2026-10-26T20:31+01:00",
-      "nom": "Sabre Corporation"
-    },
-    "BLSM": {
-      "premiere": "2026-10-26T20:31+01:00",
-      "nom": "BlossomHill Therapeutics, Inc."
-    },
-    "BAK": {
-      "premiere": "2026-10-27T12:01+01:00",
-      "nom": "Braskem SA"
-    },
     "GNFT.PA": {
       "premiere": "2026-10-27T12:58+01:00",
       "nom": "GENFIT"
+    },
+    "BZH": {
+      "premiere": "2026-10-27T14:38+01:00",
+      "nom": "Beazer Homes USA, Inc."
+    },
+    "MFIC": {
+      "premiere": "2026-10-27T14:38+01:00",
+      "nom": "MidCap Financial Investment Cor"
+    },
+    "IMSR": {
+      "premiere": "2026-10-27T14:38+01:00",
+      "nom": "Terrestrial Energy Inc."
+    },
+    "JBLU": {
+      "premiere": "2026-10-27T14:38+01:00",
+      "nom": "JetBlue Airways Corporation"
+    },
+    "SXC": {
+      "premiere": "2026-10-27T14:38+01:00",
+      "nom": "SunCoke Energy, Inc."
+    },
+    "FORTY": {
+      "premiere": "2026-10-27T14:38+01:00",
+      "nom": "Formula Systems (1985) Ltd."
     }
   },
   "sorties": [
-    {
-      "symbole": "SWP.PA",
-      "date": "26/10/2026",
-      "nom": "SWORD GROUP"
-    },
-    {
-      "symbole": "SMCP.PA",
-      "date": "26/10/2026",
-      "nom": "SMCP"
-    },
-    {
-      "symbole": "UWMC",
-      "date": "26/10/2026",
-      "nom": "UWM Holdings Corporation"
-    },
-    {
-      "symbole": "ENVX",
-      "date": "26/10/2026",
-      "nom": "Enovix Corporation"
-    },
-    {
-      "symbole": "LZM",
-      "date": "26/10/2026",
-      "nom": "Lifezone Metals Limited"
-    },
-    {
-      "symbole": "SID",
-      "date": "26/10/2026",
-      "nom": "Companhia Siderurgica Nacional "
-    },
     {
       "symbole": "SABR",
       "date": "26/10/2026",
@@ -191,6 +161,36 @@
       "symbole": "FORTY",
       "date": "27/10/2026",
       "nom": "Formula Systems (1985) Ltd."
+    },
+    {
+      "symbole": "XTND",
+      "date": "27/10/2026",
+      "nom": "Xtend AI Robotics, Inc."
+    },
+    {
+      "symbole": "INTR",
+      "date": "27/10/2026",
+      "nom": "Inter & Co. Inc."
+    },
+    {
+      "symbole": "SID",
+      "date": "27/10/2026",
+      "nom": "Companhia Siderurgica Nacional "
+    },
+    {
+      "symbole": "SABR",
+      "date": "27/10/2026",
+      "nom": "Sabre Corporation"
+    },
+    {
+      "symbole": "BLSM",
+      "date": "27/10/2026",
+      "nom": "BlossomHill Therapeutics, Inc."
+    },
+    {
+      "symbole": "BAK",
+      "date": "27/10/2026",
+      "nom": "Braskem SA"
     }
   ]
 }
