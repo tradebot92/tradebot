@@ -28,21 +28,20 @@
       "premiere": "2026-10-28T16:14+01:00",
       "nom": "Replimune Group, Inc."
     },
-    "FWRD": {
-      "premiere": "2026-10-28T17:14+01:00",
-      "nom": "Forward Air Corporation"
-    },
     "EIKN": {
       "premiere": "2026-10-28T17:14+01:00",
       "nom": "Eikon Therapeutics, Inc."
+    },
+    "INTR": {
+      "premiere": "2026-10-28T19:05+01:00",
+      "nom": "Inter & Co. Inc."
+    },
+    "GENB": {
+      "premiere": "2026-10-28T19:05+01:00",
+      "nom": "Generate Biomedicines, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "SABR",
-      "date": "27/10/2026",
-      "nom": "Sabre Corporation"
-    },
     {
       "symbole": "BLSM",
       "date": "27/10/2026",
@@ -187,6 +186,11 @@
       "symbole": "FLXS",
       "date": "28/10/2026",
       "nom": "Flexsteel Industries, Inc."
+    },
+    {
+      "symbole": "FWRD",
+      "date": "28/10/2026",
+      "nom": "Forward Air Corporation"
     }
   ]
 }
