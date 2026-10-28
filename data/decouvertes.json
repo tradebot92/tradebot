@@ -24,34 +24,24 @@
       "premiere": "2026-10-28T15:18+01:00",
       "nom": "Ginkgo Bioworks Holdings, Inc."
     },
-    "GENB": {
-      "premiere": "2026-10-28T15:18+01:00",
-      "nom": "Generate Biomedicines, Inc."
-    },
     "SDGR": {
       "premiere": "2026-10-28T15:18+01:00",
       "nom": "Schrodinger, Inc."
     },
-    "RCKY": {
-      "premiere": "2026-10-28T15:18+01:00",
-      "nom": "Rocky Brands, Inc."
-    },
     "EXK": {
       "premiere": "2026-10-28T15:18+01:00",
       "nom": "Endeavour Silver Corporation"
+    },
+    "FLXS": {
+      "premiere": "2026-10-28T16:14+01:00",
+      "nom": "Flexsteel Industries, Inc."
+    },
+    "REPL": {
+      "premiere": "2026-10-28T16:14+01:00",
+      "nom": "Replimune Group, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "PAGS",
-      "date": "27/10/2026",
-      "nom": "PagSeguro Digital Ltd."
-    },
-    {
-      "symbole": "FORTY",
-      "date": "27/10/2026",
-      "nom": "Formula Systems (1985) Ltd."
-    },
     {
       "symbole": "XTND",
       "date": "27/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "CTOS",
       "date": "28/10/2026",
       "nom": "Custom Truck One Source, Inc."
+    },
+    {
+      "symbole": "GENB",
+      "date": "28/10/2026",
+      "nom": "Generate Biomedicines, Inc."
+    },
+    {
+      "symbole": "RCKY",
+      "date": "28/10/2026",
+      "nom": "Rocky Brands, Inc."
     }
   ]
 }
