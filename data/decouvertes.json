@@ -32,26 +32,16 @@
       "premiere": "2026-10-28T19:05+01:00",
       "nom": "Inter & Co. Inc."
     },
-    "FWRD": {
-      "premiere": "2026-10-28T20:18+01:00",
-      "nom": "Forward Air Corporation"
+    "GENB": {
+      "premiere": "2026-10-28T21:06+01:00",
+      "nom": "Generate Biomedicines, Inc."
     },
-    "EXK": {
-      "premiere": "2026-10-28T20:18+01:00",
-      "nom": "Endeavour Silver Corporation"
+    "EIKN": {
+      "premiere": "2026-10-28T21:06+01:00",
+      "nom": "Eikon Therapeutics, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "BZH",
-      "date": "27/10/2026",
-      "nom": "Beazer Homes USA, Inc."
-    },
-    {
-      "symbole": "IMSR",
-      "date": "27/10/2026",
-      "nom": "Terrestrial Energy Inc."
-    },
     {
       "symbole": "FORTY",
       "date": "27/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "GENB",
       "date": "28/10/2026",
       "nom": "Generate Biomedicines, Inc."
+    },
+    {
+      "symbole": "FWRD",
+      "date": "28/10/2026",
+      "nom": "Forward Air Corporation"
+    },
+    {
+      "symbole": "EXK",
+      "date": "28/10/2026",
+      "nom": "Endeavour Silver Corporation"
     }
   ]
 }
