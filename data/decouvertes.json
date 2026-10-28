@@ -24,39 +24,20 @@
       "premiere": "2026-10-28T15:18+01:00",
       "nom": "Ginkgo Bioworks Holdings, Inc."
     },
-    "SDGR": {
-      "premiere": "2026-10-28T15:18+01:00",
-      "nom": "Schrodinger, Inc."
-    },
-    "EXK": {
-      "premiere": "2026-10-28T15:18+01:00",
-      "nom": "Endeavour Silver Corporation"
-    },
-    "FLXS": {
-      "premiere": "2026-10-28T16:14+01:00",
-      "nom": "Flexsteel Industries, Inc."
-    },
     "REPL": {
       "premiere": "2026-10-28T16:14+01:00",
       "nom": "Replimune Group, Inc."
+    },
+    "FWRD": {
+      "premiere": "2026-10-28T17:14+01:00",
+      "nom": "Forward Air Corporation"
+    },
+    "EIKN": {
+      "premiere": "2026-10-28T17:14+01:00",
+      "nom": "Eikon Therapeutics, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "XTND",
-      "date": "27/10/2026",
-      "nom": "Xtend AI Robotics, Inc."
-    },
-    {
-      "symbole": "INTR",
-      "date": "27/10/2026",
-      "nom": "Inter & Co. Inc."
-    },
-    {
-      "symbole": "SID",
-      "date": "27/10/2026",
-      "nom": "Companhia Siderurgica Nacional "
-    },
     {
       "symbole": "SABR",
       "date": "27/10/2026",
@@ -191,6 +172,21 @@
       "symbole": "RCKY",
       "date": "28/10/2026",
       "nom": "Rocky Brands, Inc."
+    },
+    {
+      "symbole": "SDGR",
+      "date": "28/10/2026",
+      "nom": "Schrodinger, Inc."
+    },
+    {
+      "symbole": "EXK",
+      "date": "28/10/2026",
+      "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "FLXS",
+      "date": "28/10/2026",
+      "nom": "Flexsteel Industries, Inc."
     }
   ]
 }
