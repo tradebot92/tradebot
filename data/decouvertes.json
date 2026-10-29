@@ -32,26 +32,16 @@
       "premiere": "2026-10-29T18:16+01:00",
       "nom": "Upbound Group, Inc."
     },
-    "DFIN": {
-      "premiere": "2026-10-29T18:16+01:00",
-      "nom": "Donnelley Financial Solutions, "
+    "MPT": {
+      "premiere": "2026-10-29T19:07+01:00",
+      "nom": "Medical Properties Trust, Inc."
     },
-    "PGEN": {
-      "premiere": "2026-10-29T18:16+01:00",
-      "nom": "Precigen, Inc."
+    "GTN-A": {
+      "premiere": "2026-10-29T19:07+01:00",
+      "nom": "Gray Media, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "JBLU",
-      "date": "28/10/2026",
-      "nom": "JetBlue Airways Corporation"
-    },
-    {
-      "symbole": "BAK",
-      "date": "28/10/2026",
-      "nom": "Braskem SA"
-    },
     {
       "symbole": "ENVX",
       "date": "28/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "ALVIO.PA",
       "date": "29/10/2026",
       "nom": "VALERIO THERAPEUTICS"
+    },
+    {
+      "symbole": "DFIN",
+      "date": "29/10/2026",
+      "nom": "Donnelley Financial Solutions, "
+    },
+    {
+      "symbole": "PGEN",
+      "date": "29/10/2026",
+      "nom": "Precigen, Inc."
     }
   ]
 }
