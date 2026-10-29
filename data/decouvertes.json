@@ -8,75 +8,40 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "WEN": {
-      "premiere": "2026-10-28T15:18+01:00",
-      "nom": "Wendy's Company (The)"
-    },
-    "GERN": {
-      "premiere": "2026-10-28T15:18+01:00",
-      "nom": "Geron Corporation"
-    },
-    "PACB": {
-      "premiere": "2026-10-28T15:18+01:00",
-      "nom": "Pacific Biosciences of Californ"
-    },
-    "DNA": {
-      "premiere": "2026-10-28T15:18+01:00",
-      "nom": "Ginkgo Bioworks Holdings, Inc."
-    },
-    "REPL": {
-      "premiere": "2026-10-28T16:14+01:00",
-      "nom": "Replimune Group, Inc."
-    },
-    "INTR": {
-      "premiere": "2026-10-28T19:05+01:00",
-      "nom": "Inter & Co. Inc."
-    },
-    "GENB": {
-      "premiere": "2026-10-28T21:06+01:00",
-      "nom": "Generate Biomedicines, Inc."
-    },
     "EIKN": {
       "premiere": "2026-10-28T21:06+01:00",
       "nom": "Eikon Therapeutics, Inc."
+    },
+    "DBV.PA": {
+      "premiere": "2026-10-29T15:23+01:00",
+      "nom": "DBV TECHNOLOGIES"
+    },
+    "GTN-A": {
+      "premiere": "2026-10-29T15:23+01:00",
+      "nom": "Gray Media, Inc."
+    },
+    "TDOC": {
+      "premiere": "2026-10-29T15:23+01:00",
+      "nom": "Teladoc Health, Inc."
+    },
+    "MAX": {
+      "premiere": "2026-10-29T15:23+01:00",
+      "nom": "MediaAlpha, Inc."
+    },
+    "MESO": {
+      "premiere": "2026-10-29T15:23+01:00",
+      "nom": "Mesoblast Limited"
+    },
+    "LXU": {
+      "premiere": "2026-10-29T15:23+01:00",
+      "nom": "LSB Industries, Inc."
+    },
+    "SES": {
+      "premiere": "2026-10-29T15:23+01:00",
+      "nom": "SES AI Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "FORTY",
-      "date": "27/10/2026",
-      "nom": "Formula Systems (1985) Ltd."
-    },
-    {
-      "symbole": "SXC",
-      "date": "27/10/2026",
-      "nom": "SunCoke Energy, Inc."
-    },
-    {
-      "symbole": "CTOS",
-      "date": "27/10/2026",
-      "nom": "Custom Truck One Source, Inc."
-    },
-    {
-      "symbole": "THRM",
-      "date": "27/10/2026",
-      "nom": "Gentherm Inc"
-    },
-    {
-      "symbole": "FRVO",
-      "date": "27/10/2026",
-      "nom": "Fervo Energy Company"
-    },
-    {
-      "symbole": "NRGV",
-      "date": "27/10/2026",
-      "nom": "Energy Vault Holdings, Inc."
-    },
-    {
-      "symbole": "WHR",
-      "date": "27/10/2026",
-      "nom": "Whirlpool Corporation"
-    },
     {
       "symbole": "TE",
       "date": "27/10/2026",
@@ -191,6 +156,41 @@
       "symbole": "EXK",
       "date": "28/10/2026",
       "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "WEN",
+      "date": "29/10/2026",
+      "nom": "Wendy's Company (The)"
+    },
+    {
+      "symbole": "GERN",
+      "date": "29/10/2026",
+      "nom": "Geron Corporation"
+    },
+    {
+      "symbole": "PACB",
+      "date": "29/10/2026",
+      "nom": "Pacific Biosciences of Californ"
+    },
+    {
+      "symbole": "DNA",
+      "date": "29/10/2026",
+      "nom": "Ginkgo Bioworks Holdings, Inc."
+    },
+    {
+      "symbole": "REPL",
+      "date": "29/10/2026",
+      "nom": "Replimune Group, Inc."
+    },
+    {
+      "symbole": "INTR",
+      "date": "29/10/2026",
+      "nom": "Inter & Co. Inc."
+    },
+    {
+      "symbole": "GENB",
+      "date": "29/10/2026",
+      "nom": "Generate Biomedicines, Inc."
     }
   ]
 }
