@@ -8,10 +8,6 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "GTN-A": {
-      "premiere": "2026-10-29T15:23+01:00",
-      "nom": "Gray Media, Inc."
-    },
     "TDOC": {
       "premiere": "2026-10-29T15:23+01:00",
       "nom": "Teladoc Health, Inc."
@@ -24,14 +20,6 @@
       "premiere": "2026-10-29T15:23+01:00",
       "nom": "Mesoblast Limited"
     },
-    "SES": {
-      "premiere": "2026-10-29T15:23+01:00",
-      "nom": "SES AI Corporation"
-    },
-    "ALVIO.PA": {
-      "premiere": "2026-10-29T17:17+01:00",
-      "nom": "VALERIO THERAPEUTICS"
-    },
     "ALBOU.PA": {
       "premiere": "2026-10-29T17:17+01:00",
       "nom": "BOURRELIER GROUP"
@@ -39,24 +27,21 @@
     "EXK": {
       "premiere": "2026-10-29T17:17+01:00",
       "nom": "Endeavour Silver Corporation"
+    },
+    "UPBD": {
+      "premiere": "2026-10-29T18:16+01:00",
+      "nom": "Upbound Group, Inc."
+    },
+    "DFIN": {
+      "premiere": "2026-10-29T18:16+01:00",
+      "nom": "Donnelley Financial Solutions, "
+    },
+    "PGEN": {
+      "premiere": "2026-10-29T18:16+01:00",
+      "nom": "Precigen, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "GNFT.PA",
-      "date": "28/10/2026",
-      "nom": "GENFIT"
-    },
-    {
-      "symbole": "EIKN",
-      "date": "28/10/2026",
-      "nom": "Eikon Therapeutics, Inc."
-    },
-    {
-      "symbole": "MFIC",
-      "date": "28/10/2026",
-      "nom": "MidCap Financial Investment Cor"
-    },
     {
       "symbole": "JBLU",
       "date": "28/10/2026",
@@ -191,6 +176,21 @@
       "symbole": "UPBD",
       "date": "29/10/2026",
       "nom": "Upbound Group, Inc."
+    },
+    {
+      "symbole": "GTN-A",
+      "date": "29/10/2026",
+      "nom": "Gray Media, Inc."
+    },
+    {
+      "symbole": "SES",
+      "date": "29/10/2026",
+      "nom": "SES AI Corporation"
+    },
+    {
+      "symbole": "ALVIO.PA",
+      "date": "29/10/2026",
+      "nom": "VALERIO THERAPEUTICS"
     }
   ]
 }
