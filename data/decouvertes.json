@@ -8,14 +8,6 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "EIKN": {
-      "premiere": "2026-10-28T21:06+01:00",
-      "nom": "Eikon Therapeutics, Inc."
-    },
-    "DBV.PA": {
-      "premiere": "2026-10-29T15:23+01:00",
-      "nom": "DBV TECHNOLOGIES"
-    },
     "GTN-A": {
       "premiere": "2026-10-29T15:23+01:00",
       "nom": "Gray Media, Inc."
@@ -36,27 +28,20 @@
       "premiere": "2026-10-29T15:23+01:00",
       "nom": "SES AI Corporation"
     },
-    "UPBD": {
-      "premiere": "2026-10-29T16:17+01:00",
-      "nom": "Upbound Group, Inc."
+    "ALVIO.PA": {
+      "premiere": "2026-10-29T17:17+01:00",
+      "nom": "VALERIO THERAPEUTICS"
+    },
+    "ALBOU.PA": {
+      "premiere": "2026-10-29T17:17+01:00",
+      "nom": "BOURRELIER GROUP"
+    },
+    "EXK": {
+      "premiere": "2026-10-29T17:17+01:00",
+      "nom": "Endeavour Silver Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "NRGV",
-      "date": "27/10/2026",
-      "nom": "Energy Vault Holdings, Inc."
-    },
-    {
-      "symbole": "SES",
-      "date": "27/10/2026",
-      "nom": "SES AI Corporation"
-    },
-    {
-      "symbole": "ALLO",
-      "date": "27/10/2026",
-      "nom": "Allogene Therapeutics, Inc."
-    },
     {
       "symbole": "GNFT.PA",
       "date": "28/10/2026",
@@ -191,6 +176,21 @@
       "symbole": "LXU",
       "date": "29/10/2026",
       "nom": "LSB Industries, Inc."
+    },
+    {
+      "symbole": "EIKN",
+      "date": "29/10/2026",
+      "nom": "Eikon Therapeutics, Inc."
+    },
+    {
+      "symbole": "DBV.PA",
+      "date": "29/10/2026",
+      "nom": "DBV TECHNOLOGIES"
+    },
+    {
+      "symbole": "UPBD",
+      "date": "29/10/2026",
+      "nom": "Upbound Group, Inc."
     }
   ]
 }
