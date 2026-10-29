@@ -20,10 +20,6 @@
       "premiere": "2026-10-29T15:23+01:00",
       "nom": "Mesoblast Limited"
     },
-    "ALBOU.PA": {
-      "premiere": "2026-10-29T17:17+01:00",
-      "nom": "BOURRELIER GROUP"
-    },
     "EXK": {
       "premiere": "2026-10-29T17:17+01:00",
       "nom": "Endeavour Silver Corporation"
@@ -39,14 +35,13 @@
     "GTN-A": {
       "premiere": "2026-10-29T19:07+01:00",
       "nom": "Gray Media, Inc."
+    },
+    "GERN": {
+      "premiere": "2026-10-29T20:20+01:00",
+      "nom": "Geron Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "ENVX",
-      "date": "28/10/2026",
-      "nom": "Enovix Corporation"
-    },
     {
       "symbole": "INTR",
       "date": "28/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "PGEN",
       "date": "29/10/2026",
       "nom": "Precigen, Inc."
+    },
+    {
+      "symbole": "ALBOU.PA",
+      "date": "29/10/2026",
+      "nom": "BOURRELIER GROUP"
     }
   ]
 }
