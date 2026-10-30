@@ -8,75 +8,40 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "TDOC": {
-      "premiere": "2026-10-29T15:23+01:00",
-      "nom": "Teladoc Health, Inc."
-    },
-    "MAX": {
-      "premiere": "2026-10-29T15:23+01:00",
-      "nom": "MediaAlpha, Inc."
-    },
-    "MESO": {
-      "premiere": "2026-10-29T15:23+01:00",
-      "nom": "Mesoblast Limited"
-    },
     "EXK": {
       "premiere": "2026-10-29T17:17+01:00",
       "nom": "Endeavour Silver Corporation"
     },
-    "UPBD": {
-      "premiere": "2026-10-29T18:16+01:00",
-      "nom": "Upbound Group, Inc."
+    "ATEC": {
+      "premiere": "2026-10-30T15:19+01:00",
+      "nom": "Alphatec Holdings, Inc."
     },
-    "MPT": {
-      "premiere": "2026-10-29T19:07+01:00",
-      "nom": "Medical Properties Trust, Inc."
+    "ULH": {
+      "premiere": "2026-10-30T15:19+01:00",
+      "nom": "Universal Logistics Holdings, I"
     },
-    "GTN-A": {
-      "premiere": "2026-10-29T19:07+01:00",
-      "nom": "Gray Media, Inc."
+    "FMC": {
+      "premiere": "2026-10-30T15:19+01:00",
+      "nom": "FMC Corporation"
     },
-    "GERN": {
-      "premiere": "2026-10-29T20:20+01:00",
-      "nom": "Geron Corporation"
+    "ACCO": {
+      "premiere": "2026-10-30T15:19+01:00",
+      "nom": "Acco Brands Corporation"
+    },
+    "CPRI": {
+      "premiere": "2026-10-30T15:19+01:00",
+      "nom": "Capri Holdings Limited"
+    },
+    "CVEO": {
+      "premiere": "2026-10-30T15:19+01:00",
+      "nom": "Civeo Corporation (Canada)"
+    },
+    "ARAMI.PA": {
+      "premiere": "2026-10-30T15:19+01:00",
+      "nom": "ARAMIS GROUP"
     }
   },
   "sorties": [
-    {
-      "symbole": "INTR",
-      "date": "28/10/2026",
-      "nom": "Inter & Co. Inc."
-    },
-    {
-      "symbole": "ABR",
-      "date": "28/10/2026",
-      "nom": "Arbor Realty Trust"
-    },
-    {
-      "symbole": "CTOS",
-      "date": "28/10/2026",
-      "nom": "Custom Truck One Source, Inc."
-    },
-    {
-      "symbole": "GENB",
-      "date": "28/10/2026",
-      "nom": "Generate Biomedicines, Inc."
-    },
-    {
-      "symbole": "RCKY",
-      "date": "28/10/2026",
-      "nom": "Rocky Brands, Inc."
-    },
-    {
-      "symbole": "SDGR",
-      "date": "28/10/2026",
-      "nom": "Schrodinger, Inc."
-    },
-    {
-      "symbole": "EXK",
-      "date": "28/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
     {
       "symbole": "FLXS",
       "date": "28/10/2026",
@@ -191,6 +156,41 @@
       "symbole": "ALBOU.PA",
       "date": "29/10/2026",
       "nom": "BOURRELIER GROUP"
+    },
+    {
+      "symbole": "TDOC",
+      "date": "30/10/2026",
+      "nom": "Teladoc Health, Inc."
+    },
+    {
+      "symbole": "MAX",
+      "date": "30/10/2026",
+      "nom": "MediaAlpha, Inc."
+    },
+    {
+      "symbole": "MESO",
+      "date": "30/10/2026",
+      "nom": "Mesoblast Limited"
+    },
+    {
+      "symbole": "UPBD",
+      "date": "30/10/2026",
+      "nom": "Upbound Group, Inc."
+    },
+    {
+      "symbole": "MPT",
+      "date": "30/10/2026",
+      "nom": "Medical Properties Trust, Inc."
+    },
+    {
+      "symbole": "GTN-A",
+      "date": "30/10/2026",
+      "nom": "Gray Media, Inc."
+    },
+    {
+      "symbole": "GERN",
+      "date": "30/10/2026",
+      "nom": "Geron Corporation"
     }
   ]
 }
