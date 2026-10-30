@@ -36,17 +36,12 @@
       "premiere": "2026-10-30T18:59+01:00",
       "nom": "Medical Properties Trust, Inc."
     },
-    "CPRI": {
-      "premiere": "2026-10-30T19:36+01:00",
-      "nom": "Capri Holdings Limited"
+    "ABR": {
+      "premiere": "2026-10-30T20:34+01:00",
+      "nom": "Arbor Realty Trust"
     }
   },
   "sorties": [
-    {
-      "symbole": "EXK",
-      "date": "28/10/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
     {
       "symbole": "WEN",
       "date": "29/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "ABR",
       "date": "30/10/2026",
       "nom": "Arbor Realty Trust"
+    },
+    {
+      "symbole": "CPRI",
+      "date": "30/10/2026",
+      "nom": "Capri Holdings Limited"
     }
   ]
 }
