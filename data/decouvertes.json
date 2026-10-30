@@ -36,17 +36,12 @@
       "premiere": "2026-10-30T15:19+01:00",
       "nom": "Civeo Corporation (Canada)"
     },
-    "ARAMI.PA": {
-      "premiere": "2026-10-30T15:19+01:00",
-      "nom": "ARAMIS GROUP"
+    "NK.PA": {
+      "premiere": "2026-10-30T16:16+01:00",
+      "nom": "IMERYS"
     }
   },
   "sorties": [
-    {
-      "symbole": "FLXS",
-      "date": "28/10/2026",
-      "nom": "Flexsteel Industries, Inc."
-    },
     {
       "symbole": "FWRD",
       "date": "28/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "GERN",
       "date": "30/10/2026",
       "nom": "Geron Corporation"
+    },
+    {
+      "symbole": "ARAMI.PA",
+      "date": "30/10/2026",
+      "nom": "ARAMIS GROUP"
     }
   ]
 }
