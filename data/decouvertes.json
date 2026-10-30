@@ -32,21 +32,16 @@
       "premiere": "2026-10-30T15:19+01:00",
       "nom": "Capri Holdings Limited"
     },
-    "NK.PA": {
-      "premiere": "2026-10-30T16:16+01:00",
-      "nom": "IMERYS"
-    },
     "ABR": {
       "premiere": "2026-10-30T17:11+01:00",
       "nom": "Arbor Realty Trust"
+    },
+    "COUR": {
+      "premiere": "2026-10-30T18:07+01:00",
+      "nom": "Coursera, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "EIKN",
-      "date": "28/10/2026",
-      "nom": "Eikon Therapeutics, Inc."
-    },
     {
       "symbole": "GENB",
       "date": "28/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "CVEO",
       "date": "30/10/2026",
       "nom": "Civeo Corporation (Canada)"
+    },
+    {
+      "symbole": "NK.PA",
+      "date": "30/10/2026",
+      "nom": "IMERYS"
     }
   ]
 }
