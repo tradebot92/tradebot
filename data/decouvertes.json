@@ -32,26 +32,16 @@
       "premiere": "2026-10-30T18:59+01:00",
       "nom": "Medical Properties Trust, Inc."
     },
-    "ABR": {
-      "premiere": "2026-10-30T20:34+01:00",
-      "nom": "Arbor Realty Trust"
+    "COUR": {
+      "premiere": "2026-10-30T22:02+01:00",
+      "nom": "Coursera, Inc."
     },
-    "CPRI": {
-      "premiere": "2026-10-30T21:25+01:00",
-      "nom": "Capri Holdings Limited"
+    "CVEO": {
+      "premiere": "2026-10-30T22:02+01:00",
+      "nom": "Civeo Corporation (Canada)"
     }
   },
   "sorties": [
-    {
-      "symbole": "GERN",
-      "date": "29/10/2026",
-      "nom": "Geron Corporation"
-    },
-    {
-      "symbole": "PACB",
-      "date": "29/10/2026",
-      "nom": "Pacific Biosciences of Californ"
-    },
     {
       "symbole": "DNA",
       "date": "29/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "COUR",
       "date": "30/10/2026",
       "nom": "Coursera, Inc."
+    },
+    {
+      "symbole": "ABR",
+      "date": "30/10/2026",
+      "nom": "Arbor Realty Trust"
+    },
+    {
+      "symbole": "CPRI",
+      "date": "30/10/2026",
+      "nom": "Capri Holdings Limited"
     }
   ]
 }
