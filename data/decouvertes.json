@@ -28,10 +28,6 @@
       "premiere": "2026-10-30T15:19+01:00",
       "nom": "Acco Brands Corporation"
     },
-    "ABR": {
-      "premiere": "2026-10-30T17:11+01:00",
-      "nom": "Arbor Realty Trust"
-    },
     "COUR": {
       "premiere": "2026-10-30T18:07+01:00",
       "nom": "Coursera, Inc."
@@ -39,14 +35,13 @@
     "MPT": {
       "premiere": "2026-10-30T18:59+01:00",
       "nom": "Medical Properties Trust, Inc."
+    },
+    "CPRI": {
+      "premiere": "2026-10-30T19:36+01:00",
+      "nom": "Capri Holdings Limited"
     }
   },
   "sorties": [
-    {
-      "symbole": "FWRD",
-      "date": "28/10/2026",
-      "nom": "Forward Air Corporation"
-    },
     {
       "symbole": "EXK",
       "date": "28/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "CPRI",
       "date": "30/10/2026",
       "nom": "Capri Holdings Limited"
+    },
+    {
+      "symbole": "ABR",
+      "date": "30/10/2026",
+      "nom": "Arbor Realty Trust"
     }
   ]
 }
