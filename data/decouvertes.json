@@ -32,21 +32,16 @@
       "premiere": "2026-10-30T15:19+01:00",
       "nom": "Capri Holdings Limited"
     },
-    "CVEO": {
-      "premiere": "2026-10-30T15:19+01:00",
-      "nom": "Civeo Corporation (Canada)"
-    },
     "NK.PA": {
       "premiere": "2026-10-30T16:16+01:00",
       "nom": "IMERYS"
+    },
+    "ABR": {
+      "premiere": "2026-10-30T17:11+01:00",
+      "nom": "Arbor Realty Trust"
     }
   },
   "sorties": [
-    {
-      "symbole": "FWRD",
-      "date": "28/10/2026",
-      "nom": "Forward Air Corporation"
-    },
     {
       "symbole": "EIKN",
       "date": "28/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "ARAMI.PA",
       "date": "30/10/2026",
       "nom": "ARAMIS GROUP"
+    },
+    {
+      "symbole": "CVEO",
+      "date": "30/10/2026",
+      "nom": "Civeo Corporation (Canada)"
     }
   ]
 }
