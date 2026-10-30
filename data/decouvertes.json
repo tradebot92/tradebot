@@ -28,10 +28,6 @@
       "premiere": "2026-10-30T15:19+01:00",
       "nom": "Acco Brands Corporation"
     },
-    "COUR": {
-      "premiere": "2026-10-30T18:07+01:00",
-      "nom": "Coursera, Inc."
-    },
     "MPT": {
       "premiere": "2026-10-30T18:59+01:00",
       "nom": "Medical Properties Trust, Inc."
@@ -39,14 +35,13 @@
     "ABR": {
       "premiere": "2026-10-30T20:34+01:00",
       "nom": "Arbor Realty Trust"
+    },
+    "CPRI": {
+      "premiere": "2026-10-30T21:25+01:00",
+      "nom": "Capri Holdings Limited"
     }
   },
   "sorties": [
-    {
-      "symbole": "WEN",
-      "date": "29/10/2026",
-      "nom": "Wendy's Company (The)"
-    },
     {
       "symbole": "GERN",
       "date": "29/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "CPRI",
       "date": "30/10/2026",
       "nom": "Capri Holdings Limited"
+    },
+    {
+      "symbole": "COUR",
+      "date": "30/10/2026",
+      "nom": "Coursera, Inc."
     }
   ]
 }
