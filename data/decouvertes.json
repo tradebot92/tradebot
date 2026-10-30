@@ -28,10 +28,6 @@
       "premiere": "2026-10-30T15:19+01:00",
       "nom": "Acco Brands Corporation"
     },
-    "CPRI": {
-      "premiere": "2026-10-30T15:19+01:00",
-      "nom": "Capri Holdings Limited"
-    },
     "ABR": {
       "premiere": "2026-10-30T17:11+01:00",
       "nom": "Arbor Realty Trust"
@@ -39,14 +35,13 @@
     "COUR": {
       "premiere": "2026-10-30T18:07+01:00",
       "nom": "Coursera, Inc."
+    },
+    "MPT": {
+      "premiere": "2026-10-30T18:59+01:00",
+      "nom": "Medical Properties Trust, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "GENB",
-      "date": "28/10/2026",
-      "nom": "Generate Biomedicines, Inc."
-    },
     {
       "symbole": "FWRD",
       "date": "28/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "NK.PA",
       "date": "30/10/2026",
       "nom": "IMERYS"
+    },
+    {
+      "symbole": "CPRI",
+      "date": "30/10/2026",
+      "nom": "Capri Holdings Limited"
     }
   ]
 }
