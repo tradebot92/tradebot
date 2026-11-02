@@ -12,10 +12,6 @@
       "premiere": "2026-11-02T15:45+01:00",
       "nom": "Perion Network Ltd"
     },
-    "ULCC": {
-      "premiere": "2026-11-02T15:45+01:00",
-      "nom": "Frontier Group Holdings, Inc."
-    },
     "PGEN": {
       "premiere": "2026-11-02T19:40+01:00",
       "nom": "Precigen, Inc."
@@ -32,26 +28,20 @@
       "premiere": "2026-11-02T21:32+01:00",
       "nom": "Gray Media, Inc."
     },
-    "MPT": {
-      "premiere": "2026-11-02T21:32+01:00",
-      "nom": "Medical Properties Trust, Inc."
-    },
     "EIKN": {
       "premiere": "2026-11-02T21:32+01:00",
       "nom": "Eikon Therapeutics, Inc."
+    },
+    "NWL": {
+      "premiere": "2026-11-02T22:29+01:00",
+      "nom": "Newell Brands Inc."
+    },
+    "ULH": {
+      "premiere": "2026-11-02T22:29+01:00",
+      "nom": "Universal Logistics Holdings, I"
     }
   },
   "sorties": [
-    {
-      "symbole": "CPRI",
-      "date": "30/10/2026",
-      "nom": "Capri Holdings Limited"
-    },
-    {
-      "symbole": "COUR",
-      "date": "30/10/2026",
-      "nom": "Coursera, Inc."
-    },
     {
       "symbole": "ABR",
       "date": "30/10/2026",
@@ -191,6 +181,16 @@
       "symbole": "EXK",
       "date": "02/11/2026",
       "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "ULCC",
+      "date": "02/11/2026",
+      "nom": "Frontier Group Holdings, Inc."
+    },
+    {
+      "symbole": "MPT",
+      "date": "02/11/2026",
+      "nom": "Medical Properties Trust, Inc."
     }
   ]
 }
