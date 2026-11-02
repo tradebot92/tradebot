@@ -16,10 +16,6 @@
       "premiere": "2026-11-02T15:45+01:00",
       "nom": "Perion Network Ltd"
     },
-    "RAMP": {
-      "premiere": "2026-11-02T15:45+01:00",
-      "nom": "LiveRamp Holdings, Inc."
-    },
     "ULCC": {
       "premiere": "2026-11-02T15:45+01:00",
       "nom": "Frontier Group Holdings, Inc."
@@ -28,35 +24,24 @@
       "premiere": "2026-11-02T15:45+01:00",
       "nom": "JetBlue Airways Corporation"
     },
-    "CAPR": {
-      "premiere": "2026-11-02T16:44+01:00",
-      "nom": "Capricor Therapeutics, Inc."
-    },
     "FOIL": {
       "premiere": "2026-11-02T16:44+01:00",
       "nom": "Londian Wason New Energy Tech I"
     },
-    "RUN": {
-      "premiere": "2026-11-02T16:44+01:00",
-      "nom": "Sunrun Inc."
+    "ATEC": {
+      "premiere": "2026-11-02T17:48+01:00",
+      "nom": "Alphatec Holdings, Inc."
+    },
+    "NWL": {
+      "premiere": "2026-11-02T17:48+01:00",
+      "nom": "Newell Brands Inc."
+    },
+    "LEGH": {
+      "premiere": "2026-11-02T17:48+01:00",
+      "nom": "Legacy Housing Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "PGEN",
-      "date": "29/10/2026",
-      "nom": "Precigen, Inc."
-    },
-    {
-      "symbole": "ALBOU.PA",
-      "date": "29/10/2026",
-      "nom": "BOURRELIER GROUP"
-    },
-    {
-      "symbole": "TDOC",
-      "date": "30/10/2026",
-      "nom": "Teladoc Health, Inc."
-    },
     {
       "symbole": "MAX",
       "date": "30/10/2026",
@@ -191,6 +176,21 @@
       "symbole": "ATEC",
       "date": "02/11/2026",
       "nom": "Alphatec Holdings, Inc."
+    },
+    {
+      "symbole": "RAMP",
+      "date": "02/11/2026",
+      "nom": "LiveRamp Holdings, Inc."
+    },
+    {
+      "symbole": "CAPR",
+      "date": "02/11/2026",
+      "nom": "Capricor Therapeutics, Inc."
+    },
+    {
+      "symbole": "RUN",
+      "date": "02/11/2026",
+      "nom": "Sunrun Inc."
     }
   ]
 }
