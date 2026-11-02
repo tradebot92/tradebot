@@ -16,10 +16,6 @@
       "premiere": "2026-11-02T15:45+01:00",
       "nom": "Frontier Group Holdings, Inc."
     },
-    "NWL": {
-      "premiere": "2026-11-02T17:48+01:00",
-      "nom": "Newell Brands Inc."
-    },
     "PGEN": {
       "premiere": "2026-11-02T19:40+01:00",
       "nom": "Precigen, Inc."
@@ -32,31 +28,20 @@
       "premiere": "2026-11-02T20:41+01:00",
       "nom": "Arbor Realty Trust"
     },
-    "KOS": {
-      "premiere": "2026-11-02T20:41+01:00",
-      "nom": "Kosmos Energy Ltd."
+    "GTN-A": {
+      "premiere": "2026-11-02T21:32+01:00",
+      "nom": "Gray Media, Inc."
     },
-    "EXK": {
-      "premiere": "2026-11-02T20:41+01:00",
-      "nom": "Endeavour Silver Corporation"
+    "MPT": {
+      "premiere": "2026-11-02T21:32+01:00",
+      "nom": "Medical Properties Trust, Inc."
+    },
+    "EIKN": {
+      "premiere": "2026-11-02T21:32+01:00",
+      "nom": "Eikon Therapeutics, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "NK.PA",
-      "date": "30/10/2026",
-      "nom": "IMERYS"
-    },
-    {
-      "symbole": "CPRI",
-      "date": "30/10/2026",
-      "nom": "Capri Holdings Limited"
-    },
-    {
-      "symbole": "ABR",
-      "date": "30/10/2026",
-      "nom": "Arbor Realty Trust"
-    },
     {
       "symbole": "CPRI",
       "date": "30/10/2026",
@@ -191,6 +176,21 @@
       "symbole": "ULH",
       "date": "02/11/2026",
       "nom": "Universal Logistics Holdings, I"
+    },
+    {
+      "symbole": "NWL",
+      "date": "02/11/2026",
+      "nom": "Newell Brands Inc."
+    },
+    {
+      "symbole": "KOS",
+      "date": "02/11/2026",
+      "nom": "Kosmos Energy Ltd."
+    },
+    {
+      "symbole": "EXK",
+      "date": "02/11/2026",
+      "nom": "Endeavour Silver Corporation"
     }
   ]
 }
