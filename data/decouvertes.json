@@ -12,10 +12,6 @@
       "premiere": "2026-10-29T17:17+01:00",
       "nom": "Endeavour Silver Corporation"
     },
-    "GTN-A": {
-      "premiere": "2026-11-02T14:37+01:00",
-      "nom": "Gray Media, Inc."
-    },
     "PERI": {
       "premiere": "2026-11-02T15:45+01:00",
       "nom": "Perion Network Ltd"
@@ -23,10 +19,6 @@
     "RAMP": {
       "premiere": "2026-11-02T15:45+01:00",
       "nom": "LiveRamp Holdings, Inc."
-    },
-    "ZKH": {
-      "premiere": "2026-11-02T15:45+01:00",
-      "nom": "ZKH Group Limited"
     },
     "ULCC": {
       "premiere": "2026-11-02T15:45+01:00",
@@ -36,27 +28,20 @@
       "premiere": "2026-11-02T15:45+01:00",
       "nom": "JetBlue Airways Corporation"
     },
-    "ATEC": {
-      "premiere": "2026-11-02T15:45+01:00",
-      "nom": "Alphatec Holdings, Inc."
+    "CAPR": {
+      "premiere": "2026-11-02T16:44+01:00",
+      "nom": "Capricor Therapeutics, Inc."
+    },
+    "FOIL": {
+      "premiere": "2026-11-02T16:44+01:00",
+      "nom": "Londian Wason New Energy Tech I"
+    },
+    "RUN": {
+      "premiere": "2026-11-02T16:44+01:00",
+      "nom": "Sunrun Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "SES",
-      "date": "29/10/2026",
-      "nom": "SES AI Corporation"
-    },
-    {
-      "symbole": "ALVIO.PA",
-      "date": "29/10/2026",
-      "nom": "VALERIO THERAPEUTICS"
-    },
-    {
-      "symbole": "DFIN",
-      "date": "29/10/2026",
-      "nom": "Donnelley Financial Solutions, "
-    },
     {
       "symbole": "PGEN",
       "date": "29/10/2026",
@@ -191,6 +176,21 @@
       "symbole": "SMP",
       "date": "02/11/2026",
       "nom": "Standard Motor Products, Inc."
+    },
+    {
+      "symbole": "GTN-A",
+      "date": "02/11/2026",
+      "nom": "Gray Media, Inc."
+    },
+    {
+      "symbole": "ZKH",
+      "date": "02/11/2026",
+      "nom": "ZKH Group Limited"
+    },
+    {
+      "symbole": "ATEC",
+      "date": "02/11/2026",
+      "nom": "Alphatec Holdings, Inc."
     }
   ]
 }
