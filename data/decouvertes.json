@@ -12,10 +12,6 @@
       "premiere": "2026-10-29T17:17+01:00",
       "nom": "Endeavour Silver Corporation"
     },
-    "ATEC": {
-      "premiere": "2026-10-30T15:19+01:00",
-      "nom": "Alphatec Holdings, Inc."
-    },
     "ULH": {
       "premiere": "2026-10-30T15:19+01:00",
       "nom": "Universal Logistics Holdings, I"
@@ -28,35 +24,24 @@
       "premiere": "2026-10-30T15:19+01:00",
       "nom": "Acco Brands Corporation"
     },
-    "MPT": {
-      "premiere": "2026-10-30T18:59+01:00",
-      "nom": "Medical Properties Trust, Inc."
-    },
-    "COUR": {
-      "premiere": "2026-10-30T22:02+01:00",
-      "nom": "Coursera, Inc."
-    },
     "CVEO": {
       "premiere": "2026-10-30T22:02+01:00",
       "nom": "Civeo Corporation (Canada)"
+    },
+    "CPRI": {
+      "premiere": "2026-11-02T14:37+01:00",
+      "nom": "Capri Holdings Limited"
+    },
+    "GTN-A": {
+      "premiere": "2026-11-02T14:37+01:00",
+      "nom": "Gray Media, Inc."
+    },
+    "SMP": {
+      "premiere": "2026-11-02T14:37+01:00",
+      "nom": "Standard Motor Products, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "DNA",
-      "date": "29/10/2026",
-      "nom": "Ginkgo Bioworks Holdings, Inc."
-    },
-    {
-      "symbole": "REPL",
-      "date": "29/10/2026",
-      "nom": "Replimune Group, Inc."
-    },
-    {
-      "symbole": "INTR",
-      "date": "29/10/2026",
-      "nom": "Inter & Co. Inc."
-    },
     {
       "symbole": "GENB",
       "date": "29/10/2026",
@@ -191,6 +176,21 @@
       "symbole": "CPRI",
       "date": "30/10/2026",
       "nom": "Capri Holdings Limited"
+    },
+    {
+      "symbole": "ATEC",
+      "date": "02/11/2026",
+      "nom": "Alphatec Holdings, Inc."
+    },
+    {
+      "symbole": "MPT",
+      "date": "02/11/2026",
+      "nom": "Medical Properties Trust, Inc."
+    },
+    {
+      "symbole": "COUR",
+      "date": "02/11/2026",
+      "nom": "Coursera, Inc."
     }
   ]
 }
