@@ -36,17 +36,12 @@
       "premiere": "2026-11-02T17:48+01:00",
       "nom": "Newell Brands Inc."
     },
-    "LEGH": {
-      "premiere": "2026-11-02T17:48+01:00",
-      "nom": "Legacy Housing Corporation"
+    "REAL": {
+      "premiere": "2026-11-02T18:43+01:00",
+      "nom": "The RealReal, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "MAX",
-      "date": "30/10/2026",
-      "nom": "MediaAlpha, Inc."
-    },
     {
       "symbole": "MESO",
       "date": "30/10/2026",
@@ -191,6 +186,11 @@
       "symbole": "RUN",
       "date": "02/11/2026",
       "nom": "Sunrun Inc."
+    },
+    {
+      "symbole": "LEGH",
+      "date": "02/11/2026",
+      "nom": "Legacy Housing Corporation"
     }
   ]
 }
