@@ -12,66 +12,36 @@
       "premiere": "2026-10-29T17:17+01:00",
       "nom": "Endeavour Silver Corporation"
     },
-    "ULH": {
-      "premiere": "2026-10-30T15:19+01:00",
-      "nom": "Universal Logistics Holdings, I"
-    },
-    "FMC": {
-      "premiere": "2026-10-30T15:19+01:00",
-      "nom": "FMC Corporation"
-    },
-    "ACCO": {
-      "premiere": "2026-10-30T15:19+01:00",
-      "nom": "Acco Brands Corporation"
-    },
-    "CVEO": {
-      "premiere": "2026-10-30T22:02+01:00",
-      "nom": "Civeo Corporation (Canada)"
-    },
-    "CPRI": {
-      "premiere": "2026-11-02T14:37+01:00",
-      "nom": "Capri Holdings Limited"
-    },
     "GTN-A": {
       "premiere": "2026-11-02T14:37+01:00",
       "nom": "Gray Media, Inc."
     },
-    "SMP": {
-      "premiere": "2026-11-02T14:37+01:00",
-      "nom": "Standard Motor Products, Inc."
+    "PERI": {
+      "premiere": "2026-11-02T15:45+01:00",
+      "nom": "Perion Network Ltd"
+    },
+    "RAMP": {
+      "premiere": "2026-11-02T15:45+01:00",
+      "nom": "LiveRamp Holdings, Inc."
+    },
+    "ZKH": {
+      "premiere": "2026-11-02T15:45+01:00",
+      "nom": "ZKH Group Limited"
+    },
+    "ULCC": {
+      "premiere": "2026-11-02T15:45+01:00",
+      "nom": "Frontier Group Holdings, Inc."
+    },
+    "JBLU": {
+      "premiere": "2026-11-02T15:45+01:00",
+      "nom": "JetBlue Airways Corporation"
+    },
+    "ATEC": {
+      "premiere": "2026-11-02T15:45+01:00",
+      "nom": "Alphatec Holdings, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "GENB",
-      "date": "29/10/2026",
-      "nom": "Generate Biomedicines, Inc."
-    },
-    {
-      "symbole": "LXU",
-      "date": "29/10/2026",
-      "nom": "LSB Industries, Inc."
-    },
-    {
-      "symbole": "EIKN",
-      "date": "29/10/2026",
-      "nom": "Eikon Therapeutics, Inc."
-    },
-    {
-      "symbole": "DBV.PA",
-      "date": "29/10/2026",
-      "nom": "DBV TECHNOLOGIES"
-    },
-    {
-      "symbole": "UPBD",
-      "date": "29/10/2026",
-      "nom": "Upbound Group, Inc."
-    },
-    {
-      "symbole": "GTN-A",
-      "date": "29/10/2026",
-      "nom": "Gray Media, Inc."
-    },
     {
       "symbole": "SES",
       "date": "29/10/2026",
@@ -191,6 +161,36 @@
       "symbole": "COUR",
       "date": "02/11/2026",
       "nom": "Coursera, Inc."
+    },
+    {
+      "symbole": "ULH",
+      "date": "02/11/2026",
+      "nom": "Universal Logistics Holdings, I"
+    },
+    {
+      "symbole": "FMC",
+      "date": "02/11/2026",
+      "nom": "FMC Corporation"
+    },
+    {
+      "symbole": "ACCO",
+      "date": "02/11/2026",
+      "nom": "Acco Brands Corporation"
+    },
+    {
+      "symbole": "CVEO",
+      "date": "02/11/2026",
+      "nom": "Civeo Corporation (Canada)"
+    },
+    {
+      "symbole": "CPRI",
+      "date": "02/11/2026",
+      "nom": "Capri Holdings Limited"
+    },
+    {
+      "symbole": "SMP",
+      "date": "02/11/2026",
+      "nom": "Standard Motor Products, Inc."
     }
   ]
 }
