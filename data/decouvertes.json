@@ -16,52 +16,32 @@
       "premiere": "2026-11-02T15:45+01:00",
       "nom": "Frontier Group Holdings, Inc."
     },
-    "JBLU": {
-      "premiere": "2026-11-02T15:45+01:00",
-      "nom": "JetBlue Airways Corporation"
-    },
-    "FOIL": {
-      "premiere": "2026-11-02T16:44+01:00",
-      "nom": "Londian Wason New Energy Tech I"
-    },
     "NWL": {
       "premiere": "2026-11-02T17:48+01:00",
       "nom": "Newell Brands Inc."
-    },
-    "CMCO": {
-      "premiere": "2026-11-02T19:40+01:00",
-      "nom": "Columbus McKinnon Corporation"
     },
     "PGEN": {
       "premiere": "2026-11-02T19:40+01:00",
       "nom": "Precigen, Inc."
     },
-    "ULH": {
-      "premiere": "2026-11-02T19:40+01:00",
-      "nom": "Universal Logistics Holdings, I"
+    "CMPS": {
+      "premiere": "2026-11-02T20:41+01:00",
+      "nom": "COMPASS Pathways Plc - American"
+    },
+    "ABR": {
+      "premiere": "2026-11-02T20:41+01:00",
+      "nom": "Arbor Realty Trust"
+    },
+    "KOS": {
+      "premiere": "2026-11-02T20:41+01:00",
+      "nom": "Kosmos Energy Ltd."
+    },
+    "EXK": {
+      "premiere": "2026-11-02T20:41+01:00",
+      "nom": "Endeavour Silver Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "GTN-A",
-      "date": "30/10/2026",
-      "nom": "Gray Media, Inc."
-    },
-    {
-      "symbole": "GERN",
-      "date": "30/10/2026",
-      "nom": "Geron Corporation"
-    },
-    {
-      "symbole": "ARAMI.PA",
-      "date": "30/10/2026",
-      "nom": "ARAMIS GROUP"
-    },
-    {
-      "symbole": "CVEO",
-      "date": "30/10/2026",
-      "nom": "Civeo Corporation (Canada)"
-    },
     {
       "symbole": "NK.PA",
       "date": "30/10/2026",
@@ -191,6 +171,26 @@
       "symbole": "REAL",
       "date": "02/11/2026",
       "nom": "The RealReal, Inc."
+    },
+    {
+      "symbole": "JBLU",
+      "date": "02/11/2026",
+      "nom": "JetBlue Airways Corporation"
+    },
+    {
+      "symbole": "FOIL",
+      "date": "02/11/2026",
+      "nom": "Londian Wason New Energy Tech I"
+    },
+    {
+      "symbole": "CMCO",
+      "date": "02/11/2026",
+      "nom": "Columbus McKinnon Corporation"
+    },
+    {
+      "symbole": "ULH",
+      "date": "02/11/2026",
+      "nom": "Universal Logistics Holdings, I"
     }
   ]
 }
