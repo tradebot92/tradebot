@@ -8,10 +8,6 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "EXK": {
-      "premiere": "2026-10-29T17:17+01:00",
-      "nom": "Endeavour Silver Corporation"
-    },
     "PERI": {
       "premiere": "2026-11-02T15:45+01:00",
       "nom": "Perion Network Ltd"
@@ -28,35 +24,24 @@
       "premiere": "2026-11-02T16:44+01:00",
       "nom": "Londian Wason New Energy Tech I"
     },
-    "ATEC": {
-      "premiere": "2026-11-02T17:48+01:00",
-      "nom": "Alphatec Holdings, Inc."
-    },
     "NWL": {
       "premiere": "2026-11-02T17:48+01:00",
       "nom": "Newell Brands Inc."
     },
-    "REAL": {
-      "premiere": "2026-11-02T18:43+01:00",
-      "nom": "The RealReal, Inc."
+    "CMCO": {
+      "premiere": "2026-11-02T19:40+01:00",
+      "nom": "Columbus McKinnon Corporation"
+    },
+    "PGEN": {
+      "premiere": "2026-11-02T19:40+01:00",
+      "nom": "Precigen, Inc."
+    },
+    "ULH": {
+      "premiere": "2026-11-02T19:40+01:00",
+      "nom": "Universal Logistics Holdings, I"
     }
   },
   "sorties": [
-    {
-      "symbole": "MESO",
-      "date": "30/10/2026",
-      "nom": "Mesoblast Limited"
-    },
-    {
-      "symbole": "UPBD",
-      "date": "30/10/2026",
-      "nom": "Upbound Group, Inc."
-    },
-    {
-      "symbole": "MPT",
-      "date": "30/10/2026",
-      "nom": "Medical Properties Trust, Inc."
-    },
     {
       "symbole": "GTN-A",
       "date": "30/10/2026",
@@ -191,6 +176,21 @@
       "symbole": "LEGH",
       "date": "02/11/2026",
       "nom": "Legacy Housing Corporation"
+    },
+    {
+      "symbole": "EXK",
+      "date": "02/11/2026",
+      "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "ATEC",
+      "date": "02/11/2026",
+      "nom": "Alphatec Holdings, Inc."
+    },
+    {
+      "symbole": "REAL",
+      "date": "02/11/2026",
+      "nom": "The RealReal, Inc."
     }
   ]
 }
