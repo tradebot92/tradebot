@@ -8,75 +8,36 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "PERI": {
-      "premiere": "2026-11-02T15:45+01:00",
-      "nom": "Perion Network Ltd"
-    },
-    "PGEN": {
-      "premiere": "2026-11-02T19:40+01:00",
-      "nom": "Precigen, Inc."
-    },
     "CMPS": {
       "premiere": "2026-11-02T20:41+01:00",
       "nom": "COMPASS Pathways Plc - American"
     },
-    "ABR": {
-      "premiere": "2026-11-02T20:41+01:00",
-      "nom": "Arbor Realty Trust"
+    "CMCO": {
+      "premiere": "2026-11-03T15:44+01:00",
+      "nom": "Columbus McKinnon Corporation"
     },
-    "GTN-A": {
-      "premiere": "2026-11-02T21:32+01:00",
-      "nom": "Gray Media, Inc."
+    "IBTA": {
+      "premiere": "2026-11-03T15:44+01:00",
+      "nom": "Ibotta, Inc."
     },
-    "EIKN": {
-      "premiere": "2026-11-02T21:32+01:00",
-      "nom": "Eikon Therapeutics, Inc."
+    "AL2SI.PA": {
+      "premiere": "2026-11-03T15:44+01:00",
+      "nom": "2CRSI"
     },
-    "NWL": {
-      "premiere": "2026-11-02T22:29+01:00",
-      "nom": "Newell Brands Inc."
+    "PENG": {
+      "premiere": "2026-11-03T15:44+01:00",
+      "nom": "Penguin Solutions, Inc."
     },
-    "ULH": {
-      "premiere": "2026-11-02T22:29+01:00",
-      "nom": "Universal Logistics Holdings, I"
+    "XTND": {
+      "premiere": "2026-11-03T15:44+01:00",
+      "nom": "Xtend AI Robotics, Inc."
+    },
+    "EBS": {
+      "premiere": "2026-11-03T15:44+01:00",
+      "nom": "Emergent BioSolutions Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "ABR",
-      "date": "30/10/2026",
-      "nom": "Arbor Realty Trust"
-    },
-    {
-      "symbole": "CPRI",
-      "date": "30/10/2026",
-      "nom": "Capri Holdings Limited"
-    },
-    {
-      "symbole": "ATEC",
-      "date": "02/11/2026",
-      "nom": "Alphatec Holdings, Inc."
-    },
-    {
-      "symbole": "MPT",
-      "date": "02/11/2026",
-      "nom": "Medical Properties Trust, Inc."
-    },
-    {
-      "symbole": "COUR",
-      "date": "02/11/2026",
-      "nom": "Coursera, Inc."
-    },
-    {
-      "symbole": "ULH",
-      "date": "02/11/2026",
-      "nom": "Universal Logistics Holdings, I"
-    },
-    {
-      "symbole": "FMC",
-      "date": "02/11/2026",
-      "nom": "FMC Corporation"
-    },
     {
       "symbole": "ACCO",
       "date": "02/11/2026",
@@ -191,6 +152,41 @@
       "symbole": "MPT",
       "date": "02/11/2026",
       "nom": "Medical Properties Trust, Inc."
+    },
+    {
+      "symbole": "PERI",
+      "date": "03/11/2026",
+      "nom": "Perion Network Ltd"
+    },
+    {
+      "symbole": "PGEN",
+      "date": "03/11/2026",
+      "nom": "Precigen, Inc."
+    },
+    {
+      "symbole": "ABR",
+      "date": "03/11/2026",
+      "nom": "Arbor Realty Trust"
+    },
+    {
+      "symbole": "GTN-A",
+      "date": "03/11/2026",
+      "nom": "Gray Media, Inc."
+    },
+    {
+      "symbole": "EIKN",
+      "date": "03/11/2026",
+      "nom": "Eikon Therapeutics, Inc."
+    },
+    {
+      "symbole": "NWL",
+      "date": "03/11/2026",
+      "nom": "Newell Brands Inc."
+    },
+    {
+      "symbole": "ULH",
+      "date": "03/11/2026",
+      "nom": "Universal Logistics Holdings, I"
     }
   ]
 }
