@@ -32,21 +32,16 @@
       "premiere": "2026-11-03T19:31+01:00",
       "nom": "Clarivate Plc"
     },
-    "IHRT": {
-      "premiere": "2026-11-03T19:31+01:00",
-      "nom": "iHeartMedia, Inc."
-    },
     "MPT": {
       "premiere": "2026-11-03T20:38+01:00",
       "nom": "Medical Properties Trust, Inc."
+    },
+    "COUR": {
+      "premiere": "2026-11-03T22:28+01:00",
+      "nom": "Coursera, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "RUN",
-      "date": "02/11/2026",
-      "nom": "Sunrun Inc."
-    },
     {
       "symbole": "LEGH",
       "date": "02/11/2026",
@@ -191,6 +186,11 @@
       "symbole": "TE",
       "date": "03/11/2026",
       "nom": "T1 Energy Inc."
+    },
+    {
+      "symbole": "IHRT",
+      "date": "03/11/2026",
+      "nom": "iHeartMedia, Inc."
     }
   ]
 }
