@@ -8,10 +8,6 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "CMPS": {
-      "premiere": "2026-11-02T20:41+01:00",
-      "nom": "COMPASS Pathways Plc - American"
-    },
     "CMCO": {
       "premiere": "2026-11-03T15:44+01:00",
       "nom": "Columbus McKinnon Corporation"
@@ -24,35 +20,24 @@
       "premiere": "2026-11-03T15:44+01:00",
       "nom": "2CRSI"
     },
-    "PENG": {
-      "premiere": "2026-11-03T15:44+01:00",
-      "nom": "Penguin Solutions, Inc."
-    },
-    "XTND": {
-      "premiere": "2026-11-03T15:44+01:00",
-      "nom": "Xtend AI Robotics, Inc."
-    },
     "EBS": {
       "premiere": "2026-11-03T15:44+01:00",
       "nom": "Emergent BioSolutions Inc."
+    },
+    "CNL": {
+      "premiere": "2026-11-03T16:32+01:00",
+      "nom": "Collective Mining Ltd."
+    },
+    "DBV.PA": {
+      "premiere": "2026-11-03T16:32+01:00",
+      "nom": "DBV TECHNOLOGIES"
+    },
+    "TE": {
+      "premiere": "2026-11-03T16:32+01:00",
+      "nom": "T1 Energy Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "ACCO",
-      "date": "02/11/2026",
-      "nom": "Acco Brands Corporation"
-    },
-    {
-      "symbole": "CVEO",
-      "date": "02/11/2026",
-      "nom": "Civeo Corporation (Canada)"
-    },
-    {
-      "symbole": "CPRI",
-      "date": "02/11/2026",
-      "nom": "Capri Holdings Limited"
-    },
     {
       "symbole": "SMP",
       "date": "02/11/2026",
@@ -187,6 +172,21 @@
       "symbole": "ULH",
       "date": "03/11/2026",
       "nom": "Universal Logistics Holdings, I"
+    },
+    {
+      "symbole": "CMPS",
+      "date": "03/11/2026",
+      "nom": "COMPASS Pathways Plc - American"
+    },
+    {
+      "symbole": "PENG",
+      "date": "03/11/2026",
+      "nom": "Penguin Solutions, Inc."
+    },
+    {
+      "symbole": "XTND",
+      "date": "03/11/2026",
+      "nom": "Xtend AI Robotics, Inc."
     }
   ]
 }
