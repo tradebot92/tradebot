@@ -20,10 +20,6 @@
       "premiere": "2026-11-03T15:44+01:00",
       "nom": "2CRSI"
     },
-    "TE": {
-      "premiere": "2026-11-03T16:32+01:00",
-      "nom": "T1 Energy Inc."
-    },
     "XTND": {
       "premiere": "2026-11-03T17:39+01:00",
       "nom": "Xtend AI Robotics, Inc."
@@ -39,14 +35,13 @@
     "IHRT": {
       "premiere": "2026-11-03T19:31+01:00",
       "nom": "iHeartMedia, Inc."
+    },
+    "MPT": {
+      "premiere": "2026-11-03T20:38+01:00",
+      "nom": "Medical Properties Trust, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "CAPR",
-      "date": "02/11/2026",
-      "nom": "Capricor Therapeutics, Inc."
-    },
     {
       "symbole": "RUN",
       "date": "02/11/2026",
@@ -191,6 +186,11 @@
       "symbole": "INBX",
       "date": "03/11/2026",
       "nom": "Inhibrx Biosciences, Inc."
+    },
+    {
+      "symbole": "TE",
+      "date": "03/11/2026",
+      "nom": "T1 Energy Inc."
     }
   ]
 }
