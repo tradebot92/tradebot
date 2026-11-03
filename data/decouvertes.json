@@ -20,34 +20,24 @@
       "premiere": "2026-11-03T15:44+01:00",
       "nom": "2CRSI"
     },
-    "EBS": {
-      "premiere": "2026-11-03T15:44+01:00",
-      "nom": "Emergent BioSolutions Inc."
-    },
     "CNL": {
       "premiere": "2026-11-03T16:32+01:00",
       "nom": "Collective Mining Ltd."
     },
-    "DBV.PA": {
-      "premiere": "2026-11-03T16:32+01:00",
-      "nom": "DBV TECHNOLOGIES"
-    },
     "TE": {
       "premiere": "2026-11-03T16:32+01:00",
       "nom": "T1 Energy Inc."
+    },
+    "XTND": {
+      "premiere": "2026-11-03T17:39+01:00",
+      "nom": "Xtend AI Robotics, Inc."
+    },
+    "PENG": {
+      "premiere": "2026-11-03T17:39+01:00",
+      "nom": "Penguin Solutions, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "SMP",
-      "date": "02/11/2026",
-      "nom": "Standard Motor Products, Inc."
-    },
-    {
-      "symbole": "GTN-A",
-      "date": "02/11/2026",
-      "nom": "Gray Media, Inc."
-    },
     {
       "symbole": "ZKH",
       "date": "02/11/2026",
@@ -187,6 +177,16 @@
       "symbole": "XTND",
       "date": "03/11/2026",
       "nom": "Xtend AI Robotics, Inc."
+    },
+    {
+      "symbole": "EBS",
+      "date": "03/11/2026",
+      "nom": "Emergent BioSolutions Inc."
+    },
+    {
+      "symbole": "DBV.PA",
+      "date": "03/11/2026",
+      "nom": "DBV TECHNOLOGIES"
     }
   ]
 }
