@@ -20,10 +20,6 @@
       "premiere": "2026-11-03T15:44+01:00",
       "nom": "2CRSI"
     },
-    "CNL": {
-      "premiere": "2026-11-03T16:32+01:00",
-      "nom": "Collective Mining Ltd."
-    },
     "TE": {
       "premiere": "2026-11-03T16:32+01:00",
       "nom": "T1 Energy Inc."
@@ -32,31 +28,20 @@
       "premiere": "2026-11-03T17:39+01:00",
       "nom": "Xtend AI Robotics, Inc."
     },
-    "PENG": {
-      "premiere": "2026-11-03T17:39+01:00",
-      "nom": "Penguin Solutions, Inc."
+    "ALLO": {
+      "premiere": "2026-11-03T19:31+01:00",
+      "nom": "Allogene Therapeutics, Inc."
     },
-    "INBX": {
-      "premiere": "2026-11-03T18:38+01:00",
-      "nom": "Inhibrx Biosciences, Inc."
+    "CLVT": {
+      "premiere": "2026-11-03T19:31+01:00",
+      "nom": "Clarivate Plc"
+    },
+    "IHRT": {
+      "premiere": "2026-11-03T19:31+01:00",
+      "nom": "iHeartMedia, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "ZKH",
-      "date": "02/11/2026",
-      "nom": "ZKH Group Limited"
-    },
-    {
-      "symbole": "ATEC",
-      "date": "02/11/2026",
-      "nom": "Alphatec Holdings, Inc."
-    },
-    {
-      "symbole": "RAMP",
-      "date": "02/11/2026",
-      "nom": "LiveRamp Holdings, Inc."
-    },
     {
       "symbole": "CAPR",
       "date": "02/11/2026",
@@ -191,6 +176,21 @@
       "symbole": "DBV.PA",
       "date": "03/11/2026",
       "nom": "DBV TECHNOLOGIES"
+    },
+    {
+      "symbole": "CNL",
+      "date": "03/11/2026",
+      "nom": "Collective Mining Ltd."
+    },
+    {
+      "symbole": "PENG",
+      "date": "03/11/2026",
+      "nom": "Penguin Solutions, Inc."
+    },
+    {
+      "symbole": "INBX",
+      "date": "03/11/2026",
+      "nom": "Inhibrx Biosciences, Inc."
     }
   ]
 }
