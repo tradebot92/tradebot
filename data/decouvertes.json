@@ -36,17 +36,12 @@
       "premiere": "2026-11-03T20:38+01:00",
       "nom": "Medical Properties Trust, Inc."
     },
-    "COUR": {
-      "premiere": "2026-11-03T22:28+01:00",
-      "nom": "Coursera, Inc."
+    "GERN": {
+      "premiere": "2026-11-03T23:13+01:00",
+      "nom": "Geron Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "LEGH",
-      "date": "02/11/2026",
-      "nom": "Legacy Housing Corporation"
-    },
     {
       "symbole": "EXK",
       "date": "02/11/2026",
@@ -191,6 +186,11 @@
       "symbole": "IHRT",
       "date": "03/11/2026",
       "nom": "iHeartMedia, Inc."
+    },
+    {
+      "symbole": "COUR",
+      "date": "03/11/2026",
+      "nom": "Coursera, Inc."
     }
   ]
 }
