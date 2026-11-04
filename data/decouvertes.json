@@ -8,80 +8,36 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "CMCO": {
-      "premiere": "2026-11-03T15:44+01:00",
-      "nom": "Columbus McKinnon Corporation"
+    "ALIT": {
+      "premiere": "2026-11-04T15:45+01:00",
+      "nom": "Alight, Inc."
     },
-    "IBTA": {
-      "premiere": "2026-11-03T15:44+01:00",
-      "nom": "Ibotta, Inc."
+    "LYEL": {
+      "premiere": "2026-11-04T15:45+01:00",
+      "nom": "Lyell Immunopharma, Inc."
     },
-    "XTND": {
-      "premiere": "2026-11-03T17:39+01:00",
-      "nom": "Xtend AI Robotics, Inc."
+    "CRCT": {
+      "premiere": "2026-11-04T15:45+01:00",
+      "nom": "Cricut, Inc."
     },
-    "ALLO": {
-      "premiere": "2026-11-03T19:31+01:00",
-      "nom": "Allogene Therapeutics, Inc."
+    "TREE": {
+      "premiere": "2026-11-04T15:45+01:00",
+      "nom": "LendingTree, Inc."
     },
-    "CLVT": {
-      "premiere": "2026-11-03T19:31+01:00",
-      "nom": "Clarivate Plc"
+    "ADV": {
+      "premiere": "2026-11-04T15:45+01:00",
+      "nom": "Advantage Solutions Inc."
     },
-    "MPT": {
-      "premiere": "2026-11-03T20:38+01:00",
-      "nom": "Medical Properties Trust, Inc."
+    "OPEN": {
+      "premiere": "2026-11-04T15:45+01:00",
+      "nom": "Opendoor Technologies Inc"
     },
-    "GERN": {
-      "premiere": "2026-11-03T23:13+01:00",
-      "nom": "Geron Corporation"
-    },
-    "AL2SI.PA": {
-      "premiere": "2026-11-04T14:37+01:00",
-      "nom": "2CRSI"
+    "EIKN": {
+      "premiere": "2026-11-04T15:45+01:00",
+      "nom": "Eikon Therapeutics, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "REAL",
-      "date": "02/11/2026",
-      "nom": "The RealReal, Inc."
-    },
-    {
-      "symbole": "JBLU",
-      "date": "02/11/2026",
-      "nom": "JetBlue Airways Corporation"
-    },
-    {
-      "symbole": "FOIL",
-      "date": "02/11/2026",
-      "nom": "Londian Wason New Energy Tech I"
-    },
-    {
-      "symbole": "CMCO",
-      "date": "02/11/2026",
-      "nom": "Columbus McKinnon Corporation"
-    },
-    {
-      "symbole": "ULH",
-      "date": "02/11/2026",
-      "nom": "Universal Logistics Holdings, I"
-    },
-    {
-      "symbole": "NWL",
-      "date": "02/11/2026",
-      "nom": "Newell Brands Inc."
-    },
-    {
-      "symbole": "KOS",
-      "date": "02/11/2026",
-      "nom": "Kosmos Energy Ltd."
-    },
-    {
-      "symbole": "EXK",
-      "date": "02/11/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
     {
       "symbole": "ULCC",
       "date": "02/11/2026",
@@ -191,6 +147,46 @@
       "symbole": "IHRT",
       "date": "04/11/2026",
       "nom": "iHeartMedia, Inc."
+    },
+    {
+      "symbole": "CMCO",
+      "date": "04/11/2026",
+      "nom": "Columbus McKinnon Corporation"
+    },
+    {
+      "symbole": "IBTA",
+      "date": "04/11/2026",
+      "nom": "Ibotta, Inc."
+    },
+    {
+      "symbole": "XTND",
+      "date": "04/11/2026",
+      "nom": "Xtend AI Robotics, Inc."
+    },
+    {
+      "symbole": "ALLO",
+      "date": "04/11/2026",
+      "nom": "Allogene Therapeutics, Inc."
+    },
+    {
+      "symbole": "CLVT",
+      "date": "04/11/2026",
+      "nom": "Clarivate Plc"
+    },
+    {
+      "symbole": "MPT",
+      "date": "04/11/2026",
+      "nom": "Medical Properties Trust, Inc."
+    },
+    {
+      "symbole": "GERN",
+      "date": "04/11/2026",
+      "nom": "Geron Corporation"
+    },
+    {
+      "symbole": "AL2SI.PA",
+      "date": "04/11/2026",
+      "nom": "2CRSI"
     }
   ]
 }
