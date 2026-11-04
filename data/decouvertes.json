@@ -24,35 +24,24 @@
       "premiere": "2026-11-04T15:45+01:00",
       "nom": "LendingTree, Inc."
     },
-    "FLNC": {
-      "premiere": "2026-11-04T16:41+01:00",
-      "nom": "Fluence Energy, Inc."
+    "ADV": {
+      "premiere": "2026-11-04T17:41+01:00",
+      "nom": "Advantage Solutions Inc."
     },
-    "UWMC": {
-      "premiere": "2026-11-04T16:41+01:00",
-      "nom": "UWM Holdings Corporation"
+    "HELE": {
+      "premiere": "2026-11-04T17:41+01:00",
+      "nom": "Helen of Troy Limited"
     },
-    "EXK": {
-      "premiere": "2026-11-04T16:41+01:00",
-      "nom": "Endeavour Silver Corporation"
+    "OPRT": {
+      "premiere": "2026-11-04T17:41+01:00",
+      "nom": "Oportun Financial Corporation"
+    },
+    "AXTI": {
+      "premiere": "2026-11-04T17:41+01:00",
+      "nom": "AXT Inc"
     }
   },
   "sorties": [
-    {
-      "symbole": "PGEN",
-      "date": "03/11/2026",
-      "nom": "Precigen, Inc."
-    },
-    {
-      "symbole": "ABR",
-      "date": "03/11/2026",
-      "nom": "Arbor Realty Trust"
-    },
-    {
-      "symbole": "GTN-A",
-      "date": "03/11/2026",
-      "nom": "Gray Media, Inc."
-    },
     {
       "symbole": "EIKN",
       "date": "03/11/2026",
@@ -187,6 +176,21 @@
       "symbole": "EIKN",
       "date": "04/11/2026",
       "nom": "Eikon Therapeutics, Inc."
+    },
+    {
+      "symbole": "FLNC",
+      "date": "04/11/2026",
+      "nom": "Fluence Energy, Inc."
+    },
+    {
+      "symbole": "UWMC",
+      "date": "04/11/2026",
+      "nom": "UWM Holdings Corporation"
+    },
+    {
+      "symbole": "EXK",
+      "date": "04/11/2026",
+      "nom": "Endeavour Silver Corporation"
     }
   ]
 }
