@@ -36,17 +36,12 @@
       "premiere": "2026-11-04T18:39+01:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "ADV": {
-      "premiere": "2026-11-04T19:39+01:00",
-      "nom": "Advantage Solutions Inc."
+    "PSEC": {
+      "premiere": "2026-11-04T20:44+01:00",
+      "nom": "Prospect Capital Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "XTND",
-      "date": "03/11/2026",
-      "nom": "Xtend AI Robotics, Inc."
-    },
     {
       "symbole": "EBS",
       "date": "03/11/2026",
@@ -191,6 +186,11 @@
       "symbole": "ANGI",
       "date": "04/11/2026",
       "nom": "Angi Inc."
+    },
+    {
+      "symbole": "ADV",
+      "date": "04/11/2026",
+      "nom": "Advantage Solutions Inc."
     }
   ]
 }
