@@ -8,10 +8,6 @@
       "premiere": "2026-10-12T09:14+02:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "ALIT": {
-      "premiere": "2026-11-04T15:45+01:00",
-      "nom": "Alight, Inc."
-    },
     "LYEL": {
       "premiere": "2026-11-04T15:45+01:00",
       "nom": "Lyell Immunopharma, Inc."
@@ -28,10 +24,6 @@
       "premiere": "2026-11-04T18:39+01:00",
       "nom": "Sunrun Inc."
     },
-    "OPEN": {
-      "premiere": "2026-11-04T18:39+01:00",
-      "nom": "Opendoor Technologies Inc"
-    },
     "EIKN": {
       "premiere": "2026-11-04T18:39+01:00",
       "nom": "Eikon Therapeutics, Inc."
@@ -39,19 +31,17 @@
     "PSEC": {
       "premiere": "2026-11-04T20:44+01:00",
       "nom": "Prospect Capital Corporation"
+    },
+    "ADV": {
+      "premiere": "2026-11-04T21:38+01:00",
+      "nom": "Advantage Solutions Inc."
+    },
+    "SOC": {
+      "premiere": "2026-11-04T21:38+01:00",
+      "nom": "Sable Offshore Corp."
     }
   },
   "sorties": [
-    {
-      "symbole": "EBS",
-      "date": "03/11/2026",
-      "nom": "Emergent BioSolutions Inc."
-    },
-    {
-      "symbole": "DBV.PA",
-      "date": "03/11/2026",
-      "nom": "DBV TECHNOLOGIES"
-    },
     {
       "symbole": "CNL",
       "date": "03/11/2026",
@@ -191,6 +181,16 @@
       "symbole": "ADV",
       "date": "04/11/2026",
       "nom": "Advantage Solutions Inc."
+    },
+    {
+      "symbole": "ALIT",
+      "date": "04/11/2026",
+      "nom": "Alight, Inc."
+    },
+    {
+      "symbole": "OPEN",
+      "date": "04/11/2026",
+      "nom": "Opendoor Technologies Inc"
     }
   ]
 }
