@@ -24,44 +24,24 @@
       "premiere": "2026-11-04T15:45+01:00",
       "nom": "LendingTree, Inc."
     },
-    "ADV": {
-      "premiere": "2026-11-04T17:41+01:00",
-      "nom": "Advantage Solutions Inc."
+    "ANGI": {
+      "premiere": "2026-11-04T18:39+01:00",
+      "nom": "Angi Inc."
     },
-    "HELE": {
-      "premiere": "2026-11-04T17:41+01:00",
-      "nom": "Helen of Troy Limited"
+    "RUN": {
+      "premiere": "2026-11-04T18:39+01:00",
+      "nom": "Sunrun Inc."
     },
-    "OPRT": {
-      "premiere": "2026-11-04T17:41+01:00",
-      "nom": "Oportun Financial Corporation"
+    "OPEN": {
+      "premiere": "2026-11-04T18:39+01:00",
+      "nom": "Opendoor Technologies Inc"
     },
-    "AXTI": {
-      "premiere": "2026-11-04T17:41+01:00",
-      "nom": "AXT Inc"
+    "EIKN": {
+      "premiere": "2026-11-04T18:39+01:00",
+      "nom": "Eikon Therapeutics, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "EIKN",
-      "date": "03/11/2026",
-      "nom": "Eikon Therapeutics, Inc."
-    },
-    {
-      "symbole": "NWL",
-      "date": "03/11/2026",
-      "nom": "Newell Brands Inc."
-    },
-    {
-      "symbole": "ULH",
-      "date": "03/11/2026",
-      "nom": "Universal Logistics Holdings, I"
-    },
-    {
-      "symbole": "CMPS",
-      "date": "03/11/2026",
-      "nom": "COMPASS Pathways Plc - American"
-    },
     {
       "symbole": "PENG",
       "date": "03/11/2026",
@@ -191,6 +171,26 @@
       "symbole": "EXK",
       "date": "04/11/2026",
       "nom": "Endeavour Silver Corporation"
+    },
+    {
+      "symbole": "ADV",
+      "date": "04/11/2026",
+      "nom": "Advantage Solutions Inc."
+    },
+    {
+      "symbole": "HELE",
+      "date": "04/11/2026",
+      "nom": "Helen of Troy Limited"
+    },
+    {
+      "symbole": "OPRT",
+      "date": "04/11/2026",
+      "nom": "Oportun Financial Corporation"
+    },
+    {
+      "symbole": "AXTI",
+      "date": "04/11/2026",
+      "nom": "AXT Inc"
     }
   ]
 }
