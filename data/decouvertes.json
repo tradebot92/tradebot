@@ -24,35 +24,20 @@
       "premiere": "2026-11-04T15:45+01:00",
       "nom": "LendingTree, Inc."
     },
-    "ADV": {
-      "premiere": "2026-11-04T15:45+01:00",
-      "nom": "Advantage Solutions Inc."
+    "FLNC": {
+      "premiere": "2026-11-04T16:41+01:00",
+      "nom": "Fluence Energy, Inc."
     },
-    "OPEN": {
-      "premiere": "2026-11-04T15:45+01:00",
-      "nom": "Opendoor Technologies Inc"
+    "UWMC": {
+      "premiere": "2026-11-04T16:41+01:00",
+      "nom": "UWM Holdings Corporation"
     },
-    "EIKN": {
-      "premiere": "2026-11-04T15:45+01:00",
-      "nom": "Eikon Therapeutics, Inc."
+    "EXK": {
+      "premiere": "2026-11-04T16:41+01:00",
+      "nom": "Endeavour Silver Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "ULCC",
-      "date": "02/11/2026",
-      "nom": "Frontier Group Holdings, Inc."
-    },
-    {
-      "symbole": "MPT",
-      "date": "02/11/2026",
-      "nom": "Medical Properties Trust, Inc."
-    },
-    {
-      "symbole": "PERI",
-      "date": "03/11/2026",
-      "nom": "Perion Network Ltd"
-    },
     {
       "symbole": "PGEN",
       "date": "03/11/2026",
@@ -187,6 +172,21 @@
       "symbole": "AL2SI.PA",
       "date": "04/11/2026",
       "nom": "2CRSI"
+    },
+    {
+      "symbole": "ADV",
+      "date": "04/11/2026",
+      "nom": "Advantage Solutions Inc."
+    },
+    {
+      "symbole": "OPEN",
+      "date": "04/11/2026",
+      "nom": "Opendoor Technologies Inc"
+    },
+    {
+      "symbole": "EIKN",
+      "date": "04/11/2026",
+      "nom": "Eikon Therapeutics, Inc."
     }
   ]
 }
