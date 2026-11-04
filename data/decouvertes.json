@@ -28,10 +28,6 @@
       "premiere": "2026-11-04T18:39+01:00",
       "nom": "Eikon Therapeutics, Inc."
     },
-    "PSEC": {
-      "premiere": "2026-11-04T20:44+01:00",
-      "nom": "Prospect Capital Corporation"
-    },
     "ADV": {
       "premiere": "2026-11-04T21:38+01:00",
       "nom": "Advantage Solutions Inc."
@@ -39,14 +35,13 @@
     "SOC": {
       "premiere": "2026-11-04T21:38+01:00",
       "nom": "Sable Offshore Corp."
+    },
+    "CIFR": {
+      "premiere": "2026-11-04T22:37+01:00",
+      "nom": "Cipher Digital Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "CNL",
-      "date": "03/11/2026",
-      "nom": "Collective Mining Ltd."
-    },
     {
       "symbole": "PENG",
       "date": "03/11/2026",
@@ -191,6 +186,11 @@
       "symbole": "OPEN",
       "date": "04/11/2026",
       "nom": "Opendoor Technologies Inc"
+    },
+    {
+      "symbole": "PSEC",
+      "date": "04/11/2026",
+      "nom": "Prospect Capital Corporation"
     }
   ]
 }
