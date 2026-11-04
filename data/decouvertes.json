@@ -24,10 +24,6 @@
       "premiere": "2026-11-04T15:45+01:00",
       "nom": "LendingTree, Inc."
     },
-    "ANGI": {
-      "premiere": "2026-11-04T18:39+01:00",
-      "nom": "Angi Inc."
-    },
     "RUN": {
       "premiere": "2026-11-04T18:39+01:00",
       "nom": "Sunrun Inc."
@@ -39,14 +35,13 @@
     "EIKN": {
       "premiere": "2026-11-04T18:39+01:00",
       "nom": "Eikon Therapeutics, Inc."
+    },
+    "ADV": {
+      "premiere": "2026-11-04T19:39+01:00",
+      "nom": "Advantage Solutions Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "PENG",
-      "date": "03/11/2026",
-      "nom": "Penguin Solutions, Inc."
-    },
     {
       "symbole": "XTND",
       "date": "03/11/2026",
@@ -191,6 +186,11 @@
       "symbole": "AXTI",
       "date": "04/11/2026",
       "nom": "AXT Inc"
+    },
+    {
+      "symbole": "ANGI",
+      "date": "04/11/2026",
+      "nom": "Angi Inc."
     }
   ]
 }
