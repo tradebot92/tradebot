@@ -4,10 +4,6 @@
       "premiere": "2026-10-10T17:46+02:00",
       "nom": "Infleqtion, Inc."
     },
-    "AGL": {
-      "premiere": "2026-11-05T15:45+01:00",
-      "nom": "agilon health, inc."
-    },
     "XERS": {
       "premiere": "2026-11-05T15:45+01:00",
       "nom": "Xeris Biopharma Holdings, Inc."
@@ -20,10 +16,6 @@
       "premiere": "2026-11-05T15:45+01:00",
       "nom": "Lyntris Inc."
     },
-    "ECPG": {
-      "premiere": "2026-11-05T15:45+01:00",
-      "nom": "Encore Capital Group Inc"
-    },
     "ARDT": {
       "premiere": "2026-11-05T15:45+01:00",
       "nom": "Ardent Health, Inc."
@@ -35,19 +27,21 @@
     "AXTI": {
       "premiere": "2026-11-05T15:45+01:00",
       "nom": "AXT Inc"
+    },
+    "DNUT": {
+      "premiere": "2026-11-05T16:44+01:00",
+      "nom": "Krispy Kreme, Inc."
+    },
+    "ONT": {
+      "premiere": "2026-11-05T16:44+01:00",
+      "nom": "Onterris, Inc."
+    },
+    "PTLO": {
+      "premiere": "2026-11-05T16:44+01:00",
+      "nom": "Portillo's Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "XTND",
-      "date": "04/11/2026",
-      "nom": "Xtend AI Robotics, Inc."
-    },
-    {
-      "symbole": "ALLO",
-      "date": "04/11/2026",
-      "nom": "Allogene Therapeutics, Inc."
-    },
     {
       "symbole": "CLVT",
       "date": "04/11/2026",
@@ -187,6 +181,16 @@
       "symbole": "CIFR",
       "date": "05/11/2026",
       "nom": "Cipher Digital Inc."
+    },
+    {
+      "symbole": "AGL",
+      "date": "05/11/2026",
+      "nom": "agilon health, inc."
+    },
+    {
+      "symbole": "ECPG",
+      "date": "05/11/2026",
+      "nom": "Encore Capital Group Inc"
     }
   ]
 }
