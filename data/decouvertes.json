@@ -32,21 +32,16 @@
       "premiere": "2026-11-05T18:46+01:00",
       "nom": "Encore Capital Group Inc"
     },
-    "LYNX": {
-      "premiere": "2026-11-05T20:40+01:00",
-      "nom": "Lyntris Inc."
-    },
     "PTLO": {
       "premiere": "2026-11-05T21:34+01:00",
       "nom": "Portillo's Inc."
+    },
+    "TBI": {
+      "premiere": "2026-11-05T22:30+01:00",
+      "nom": "TrueBlue, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "OPEN",
-      "date": "04/11/2026",
-      "nom": "Opendoor Technologies Inc"
-    },
     {
       "symbole": "EIKN",
       "date": "04/11/2026",
@@ -191,6 +186,11 @@
       "symbole": "TBI",
       "date": "05/11/2026",
       "nom": "TrueBlue, Inc."
+    },
+    {
+      "symbole": "LYNX",
+      "date": "05/11/2026",
+      "nom": "Lyntris Inc."
     }
   ]
 }
