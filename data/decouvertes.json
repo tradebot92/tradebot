@@ -4,89 +4,40 @@
       "premiere": "2026-10-10T17:46+02:00",
       "nom": "Infleqtion, Inc."
     },
-    "MYN": {
-      "premiere": "2026-10-12T09:14+02:00",
-      "nom": "Blackrock MuniYield New York Qu"
+    "AGL": {
+      "premiere": "2026-11-05T15:45+01:00",
+      "nom": "agilon health, inc."
     },
-    "LYEL": {
-      "premiere": "2026-11-04T15:45+01:00",
-      "nom": "Lyell Immunopharma, Inc."
+    "XERS": {
+      "premiere": "2026-11-05T15:45+01:00",
+      "nom": "Xeris Biopharma Holdings, Inc."
     },
-    "CRCT": {
-      "premiere": "2026-11-04T15:45+01:00",
-      "nom": "Cricut, Inc."
+    "TBI": {
+      "premiere": "2026-11-05T15:45+01:00",
+      "nom": "TrueBlue, Inc."
     },
-    "TREE": {
-      "premiere": "2026-11-04T15:45+01:00",
-      "nom": "LendingTree, Inc."
+    "LYNX": {
+      "premiere": "2026-11-05T15:45+01:00",
+      "nom": "Lyntris Inc."
     },
-    "RUN": {
-      "premiere": "2026-11-04T18:39+01:00",
-      "nom": "Sunrun Inc."
+    "ECPG": {
+      "premiere": "2026-11-05T15:45+01:00",
+      "nom": "Encore Capital Group Inc"
     },
-    "EIKN": {
-      "premiere": "2026-11-04T18:39+01:00",
-      "nom": "Eikon Therapeutics, Inc."
+    "ARDT": {
+      "premiere": "2026-11-05T15:45+01:00",
+      "nom": "Ardent Health, Inc."
     },
-    "ADV": {
-      "premiere": "2026-11-04T21:38+01:00",
-      "nom": "Advantage Solutions Inc."
+    "PCQ": {
+      "premiere": "2026-11-05T15:45+01:00",
+      "nom": "PCQ"
     },
-    "SOC": {
-      "premiere": "2026-11-04T21:38+01:00",
-      "nom": "Sable Offshore Corp."
-    },
-    "CIFR": {
-      "premiere": "2026-11-04T22:37+01:00",
-      "nom": "Cipher Digital Inc."
+    "AXTI": {
+      "premiere": "2026-11-05T15:45+01:00",
+      "nom": "AXT Inc"
     }
   },
   "sorties": [
-    {
-      "symbole": "PENG",
-      "date": "03/11/2026",
-      "nom": "Penguin Solutions, Inc."
-    },
-    {
-      "symbole": "INBX",
-      "date": "03/11/2026",
-      "nom": "Inhibrx Biosciences, Inc."
-    },
-    {
-      "symbole": "TE",
-      "date": "03/11/2026",
-      "nom": "T1 Energy Inc."
-    },
-    {
-      "symbole": "IHRT",
-      "date": "03/11/2026",
-      "nom": "iHeartMedia, Inc."
-    },
-    {
-      "symbole": "COUR",
-      "date": "03/11/2026",
-      "nom": "Coursera, Inc."
-    },
-    {
-      "symbole": "AL2SI.PA",
-      "date": "04/11/2026",
-      "nom": "2CRSI"
-    },
-    {
-      "symbole": "IHRT",
-      "date": "04/11/2026",
-      "nom": "iHeartMedia, Inc."
-    },
-    {
-      "symbole": "CMCO",
-      "date": "04/11/2026",
-      "nom": "Columbus McKinnon Corporation"
-    },
-    {
-      "symbole": "IBTA",
-      "date": "04/11/2026",
-      "nom": "Ibotta, Inc."
-    },
     {
       "symbole": "XTND",
       "date": "04/11/2026",
@@ -191,6 +142,51 @@
       "symbole": "PSEC",
       "date": "04/11/2026",
       "nom": "Prospect Capital Corporation"
+    },
+    {
+      "symbole": "MYN",
+      "date": "05/11/2026",
+      "nom": "Blackrock MuniYield New York Qu"
+    },
+    {
+      "symbole": "LYEL",
+      "date": "05/11/2026",
+      "nom": "Lyell Immunopharma, Inc."
+    },
+    {
+      "symbole": "CRCT",
+      "date": "05/11/2026",
+      "nom": "Cricut, Inc."
+    },
+    {
+      "symbole": "TREE",
+      "date": "05/11/2026",
+      "nom": "LendingTree, Inc."
+    },
+    {
+      "symbole": "RUN",
+      "date": "05/11/2026",
+      "nom": "Sunrun Inc."
+    },
+    {
+      "symbole": "EIKN",
+      "date": "05/11/2026",
+      "nom": "Eikon Therapeutics, Inc."
+    },
+    {
+      "symbole": "ADV",
+      "date": "05/11/2026",
+      "nom": "Advantage Solutions Inc."
+    },
+    {
+      "symbole": "SOC",
+      "date": "05/11/2026",
+      "nom": "Sable Offshore Corp."
+    },
+    {
+      "symbole": "CIFR",
+      "date": "05/11/2026",
+      "nom": "Cipher Digital Inc."
     }
   ]
 }
