@@ -1,9 +1,5 @@
 {
   "actuel": {
-    "PCQ": {
-      "premiere": "2026-11-05T15:45+01:00",
-      "nom": "PIMCO California Municipal Inco"
-    },
     "CLNE": {
       "premiere": "2026-11-06T15:41+01:00",
       "nom": "Clean Energy Fuels Corp."
@@ -20,10 +16,6 @@
       "premiere": "2026-11-06T15:41+01:00",
       "nom": "Alpha and Omega Semiconductor L"
     },
-    "SMR": {
-      "premiere": "2026-11-06T15:41+01:00",
-      "nom": "NuScale Power Corporation"
-    },
     "EVC": {
       "premiere": "2026-11-06T16:33+01:00",
       "nom": "Entravision Communications Corp"
@@ -39,19 +31,17 @@
     "BKD": {
       "premiere": "2026-11-06T18:36+01:00",
       "nom": "Brookdale Senior Living Inc."
+    },
+    "VOYG": {
+      "premiere": "2026-11-06T19:36+01:00",
+      "nom": "Voyager Technologies, Inc."
+    },
+    "SES": {
+      "premiere": "2026-11-06T19:36+01:00",
+      "nom": "SES AI Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "PSEC",
-      "date": "04/11/2026",
-      "nom": "Prospect Capital Corporation"
-    },
-    {
-      "symbole": "MYN",
-      "date": "05/11/2026",
-      "nom": "Blackrock MuniYield New York Qu"
-    },
     {
       "symbole": "LYEL",
       "date": "05/11/2026",
@@ -191,6 +181,16 @@
       "symbole": "LEU",
       "date": "06/11/2026",
       "nom": "Centrus Energy Corp."
+    },
+    {
+      "symbole": "PCQ",
+      "date": "06/11/2026",
+      "nom": "PIMCO California Municipal Inco"
+    },
+    {
+      "symbole": "SMR",
+      "date": "06/11/2026",
+      "nom": "NuScale Power Corporation"
     }
   ]
 }
