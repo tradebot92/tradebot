@@ -4,79 +4,40 @@
       "premiere": "2026-10-10T17:46+02:00",
       "nom": "Infleqtion, Inc."
     },
-    "XERS": {
-      "premiere": "2026-11-05T15:45+01:00",
-      "nom": "Xeris Biopharma Holdings, Inc."
-    },
     "PCQ": {
       "premiere": "2026-11-05T15:45+01:00",
-      "nom": "PIMCO California Municipal Inco"
+      "nom": "PCQ"
     },
     "AXTI": {
       "premiere": "2026-11-05T15:45+01:00",
       "nom": "AXT Inc"
     },
-    "DNUT": {
-      "premiere": "2026-11-05T16:44+01:00",
-      "nom": "Krispy Kreme, Inc."
+    "GTN-A": {
+      "premiere": "2026-11-06T15:41+01:00",
+      "nom": "Gray Media, Inc."
     },
-    "PGEN": {
-      "premiere": "2026-11-05T17:52+01:00",
-      "nom": "Precigen, Inc."
+    "CLNE": {
+      "premiere": "2026-11-06T15:41+01:00",
+      "nom": "Clean Energy Fuels Corp."
     },
-    "RUN": {
-      "premiere": "2026-11-05T17:52+01:00",
-      "nom": "Sunrun Inc."
+    "LASR": {
+      "premiere": "2026-11-06T15:41+01:00",
+      "nom": "nLIGHT, Inc."
     },
-    "ECPG": {
-      "premiere": "2026-11-05T18:46+01:00",
-      "nom": "Encore Capital Group Inc"
+    "GOGO": {
+      "premiere": "2026-11-06T15:41+01:00",
+      "nom": "Gogo Inc."
     },
-    "PTLO": {
-      "premiere": "2026-11-05T21:34+01:00",
-      "nom": "Portillo's Inc."
+    "AOSL": {
+      "premiere": "2026-11-06T15:41+01:00",
+      "nom": "Alpha and Omega Semiconductor L"
     },
-    "TBI": {
-      "premiere": "2026-11-05T22:30+01:00",
-      "nom": "TrueBlue, Inc."
+    "SMR": {
+      "premiere": "2026-11-06T15:41+01:00",
+      "nom": "NuScale Power Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "EIKN",
-      "date": "04/11/2026",
-      "nom": "Eikon Therapeutics, Inc."
-    },
-    {
-      "symbole": "FLNC",
-      "date": "04/11/2026",
-      "nom": "Fluence Energy, Inc."
-    },
-    {
-      "symbole": "UWMC",
-      "date": "04/11/2026",
-      "nom": "UWM Holdings Corporation"
-    },
-    {
-      "symbole": "EXK",
-      "date": "04/11/2026",
-      "nom": "Endeavour Silver Corporation"
-    },
-    {
-      "symbole": "ADV",
-      "date": "04/11/2026",
-      "nom": "Advantage Solutions Inc."
-    },
-    {
-      "symbole": "HELE",
-      "date": "04/11/2026",
-      "nom": "Helen of Troy Limited"
-    },
-    {
-      "symbole": "OPRT",
-      "date": "04/11/2026",
-      "nom": "Oportun Financial Corporation"
-    },
     {
       "symbole": "AXTI",
       "date": "04/11/2026",
@@ -191,6 +152,41 @@
       "symbole": "LYNX",
       "date": "05/11/2026",
       "nom": "Lyntris Inc."
+    },
+    {
+      "symbole": "XERS",
+      "date": "06/11/2026",
+      "nom": "Xeris Biopharma Holdings, Inc."
+    },
+    {
+      "symbole": "DNUT",
+      "date": "06/11/2026",
+      "nom": "Krispy Kreme, Inc."
+    },
+    {
+      "symbole": "PGEN",
+      "date": "06/11/2026",
+      "nom": "Precigen, Inc."
+    },
+    {
+      "symbole": "RUN",
+      "date": "06/11/2026",
+      "nom": "Sunrun Inc."
+    },
+    {
+      "symbole": "ECPG",
+      "date": "06/11/2026",
+      "nom": "Encore Capital Group Inc"
+    },
+    {
+      "symbole": "PTLO",
+      "date": "06/11/2026",
+      "nom": "Portillo's Inc."
+    },
+    {
+      "symbole": "TBI",
+      "date": "06/11/2026",
+      "nom": "TrueBlue, Inc."
     }
   ]
 }
