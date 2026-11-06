@@ -32,26 +32,16 @@
       "premiere": "2026-11-06T19:36+01:00",
       "nom": "Voyager Technologies, Inc."
     },
-    "SES": {
-      "premiere": "2026-11-06T19:36+01:00",
-      "nom": "SES AI Corporation"
+    "AOSL": {
+      "premiere": "2026-11-06T22:26+01:00",
+      "nom": "Alpha and Omega Semiconductor L"
     },
-    "OPTU": {
-      "premiere": "2026-11-06T21:32+01:00",
-      "nom": "Optimum Communications, Inc."
+    "CIFR": {
+      "premiere": "2026-11-06T22:26+01:00",
+      "nom": "Cipher Digital Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "CRCT",
-      "date": "05/11/2026",
-      "nom": "Cricut, Inc."
-    },
-    {
-      "symbole": "TREE",
-      "date": "05/11/2026",
-      "nom": "LendingTree, Inc."
-    },
     {
       "symbole": "RUN",
       "date": "05/11/2026",
@@ -191,6 +181,16 @@
       "symbole": "AOSL",
       "date": "06/11/2026",
       "nom": "Alpha and Omega Semiconductor L"
+    },
+    {
+      "symbole": "SES",
+      "date": "06/11/2026",
+      "nom": "SES AI Corporation"
+    },
+    {
+      "symbole": "OPTU",
+      "date": "06/11/2026",
+      "nom": "Optimum Communications, Inc."
     }
   ]
 }
