@@ -1,87 +1,43 @@
 {
   "actuel": {
-    "CLNE": {
-      "premiere": "2026-11-06T15:41+01:00",
-      "nom": "Clean Energy Fuels Corp."
-    },
-    "LASR": {
-      "premiere": "2026-11-06T15:41+01:00",
-      "nom": "nLIGHT, Inc."
-    },
-    "GOGO": {
-      "premiere": "2026-11-06T15:41+01:00",
-      "nom": "Gogo Inc."
-    },
-    "INFQ": {
-      "premiere": "2026-11-06T17:37+01:00",
-      "nom": "Infleqtion, Inc."
-    },
-    "LYNX": {
-      "premiere": "2026-11-06T18:36+01:00",
-      "nom": "Lyntris Inc."
-    },
-    "BKD": {
-      "premiere": "2026-11-06T18:36+01:00",
-      "nom": "Brookdale Senior Living Inc."
-    },
-    "AOSL": {
-      "premiere": "2026-11-06T22:26+01:00",
-      "nom": "Alpha and Omega Semiconductor L"
-    },
-    "CIFR": {
-      "premiere": "2026-11-06T22:26+01:00",
-      "nom": "Cipher Digital Inc."
-    },
     "PCQ": {
       "premiere": "2026-11-09T09:11+01:00",
-      "nom": "PIMCO California Municipal Inco"
+      "nom": "PCQ"
     },
     "AXTI": {
       "premiere": "2026-11-09T09:11+01:00",
       "nom": "AXT Inc"
+    },
+    "GFR": {
+      "premiere": "2026-11-09T16:18+01:00",
+      "nom": "Greenfire Resources Ltd."
+    },
+    "BW": {
+      "premiere": "2026-11-09T16:18+01:00",
+      "nom": "Babcock & Wilcox Enterprises, I"
+    },
+    "LINC": {
+      "premiere": "2026-11-09T16:18+01:00",
+      "nom": "Lincoln Educational Services Co"
+    },
+    "TMCI": {
+      "premiere": "2026-11-09T16:18+01:00",
+      "nom": "Treace Medical Concepts, Inc."
+    },
+    "UAMY": {
+      "premiere": "2026-11-09T16:18+01:00",
+      "nom": "United States Antimony Corporat"
+    },
+    "DDI": {
+      "premiere": "2026-11-09T16:18+01:00",
+      "nom": "DoubleDown Interactive Co., Ltd"
+    },
+    "VIR": {
+      "premiere": "2026-11-09T16:18+01:00",
+      "nom": "Vir Biotechnology, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "ADV",
-      "date": "05/11/2026",
-      "nom": "Advantage Solutions Inc."
-    },
-    {
-      "symbole": "SOC",
-      "date": "05/11/2026",
-      "nom": "Sable Offshore Corp."
-    },
-    {
-      "symbole": "CIFR",
-      "date": "05/11/2026",
-      "nom": "Cipher Digital Inc."
-    },
-    {
-      "symbole": "AGL",
-      "date": "05/11/2026",
-      "nom": "agilon health, inc."
-    },
-    {
-      "symbole": "ECPG",
-      "date": "05/11/2026",
-      "nom": "Encore Capital Group Inc"
-    },
-    {
-      "symbole": "ARDT",
-      "date": "05/11/2026",
-      "nom": "Ardent Health, Inc."
-    },
-    {
-      "symbole": "ONT",
-      "date": "05/11/2026",
-      "nom": "Onterris, Inc."
-    },
-    {
-      "symbole": "LYNX",
-      "date": "05/11/2026",
-      "nom": "Lyntris Inc."
-    },
     {
       "symbole": "PTLO",
       "date": "05/11/2026",
@@ -191,6 +147,46 @@
       "symbole": "VOYG",
       "date": "09/11/2026",
       "nom": "Voyager Technologies, Inc."
+    },
+    {
+      "symbole": "CLNE",
+      "date": "09/11/2026",
+      "nom": "Clean Energy Fuels Corp."
+    },
+    {
+      "symbole": "LASR",
+      "date": "09/11/2026",
+      "nom": "nLIGHT, Inc."
+    },
+    {
+      "symbole": "GOGO",
+      "date": "09/11/2026",
+      "nom": "Gogo Inc."
+    },
+    {
+      "symbole": "INFQ",
+      "date": "09/11/2026",
+      "nom": "Infleqtion, Inc."
+    },
+    {
+      "symbole": "LYNX",
+      "date": "09/11/2026",
+      "nom": "Lyntris Inc."
+    },
+    {
+      "symbole": "BKD",
+      "date": "09/11/2026",
+      "nom": "Brookdale Senior Living Inc."
+    },
+    {
+      "symbole": "AOSL",
+      "date": "09/11/2026",
+      "nom": "Alpha and Omega Semiconductor L"
+    },
+    {
+      "symbole": "CIFR",
+      "date": "09/11/2026",
+      "nom": "Cipher Digital Inc."
     }
   ]
 }
