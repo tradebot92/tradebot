@@ -12,10 +12,6 @@
       "premiere": "2026-11-06T15:41+01:00",
       "nom": "Gogo Inc."
     },
-    "EVC": {
-      "premiere": "2026-11-06T16:33+01:00",
-      "nom": "Entravision Communications Corp"
-    },
     "INFQ": {
       "premiere": "2026-11-06T17:37+01:00",
       "nom": "Infleqtion, Inc."
@@ -28,10 +24,6 @@
       "premiere": "2026-11-06T18:36+01:00",
       "nom": "Brookdale Senior Living Inc."
     },
-    "VOYG": {
-      "premiere": "2026-11-06T19:36+01:00",
-      "nom": "Voyager Technologies, Inc."
-    },
     "AOSL": {
       "premiere": "2026-11-06T22:26+01:00",
       "nom": "Alpha and Omega Semiconductor L"
@@ -39,19 +31,17 @@
     "CIFR": {
       "premiere": "2026-11-06T22:26+01:00",
       "nom": "Cipher Digital Inc."
+    },
+    "PCQ": {
+      "premiere": "2026-11-09T09:11+01:00",
+      "nom": "PCQ"
+    },
+    "AXTI": {
+      "premiere": "2026-11-09T09:11+01:00",
+      "nom": "AXT Inc"
     }
   },
   "sorties": [
-    {
-      "symbole": "RUN",
-      "date": "05/11/2026",
-      "nom": "Sunrun Inc."
-    },
-    {
-      "symbole": "EIKN",
-      "date": "05/11/2026",
-      "nom": "Eikon Therapeutics, Inc."
-    },
     {
       "symbole": "ADV",
       "date": "05/11/2026",
@@ -191,6 +181,16 @@
       "symbole": "OPTU",
       "date": "06/11/2026",
       "nom": "Optimum Communications, Inc."
+    },
+    {
+      "symbole": "EVC",
+      "date": "09/11/2026",
+      "nom": "Entravision Communications Corp"
+    },
+    {
+      "symbole": "VOYG",
+      "date": "09/11/2026",
+      "nom": "Voyager Technologies, Inc."
     }
   ]
 }
