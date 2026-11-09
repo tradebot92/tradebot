@@ -20,44 +20,24 @@
       "premiere": "2026-11-09T16:18+01:00",
       "nom": "Lincoln Educational Services Co"
     },
-    "TMCI": {
-      "premiere": "2026-11-09T16:18+01:00",
-      "nom": "Treace Medical Concepts, Inc."
+    "PSEC": {
+      "premiere": "2026-11-10T00:49+01:00",
+      "nom": "Prospect Capital Corporation"
     },
-    "UAMY": {
-      "premiere": "2026-11-09T16:18+01:00",
-      "nom": "United States Antimony Corporat"
+    "ASPN": {
+      "premiere": "2026-11-10T00:49+01:00",
+      "nom": "Aspen Aerogels, Inc."
     },
-    "DDI": {
-      "premiere": "2026-11-09T16:18+01:00",
-      "nom": "DoubleDown Interactive Co., Ltd"
+    "PTON": {
+      "premiere": "2026-11-10T00:49+01:00",
+      "nom": "Peloton Interactive, Inc."
     },
-    "VIR": {
-      "premiere": "2026-11-09T16:18+01:00",
-      "nom": "Vir Biotechnology, Inc."
+    "MPT": {
+      "premiere": "2026-11-10T00:49+01:00",
+      "nom": "Medical Properties Trust, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "PTLO",
-      "date": "05/11/2026",
-      "nom": "Portillo's Inc."
-    },
-    {
-      "symbole": "TBI",
-      "date": "05/11/2026",
-      "nom": "TrueBlue, Inc."
-    },
-    {
-      "symbole": "LYNX",
-      "date": "05/11/2026",
-      "nom": "Lyntris Inc."
-    },
-    {
-      "symbole": "XERS",
-      "date": "06/11/2026",
-      "nom": "Xeris Biopharma Holdings, Inc."
-    },
     {
       "symbole": "DNUT",
       "date": "06/11/2026",
@@ -187,6 +167,26 @@
       "symbole": "CIFR",
       "date": "09/11/2026",
       "nom": "Cipher Digital Inc."
+    },
+    {
+      "symbole": "TMCI",
+      "date": "10/11/2026",
+      "nom": "Treace Medical Concepts, Inc."
+    },
+    {
+      "symbole": "UAMY",
+      "date": "10/11/2026",
+      "nom": "United States Antimony Corporat"
+    },
+    {
+      "symbole": "DDI",
+      "date": "10/11/2026",
+      "nom": "DoubleDown Interactive Co., Ltd"
+    },
+    {
+      "symbole": "VIR",
+      "date": "10/11/2026",
+      "nom": "Vir Biotechnology, Inc."
     }
   ]
 }
