@@ -24,14 +24,6 @@
       "premiere": "2026-11-10T16:18+01:00",
       "nom": "ZipRecruiter, Inc."
     },
-    "SENS": {
-      "premiere": "2026-11-10T16:18+01:00",
-      "nom": "Senseonics Holdings, Inc."
-    },
-    "RXT": {
-      "premiere": "2026-11-10T16:18+01:00",
-      "nom": "Rackspace Technology, Inc."
-    },
     "LCID": {
       "premiere": "2026-11-10T16:18+01:00",
       "nom": "Lucid Group, Inc."
@@ -39,19 +31,17 @@
     "AMRC": {
       "premiere": "2026-11-10T16:18+01:00",
       "nom": "Ameresco, Inc."
+    },
+    "ALLO": {
+      "premiere": "2026-11-10T22:22+01:00",
+      "nom": "Allogene Therapeutics, Inc."
+    },
+    "CTEV": {
+      "premiere": "2026-11-10T22:22+01:00",
+      "nom": "Claritev Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "INFQ",
-      "date": "06/11/2026",
-      "nom": "Infleqtion, Inc."
-    },
-    {
-      "symbole": "GTN-A",
-      "date": "06/11/2026",
-      "nom": "Gray Media, Inc."
-    },
     {
       "symbole": "AXTI",
       "date": "06/11/2026",
@@ -191,6 +181,16 @@
       "symbole": "MPT",
       "date": "10/11/2026",
       "nom": "Medical Properties Trust, Inc."
+    },
+    {
+      "symbole": "SENS",
+      "date": "10/11/2026",
+      "nom": "Senseonics Holdings, Inc."
+    },
+    {
+      "symbole": "RXT",
+      "date": "10/11/2026",
+      "nom": "Rackspace Technology, Inc."
     }
   ]
 }
