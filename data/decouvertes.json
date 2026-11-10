@@ -8,66 +8,40 @@
       "premiere": "2026-11-09T09:11+01:00",
       "nom": "AXT Inc"
     },
-    "GFR": {
-      "premiere": "2026-11-09T16:18+01:00",
-      "nom": "Greenfire Resources Ltd."
-    },
     "BW": {
       "premiere": "2026-11-09T16:18+01:00",
       "nom": "Babcock & Wilcox Enterprises, I"
     },
-    "LINC": {
-      "premiere": "2026-11-09T16:18+01:00",
-      "nom": "Lincoln Educational Services Co"
+    "PEPG": {
+      "premiere": "2026-11-10T16:18+01:00",
+      "nom": "PepGen Inc."
     },
-    "PSEC": {
-      "premiere": "2026-11-10T00:49+01:00",
-      "nom": "Prospect Capital Corporation"
+    "SECZ": {
+      "premiere": "2026-11-10T16:18+01:00",
+      "nom": "Securitize Corp."
     },
-    "ASPN": {
-      "premiere": "2026-11-10T00:49+01:00",
-      "nom": "Aspen Aerogels, Inc."
+    "ZIP": {
+      "premiere": "2026-11-10T16:18+01:00",
+      "nom": "ZipRecruiter, Inc."
     },
-    "PTON": {
-      "premiere": "2026-11-10T00:49+01:00",
-      "nom": "Peloton Interactive, Inc."
+    "SENS": {
+      "premiere": "2026-11-10T16:18+01:00",
+      "nom": "Senseonics Holdings, Inc."
     },
-    "MPT": {
-      "premiere": "2026-11-10T00:49+01:00",
-      "nom": "Medical Properties Trust, Inc."
+    "RXT": {
+      "premiere": "2026-11-10T16:18+01:00",
+      "nom": "Rackspace Technology, Inc."
+    },
+    "LCID": {
+      "premiere": "2026-11-10T16:18+01:00",
+      "nom": "Lucid Group, Inc."
+    },
+    "AMRC": {
+      "premiere": "2026-11-10T16:18+01:00",
+      "nom": "Ameresco, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "DNUT",
-      "date": "06/11/2026",
-      "nom": "Krispy Kreme, Inc."
-    },
-    {
-      "symbole": "PGEN",
-      "date": "06/11/2026",
-      "nom": "Precigen, Inc."
-    },
-    {
-      "symbole": "RUN",
-      "date": "06/11/2026",
-      "nom": "Sunrun Inc."
-    },
-    {
-      "symbole": "ECPG",
-      "date": "06/11/2026",
-      "nom": "Encore Capital Group Inc"
-    },
-    {
-      "symbole": "PTLO",
-      "date": "06/11/2026",
-      "nom": "Portillo's Inc."
-    },
-    {
-      "symbole": "TBI",
-      "date": "06/11/2026",
-      "nom": "TrueBlue, Inc."
-    },
     {
       "symbole": "INFQ",
       "date": "06/11/2026",
@@ -187,6 +161,36 @@
       "symbole": "VIR",
       "date": "10/11/2026",
       "nom": "Vir Biotechnology, Inc."
+    },
+    {
+      "symbole": "GFR",
+      "date": "10/11/2026",
+      "nom": "Greenfire Resources Ltd."
+    },
+    {
+      "symbole": "LINC",
+      "date": "10/11/2026",
+      "nom": "Lincoln Educational Services Co"
+    },
+    {
+      "symbole": "PSEC",
+      "date": "10/11/2026",
+      "nom": "Prospect Capital Corporation"
+    },
+    {
+      "symbole": "ASPN",
+      "date": "10/11/2026",
+      "nom": "Aspen Aerogels, Inc."
+    },
+    {
+      "symbole": "PTON",
+      "date": "10/11/2026",
+      "nom": "Peloton Interactive, Inc."
+    },
+    {
+      "symbole": "MPT",
+      "date": "10/11/2026",
+      "nom": "Medical Properties Trust, Inc."
     }
   ]
 }
