@@ -2,7 +2,7 @@
   "actuel": {
     "PCQ": {
       "premiere": "2026-11-09T09:11+01:00",
-      "nom": "PIMCO California Municipal Inco"
+      "nom": "PCQ"
     },
     "AXTI": {
       "premiere": "2026-11-09T09:11+01:00",
@@ -12,66 +12,36 @@
       "premiere": "2026-11-10T16:18+01:00",
       "nom": "PepGen Inc."
     },
-    "SECZ": {
-      "premiere": "2026-11-10T16:18+01:00",
-      "nom": "Securitize Corp."
-    },
-    "ZIP": {
-      "premiere": "2026-11-10T16:18+01:00",
-      "nom": "ZipRecruiter, Inc."
-    },
-    "LCID": {
-      "premiere": "2026-11-10T16:18+01:00",
-      "nom": "Lucid Group, Inc."
-    },
-    "AMRC": {
-      "premiere": "2026-11-10T16:18+01:00",
-      "nom": "Ameresco, Inc."
-    },
-    "ALLO": {
-      "premiere": "2026-11-10T22:22+01:00",
-      "nom": "Allogene Therapeutics, Inc."
-    },
-    "CTEV": {
-      "premiere": "2026-11-10T22:22+01:00",
-      "nom": "Claritev Corporation"
-    },
     "INFQ": {
       "premiere": "2026-11-11T02:19+01:00",
       "nom": "Infleqtion, Inc."
+    },
+    "FOSL": {
+      "premiere": "2026-11-11T15:47+01:00",
+      "nom": "Fossil Group, Inc."
+    },
+    "HGTY": {
+      "premiere": "2026-11-11T15:47+01:00",
+      "nom": "Hagerty, Inc."
+    },
+    "RSKD": {
+      "premiere": "2026-11-11T15:47+01:00",
+      "nom": "Riskified Ltd."
+    },
+    "CARL": {
+      "premiere": "2026-11-11T15:47+01:00",
+      "nom": "Carlsmed, Inc."
+    },
+    "AZTA": {
+      "premiere": "2026-11-11T15:47+01:00",
+      "nom": "Azenta, Inc."
+    },
+    "ANGX": {
+      "premiere": "2026-11-11T15:47+01:00",
+      "nom": "Angel Studios, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "SLVM",
-      "date": "06/11/2026",
-      "nom": "Sylvamo Corporation"
-    },
-    {
-      "symbole": "LEU",
-      "date": "06/11/2026",
-      "nom": "Centrus Energy Corp."
-    },
-    {
-      "symbole": "PCQ",
-      "date": "06/11/2026",
-      "nom": "PIMCO California Municipal Inco"
-    },
-    {
-      "symbole": "SMR",
-      "date": "06/11/2026",
-      "nom": "NuScale Power Corporation"
-    },
-    {
-      "symbole": "AOSL",
-      "date": "06/11/2026",
-      "nom": "Alpha and Omega Semiconductor L"
-    },
-    {
-      "symbole": "SES",
-      "date": "06/11/2026",
-      "nom": "SES AI Corporation"
-    },
     {
       "symbole": "OPTU",
       "date": "06/11/2026",
@@ -191,6 +161,36 @@
       "symbole": "BW",
       "date": "11/11/2026",
       "nom": "Babcock & Wilcox Enterprises, I"
+    },
+    {
+      "symbole": "SECZ",
+      "date": "11/11/2026",
+      "nom": "Securitize Corp."
+    },
+    {
+      "symbole": "ZIP",
+      "date": "11/11/2026",
+      "nom": "ZipRecruiter, Inc."
+    },
+    {
+      "symbole": "LCID",
+      "date": "11/11/2026",
+      "nom": "Lucid Group, Inc."
+    },
+    {
+      "symbole": "AMRC",
+      "date": "11/11/2026",
+      "nom": "Ameresco, Inc."
+    },
+    {
+      "symbole": "ALLO",
+      "date": "11/11/2026",
+      "nom": "Allogene Therapeutics, Inc."
+    },
+    {
+      "symbole": "CTEV",
+      "date": "11/11/2026",
+      "nom": "Claritev Corporation"
     }
   ]
 }
