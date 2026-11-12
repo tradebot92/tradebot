@@ -12,66 +12,36 @@
       "premiere": "2026-11-11T02:19+01:00",
       "nom": "Infleqtion, Inc."
     },
-    "FOSL": {
-      "premiere": "2026-11-11T15:47+01:00",
-      "nom": "Fossil Group, Inc."
-    },
-    "RSKD": {
-      "premiere": "2026-11-11T15:47+01:00",
-      "nom": "Riskified Ltd."
-    },
-    "CARL": {
-      "premiere": "2026-11-11T15:47+01:00",
-      "nom": "Carlsmed, Inc."
-    },
-    "SABR": {
-      "premiere": "2026-11-11T22:38+01:00",
-      "nom": "Sabre Corporation"
-    },
-    "CAPR": {
-      "premiere": "2026-11-11T22:38+01:00",
-      "nom": "Capricor Therapeutics, Inc."
-    },
-    "LAC": {
-      "premiere": "2026-11-11T22:38+01:00",
-      "nom": "Lithium Americas Corp."
-    },
     "MYN": {
       "premiere": "2026-11-11T22:38+01:00",
       "nom": "Blackrock MuniYield New York Qu"
+    },
+    "AVEX": {
+      "premiere": "2026-11-12T16:40+01:00",
+      "nom": "AEVEX Corp."
+    },
+    "AGBK": {
+      "premiere": "2026-11-12T16:40+01:00",
+      "nom": "AGI Inc"
+    },
+    "UNIT": {
+      "premiere": "2026-11-12T16:40+01:00",
+      "nom": "Uniti Group Inc."
+    },
+    "AXTI": {
+      "premiere": "2026-11-12T16:40+01:00",
+      "nom": "AXT Inc"
+    },
+    "EIKN": {
+      "premiere": "2026-11-12T16:40+01:00",
+      "nom": "Eikon Therapeutics, Inc."
+    },
+    "LIFE": {
+      "premiere": "2026-11-12T16:40+01:00",
+      "nom": "Ethos Technologies Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "LASR",
-      "date": "09/11/2026",
-      "nom": "nLIGHT, Inc."
-    },
-    {
-      "symbole": "GOGO",
-      "date": "09/11/2026",
-      "nom": "Gogo Inc."
-    },
-    {
-      "symbole": "INFQ",
-      "date": "09/11/2026",
-      "nom": "Infleqtion, Inc."
-    },
-    {
-      "symbole": "LYNX",
-      "date": "09/11/2026",
-      "nom": "Lyntris Inc."
-    },
-    {
-      "symbole": "BKD",
-      "date": "09/11/2026",
-      "nom": "Brookdale Senior Living Inc."
-    },
-    {
-      "symbole": "AOSL",
-      "date": "09/11/2026",
-      "nom": "Alpha and Omega Semiconductor L"
-    },
     {
       "symbole": "CIFR",
       "date": "09/11/2026",
@@ -191,6 +161,36 @@
       "symbole": "ANGX",
       "date": "11/11/2026",
       "nom": "Angel Studios, Inc."
+    },
+    {
+      "symbole": "FOSL",
+      "date": "12/11/2026",
+      "nom": "Fossil Group, Inc."
+    },
+    {
+      "symbole": "RSKD",
+      "date": "12/11/2026",
+      "nom": "Riskified Ltd."
+    },
+    {
+      "symbole": "CARL",
+      "date": "12/11/2026",
+      "nom": "Carlsmed, Inc."
+    },
+    {
+      "symbole": "SABR",
+      "date": "12/11/2026",
+      "nom": "Sabre Corporation"
+    },
+    {
+      "symbole": "CAPR",
+      "date": "12/11/2026",
+      "nom": "Capricor Therapeutics, Inc."
+    },
+    {
+      "symbole": "LAC",
+      "date": "12/11/2026",
+      "nom": "Lithium Americas Corp."
     }
   ]
 }
