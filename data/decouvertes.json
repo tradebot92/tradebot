@@ -2,19 +2,11 @@
   "actuel": {
     "PCQ": {
       "premiere": "2026-11-09T09:11+01:00",
-      "nom": "PIMCO California Municipal Inco"
-    },
-    "PEPG": {
-      "premiere": "2026-11-10T16:18+01:00",
-      "nom": "PepGen Inc."
+      "nom": "PCQ"
     },
     "INFQ": {
       "premiere": "2026-11-11T02:19+01:00",
       "nom": "Infleqtion, Inc."
-    },
-    "MYN": {
-      "premiere": "2026-11-11T22:38+01:00",
-      "nom": "Blackrock MuniYield New York Qu"
     },
     "AVEX": {
       "premiere": "2026-11-12T16:40+01:00",
@@ -24,49 +16,32 @@
       "premiere": "2026-11-12T16:40+01:00",
       "nom": "AGI Inc"
     },
-    "UNIT": {
-      "premiere": "2026-11-12T16:40+01:00",
-      "nom": "Uniti Group Inc."
-    },
     "AXTI": {
       "premiere": "2026-11-12T16:40+01:00",
       "nom": "AXT Inc"
     },
-    "EIKN": {
-      "premiere": "2026-11-12T16:40+01:00",
-      "nom": "Eikon Therapeutics, Inc."
+    "FRMI": {
+      "premiere": "2026-11-12T22:57+01:00",
+      "nom": "Fermi Inc."
     },
-    "LIFE": {
-      "premiere": "2026-11-12T16:40+01:00",
-      "nom": "Ethos Technologies Inc."
+    "ENVX": {
+      "premiere": "2026-11-12T22:57+01:00",
+      "nom": "Enovix Corporation"
+    },
+    "TE": {
+      "premiere": "2026-11-12T22:57+01:00",
+      "nom": "T1 Energy Inc."
+    },
+    "SENEB": {
+      "premiere": "2026-11-12T22:57+01:00",
+      "nom": "Seneca Foods Corp."
+    },
+    "ADRX": {
+      "premiere": "2026-11-12T22:57+01:00",
+      "nom": "ADARx Pharmaceuticals, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "CIFR",
-      "date": "09/11/2026",
-      "nom": "Cipher Digital Inc."
-    },
-    {
-      "symbole": "TMCI",
-      "date": "10/11/2026",
-      "nom": "Treace Medical Concepts, Inc."
-    },
-    {
-      "symbole": "UAMY",
-      "date": "10/11/2026",
-      "nom": "United States Antimony Corporat"
-    },
-    {
-      "symbole": "DDI",
-      "date": "10/11/2026",
-      "nom": "DoubleDown Interactive Co., Ltd"
-    },
-    {
-      "symbole": "VIR",
-      "date": "10/11/2026",
-      "nom": "Vir Biotechnology, Inc."
-    },
     {
       "symbole": "GFR",
       "date": "10/11/2026",
@@ -191,6 +166,31 @@
       "symbole": "LAC",
       "date": "12/11/2026",
       "nom": "Lithium Americas Corp."
+    },
+    {
+      "symbole": "PEPG",
+      "date": "12/11/2026",
+      "nom": "PepGen Inc."
+    },
+    {
+      "symbole": "MYN",
+      "date": "12/11/2026",
+      "nom": "Blackrock MuniYield New York Qu"
+    },
+    {
+      "symbole": "UNIT",
+      "date": "12/11/2026",
+      "nom": "Uniti Group Inc."
+    },
+    {
+      "symbole": "EIKN",
+      "date": "12/11/2026",
+      "nom": "Eikon Therapeutics, Inc."
+    },
+    {
+      "symbole": "LIFE",
+      "date": "12/11/2026",
+      "nom": "Ethos Technologies Inc."
     }
   ]
 }
