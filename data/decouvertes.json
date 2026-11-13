@@ -2,81 +2,46 @@
   "actuel": {
     "PCQ": {
       "premiere": "2026-11-09T09:11+01:00",
-      "nom": "PCQ"
+      "nom": "PIMCO California Municipal Inco"
     },
     "INFQ": {
       "premiere": "2026-11-11T02:19+01:00",
       "nom": "Infleqtion, Inc."
     },
-    "AVEX": {
-      "premiere": "2026-11-12T16:40+01:00",
-      "nom": "AEVEX Corp."
-    },
-    "AGBK": {
-      "premiere": "2026-11-12T16:40+01:00",
-      "nom": "AGI Inc"
-    },
     "AXTI": {
       "premiere": "2026-11-12T16:40+01:00",
       "nom": "AXT Inc"
     },
-    "FRMI": {
-      "premiere": "2026-11-12T22:57+01:00",
-      "nom": "Fermi Inc."
+    "NMAX": {
+      "premiere": "2026-11-13T15:58+01:00",
+      "nom": "Newsmax, Inc."
     },
-    "ENVX": {
-      "premiere": "2026-11-12T22:57+01:00",
-      "nom": "Enovix Corporation"
+    "HAWK": {
+      "premiere": "2026-11-13T15:58+01:00",
+      "nom": "HawkEye 360, Inc."
     },
-    "TE": {
-      "premiere": "2026-11-12T22:57+01:00",
-      "nom": "T1 Energy Inc."
+    "CLBT": {
+      "premiere": "2026-11-13T15:58+01:00",
+      "nom": "Cellebrite DI Ltd."
     },
-    "SENEB": {
-      "premiere": "2026-11-12T22:57+01:00",
-      "nom": "Seneca Foods Corp."
+    "BUR": {
+      "premiere": "2026-11-13T15:58+01:00",
+      "nom": "Burford Capital Limited"
     },
-    "ADRX": {
-      "premiere": "2026-11-12T22:57+01:00",
-      "nom": "ADARx Pharmaceuticals, Inc."
+    "MYN": {
+      "premiere": "2026-11-13T15:58+01:00",
+      "nom": "Blackrock MuniYield New York Qu"
+    },
+    "EIKN": {
+      "premiere": "2026-11-13T15:58+01:00",
+      "nom": "Eikon Therapeutics, Inc."
+    },
+    "LIFE": {
+      "premiere": "2026-11-13T15:58+01:00",
+      "nom": "Ethos Technologies Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "GFR",
-      "date": "10/11/2026",
-      "nom": "Greenfire Resources Ltd."
-    },
-    {
-      "symbole": "LINC",
-      "date": "10/11/2026",
-      "nom": "Lincoln Educational Services Co"
-    },
-    {
-      "symbole": "PSEC",
-      "date": "10/11/2026",
-      "nom": "Prospect Capital Corporation"
-    },
-    {
-      "symbole": "ASPN",
-      "date": "10/11/2026",
-      "nom": "Aspen Aerogels, Inc."
-    },
-    {
-      "symbole": "PTON",
-      "date": "10/11/2026",
-      "nom": "Peloton Interactive, Inc."
-    },
-    {
-      "symbole": "MPT",
-      "date": "10/11/2026",
-      "nom": "Medical Properties Trust, Inc."
-    },
-    {
-      "symbole": "SENS",
-      "date": "10/11/2026",
-      "nom": "Senseonics Holdings, Inc."
-    },
     {
       "symbole": "RXT",
       "date": "10/11/2026",
@@ -191,6 +156,41 @@
       "symbole": "LIFE",
       "date": "12/11/2026",
       "nom": "Ethos Technologies Inc."
+    },
+    {
+      "symbole": "AVEX",
+      "date": "13/11/2026",
+      "nom": "AEVEX Corp."
+    },
+    {
+      "symbole": "AGBK",
+      "date": "13/11/2026",
+      "nom": "AGI Inc"
+    },
+    {
+      "symbole": "FRMI",
+      "date": "13/11/2026",
+      "nom": "Fermi Inc."
+    },
+    {
+      "symbole": "ENVX",
+      "date": "13/11/2026",
+      "nom": "Enovix Corporation"
+    },
+    {
+      "symbole": "TE",
+      "date": "13/11/2026",
+      "nom": "T1 Energy Inc."
+    },
+    {
+      "symbole": "SENEB",
+      "date": "13/11/2026",
+      "nom": "Seneca Foods Corp."
+    },
+    {
+      "symbole": "ADRX",
+      "date": "13/11/2026",
+      "nom": "ADARx Pharmaceuticals, Inc."
     }
   ]
 }
