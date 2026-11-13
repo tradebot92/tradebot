@@ -2,7 +2,7 @@
   "actuel": {
     "PCQ": {
       "premiere": "2026-11-09T09:11+01:00",
-      "nom": "PIMCO California Municipal Inco"
+      "nom": "PCQ"
     },
     "INFQ": {
       "premiere": "2026-11-11T02:19+01:00",
@@ -20,53 +20,28 @@
       "premiere": "2026-11-13T15:58+01:00",
       "nom": "HawkEye 360, Inc."
     },
-    "CLBT": {
-      "premiere": "2026-11-13T15:58+01:00",
-      "nom": "Cellebrite DI Ltd."
+    "FRMI": {
+      "premiere": "2026-11-13T22:11+01:00",
+      "nom": "Fermi Inc."
     },
-    "BUR": {
-      "premiere": "2026-11-13T15:58+01:00",
-      "nom": "Burford Capital Limited"
+    "VIR": {
+      "premiere": "2026-11-13T22:11+01:00",
+      "nom": "Vir Biotechnology, Inc."
     },
-    "MYN": {
-      "premiere": "2026-11-13T15:58+01:00",
-      "nom": "Blackrock MuniYield New York Qu"
+    "FLO": {
+      "premiere": "2026-11-13T22:11+01:00",
+      "nom": "Flowers Foods, Inc."
     },
-    "EIKN": {
-      "premiere": "2026-11-13T15:58+01:00",
-      "nom": "Eikon Therapeutics, Inc."
+    "ENVX": {
+      "premiere": "2026-11-13T22:11+01:00",
+      "nom": "Enovix Corporation"
     },
-    "LIFE": {
-      "premiere": "2026-11-13T15:58+01:00",
-      "nom": "Ethos Technologies Inc."
+    "UNIT": {
+      "premiere": "2026-11-13T22:11+01:00",
+      "nom": "Uniti Group Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "RXT",
-      "date": "10/11/2026",
-      "nom": "Rackspace Technology, Inc."
-    },
-    {
-      "symbole": "BW",
-      "date": "11/11/2026",
-      "nom": "Babcock & Wilcox Enterprises, I"
-    },
-    {
-      "symbole": "SECZ",
-      "date": "11/11/2026",
-      "nom": "Securitize Corp."
-    },
-    {
-      "symbole": "ZIP",
-      "date": "11/11/2026",
-      "nom": "ZipRecruiter, Inc."
-    },
-    {
-      "symbole": "LCID",
-      "date": "11/11/2026",
-      "nom": "Lucid Group, Inc."
-    },
     {
       "symbole": "AMRC",
       "date": "11/11/2026",
@@ -191,6 +166,31 @@
       "symbole": "ADRX",
       "date": "13/11/2026",
       "nom": "ADARx Pharmaceuticals, Inc."
+    },
+    {
+      "symbole": "CLBT",
+      "date": "13/11/2026",
+      "nom": "Cellebrite DI Ltd."
+    },
+    {
+      "symbole": "BUR",
+      "date": "13/11/2026",
+      "nom": "Burford Capital Limited"
+    },
+    {
+      "symbole": "MYN",
+      "date": "13/11/2026",
+      "nom": "Blackrock MuniYield New York Qu"
+    },
+    {
+      "symbole": "EIKN",
+      "date": "13/11/2026",
+      "nom": "Eikon Therapeutics, Inc."
+    },
+    {
+      "symbole": "LIFE",
+      "date": "13/11/2026",
+      "nom": "Ethos Technologies Inc."
     }
   ]
 }
