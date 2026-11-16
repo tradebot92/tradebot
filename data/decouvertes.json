@@ -12,71 +12,36 @@
       "premiere": "2026-11-12T16:40+01:00",
       "nom": "AXT Inc"
     },
-    "NMAX": {
-      "premiere": "2026-11-13T15:58+01:00",
-      "nom": "Newsmax, Inc."
+    "XTND": {
+      "premiere": "2026-11-16T17:35+01:00",
+      "nom": "Xtend AI Robotics, Inc."
     },
-    "HAWK": {
-      "premiere": "2026-11-13T15:58+01:00",
-      "nom": "HawkEye 360, Inc."
+    "OFRM": {
+      "premiere": "2026-11-16T17:35+01:00",
+      "nom": "Once Upon a Farm, PBC"
     },
-    "FRMI": {
-      "premiere": "2026-11-13T22:11+01:00",
-      "nom": "Fermi Inc."
+    "GTN-A": {
+      "premiere": "2026-11-16T17:35+01:00",
+      "nom": "Gray Media, Inc."
     },
-    "VIR": {
-      "premiere": "2026-11-13T22:11+01:00",
-      "nom": "Vir Biotechnology, Inc."
+    "FOIL": {
+      "premiere": "2026-11-16T17:35+01:00",
+      "nom": "Londian Wason New Energy Tech I"
     },
-    "FLO": {
-      "premiere": "2026-11-13T22:11+01:00",
-      "nom": "Flowers Foods, Inc."
+    "ZIP": {
+      "premiere": "2026-11-16T17:35+01:00",
+      "nom": "ZipRecruiter, Inc."
     },
-    "ENVX": {
-      "premiere": "2026-11-13T22:11+01:00",
-      "nom": "Enovix Corporation"
+    "MYN": {
+      "premiere": "2026-11-16T17:35+01:00",
+      "nom": "Blackrock MuniYield New York Qu"
     },
-    "UNIT": {
-      "premiere": "2026-11-13T22:11+01:00",
-      "nom": "Uniti Group Inc."
+    "EIKN": {
+      "premiere": "2026-11-16T17:35+01:00",
+      "nom": "Eikon Therapeutics, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "AMRC",
-      "date": "11/11/2026",
-      "nom": "Ameresco, Inc."
-    },
-    {
-      "symbole": "ALLO",
-      "date": "11/11/2026",
-      "nom": "Allogene Therapeutics, Inc."
-    },
-    {
-      "symbole": "CTEV",
-      "date": "11/11/2026",
-      "nom": "Claritev Corporation"
-    },
-    {
-      "symbole": "AXTI",
-      "date": "11/11/2026",
-      "nom": "AXT Inc"
-    },
-    {
-      "symbole": "HGTY",
-      "date": "11/11/2026",
-      "nom": "Hagerty, Inc."
-    },
-    {
-      "symbole": "AZTA",
-      "date": "11/11/2026",
-      "nom": "Azenta, Inc."
-    },
-    {
-      "symbole": "ANGX",
-      "date": "11/11/2026",
-      "nom": "Angel Studios, Inc."
-    },
     {
       "symbole": "FOSL",
       "date": "12/11/2026",
@@ -191,6 +156,41 @@
       "symbole": "LIFE",
       "date": "13/11/2026",
       "nom": "Ethos Technologies Inc."
+    },
+    {
+      "symbole": "NMAX",
+      "date": "16/11/2026",
+      "nom": "Newsmax, Inc."
+    },
+    {
+      "symbole": "HAWK",
+      "date": "16/11/2026",
+      "nom": "HawkEye 360, Inc."
+    },
+    {
+      "symbole": "FRMI",
+      "date": "16/11/2026",
+      "nom": "Fermi Inc."
+    },
+    {
+      "symbole": "VIR",
+      "date": "16/11/2026",
+      "nom": "Vir Biotechnology, Inc."
+    },
+    {
+      "symbole": "FLO",
+      "date": "16/11/2026",
+      "nom": "Flowers Foods, Inc."
+    },
+    {
+      "symbole": "ENVX",
+      "date": "16/11/2026",
+      "nom": "Enovix Corporation"
+    },
+    {
+      "symbole": "UNIT",
+      "date": "16/11/2026",
+      "nom": "Uniti Group Inc."
     }
   ]
 }
