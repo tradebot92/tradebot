@@ -2,7 +2,7 @@
   "actuel": {
     "PCQ": {
       "premiere": "2026-11-09T09:11+01:00",
-      "nom": "PCQ"
+      "nom": "PIMCO California Municipal Inco"
     },
     "INFQ": {
       "premiere": "2026-11-11T02:19+01:00",
@@ -24,35 +24,20 @@
       "premiere": "2026-11-17T17:33+01:00",
       "nom": "Similarweb Ltd."
     },
-    "MYN": {
-      "premiere": "2026-11-17T17:33+01:00",
-      "nom": "Blackrock MuniYield New York Qu"
+    "TROX": {
+      "premiere": "2026-11-18T00:42+01:00",
+      "nom": "Tronox Holdings plc"
     },
-    "LIFE": {
-      "premiere": "2026-11-17T17:33+01:00",
-      "nom": "Ethos Technologies Inc."
+    "IQ": {
+      "premiere": "2026-11-18T00:42+01:00",
+      "nom": "iQIYI, Inc."
     },
-    "CEPU": {
-      "premiere": "2026-11-17T17:33+01:00",
-      "nom": "Central Puerto S.A."
+    "LUXE": {
+      "premiere": "2026-11-18T00:42+01:00",
+      "nom": "LuxExperience B.V."
     }
   },
   "sorties": [
-    {
-      "symbole": "AVEX",
-      "date": "13/11/2026",
-      "nom": "AEVEX Corp."
-    },
-    {
-      "symbole": "AGBK",
-      "date": "13/11/2026",
-      "nom": "AGI Inc"
-    },
-    {
-      "symbole": "FRMI",
-      "date": "13/11/2026",
-      "nom": "Fermi Inc."
-    },
     {
       "symbole": "ENVX",
       "date": "13/11/2026",
@@ -187,6 +172,21 @@
       "symbole": "FRMI",
       "date": "17/11/2026",
       "nom": "Fermi Inc."
+    },
+    {
+      "symbole": "MYN",
+      "date": "18/11/2026",
+      "nom": "Blackrock MuniYield New York Qu"
+    },
+    {
+      "symbole": "LIFE",
+      "date": "18/11/2026",
+      "nom": "Ethos Technologies Inc."
+    },
+    {
+      "symbole": "CEPU",
+      "date": "18/11/2026",
+      "nom": "Central Puerto S.A."
     }
   ]
 }
