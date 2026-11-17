@@ -12,71 +12,32 @@
       "premiere": "2026-11-12T16:40+01:00",
       "nom": "AXT Inc"
     },
-    "OFRM": {
-      "premiere": "2026-11-16T17:35+01:00",
-      "nom": "Once Upon a Farm, PBC"
+    "LUCK": {
+      "premiere": "2026-11-17T17:33+01:00",
+      "nom": "LUCKY STRIKE ENTERTAINMENT CORP"
     },
-    "GTN-A": {
-      "premiere": "2026-11-16T17:35+01:00",
-      "nom": "Gray Media, Inc."
+    "ENR": {
+      "premiere": "2026-11-17T17:33+01:00",
+      "nom": "Energizer Holdings, Inc."
     },
-    "ZIP": {
-      "premiere": "2026-11-16T17:35+01:00",
-      "nom": "ZipRecruiter, Inc."
+    "SMWB": {
+      "premiere": "2026-11-17T17:33+01:00",
+      "nom": "Similarweb Ltd."
     },
-    "MPT": {
-      "premiere": "2026-11-17T01:33+01:00",
-      "nom": "Medical Properties Trust, Inc."
+    "MYN": {
+      "premiere": "2026-11-17T17:33+01:00",
+      "nom": "Blackrock MuniYield New York Qu"
     },
-    "PSEC": {
-      "premiere": "2026-11-17T01:33+01:00",
-      "nom": "Prospect Capital Corporation"
+    "LIFE": {
+      "premiere": "2026-11-17T17:33+01:00",
+      "nom": "Ethos Technologies Inc."
     },
-    "IQ": {
-      "premiere": "2026-11-17T01:33+01:00",
-      "nom": "iQIYI, Inc."
-    },
-    "FRMI": {
-      "premiere": "2026-11-17T01:33+01:00",
-      "nom": "Fermi Inc."
+    "CEPU": {
+      "premiere": "2026-11-17T17:33+01:00",
+      "nom": "Central Puerto S.A."
     }
   },
   "sorties": [
-    {
-      "symbole": "CAPR",
-      "date": "12/11/2026",
-      "nom": "Capricor Therapeutics, Inc."
-    },
-    {
-      "symbole": "LAC",
-      "date": "12/11/2026",
-      "nom": "Lithium Americas Corp."
-    },
-    {
-      "symbole": "PEPG",
-      "date": "12/11/2026",
-      "nom": "PepGen Inc."
-    },
-    {
-      "symbole": "MYN",
-      "date": "12/11/2026",
-      "nom": "Blackrock MuniYield New York Qu"
-    },
-    {
-      "symbole": "UNIT",
-      "date": "12/11/2026",
-      "nom": "Uniti Group Inc."
-    },
-    {
-      "symbole": "EIKN",
-      "date": "12/11/2026",
-      "nom": "Eikon Therapeutics, Inc."
-    },
-    {
-      "symbole": "LIFE",
-      "date": "12/11/2026",
-      "nom": "Ethos Technologies Inc."
-    },
     {
       "symbole": "AVEX",
       "date": "13/11/2026",
@@ -191,6 +152,41 @@
       "symbole": "EIKN",
       "date": "17/11/2026",
       "nom": "Eikon Therapeutics, Inc."
+    },
+    {
+      "symbole": "OFRM",
+      "date": "17/11/2026",
+      "nom": "Once Upon a Farm, PBC"
+    },
+    {
+      "symbole": "GTN-A",
+      "date": "17/11/2026",
+      "nom": "Gray Media, Inc."
+    },
+    {
+      "symbole": "ZIP",
+      "date": "17/11/2026",
+      "nom": "ZipRecruiter, Inc."
+    },
+    {
+      "symbole": "MPT",
+      "date": "17/11/2026",
+      "nom": "Medical Properties Trust, Inc."
+    },
+    {
+      "symbole": "PSEC",
+      "date": "17/11/2026",
+      "nom": "Prospect Capital Corporation"
+    },
+    {
+      "symbole": "IQ",
+      "date": "17/11/2026",
+      "nom": "iQIYI, Inc."
+    },
+    {
+      "symbole": "FRMI",
+      "date": "17/11/2026",
+      "nom": "Fermi Inc."
     }
   ]
 }
