@@ -4,75 +4,44 @@
       "premiere": "2026-11-09T09:11+01:00",
       "nom": "PIMCO California Municipal Inco"
     },
-    "INFQ": {
-      "premiere": "2026-11-11T02:19+01:00",
-      "nom": "Infleqtion, Inc."
-    },
     "AXTI": {
       "premiere": "2026-11-12T16:40+01:00",
       "nom": "AXT Inc"
     },
-    "LUCK": {
-      "premiere": "2026-11-17T17:33+01:00",
-      "nom": "LUCKY STRIKE ENTERTAINMENT CORP"
+    "JMIA": {
+      "premiere": "2026-11-18T17:02+01:00",
+      "nom": "Jumia Technologies AG"
     },
-    "ENR": {
-      "premiere": "2026-11-17T17:33+01:00",
-      "nom": "Energizer Holdings, Inc."
+    "BRBR": {
+      "premiere": "2026-11-18T17:02+01:00",
+      "nom": "BellRing Brands, Inc."
     },
-    "SMWB": {
-      "premiere": "2026-11-17T17:33+01:00",
-      "nom": "Similarweb Ltd."
+    "CSHR": {
+      "premiere": "2026-11-18T17:02+01:00",
+      "nom": "CoinShares PLC"
     },
-    "TROX": {
-      "premiere": "2026-11-18T00:42+01:00",
-      "nom": "Tronox Holdings plc"
+    "OPEN": {
+      "premiere": "2026-11-18T17:02+01:00",
+      "nom": "Opendoor Technologies Inc"
     },
-    "IQ": {
-      "premiere": "2026-11-18T00:42+01:00",
-      "nom": "iQIYI, Inc."
+    "HUYA": {
+      "premiere": "2026-11-18T17:02+01:00",
+      "nom": "HUYA Inc."
     },
-    "LUXE": {
-      "premiere": "2026-11-18T00:42+01:00",
-      "nom": "LuxExperience B.V."
+    "FSLY": {
+      "premiere": "2026-11-18T17:02+01:00",
+      "nom": "Fastly, Inc."
+    },
+    "ABSI": {
+      "premiere": "2026-11-18T17:02+01:00",
+      "nom": "Absci Corporation"
+    },
+    "MYN": {
+      "premiere": "2026-11-18T17:02+01:00",
+      "nom": "Blackrock MuniYield New York Qu"
     }
   },
   "sorties": [
-    {
-      "symbole": "ENVX",
-      "date": "13/11/2026",
-      "nom": "Enovix Corporation"
-    },
-    {
-      "symbole": "TE",
-      "date": "13/11/2026",
-      "nom": "T1 Energy Inc."
-    },
-    {
-      "symbole": "SENEB",
-      "date": "13/11/2026",
-      "nom": "Seneca Foods Corp."
-    },
-    {
-      "symbole": "ADRX",
-      "date": "13/11/2026",
-      "nom": "ADARx Pharmaceuticals, Inc."
-    },
-    {
-      "symbole": "CLBT",
-      "date": "13/11/2026",
-      "nom": "Cellebrite DI Ltd."
-    },
-    {
-      "symbole": "BUR",
-      "date": "13/11/2026",
-      "nom": "Burford Capital Limited"
-    },
-    {
-      "symbole": "MYN",
-      "date": "13/11/2026",
-      "nom": "Blackrock MuniYield New York Qu"
-    },
     {
       "symbole": "EIKN",
       "date": "13/11/2026",
@@ -187,6 +156,41 @@
       "symbole": "CEPU",
       "date": "18/11/2026",
       "nom": "Central Puerto S.A."
+    },
+    {
+      "symbole": "INFQ",
+      "date": "18/11/2026",
+      "nom": "Infleqtion, Inc."
+    },
+    {
+      "symbole": "LUCK",
+      "date": "18/11/2026",
+      "nom": "LUCKY STRIKE ENTERTAINMENT CORP"
+    },
+    {
+      "symbole": "ENR",
+      "date": "18/11/2026",
+      "nom": "Energizer Holdings, Inc."
+    },
+    {
+      "symbole": "SMWB",
+      "date": "18/11/2026",
+      "nom": "Similarweb Ltd."
+    },
+    {
+      "symbole": "TROX",
+      "date": "18/11/2026",
+      "nom": "Tronox Holdings plc"
+    },
+    {
+      "symbole": "IQ",
+      "date": "18/11/2026",
+      "nom": "iQIYI, Inc."
+    },
+    {
+      "symbole": "LUXE",
+      "date": "18/11/2026",
+      "nom": "LuxExperience B.V."
     }
   ]
 }
