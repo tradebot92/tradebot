@@ -12,66 +12,36 @@
       "premiere": "2026-11-18T17:02+01:00",
       "nom": "Jumia Technologies AG"
     },
-    "BRBR": {
-      "premiere": "2026-11-18T17:02+01:00",
-      "nom": "BellRing Brands, Inc."
-    },
-    "CSHR": {
-      "premiere": "2026-11-18T17:02+01:00",
-      "nom": "CoinShares PLC"
-    },
-    "FSLY": {
-      "premiere": "2026-11-18T17:02+01:00",
-      "nom": "Fastly, Inc."
-    },
     "MYN": {
       "premiere": "2026-11-18T17:02+01:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "GERN": {
-      "premiere": "2026-11-18T23:59+01:00",
-      "nom": "Geron Corporation"
+    "SVRA": {
+      "premiere": "2026-11-19T17:09+01:00",
+      "nom": "Savara, Inc."
     },
-    "IQ": {
-      "premiere": "2026-11-18T23:59+01:00",
-      "nom": "iQIYI, Inc."
+    "KRNT": {
+      "premiere": "2026-11-19T17:09+01:00",
+      "nom": "Kornit Digital Ltd."
     },
-    "MFP": {
-      "premiere": "2026-11-18T23:59+01:00",
-      "nom": "Midera Food Processing, Inc."
+    "INBX": {
+      "premiere": "2026-11-19T17:09+01:00",
+      "nom": "Inhibrx Biosciences, Inc."
+    },
+    "AESI": {
+      "premiere": "2026-11-19T17:09+01:00",
+      "nom": "Atlas Energy Solutions Inc."
+    },
+    "XTND": {
+      "premiere": "2026-11-19T17:09+01:00",
+      "nom": "Xtend AI Robotics, Inc."
+    },
+    "MAGN": {
+      "premiere": "2026-11-19T17:09+01:00",
+      "nom": "Magnera Corporation"
     }
   },
   "sorties": [
-    {
-      "symbole": "HAWK",
-      "date": "16/11/2026",
-      "nom": "HawkEye 360, Inc."
-    },
-    {
-      "symbole": "FRMI",
-      "date": "16/11/2026",
-      "nom": "Fermi Inc."
-    },
-    {
-      "symbole": "VIR",
-      "date": "16/11/2026",
-      "nom": "Vir Biotechnology, Inc."
-    },
-    {
-      "symbole": "FLO",
-      "date": "16/11/2026",
-      "nom": "Flowers Foods, Inc."
-    },
-    {
-      "symbole": "ENVX",
-      "date": "16/11/2026",
-      "nom": "Enovix Corporation"
-    },
-    {
-      "symbole": "UNIT",
-      "date": "16/11/2026",
-      "nom": "Uniti Group Inc."
-    },
     {
       "symbole": "XTND",
       "date": "17/11/2026",
@@ -191,6 +161,36 @@
       "symbole": "ABSI",
       "date": "18/11/2026",
       "nom": "Absci Corporation"
+    },
+    {
+      "symbole": "BRBR",
+      "date": "19/11/2026",
+      "nom": "BellRing Brands, Inc."
+    },
+    {
+      "symbole": "CSHR",
+      "date": "19/11/2026",
+      "nom": "CoinShares PLC"
+    },
+    {
+      "symbole": "FSLY",
+      "date": "19/11/2026",
+      "nom": "Fastly, Inc."
+    },
+    {
+      "symbole": "GERN",
+      "date": "19/11/2026",
+      "nom": "Geron Corporation"
+    },
+    {
+      "symbole": "IQ",
+      "date": "19/11/2026",
+      "nom": "iQIYI, Inc."
+    },
+    {
+      "symbole": "MFP",
+      "date": "19/11/2026",
+      "nom": "Midera Food Processing, Inc."
     }
   ]
 }
