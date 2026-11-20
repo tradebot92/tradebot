@@ -12,61 +12,36 @@
       "premiere": "2026-11-18T17:02+01:00",
       "nom": "Blackrock MuniYield New York Qu"
     },
-    "KRNT": {
-      "premiere": "2026-11-19T17:09+01:00",
-      "nom": "Kornit Digital Ltd."
-    },
     "UTZ": {
       "premiere": "2026-11-20T00:07+01:00",
       "nom": "Utz Brands Inc"
-    },
-    "IQ": {
-      "premiere": "2026-11-20T00:07+01:00",
-      "nom": "iQIYI, Inc."
-    },
-    "RXRX": {
-      "premiere": "2026-11-20T00:07+01:00",
-      "nom": "Recursion Pharmaceuticals, Inc."
     },
     "MPT": {
       "premiere": "2026-11-20T00:07+01:00",
       "nom": "Medical Properties Trust, Inc."
     },
-    "OPEN": {
-      "premiere": "2026-11-20T00:07+01:00",
-      "nom": "Opendoor Technologies Inc"
+    "SVRA": {
+      "premiere": "2026-11-20T16:49+01:00",
+      "nom": "Savara, Inc."
     },
-    "BRBR": {
-      "premiere": "2026-11-20T00:07+01:00",
-      "nom": "BellRing Brands, Inc."
+    "EVH": {
+      "premiere": "2026-11-20T16:49+01:00",
+      "nom": "Evolent Health, Inc"
+    },
+    "MLHK.PA": {
+      "premiere": "2026-11-20T16:49+01:00",
+      "nom": "HK"
+    },
+    "PICS": {
+      "premiere": "2026-11-20T16:49+01:00",
+      "nom": "PicS N.V."
+    },
+    "LIFE": {
+      "premiere": "2026-11-20T16:49+01:00",
+      "nom": "Ethos Technologies Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "ZIP",
-      "date": "17/11/2026",
-      "nom": "ZipRecruiter, Inc."
-    },
-    {
-      "symbole": "MPT",
-      "date": "17/11/2026",
-      "nom": "Medical Properties Trust, Inc."
-    },
-    {
-      "symbole": "PSEC",
-      "date": "17/11/2026",
-      "nom": "Prospect Capital Corporation"
-    },
-    {
-      "symbole": "IQ",
-      "date": "17/11/2026",
-      "nom": "iQIYI, Inc."
-    },
-    {
-      "symbole": "FRMI",
-      "date": "17/11/2026",
-      "nom": "Fermi Inc."
-    },
     {
       "symbole": "MYN",
       "date": "18/11/2026",
@@ -191,6 +166,31 @@
       "symbole": "MAGN",
       "date": "20/11/2026",
       "nom": "Magnera Corporation"
+    },
+    {
+      "symbole": "KRNT",
+      "date": "20/11/2026",
+      "nom": "Kornit Digital Ltd."
+    },
+    {
+      "symbole": "IQ",
+      "date": "20/11/2026",
+      "nom": "iQIYI, Inc."
+    },
+    {
+      "symbole": "RXRX",
+      "date": "20/11/2026",
+      "nom": "Recursion Pharmaceuticals, Inc."
+    },
+    {
+      "symbole": "OPEN",
+      "date": "20/11/2026",
+      "nom": "Opendoor Technologies Inc"
+    },
+    {
+      "symbole": "BRBR",
+      "date": "20/11/2026",
+      "nom": "BellRing Brands, Inc."
     }
   ]
 }
