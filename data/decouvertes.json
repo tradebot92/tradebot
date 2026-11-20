@@ -2,7 +2,7 @@
   "actuel": {
     "PCQ": {
       "premiere": "2026-11-09T09:11+01:00",
-      "nom": "PCQ"
+      "nom": "PIMCO California Municipal Inco"
     },
     "AXTI": {
       "premiere": "2026-11-12T16:40+01:00",
@@ -20,10 +20,6 @@
       "premiere": "2026-11-20T00:07+01:00",
       "nom": "Medical Properties Trust, Inc."
     },
-    "SVRA": {
-      "premiere": "2026-11-20T16:49+01:00",
-      "nom": "Savara, Inc."
-    },
     "EVH": {
       "premiere": "2026-11-20T16:49+01:00",
       "nom": "Evolent Health, Inc"
@@ -32,31 +28,20 @@
       "premiere": "2026-11-20T16:49+01:00",
       "nom": "HK"
     },
-    "PICS": {
-      "premiere": "2026-11-20T16:49+01:00",
-      "nom": "PicS N.V."
+    "BORR": {
+      "premiere": "2026-11-20T23:25+01:00",
+      "nom": "Borr Drilling Limited"
     },
-    "LIFE": {
-      "premiere": "2026-11-20T16:49+01:00",
-      "nom": "Ethos Technologies Inc."
+    "OPEN": {
+      "premiere": "2026-11-20T23:25+01:00",
+      "nom": "Opendoor Technologies Inc"
+    },
+    "DGICB": {
+      "premiere": "2026-11-20T23:25+01:00",
+      "nom": "Donegal Group, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "MYN",
-      "date": "18/11/2026",
-      "nom": "Blackrock MuniYield New York Qu"
-    },
-    {
-      "symbole": "LIFE",
-      "date": "18/11/2026",
-      "nom": "Ethos Technologies Inc."
-    },
-    {
-      "symbole": "CEPU",
-      "date": "18/11/2026",
-      "nom": "Central Puerto S.A."
-    },
     {
       "symbole": "INFQ",
       "date": "18/11/2026",
@@ -191,6 +176,21 @@
       "symbole": "BRBR",
       "date": "20/11/2026",
       "nom": "BellRing Brands, Inc."
+    },
+    {
+      "symbole": "SVRA",
+      "date": "20/11/2026",
+      "nom": "Savara, Inc."
+    },
+    {
+      "symbole": "PICS",
+      "date": "20/11/2026",
+      "nom": "PicS N.V."
+    },
+    {
+      "symbole": "LIFE",
+      "date": "20/11/2026",
+      "nom": "Ethos Technologies Inc."
     }
   ]
 }
