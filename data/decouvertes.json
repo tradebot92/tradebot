@@ -28,30 +28,20 @@
       "premiere": "2026-11-23T19:50+01:00",
       "nom": "KNOT Offshore Partners LP"
     },
-    "AIFU": {
-      "premiere": "2026-11-23T19:50+01:00",
-      "nom": "AIFU Inc."
-    },
     "IQ": {
       "premiere": "2026-11-23T19:50+01:00",
       "nom": "iQIYI, Inc."
     },
-    "CIFR": {
-      "premiere": "2026-11-23T19:50+01:00",
-      "nom": "Cipher Digital Inc."
+    "IMOS": {
+      "premiere": "2026-11-24T05:07+01:00",
+      "nom": "ChipMOS TECHNOLOGIES INC."
+    },
+    "BW": {
+      "premiere": "2026-11-24T05:07+01:00",
+      "nom": "Babcock & Wilcox Enterprises, I"
     }
   },
   "sorties": [
-    {
-      "symbole": "LUXE",
-      "date": "18/11/2026",
-      "nom": "LuxExperience B.V."
-    },
-    {
-      "symbole": "OPEN",
-      "date": "18/11/2026",
-      "nom": "Opendoor Technologies Inc"
-    },
     {
       "symbole": "HUYA",
       "date": "18/11/2026",
@@ -191,6 +181,16 @@
       "symbole": "DGICB",
       "date": "23/11/2026",
       "nom": "Donegal Group, Inc."
+    },
+    {
+      "symbole": "AIFU",
+      "date": "24/11/2026",
+      "nom": "AIFU Inc."
+    },
+    {
+      "symbole": "CIFR",
+      "date": "24/11/2026",
+      "nom": "Cipher Digital Inc."
     }
   ]
 }
