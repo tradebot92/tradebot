@@ -36,17 +36,12 @@
       "premiere": "2026-11-24T19:27+01:00",
       "nom": "Prelude Therapeutics Incorporat"
     },
-    "MPLT": {
-      "premiere": "2026-11-24T19:27+01:00",
-      "nom": "MapLight Therapeutics, Inc."
+    "VNET": {
+      "premiere": "2026-11-25T03:40+01:00",
+      "nom": "VNET Group, Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "IQ",
-      "date": "19/11/2026",
-      "nom": "iQIYI, Inc."
-    },
     {
       "symbole": "MFP",
       "date": "19/11/2026",
@@ -191,6 +186,11 @@
       "symbole": "BW",
       "date": "24/11/2026",
       "nom": "Babcock & Wilcox Enterprises, I"
+    },
+    {
+      "symbole": "MPLT",
+      "date": "25/11/2026",
+      "nom": "MapLight Therapeutics, Inc."
     }
   ]
 }
