@@ -2,7 +2,7 @@
   "actuel": {
     "PCQ": {
       "premiere": "2026-11-09T09:11+01:00",
-      "nom": "PIMCO California Municipal Inco"
+      "nom": "PCQ"
     },
     "AXTI": {
       "premiere": "2026-11-12T16:40+01:00",
@@ -16,57 +16,32 @@
       "premiere": "2026-11-20T00:07+01:00",
       "nom": "Utz Brands Inc"
     },
-    "CLARI.PA": {
-      "premiere": "2026-11-24T19:27+01:00",
-      "nom": "CLARIANE SE"
-    },
-    "LVWR": {
-      "premiere": "2026-11-24T19:27+01:00",
-      "nom": "LiveWire Group, Inc."
-    },
     "FLNC": {
       "premiere": "2026-11-24T19:27+01:00",
       "nom": "Fluence Energy, Inc."
     },
-    "EMBC": {
-      "premiere": "2026-11-24T19:27+01:00",
-      "nom": "Embecta Corp."
+    "AMBA": {
+      "premiere": "2026-11-25T18:41+01:00",
+      "nom": "Ambarella, Inc."
     },
-    "PRLD": {
-      "premiere": "2026-11-24T19:27+01:00",
-      "nom": "Prelude Therapeutics Incorporat"
+    "EVCM": {
+      "premiere": "2026-11-25T18:41+01:00",
+      "nom": "EverCommerce Inc."
     },
-    "VNET": {
-      "premiere": "2026-11-25T03:40+01:00",
-      "nom": "VNET Group, Inc."
+    "SIND": {
+      "premiere": "2026-11-25T18:41+01:00",
+      "nom": "Sinda Ltd."
+    },
+    "ACDC": {
+      "premiere": "2026-11-25T18:41+01:00",
+      "nom": "ProFrac Holding Corp."
+    },
+    "IQMX": {
+      "premiere": "2026-11-25T18:41+01:00",
+      "nom": "IQM Quantum Computers Oyj"
     }
   },
   "sorties": [
-    {
-      "symbole": "MFP",
-      "date": "19/11/2026",
-      "nom": "Midera Food Processing, Inc."
-    },
-    {
-      "symbole": "JMIA",
-      "date": "20/11/2026",
-      "nom": "Jumia Technologies AG"
-    },
-    {
-      "symbole": "SVRA",
-      "date": "20/11/2026",
-      "nom": "Savara, Inc."
-    },
-    {
-      "symbole": "INBX",
-      "date": "20/11/2026",
-      "nom": "Inhibrx Biosciences, Inc."
-    },
-    {
-      "symbole": "AESI",
-      "date": "20/11/2026",
-      "nom": "Atlas Energy Solutions Inc."
-    },
     {
       "symbole": "XTND",
       "date": "20/11/2026",
@@ -191,6 +166,31 @@
       "symbole": "MPLT",
       "date": "25/11/2026",
       "nom": "MapLight Therapeutics, Inc."
+    },
+    {
+      "symbole": "CLARI.PA",
+      "date": "25/11/2026",
+      "nom": "CLARIANE SE"
+    },
+    {
+      "symbole": "LVWR",
+      "date": "25/11/2026",
+      "nom": "LiveWire Group, Inc."
+    },
+    {
+      "symbole": "EMBC",
+      "date": "25/11/2026",
+      "nom": "Embecta Corp."
+    },
+    {
+      "symbole": "PRLD",
+      "date": "25/11/2026",
+      "nom": "Prelude Therapeutics Incorporat"
+    },
+    {
+      "symbole": "VNET",
+      "date": "25/11/2026",
+      "nom": "VNET Group, Inc."
     }
   ]
 }
