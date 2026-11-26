@@ -2,7 +2,7 @@
   "actuel": {
     "PCQ": {
       "premiere": "2026-11-09T09:11+01:00",
-      "nom": "PCQ"
+      "nom": "PIMCO California Municipal Inco"
     },
     "AXTI": {
       "premiere": "2026-11-12T16:40+01:00",
@@ -20,14 +20,6 @@
       "premiere": "2026-11-24T19:27+01:00",
       "nom": "Fluence Energy, Inc."
     },
-    "AMBA": {
-      "premiere": "2026-11-25T18:41+01:00",
-      "nom": "Ambarella, Inc."
-    },
-    "EVCM": {
-      "premiere": "2026-11-25T18:41+01:00",
-      "nom": "EverCommerce Inc."
-    },
     "SIND": {
       "premiere": "2026-11-25T18:41+01:00",
       "nom": "Sinda Ltd."
@@ -36,27 +28,16 @@
       "premiere": "2026-11-25T18:41+01:00",
       "nom": "ProFrac Holding Corp."
     },
-    "IQMX": {
-      "premiere": "2026-11-25T18:41+01:00",
-      "nom": "IQM Quantum Computers Oyj"
+    "OTLY": {
+      "premiere": "2026-11-26T02:16+01:00",
+      "nom": "Oatly Group AB"
+    },
+    "TMC": {
+      "premiere": "2026-11-26T02:16+01:00",
+      "nom": "TMC the metals company Inc."
     }
   },
   "sorties": [
-    {
-      "symbole": "XTND",
-      "date": "20/11/2026",
-      "nom": "Xtend AI Robotics, Inc."
-    },
-    {
-      "symbole": "MAGN",
-      "date": "20/11/2026",
-      "nom": "Magnera Corporation"
-    },
-    {
-      "symbole": "KRNT",
-      "date": "20/11/2026",
-      "nom": "Kornit Digital Ltd."
-    },
     {
       "symbole": "IQ",
       "date": "20/11/2026",
@@ -191,6 +172,21 @@
       "symbole": "VNET",
       "date": "25/11/2026",
       "nom": "VNET Group, Inc."
+    },
+    {
+      "symbole": "AMBA",
+      "date": "26/11/2026",
+      "nom": "Ambarella, Inc."
+    },
+    {
+      "symbole": "EVCM",
+      "date": "26/11/2026",
+      "nom": "EverCommerce Inc."
+    },
+    {
+      "symbole": "IQMX",
+      "date": "26/11/2026",
+      "nom": "IQM Quantum Computers Oyj"
     }
   ]
 }
