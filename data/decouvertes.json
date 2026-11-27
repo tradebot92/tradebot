@@ -2,7 +2,7 @@
   "actuel": {
     "PCQ": {
       "premiere": "2026-11-09T09:11+01:00",
-      "nom": "PIMCO California Municipal Inco"
+      "nom": "PCQ"
     },
     "AXTI": {
       "premiere": "2026-11-12T16:40+01:00",
@@ -16,53 +16,32 @@
       "premiere": "2026-11-20T00:07+01:00",
       "nom": "Utz Brands Inc"
     },
-    "FLNC": {
-      "premiere": "2026-11-24T19:27+01:00",
-      "nom": "Fluence Energy, Inc."
+    "LAES": {
+      "premiere": "2026-11-27T18:03+01:00",
+      "nom": "SEALSQ Corp"
     },
-    "SIND": {
-      "premiere": "2026-11-25T18:41+01:00",
-      "nom": "Sinda Ltd."
+    "DV": {
+      "premiere": "2026-11-27T18:03+01:00",
+      "nom": "DoubleVerify Holdings, Inc."
     },
-    "OTLY": {
-      "premiere": "2026-11-26T02:16+01:00",
-      "nom": "Oatly Group AB"
+    "TE": {
+      "premiere": "2026-11-27T18:03+01:00",
+      "nom": "T1 Energy Inc."
     },
-    "TMC": {
-      "premiere": "2026-11-26T02:16+01:00",
-      "nom": "TMC the metals company Inc."
+    "AFYA": {
+      "premiere": "2026-11-27T18:03+01:00",
+      "nom": "Afya Limited"
     },
-    "AL2SI.PA": {
-      "premiere": "2026-11-26T18:25+01:00",
-      "nom": "2CRSI"
+    "LBIRD.PA": {
+      "premiere": "2026-11-27T18:03+01:00",
+      "nom": "LUMIBIRD"
+    },
+    "SID": {
+      "premiere": "2026-11-27T18:03+01:00",
+      "nom": "Companhia Siderurgica Nacional "
     }
   },
   "sorties": [
-    {
-      "symbole": "RXRX",
-      "date": "20/11/2026",
-      "nom": "Recursion Pharmaceuticals, Inc."
-    },
-    {
-      "symbole": "OPEN",
-      "date": "20/11/2026",
-      "nom": "Opendoor Technologies Inc"
-    },
-    {
-      "symbole": "BRBR",
-      "date": "20/11/2026",
-      "nom": "BellRing Brands, Inc."
-    },
-    {
-      "symbole": "SVRA",
-      "date": "20/11/2026",
-      "nom": "Savara, Inc."
-    },
-    {
-      "symbole": "PICS",
-      "date": "20/11/2026",
-      "nom": "PicS N.V."
-    },
     {
       "symbole": "LIFE",
       "date": "20/11/2026",
@@ -187,6 +166,31 @@
       "symbole": "ACDC",
       "date": "26/11/2026",
       "nom": "ProFrac Holding Corp."
+    },
+    {
+      "symbole": "FLNC",
+      "date": "27/11/2026",
+      "nom": "Fluence Energy, Inc."
+    },
+    {
+      "symbole": "SIND",
+      "date": "27/11/2026",
+      "nom": "Sinda Ltd."
+    },
+    {
+      "symbole": "OTLY",
+      "date": "27/11/2026",
+      "nom": "Oatly Group AB"
+    },
+    {
+      "symbole": "TMC",
+      "date": "27/11/2026",
+      "nom": "TMC the metals company Inc."
+    },
+    {
+      "symbole": "AL2SI.PA",
+      "date": "27/11/2026",
+      "nom": "2CRSI"
     }
   ]
 }
