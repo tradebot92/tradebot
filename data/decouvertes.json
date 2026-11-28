@@ -2,7 +2,7 @@
   "actuel": {
     "PCQ": {
       "premiere": "2026-11-09T09:11+01:00",
-      "nom": "PCQ"
+      "nom": "PIMCO California Municipal Inco"
     },
     "AXTI": {
       "premiere": "2026-11-12T16:40+01:00",
@@ -11,10 +11,6 @@
     "MYN": {
       "premiere": "2026-11-18T17:02+01:00",
       "nom": "Blackrock MuniYield New York Qu"
-    },
-    "UTZ": {
-      "premiere": "2026-11-20T00:07+01:00",
-      "nom": "Utz Brands Inc"
     },
     "LAES": {
       "premiere": "2026-11-27T18:03+01:00",
@@ -39,14 +35,13 @@
     "SID": {
       "premiere": "2026-11-27T18:03+01:00",
       "nom": "Companhia Siderurgica Nacional "
+    },
+    "ZKH": {
+      "premiere": "2026-11-28T01:36+01:00",
+      "nom": "ZKH Group Limited"
     }
   },
   "sorties": [
-    {
-      "symbole": "LIFE",
-      "date": "20/11/2026",
-      "nom": "Ethos Technologies Inc."
-    },
     {
       "symbole": "MPT",
       "date": "23/11/2026",
@@ -191,6 +186,11 @@
       "symbole": "AL2SI.PA",
       "date": "27/11/2026",
       "nom": "2CRSI"
+    },
+    {
+      "symbole": "UTZ",
+      "date": "28/11/2026",
+      "nom": "Utz Brands Inc"
     }
   ]
 }
